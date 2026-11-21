@@ -1,0 +1,273 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:49:02.310846+00:00",
+  "state_filter": "TX",
+  "title_filter": "AI product manager",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "TX",
+    "title": "AI product manager",
+    "sort": "updated",
+    "limit": 25,
+    "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo0NTozMC44NTlaIiwiZmlsdGVyRGlnZXN0IjoiMWN5MjdqSFVaaTdhNzVoYXY1ODJRLVdpSmdPcl9BaWNIbk1YanFqeV83VSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTAyVDE0OjQ2OjEwLjQ3NjAwMFoiLCJqb2JJZCI6ImZiMjFjMTAxLWRiYTYtNGIyNi05ZTcxLTBiMjA3MjlhMTkxYSJ9fQ.Rc9bRMUPhZCEgs-rRgoLgB8ma2KjrGnqritoO6cGmWg"
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "ae293249-2df9-46b9-bf2c-e1c1b041909d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b5b7e409-b4fe-876b-afaf-31f0ccc42e0c",
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior AI Product manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "AI Product Manager\n\nLocation: Austin. TX\n\nWe are seeking a highly motivated and experienced AI Product Manager to lead the development and delivery of innovative AI-driven products. The ideal candidate will have a strong background in product management, a deep understanding of artificial intelligence technologies, and the ability to work cross-functionally to bring cutting-edge AI solutions to market.\n\nResponsibilities\n\n• Define and execute the product vision, strategy, and roadmap for AI-powered products.\n\n• Collaborate with data scientists, engineers, designers, and stakeholders to develop AI solutions that meet customer needs.\n\n• Conduct market research and competitive analysis to identify opportunities and trends in AI technology.\n\n• Translate complex AI concepts into clear product requirements and user stories.\n\n• Prioritize product features and manage the product backlog to ensure timely delivery.\n\n• Work closely with engineering teams to oversee product development and ensure quality and performance standards.\n\n• Monitor product performance and user feedback to continuously improve AI products.\n\n• Communicate product updates and strategy to internal teams and external stakeholders.\n\n• Stay up-to-date with the latest advancements in AI and machine learning technologies.\n\nQualifications\n\n• Bachelor’s degree in Computer Science, Engineering, Business, or a related field; advanced degree preferred.\n\n• 3+ years of product management experience, preferably with AI or machine learning products.\n\n• Strong understanding of AI technologies, including machine learning, natural language processing, and computer vision.\n\n• Proven ability to manage complex projects and deliver products on time.\n\n• Excellent communication and interpersonal skills.\n\n• Experience working in agile development environments.\n\n• Analytical mindset with strong problem-solving skills.\n\n• Passion for innovation and emerging technologies.\n\nHow to Apply\n\nIf you are excited about shaping the future of AI products and have the skills and experience we are looking for, please submit your resume and cover letter to careers@example.com .\n\n```"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Austin",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48453",
+              "msa": {
+                "cbsa_code": "12420",
+                "cbsa_title": "Austin-Round Rock-San Marcos, TX",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-30T02:56:40.177Z",
+        "curated_at": "2026-10-03T08:41:13.023Z",
+        "job_updated_at": "2026-11-02T14:46:03.331Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "QJ-13"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "4d1ba1cce39544470bb1a06df98d4c594d116d7ebc9112c180b76ef4c4823581",
+            "source": "paycor",
+            "source_posting_id": "8a78839f9eb34c4a019eba216f310c15",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d07acff70f017ad01dafc00000&id=8a78839f9eb34c4a019eba216f310c15"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d07acff70f017ad01dafc00000&id=8a78839f9eb34c4a019eba216f310c15"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Austin",
+                "state": "TX",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": null,
+            "first_seen_at": "2026-09-30T02:56:40.177Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "831efd37-f4ee-4514-a7c9-2eb7d91aa5fe",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b5b7e409-b4fe-876b-afaf-31f0ccc42e0c",
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior AI Product manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "AI Product Manager\n\nLocation: Austin. TX\n\nWe are seeking a highly motivated and experienced AI Product Manager to lead the development and delivery of innovative AI-driven products. The ideal candidate will have a strong background in product management, a deep understanding of artificial intelligence technologies, and the ability to work cross-functionally to bring cutting-edge AI solutions to market.\n\nResponsibilities\n\n• Define and execute the product vision, strategy, and roadmap for AI-powered products.\n\n• Collaborate with data scientists, engineers, designers, and stakeholders to develop AI solutions that meet customer needs.\n\n• Conduct market research and competitive analysis to identify opportunities and trends in AI technology.\n\n• Translate complex AI concepts into clear product requirements and user stories.\n\n• Prioritize product features and manage the product backlog to ensure timely delivery.\n\n• Work closely with engineering teams to oversee product development and ensure quality and performance standards.\n\n• Monitor product performance and user feedback to continuously improve AI products.\n\n• Communicate product updates and strategy to internal teams and external stakeholders.\n\n• Stay up-to-date with the latest advancements in AI and machine learning technologies.\n\nQualifications\n\n• Bachelor’s degree in Computer Science, Engineering, Business, or a related field; advanced degree preferred.\n\n• 3+ years of product management experience, preferably with AI or machine learning products.\n\n• Strong understanding of AI technologies, including machine learning, natural language processing, and computer vision.\n\n• Proven ability to manage complex projects and deliver products on time.\n\n• Excellent communication and interpersonal skills.\n\n• Experience working in agile development environments.\n\n• Analytical mindset with strong problem-solving skills.\n\n• Passion for innovation and emerging technologies.\n\nHow to Apply\n\nIf you are excited about shaping the future of AI products and have the skills and experience we are looking for, please submit your resume and cover letter to careers@example.com .\n\n```"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Austin",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48453",
+              "msa": {
+                "cbsa_code": "12420",
+                "cbsa_title": "Austin-Round Rock-San Marcos, TX",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-30T02:56:40.177Z",
+        "curated_at": "2026-10-03T07:11:00.080Z",
+        "job_updated_at": "2026-11-02T14:45:58.260Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "QJ-13"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "f828cc03bef39a8839b3b4005b280c8519a321cc848786c73fca1f6afc216737",
+            "source": "paycor",
+            "source_posting_id": "8a78839f9db1e847019dd8d5eef6221f",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d07acff70f017ad01dafc00000&id=8a78839f9db1e847019dd8d5eef6221f"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d07acff70f017ad01dafc00000&id=8a78839f9db1e847019dd8d5eef6221f"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Austin",
+                "state": "TX",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": null,
+            "first_seen_at": "2026-09-30T02:56:40.177Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "0967124a-bf0d-4765-93d0-62eb03cf9536",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b5b7e409-b4fe-876b-afaf-31f0ccc42e0c",
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior AI Product manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "AI Product Manager\n\nLocation: Austin. TX\n\nWe are seeking a highly motivated and experienced AI Product Manager to lead the development and delivery of innovative AI-driven products. The ideal candidate will have a strong background in product management, a deep understanding of artificial intelligence technologies, and the ability to work cross-functionally to bring cutting-edge AI solutions to market.\n\nResponsibilities\n\n• Define and execute the product vision, strategy, and roadmap for AI-powered products.\n\n• Collaborate with data scientists, engineers, designers, and stakeholders to develop AI solutions that meet customer needs.\n\n• Conduct market research and competitive analysis to identify opportunities and trends in AI technology.\n\n• Translate complex AI concepts into clear product requirements and user stories.\n\n• Prioritize product features and manage the product backlog to ensure timely delivery.\n\n• Work closely with engineering teams to oversee product development and ensure quality and performance standards.\n\n• Monitor product performance and user feedback to continuously improve AI products.\n\n• Communicate product updates and strategy to internal teams and external stakeholders.\n\n• Stay up-to-date with the latest advancements in AI and machine learning technologies.\n\nQualifications\n\n• Bachelor’s degree in Computer Science, Engineering, Business, or a related field; advanced degree preferred.\n\n• 3+ years of product management experience, preferably with AI or machine learning products.\n\n• Strong understanding of AI technologies, including machine learning, natural language processing, and computer vision.\n\n• Proven ability to manage complex projects and deliver products on time.\n\n• Excellent communication and interpersonal skills.\n\n• Experience working in agile development environments.\n\n• Analytical mindset with strong problem-solving skills.\n\n• Passion for innovation and emerging technologies.\n\nHow to Apply\n\nIf you are excited about shaping the future of AI products and have the skills and experience we are looking for, please submit your resume and cover letter to careers@example.com .\n\n```"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Austin",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48453",
+              "msa": {
+                "cbsa_code": "12420",
+                "cbsa_title": "Austin-Round Rock-San Marcos, TX",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-30T02:56:40.177Z",
+        "curated_at": "2026-10-03T00:26:07.508Z",
+        "job_updated_at": "2026-11-02T14:45:44.763Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "QJ-13"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "466a7fcad25e4cd745eefbc0deed5e951f5e58bc4f67cfbe0d361401f5d6194e",
+            "source": "paycor",
+            "source_posting_id": "8a7887ac9e2359d7019e3f70ec9670bf",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d07acff70f017ad01dafc00000&id=8a7887ac9e2359d7019e3f70ec9670bf"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d07acff70f017ad01dafc00000&id=8a7887ac9e2359d7019e3f70ec9670bf"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Austin",
+                "state": "TX",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": null,
+            "first_seen_at": "2026-09-30T02:56:40.177Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 29,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:49:00.952Z"
+  },
+  "response_usage": {
+    "charged": "3",
+    "remaining": "97447",
+    "request_id": "36364e80-94f5-4a08-b465-3fadab98bc14"
+  }
+}

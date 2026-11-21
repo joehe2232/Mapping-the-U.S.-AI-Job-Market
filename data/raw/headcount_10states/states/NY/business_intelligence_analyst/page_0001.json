@@ -1,0 +1,1615 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:44:44.387979+00:00",
+  "state_filter": "NY",
+  "title_filter": "business intelligence analyst",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "NY",
+    "title": "business intelligence analyst",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "18abc22c-2904-4951-91cc-6802865477d2",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "2de59920-aaac-8b60-b2c8-23751034bac2",
+        "employer_name": {
+          "state": "known",
+          "value": "CrossCountry Consulting"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "CrossCountry Consulting is the transformation partner for the Office of the CFO. As a trusted advisor to Fortune 500 companies, emerging growth market leaders, and private equity sponsors, we combine deep domain expertise with the power of data, AI, and technology to modernize workflows, drive human-centered change, and maximize transaction value. Grounded in our Core Values, we are committed to solving today's most complex challenges while delivering a better experience for our clients, our people, and our communities. When you join CrossCountry, you become part of a team that believes in collaboration, generosity, and the drive to help our clients work smarter, build resiliency, and prepare for the future.\n\nWe’re building a modern enterprise data warehouse on Snowflake and need a BI Analyst who works directly with the business to turn data into decisions. You’ll partner with stakeholders to scope their reporting needs, build dashboards, and teach teams how to use them. This role is as much about relationships and enablement as it is about building.\n\nWhat You'll Do:\nPartner with stakeholders across finance, sales, and operations to understand their goals and translate them into clear requirements and KPIs\n\nScope dashboard projects: define success criteria, prioritize requests, set timelines, and manage expectations\n\nBuild, publish, and maintain dashboards and reports in Power BI (or Tableau) that are accurate , intuitive, and actionable\n\nWrite SQL against Snowflake to explore data, validate results, and support ad hoc analysis\n\nWork with Data Engineering to shape the semantic layer and data models, define KPI and calculation logic, flag data quality issues, and improve report performance and Snowflake costs\n\nBuild the business definitions and synonyms that help AI tools (like Snowflake Cortex Analyst or Power BI Copilot) answer questions correctly\n\nTest AI-generated reports and text-to-SQL results against known-correct answers before they go live\n\nRun training sessions, workshops, and office hours that build self-service skills across the business\n\nCreate user guides, metric definitions, and walkthroughs so business users can trust and navigate the data\n\nGather feedback after launch, track adoption, and iterate on dashboards\n\nWhat You'll Bring:\n5+ years in business intelligence, analytics, FP&A, or a similar role\n\nStrong dashboarding skills in Power BI, Tableau, or a comparable BI tool\n\nWorking SQL proficiency (joins, aggregations, CTEs, basic window functions)\n\nDemonstrated ability to run requirements-gathering conversations and turn vague asks into scoped deliverables\n\nHands-on use of AI tools in analytical work, with the judgment to evaluate output quality and spot unsupported answers.\n\nExperience facilitating trainings , workshops, or demos for non-technical audiences\n\nExcellent written and verbal communication, with the ability to explain data clearly\n\nStrong attention to detail and a habit of validating numbers before sharing them\n\nPreferred Qualifications:\nExperience with Snowflake or another cloud data warehouse\n\nFamiliarity with DAX and dimensional modeling concepts\n\nExperience writing business definitions, synonyms, or test cases for AI-driven or natural-language analytics tools.\n\nBackground in finance, FP&A, or sales operations\n\nExposure to dbt , Fivetran , or modern data stack tools\n\nExperience building a data community or champions program\n\nBachelor’s degree in Finance , Business, IT, Analytics, or a related field (or equivalent experience)\n\nCrossCountry Consulting is required to include an estimate of the compensation range for this role. The following range takes into account a wide range of factors including but not limited to, skills, experience, education, licenses, certifications, business needs, and internal equity. An estimate of the current range is $120,000 - $175,000 per year + annual bonus + additional benefits.\n\n#LI-AJ1\n\nBenefits Summary\n\nThe CrossCountry total rewards package includes comprehensive healthcare options, including medical, dental, and vision coverage; flexible spending accounts; and a 401(k) with company matching. Additionally, employees can take advantage of generous parental and maternity leave policies, technology stipends, and wellness reimbursement programs, all designed to support both professional growth and personal well-being. For detailed information about benefits at CrossCountry, please visit our dedicated benefits site: https://www.crosscountry-consulting.com/careers/benefits/ .\n\nEqual Employment Opportunity (EEO)\n\nCrossCountry provides equal employment opportunities (EEO) to all employees and applicants for employment and believes that respect and fair treatment are critical to creating a productive and inclusive workplace.\n\nAs an equal opportunity employer, CrossCountry is fully committed to comply with all federal, state, and local laws and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability, pregnancy, genetics, sexual orientation, veteran status, gender identity or expression or any other protected characteristic. The company also complies with pay transparency and labor laws applicable to all terms and conditions of employment."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "McLean",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-07T15:24:48.993Z",
+        "curated_at": "2026-11-19T13:26:36.610Z",
+        "job_updated_at": "2026-11-19T13:26:36.610Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12000000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "881ef95462c729f083003beb0154245f4c61776eac1ab6ec58847d3cd2a82bd9",
+            "source": "lever",
+            "source_posting_id": "b043ecd7-c72b-43b3-997e-bd787e7f7930",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "McLean",
+                "state": "VA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "McLean",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "McLean, VA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "Boston",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Boston, MA"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Chicago, IL"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Dallas, TX"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 120000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-05T21:33:29.429Z",
+            "first_seen_at": "2026-11-07T15:24:48.993Z",
+            "last_completed_fetch_at": "2026-11-19T13:16:42.289Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "782c06bc-fedb-4107-b9b4-a6118f5f1dc2",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "58e7360f-d8e8-8900-becc-adadeac620f9",
+        "employer_name": {
+          "state": "known",
+          "value": "Gusto, Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead CX Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "* * *\n\n**About Gusto**\n\nAt Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.\n\nAll full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our [Total Rewards philosophy](https://gusto.com/about/careers/total-rewards).\n\nAI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.\n\n**About the Role:**\n\nGusto's Customer Experience team is changing how we serve small businesses: new service models, a telephony platform migration, and the data infrastructure to support both. We are hiring a Business Intelligence Analyst to own the data layer that makes this work.\n\nYou will work directly with CX leaders to identify and scope priorities, own the foundation of pipelines, data models, and dashboards that make CX data trustworthy, and use that foundation to answer causal questions about what actually moves customer outcomes. The strongest candidates pair real coding and statistical depth with the judgment to know which question is worth answering.\n\n**About the Team:**\n\nCX Data and Insights is the analytical backbone of Gusto's Customer Experience organization. We define the metrics CX leaders run the business on, and we produce the analysis that shapes operational roadmap decisions.\n\n**Here’s what you’ll do day-to-day:**\n\n* **Lead:** Own ambiguous problems, design analysis and measurement frameworks, and introduce policies and practices by which data integrity is monitored and enforced within your domain.\n* **Execution:** Deliver multiple high-impact projects, balancing trade-offs to maximize business value, and maintain clear expectations of deliverables and timelines.\n* **Strategic Partnership:** Partner with CX leaders, cross-function data-science teams, tool developers (i.e. Salesforce), and data engineering to align on strategy.\n* **Analytical Rigor:** Apply advanced statistical methods and AI-driven anomaly detection to proactively uncover opportunities, diagnose performance issues, and shape CX strategy, separating signal from noise. Navigate messy, conflicting data sources to establish reliable sources of truth. Use AI to accelerate hypothesis generation, code drafting, cross-source reconciliation, validation, and build agents to automate repetitive tasks.\n* **Develop and scale reporting:** Define DBT and Snowflake data pipeline requirements for evolving CX data sources, build and maintain monitoring systems, and streamline dashboards for day-to-day operation and self-serve insights.\n* **Independence:** Independently determines analytical research, metrics and/or data products to achieve annual objectives, and proactively resolving conflicts or misalignment across stakeholders.\n* **Scale the Craft:** Up-level the team’s best practices in data modeling and schema design, expand our toolsets (e.g., Databricks for AI-augmented modeling and anomaly detection) where they accelerate CX outcomes, drive improvements in data quality, rigor, and adoption of better data capabilities, and mentor other data practitioners.\n* **Communication:** Present complex findings in a structured, compelling way to technical and non-technical stakeholders, fostering a data-informed mindset across the company.\n\n**Here’s what we're looking for:**\n\n* 5+ years of experience in Data Analytics, Data Engineering, or Data Governance.\n* Strong SQL and Python proficiency, capable of querying and analyzing large datasets with ease.\n* Strong foundation in data modeling, schema design, and data quality best practices, with functional experience working on cloud platforms like Snowflake.\n* Proven experience building and maintaining robust data reporting pipelines and ETL workflows.\n* Demonstrated experience designing or operating governance for AI-assisted analytics outputs. At minimum: validation standards for AI-generated code and metric definitions, drift and source-of-truth audits on dashboards that feed operational decisions, and documented rules for when human review is non-negotiable on performance-adjacent data products. Comfort working inside an organization's AI use policy.\n* Clear, direct communication style. You can explain a complex data investigation to a non-technical stakeholder in 1-2 sentences before diving into the details.\n* Comfortable working independently, managing competing priorities, and driving projects forward without waiting for perfect requirements.\n* Frequent, practical use of AI in analytics workflows with concrete examples (not aspirational interest). You can describe specific ways AI has changed how you scaffold pipelines, write and review code, validate data, or generate documentation, and you know where human verification is non-negotiable.\n\nOur cash compensation amount for this role is $132,210/yr to $165,263/yr in Denver, $160,000/yr to $200,000/yr for New York. Final offer amounts are determined by multiple factors including candidate location, experience and expertise and may vary from the amounts listed above.\n\n* * *\n\nAt Gusto, we don't use titles the traditional way, as a signal of rank or hierarchy. Instead, our titles describe two things at once — your craft (what you do, e.g. Engineering, Design) and your scope of ownership (what you're accountable for) — which is why you'll see something like \"Head of X\" instead of a rank word like \"Director\" that tells you neither. Because of this, the title on this posting may look different from what you'd expect based on the scope and seniority of the role, and from how similar roles are typically titled elsewhere. If you have questions about how this role compares to your current title or level, your recruiter can help translate.\n\n* * *\n\nGusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gusto's subsidiary, whose physical office is in Scottsdale.\n\nNote: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas.\n\nWhen approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required. This includes non-office days for hybrid employees.\n\n**Reliable, consistent presence:** We expect regular and predictable attendance, whether you're working in-office, hybrid, or fully remote, so that you stay closely connected to your team, customers, and stakeholders in real time and ensure colleagues and customers receive the timely support and responsiveness they deserve.\n\n* * *\n\nOur customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it's the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto.\n\nGusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. We want to see our candidates perform to the best of their ability. If you require a medical or religious accommodation at any time throughout your candidate journey, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdEfl7Bp-Twz7LLlhGlha46CrxZ9Kacgakmarf3K2TbnaEgKQ/viewform) and a member of our team will get in touch with you.\n\nGusto takes security and protection of your personal information very seriously. Please review our [Fraudulent Activity Disclaimer](https://gusto.com/about/careers/fraudulent-activity-disclaimer).\n\nPersonal information collected and processed as part of your Gusto application will be subject to [Gusto's Applicant Privacy Notice](https://gusto.com/about/careers/applicant-privacy-notice).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Denver",
+              "region": "US-CO",
+              "country": "US",
+              "county_fips": "08031",
+              "msa": {
+                "cbsa_code": "19740",
+                "cbsa_title": "Denver-Aurora-Centennial, CO",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-11T08:08:23.072Z",
+        "curated_at": "2026-11-12T18:39:05.750Z",
+        "job_updated_at": "2026-11-19T11:51:10.480Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 13221000,
+                "max_cents": 16526300,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "37e03e02486d839fdc74533ac9db37db79dbdf67c25e376c0ecd9b2dd680e41a",
+            "source": "greenhouse",
+            "source_posting_id": "8263050",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/gusto/jobs/8263050"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/gusto/jobs/8263050"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Denver",
+                "state": "CO",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 132210,
+                "max": 165263,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-10T21:37:35.000Z",
+            "first_seen_at": "2026-11-11T08:08:23.072Z",
+            "last_completed_fetch_at": "2026-11-19T11:51:01.639Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "ab1f8f19-5311-4c2b-8cab-a57ec78d67de",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "318e05e4-daca-8317-bb21-1187d8336cef",
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Associate - Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Location Designation:\n\nAbout New York Life Investment Management\n\nWith over $800 billion in assets under management, NYLIM is a Pensions & Investments ' Top 30 Largest Money Manager and one of the largest global asset managers serving institutional, retail and insurance clients. NYLIM brings together the firm’s global investment teams under one unified brand, combining specialized expertise with the strength and stability of New York Life.\n\nOur platform is built on disciplined active management, deep investment capabilities and a long-term partnership approach designed to deliver enduring value across market cycles and help clients navigate the next era of investing.\n\nMore powerful, together, we combine the agility of specialized investment teams with the scale and longevity of a leading mutual institution.\nSenior Associate – Business Intelligence Analyst\n\nRole Overview\n\nWe are seeking a highly qualified and motivated candidate to join the Institutional Intelligence team within New York Life Investment Management’s Business Intelligence & Data Analytics Group . This role will support our Private Fixed Income team within New York Life Investment Management and play a pivotal part in enhancing the tools, reporting, and workflows that support the evaluation and monitoring of a portfolio of privately placed, investment-grade securities, including corporate, infrastructure, and private ABS transactions.\n\nThis position offers a dynamic opportunity to expand a business and technology professional's expertise within the investment management industry, working in a results-oriented environment while cultivating meaningful relationships across investment, operations, and technology teams.\n\nWhat You'll Do\n\nAs a Senior Associate supporting our Private Fixed Income investment teams, your primary focus will be to lead our partnership with investment professionals and technology stakeholders to enhance the platforms, reporting capabilities, and business processes supporting investment activities. Your key responsibilities will include, but are not limited to:\n\nInvestment Process Support & Business Analysis\n\n• Partner with investment professionals to support origination, underwriting, and portfolio management workflows across private investment-grade transactions.\n\n• Gather business requirements and translate investment team needs into scalable reporting, dashboards, and technology solutions.\n\n• Assist in developing tools, templates, and analyses that support underwriting, credit monitoring, portfolio surveillance, and investment committee materials.\n\nPlatform Management & Reporting\n\n• Own and maintain the deal/portfolio management platforms used to track investments pipeline and portfolio activity across PFI and ABF.\n\n• Build dashboards, reports, and workflows that support credit monitoring, deal tracking, and investment committee materials, reducing manual data gathering for portfolio managers and analysts.\n\n• Support the rollout and adoption of AI-enabled tools for credit memo drafting, covenant monitoring, and portfolio reporting.\n\n• Act as the primary liaison between the Investments team and Operations/IT on platform enhancements, data integration, and systems issues affecting investment workflows.\n\nThis role offers the opportunity to make a meaningful impact by empowering our investment professionals with the technology platforms, reporting capabilities, and streamlined processes needed to enhance investment decision-making and operational effectiveness.\n\nRequired Skills\n\n• Bachelor's degree or equivalent in Business Administration, Finance, Information Systems, Computer Science, or a related field.\n\n• 5+ years of relevant experience in a business analyst, technology, platform management, or business process improvement role within the financial services or investment management industry.\n\n• Strong business analysis and problem-solving skills , with demonstrated experience gathering requirements, evaluating business processes, and translating stakeholder needs into effective solutions.\n\n• Hands-on experience supporting business-critical systems and analytical platforms , preferably within an investment management environment.\n\n• Working knowledge of SQL, Python and Excel , with the ability to analyze datasets, support reporting requirements, and collaborate with technical teams on data-related initiatives.\n\n• Excellent interpersonal and communication skills , with the ability to interact effectively with investment professionals, Operations, IT, and stakeholders across various levels of the organization.\n\n• Self-starter with a strong sense of urgency , accountability, and personal responsibility, capable of independently identifying challenges and driving solutions.\n\nPreferred Skills\n\n• Experience working with investment management platforms (RiskSpan, dv01) supporting private fixed income, private credit, asset-backed finance, or portfolio management.\n\n• Experience developing or maintaining dashboards using Tableau, Power BI, or similar business intelligence tools.\n\n• Experience working with Snowflake\n\n• Python skills for reporting automation, data manipulation, and workflow optimization.\n\n• Experience supporting API integrations, data migrations, and system implementation initiatives.\n\n• Familiarity with AI-enabled tools and their application to investment workflows, credit monitoring, and reporting automation.\n\nJob Level:\n\nPay Transparency\n\nSalary Range:\n\nOvertime eligible:\n\nDiscretionary bonus eligible:\n\nSales bonus eligible:\n\nActual base salary will be determined based on several factors but not limited to individual’s experience, skills, qualifications, and job location. Additionally, employees are eligible for an annual discretionary bonus. In addition to base salary, employees may also be eligible to participate in an incentive program.\n\nOur Benefits\n\nWe provide a full package of benefits for employees – and have unique offerings for a modern workforce, including leave programs, adoption assistance, and student loan repayment programs. Based on feedback from our employees, we continue to refine and add benefits to our offering, so that you can flourish both inside and outside of work. Click here to discover more about our comprehensive benefit options or visit our NYL Benefits Site .\n\nOur Commitment to Inclusion\n\nAt New York Life, fostering an inclusive workplace is fundamental to who we are and how we serve our communities. We have a longstanding commitment to creating an environment where individuals can contribute their best and succeed together. This foundation is rooted in our core values of humanity and integrity, ensuring that every employee feels valued and supported. By embracing a broad range of perspectives and experiences, we achieve greater success and fulfill our promise of providing financial security and peace of mind to families across all communities. Click here to learn more about New York Life’s leadership in this space.\n\nRecognized as one of Fortune’s World’s Most Admired Companies, New York Life is committed to improving local communities through a culture of employee giving and volunteerism, supported by the Foundation . We're proud that due to our mutuality, we operate in the best interests of our policy owners. To learn more about career opportunities at New York Life, please visit the Careers page of www.NewYorkLife.com .\n\nJob Requisition ID: 94770"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-30T02:48:08.085Z",
+        "curated_at": "2026-11-18T20:53:42.780Z",
+        "job_updated_at": "2026-11-18T20:53:42.780Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "QJ-13"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "d20c10bee760686706ff6b4d7522bc32878e44df1866515775e05b0bcb7a4041",
+            "source": "successfactors",
+            "source_posting_id": "94770",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://career8.successfactors.com/career?company=NYLPRD&career_ns=job_listing&career_job_req_id=94770"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://career8.successfactors.com/career?company=NYLPRD&career_ns=job_listing&career_job_req_id=94770"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "NY",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-05T00:00:00.000Z",
+            "first_seen_at": "2026-09-30T02:48:08.085Z",
+            "last_completed_fetch_at": "2026-11-18T20:49:26.256Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "ed132be3-8825-43c6-b3dc-dbb114a05c80",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "0f9eff6c-79e9-8eca-9628-7db230dbb00a",
+        "employer_name": {
+          "state": "known",
+          "value": "HealtheConnections"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "**Who:** HealtheConnections, a respected national leader in providing health information exchange (HIE) services for NYS-based organizations.\n\n**What:** We’re looking for a Senior Business Intelligence Analyst to turn customer and business data into meaningful insights that support decision-making, improve operations, and strengthen customer engagement.\n\nYou’ll partner with internal teams to develop reports, dashboards, analytics, CRM solutions, and business application improvements. This role is ideal for someone who enjoys working with complex data, understanding business needs, and turning them into practical, user-friendly solutions.\n\n**Why:** Data is central to how we serve our customers and operate effectively. This role will work with a variety of data, including customer, ticketing, system usage, and market data**.**\n\n**What You’ll Spend Your Time Doing**\n\n* 35% Reporting & Analytics: Build reports and dashboards, analyze data, identify trends, and provide insights.\n* 15%  CRM & Business Applications: Configure and improve Salesforce/CRM reporting, dashboards, workflows, and related solutions.\n* 10% Business Partnership: Work with internal teams to understand needs and translate them into practical data and reporting solutions.\n* 10% Data Quality: Identify and resolve data and reporting issues to ensure information is accurate and reliable.\n* 10% Process Improvement: Identify opportunities to improve reporting, automation, processes, and user experience.\n* 10% Data Management & Excel: Work with complex datasets and use Excel and other tools to organize and present information.\n* 10%  Documentation, Research & Support: Document solutions, evaluate new capabilities, and support ongoing improvements.\n\n**Competencies & Experience**\n\n* Bachelor’s degree in business, information systems, computer science, data analytics, or a related field preferred; equivalent professional experience considered.\n* Experience in business intelligence, data analytics, reporting, CRM administration, business applications, or a related field.\n* Experience with the primary responsibilities listed above.\n* Advanced Microsoft Excel skills and experience working with complex data sets.\n* Strong analytical and critical-thinking skills.\n* Ability to work independently, manage competing priorities, and take ownership of projects and solutions.\n* Strong written and verbal communication skills.\n* SQL and Tableau experience strongly preferred.\n* Salesforce experience strongly preferred.\n\nNot sure you meet all qualifications? Research shows that women and members of other underrepresented groups tend not to apply to jobs when they think they may not meet every qualification, when, in fact, they do! We are committed to creating a diverse and inclusive environment and strongly encourage you to apply.\n\n*It is important to HealtheConnections that the hiring process is driven by humans. Artificial intelligence (AI) tools do not determine which candidates HealtheConnections chooses to interview or hire.*\n\n***You’re a great fit for us if you’re good at…***\n\n* **Turning data into insights.** You enjoy taking complex or disconnected information and finding the story or opportunity within it.\n* **Solving problems.** You approach challenges analytically and look for practical solutions rather than simply identifying problems.\n* **Understanding people and processes.** You can listen to what someone needs, understand the underlying business problem, and translate it into a useful solution.\n* **Communicating clearly**. You can explain data, reporting, technical concepts, and recommendations in a way that makes sense to both technical and non-technical audiences.\n* **Paying attention to the details**. You understand that reliable reporting starts with accurate, well-managed data.\n\n***We’re a great fit for you if you’re looking for…***\n\n* **A high-performance, high-energy, collaborative environment.** One of the best things about working here is our team. They’re smart, supportive, passionate, and among the best in the business.\n* **A dynamic industry.** Health information exchange has exciting opportunities on the horizon as the healthcare industry evolves, both within NYS and on the national stage.\n* **Strong benefits.** We cover the cost of medical insurance for employees along with a full suite of benefits, including 401k matching, generous vacation/holiday time, unlimited sick time, flexibility in work hours and hybrid/remote work, and more.\n* **Work that makes a difference in your community.** We’re proud to make an impact on the daily lives of health professionals and support improved health outcomes for individuals right here in New York State.\n\nWe like to say that we’re “casually competent” – we’re not pretentious, but we know our stuff. Our people are talented, our culture is vibrant, and our work is at the top of its class. Even better, our customers genuinely like working with us, and we’ve seen firsthand how what we do has made a positive impact on our community.\n\n$70,000-$90,000 is the lowest to highest salary that we in good faith believe we would pay for this role at the time of this posting. We may ultimately pay more or less than the posted range, and the range may be modified in the future. An employee’s pay position within the salary range will be based on several factors including, but not limited to, the prevailing minimum wage for the location, relevant education, qualifications, certifications, experience, skills, and seniority.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Syracuse",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36067",
+              "msa": {
+                "cbsa_code": "45060",
+                "cbsa_title": "Syracuse, NY",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-09T15:10:27.805Z",
+        "curated_at": "2026-11-12T15:17:31.679Z",
+        "job_updated_at": "2026-11-18T19:57:00.077Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 7000000,
+                "max_cents": 9000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "271d152c9fa32ddc838d9bad77c9df4388f46fc0158d7b38ce22af00b232ee63",
+            "source": "greenhouse",
+            "source_posting_id": "5446426008",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.healtheconnections.org/jobs/?gh_jid=5446426008"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.healtheconnections.org/jobs/?gh_jid=5446426008"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Syracuse",
+                "state": "NY",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 70000,
+                "max": 90000,
+                "currency": "USD",
+                "interval": "unknown"
+              }
+            },
+            "source_posted_at": "2026-10-07T14:15:22.000Z",
+            "first_seen_at": "2026-10-09T15:10:27.805Z",
+            "last_completed_fetch_at": "2026-11-18T19:56:21.434Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "075f1de7-960f-4e70-bc5b-09d5499e8e5d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "a8bc5de7-7419-8136-881a-fcb2b461c7d6",
+        "employer_name": {
+          "state": "known",
+          "value": "WSA Americas"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst / BI Developer"
+        },
+        "description": {
+          "state": "known",
+          "value": "WSA – Wonderful Sound for All is a global leader in the hearing aid industry. Together with our 12,000 colleagues in 130 countries, we invite you to help unlock human potential by bringing back hearing for millions of people around the world. Our portfolio of technologies spans the full spectrum of hearing care, from distinct hearing brands and digital platforms to managed care, hearing centers and diagnostics locations.\n\nPosition Overview:\nWe are looking for a proactive, hands-on Senior Business Intelligence Analyst / BI Developer who loves navigating data and turning it into dashboards that people actually use. Reporting to the Director, Sales Operations, you will own the build-out and quality of our Power BI and Salesforce CRM Analytics (CRMA) reporting for the WSA USA business.\n\nYou are the kind of Senior Analyst who doesn't wait to be asked. You dig into the data, spot what's off or missing, and come back with a fix and a better way of doing it. You are comfortable moving between Salesforce, our ERP and data warehouse, and Excel, and you use AI tools every day to work faster and smarter. If you want to be the go-to person for \"what does the data say?\" in a growing commercial organization, this role is for you.\n\nPosition Details:\n\n• Job Type: Permanent, full-time\n\n• Department: Finance\n\n• Location: Iselin, New Jersey or Hauppauge, New York Office\n\n• Working Model: Hybrid\n\n• Base range - $100,000 - $135,000.00\n\n• Total Rewards Package: comprehensive benefits package, 401k matching program, tuition reimbursement & continuous learning programs, employee and family discount programs, generous PTO programs\n\nWhat you'll be responsible for:\nDashboards & Insights\n\n• Design, build, and maintain Power BI and CRMA dashboards that give sales, finance, and leadership a clear, trusted view of performance.\n\n• Translate business questions into intuitive, well-designed reports, focusing on the few metrics that matter rather than more data.\n\n• Analyze trends, variances, and anomalies and proactively bring forward insights and recommendations, not just numbers.\n\nData Management & Quality\n\n• Extract, transform, and model data from Salesforce, ERP, data warehouse, and other sources (Power Query, SQL, CRMA recipes/dataflows).\n\n• Own data accuracy and integrity across our reporting suite; find, troubleshoot, and resolve discrepancies before stakeholders do.\n\n• Integrate new data sources as business needs evolve.\n\nReporting Governance & Documentation\n\n• Establish and maintain consistent KPI definitions, reporting standards, and documentation of data sources, logic, and models.\n\n• Keep reporting solutions reliable, scalable, and easy to maintain.\n\nStakeholder Partnership\n\n• Partner with sales, finance, and commercial leaders to understand their needs, challenge requirements where useful, and deliver practical solutions.\n\n• Work with IT and global BI teams to improve our data foundation and reporting processes.\n\nAI & Automation\n\n• Use AI tools (e.g., Microsoft Copilot, AI features in Power BI and CRMA, generative AI assistants) to speed up analysis, automate recurring reporting, and generate narrative insights.\n\n• Identify and drive opportunities to automate manual work, including building agents, bots, or workflows as the role grows.\n\n• Stay current on BI and AI capabilities and bring forward ideas we haven't thought of yet.\n\nWhat success looks like in your first year:\n\n• Our core Power BI and CRMA dashboards are trusted, used weekly by leadership, and owned by you.\n\n• Recurring manual reports are automated or meaningfully streamlined.\n\n• You've identified and fixed data quality issues at the source, not just in the report.\n\n• Stakeholders come to you first with their data questions.\n\nWhat we're looking for:\nMust-have\n\n• Bachelor's degree in Data Analytics, Business Intelligence, Information Systems, Economics, Business, or equivalent practical experience.\n\n• 3+ years of experience in data analysis, reporting, or business intelligence.\n\n• Proven, hands-on experience building Power BI dashboards (data modeling, DAX, Power Query).\n\n• Hands-on experience with Salesforce CRM Analytics (CRMA / Tableau CRM), including dashboards and recipes/dataflows, and comfort working with Salesforce data.\n\n• Strong SQL and advanced Excel skills.\n\n• Active, everyday use of AI tools in your work, with curiosity about how to apply them further.\n\n• A proactive, ownership-driven mindset: you spot problems and opportunities and act on them without being asked.\n\n• Strong attention to detail and a high bar for data accuracy.\n\n• Ability to communicate data clearly and concisely to non-technical stakeholders.\n\nNice-to-have\n\n• Experience in a B2B, sales, distribution, or commercial environment.\n\n• Experience with Power Automate, Copilot Studio, Python, or similar automation tools.\n\n• Exposure to forecasting or predictive analytics.\n\nWhen applying, you will be asked to include a short example of a dashboard you've built or a data problem you identified and solved on your own initiative.\n\nThe Company provides equal opportunity to all employees and prospective employees without regard to race, color, creed, religion, national origin, ancestry, sex, age, physical or mental disability, marital status, pregnancy, genetic information, sexual orientation, gender identity, protected veteran or military status, or any other consideration not related to the person’s ability to do the job or otherwise made unlawful by federal, state, or local law.\n\nDepartment\n\nFinance & Accounting\n\nRole\n\nCommercial Finance\n\nLocations\n\nIselin,United States - WSA HQ, Hauppauge\n\nRemote status\n\nHybrid"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Woodbridge Township",
+              "region": "US-NJ",
+              "country": "US",
+              "postal_code": "08830",
+              "street": "101 S Wood Ave",
+              "zip": "08830",
+              "county_fips": "34023",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Hauppauge",
+              "region": "US-NY",
+              "country": "US",
+              "postal_code": "11788",
+              "street": "1393 Veterans Memorial Hwy suite 210 n",
+              "zip": "11788",
+              "county_fips": "36103",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-05T00:25:12.939Z",
+        "curated_at": "2026-11-11T03:47:24.744Z",
+        "job_updated_at": "2026-11-15T03:24:40.826Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10000000,
+                "max_cents": 13500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "7b69b6d7bba14896191e4f6911ed371e1409b042fa9e28693602fd6cba1f2d7d",
+            "source": "teamtailor",
+            "source_posting_id": "fa7baf9c-5162-42d0-87c2-a14d69f4eda6",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://wsa2.teamtailor.com/jobs/8548020-senior-business-intelligence-analyst-bi-developer"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://wsa2.teamtailor.com/jobs/8548020-senior-business-intelligence-analyst-bi-developer"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Woodbridge Township",
+                "state": "New Jersey",
+                "country": "US",
+                "postalCode": "08830",
+                "streetAddress": "101 S Wood Ave",
+                "remote": false,
+                "zip": "08830",
+                "alternatives": [
+                  {
+                    "city": "Hauppauge",
+                    "state": "New York",
+                    "country": "US",
+                    "postalCode": "11788",
+                    "streetAddress": "1393 Veterans Memorial Hwy suite 210 n",
+                    "remote": false
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 100000,
+                "max": 135000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-14T20:42:22.000Z",
+            "first_seen_at": "2026-11-05T00:25:12.939Z",
+            "last_completed_fetch_at": "2026-11-15T03:24:24.273Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8303b14f-ebf5-4c05-bdcf-a3c4027d3273",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "2de59920-aaac-8b60-b2c8-23751034bac2",
+        "employer_name": {
+          "state": "known",
+          "value": "CrossCountry Consulting"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "CrossCountry Consulting is the transformation partner for the Office of the CFO. As a trusted advisor to Fortune 500 companies, emerging growth market leaders, and private equity sponsors, we combine deep domain expertise with the power of data, AI, and technology to modernize workflows, drive human-centered change, and maximize transaction value. Grounded in our Core Values, we are committed to solving today's most complex challenges while delivering a better experience for our clients, our people, and our communities. When you join CrossCountry, you become part of a team that believes in collaboration, generosity, and the drive to help our clients work smarter, build resiliency, and prepare for the future.\n\nWe’re building a modern enterprise data warehouse on Snowflake and need a BI Analyst who works directly with the business to turn data into decisions. You’ll partner with stakeholders to scope their reporting needs, build dashboards, and teach teams how to use them. This role is as much about relationships and enablement as it is about building.\n\nWhat You'll Do:\nPartner with stakeholders across finance, sales, and operations to understand their goals and translate them into clear requirements and KPIs\n\nScope dashboard projects: define success criteria, prioritize requests, set timelines, and manage expectations\n\nBuild, publish, and maintain dashboards and reports in Power BI (or Tableau) that are accurate , intuitive, and actionable\n\nWrite SQL against Snowflake to explore data, validate results, and support ad hoc analysis\n\nWork with Data Engineering to shape the semantic layer and data models, define KPI and calculation logic, flag data quality issues, and improve report performance and Snowflake costs\n\nBuild the business definitions and synonyms that help AI tools (like Snowflake Cortex Analyst or Power BI Copilot) answer questions correctly\n\nTest AI-generated reports and text-to-SQL results against known-correct answers before they go live\n\nRun training sessions, workshops, and office hours that build self-service skills across the business\n\nCreate user guides, metric definitions, and walkthroughs so business users can trust and navigate the data\n\nGather feedback after launch, track adoption, and iterate on dashboards\n\nWhat You'll Bring:\n5+ years in business intelligence, analytics, FP&A, or a similar role\n\nStrong dashboarding skills in Power BI, Tableau, or a comparable BI tool\n\nWorking SQL proficiency (joins, aggregations, CTEs, basic window functions)\n\nDemonstrated ability to run requirements-gathering conversations and turn vague asks into scoped deliverables\n\nHands-on use of AI tools in analytical work, with the judgment to evaluate output quality and spot unsupported answers.\n\nExperience facilitating trainings , workshops, or demos for non-technical audiences\n\nExcellent written and verbal communication, with the ability to explain data clearly\n\nStrong attention to detail and a habit of validating numbers before sharing them\n\nPreferred Qualifications:\nExperience with Snowflake or another cloud data warehouse\n\nFamiliarity with DAX and dimensional modeling concepts\n\nExperience writing business definitions, synonyms, or test cases for AI-driven or natural-language analytics tools.\n\nBackground in finance, FP&A, or sales operations\n\nExposure to dbt , Fivetran , or modern data stack tools\n\nExperience building a data community or champions program\n\nBachelor’s degree in Finance , Business, IT, Analytics, or a related field (or equivalent experience)\n\nCrossCountry Consulting is required to include an estimate of the compensation range for this role. The following range takes into account a wide range of factors including but not limited to, skills, experience, education, licenses, certifications, business needs, and internal equity. An estimate of the current range is $120,000 - $175,000 per year + annual bonus + additional benefits.\n\n#LI-AJ1\n\nBenefits Summary\n\nThe CrossCountry total rewards package includes comprehensive healthcare options, including medical, dental, and vision coverage; flexible spending accounts; and a 401(k) with company matching. Additionally, employees can take advantage of generous parental and maternity leave policies, technology stipends, and wellness reimbursement programs, all designed to support both professional growth and personal well-being. For detailed information about benefits at CrossCountry, please visit our dedicated benefits site: https://www.crosscountry-consulting.com/careers/benefits/ .\n\nEqual Employment Opportunity (EEO)\n\nCrossCountry provides equal employment opportunities (EEO) to all employees and applicants for employment and believes that respect and fair treatment are critical to creating a productive and inclusive workplace.\n\nAs an equal opportunity employer, CrossCountry is fully committed to comply with all federal, state, and local laws and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability, pregnancy, genetics, sexual orientation, veteran status, gender identity or expression or any other protected characteristic. The company also complies with pay transparency and labor laws applicable to all terms and conditions of employment."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "McLean",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-07T15:19:22.497Z",
+        "curated_at": "2026-11-07T15:20:21.196Z",
+        "job_updated_at": "2026-11-13T17:22:44.337Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12000000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "881ef95462c729f083003beb0154245f4c61776eac1ab6ec58847d3cd2a82bd9",
+            "source": "lever",
+            "source_posting_id": "b043ecd7-c72b-43b3-997e-bd787e7f7930",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "McLean",
+                "state": "VA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "McLean",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "McLean, VA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "Boston",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Boston, MA"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Chicago, IL"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Dallas, TX"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 120000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-05T21:33:29.429Z",
+            "first_seen_at": "2026-11-07T15:19:22.497Z",
+            "last_completed_fetch_at": "2026-11-13T17:21:41.962Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "0debc44a-71f3-47c5-aec3-19b857ffe6ae",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "0ef79295-7f22-844c-a76b-c9b8e6909a2a",
+        "employer_name": {
+          "state": "known",
+          "value": "New York Life Insurance Co"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Associate - Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Location Designation: Hybrid - 4 days per week About New York Life Investment Management With over $800 billion in assets under management, NYLIM is a Pensions & Investments ' Top 30 Largest Money Manager and one of the largest global asset managers serving institutional, retail and insurance clients. NYLIM brings together the firm’s global investment teams under one unified brand, combining specialized expertise with the strength and stability of New York Life. Our platform is built on disciplined active management, deep investment capabilities and a long-term partnership approach designed to deliver enduring value across market cycles and help clients navigate the next era of investing. More powerful, together, we combine the agility of specialized investment teams with the scale and longevity of a leading mutual institution. Senior Associate – Business Intelligence Analyst Role Overview We are seeking a highly qualified and motivated candidate to join the Institutional Intelligence team within New York Life Investment Management’s Business Intelligence & Data Analytics Group . This role will support our Private Fixed Income team within New York Life Investment Management and play a pivotal part in enhancing the tools, reporting, and workflows that support the evaluation and monitoring of a portfolio of privately placed, investment-grade securities, including corporate, infrastructure, and private ABS transactions. This position offers a dynamic opportunity to expand a business and technology professional's expertise within the investment management industry, working in a results-oriented environment while cultivating meaningful relationships across investment, operations, and technology teams. What You'll Do As a Senior Associate supporting our Private Fixed Income investment teams, your primary focus will be to lead our partnership with investment professionals and technology stakeholders to enhance the platforms, reporting capabilities, and business processes supporting investment activities. Your key responsibilities will include, but are not limited to: Investment Process Support & Business Analysis Partner with investment professionals to support origination, underwriting, and portfolio management workflows across private investment-grade transactions. Gather business requirements and translate investment team needs into scalable reporting, dashboards, and technology solutions. Assist in developing tools, templates, and analyses that support underwriting, credit monitoring, portfolio surveillance, and investment committee materials. Platform Management & Reporting Own and maintain the deal/portfolio management platforms used to track investments pipeline and portfolio activity across PFI and ABF. Build dashboards, reports, and workflows that support credit monitoring, deal tracking, and investment committee materials, reducing manual data gathering for portfolio managers and analysts. Support the rollout and adoption of AI-enabled tools for credit memo drafting, covenant monitoring, and portfolio reporting. Act as the primary liaison between the Investments team and Operations/IT on platform enhancements, data integration, and systems issues affecting investment workflows. This role offers the opportunity to make a meaningful impact by empowering our investment professionals with the technology platforms, reporting capabilities, and streamlined processes needed to enhance investment decision-making and operational effectiveness. Required Skills Bachelor's degree or equivalent in Business Administration, Finance, Information Systems, Computer Science, or a related field. 5+ years of relevant experience in a business analyst, technology, platform management, or business process improvement role within the financial services or investment management industry. Strong business analysis and problem-solving skills , with demonstrated experience gathering requirements, evaluating business processes, and translating stakeholder needs into effective solutions. Hands-on experience supporting business-critical systems and analytical platforms , preferably within an investment management environment. Working knowledge of SQL, Python and Excel , with the ability to analyze datasets, support reporting requirements, and collaborate with technical teams on data-related initiatives. Excellent interpersonal and communication skills , with the ability to interact effectively with investment professionals, Operations, IT, and stakeholders across various levels of the organization. Self-starter with a strong sense of urgency , accountability, and personal responsibility, capable of independently identifying challenges and driving solutions. Preferred Skills Experience working with investment management platforms (RiskSpan, dv01) supporting private fixed income, private credit, asset-backed finance, or portfolio management. Experience developing or maintaining dashboards using Tableau, Power BI, or similar business intelligence tools. Experience working with Snowflake Python skills for reporting automation, data manipulation, and workflow optimization. Experience supporting API integrations, data migrations, and system implementation initiatives. Familiarity with AI-enabled tools and their application to investment workflows, credit monitoring, and reporting automation. Job Level: LEVELPF4 Pay Transparency Salary Range: $115,000-$130,000 Overtime eligible: Exempt Discretionary bonus eligible: Yes Sales bonus eligible: No Actual base salary will be determined based on several factors but not limited to individual’s experience, skills, qualifications, and job location. Additionally, employees are eligible for an annual discretionary bonus. In addition to base salary, employees may also be eligible to participate in an incentive program. Our Benefits We provide a full package of benefits for employees – and have unique offerings for a modern workforce, including leave programs, adoption assistance, and student loan repayment programs. Based on feedback from our employees, we continue to refine and add benefits to our offering, so that you can flourish both inside and outside of work. Click here to discover more about our comprehensive benefit options or visit our NYL Benefits Site . Our Commitment to Inclusion At New York Life, fostering an inclusive workplace is fundamental to who we are and how we serve our communities. We have a longstanding commitment to creating an environment where individuals can contribute their best and succeed together. This foundation is rooted in our core values of humanity and integrity, ensuring that every employee feels valued and supported. By embracing a broad range of perspectives and experiences, we achieve greater success and fulfill our promise of providing financial security and peace of mind to families across all communities. Click here to learn more about New York Life’s leadership in this space. Recognized as one of Fortune’s World’s Most Admired Companies, New York Life is committed to improving local communities through a culture of employee giving and volunteerism, supported by the Foundation . We're proud that due to our mutuality, we operate in the best interests of our policy owners. To learn more about career opportunities at New York Life, please visit the Careers page of www.NewYorkLife.com . Job Requisition ID: 94770"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-15T02:10:04.749Z",
+        "curated_at": "2026-10-15T07:58:13.543Z",
+        "job_updated_at": "2026-11-13T10:18:19.081Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "bb4e1d31d9dcc0ae9fdaa63f29711c7ec0fa5d4f3bc2c9fd1a306465560066da",
+            "source": "successfactors",
+            "source_posting_id": "1428745500",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.newyorklife.com/job/New-York-Senior-Associate-Business-Intelligence-Analyst-NY-10001/1428745500/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.newyorklife.com/job/New-York-Senior-Associate-Business-Intelligence-Analyst-NY-10001/1428745500/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "NY",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": null,
+            "first_seen_at": "2026-10-15T02:10:04.749Z",
+            "last_completed_fetch_at": "2026-11-20T03:37:03.246Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e16e7938-4fd0-48b2-893c-14fd37dca87d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "572d872e-f0e5-88df-a395-38a02f34fedd",
+        "employer_name": {
+          "state": "known",
+          "value": "Fulcrum Digital"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Title: Business Intelligence Analyst Job Location: New York, NY (May work at other unanticipated sites) Salary:$109,491/year Employment Type: Permanent Number of openings: 1 Job Duties: Analyze business and data processes like compliance, claims, underwriting and operations projects to integrate vendor application programming interface with policy admin systems employing Duck Creek, AQS, Sapiens Rapidsure, Vertafore ImageRight and SAP LeanIX. Review systems management and integration functions, and review system capabilities, workflow, and schedule limitations. Requirements Requirements : Master’s degree in Electrical Engineering, or similar specialty, 1 year experience Send resume to - 259 W 30TH ST. FL 13, New York, NY 10001."
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "postal_code": "10001",
+              "zip": "10001",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-10T08:03:10.788Z",
+        "curated_at": "2026-11-12T15:26:39.401Z",
+        "job_updated_at": "2026-11-12T15:26:39.401Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10949100,
+                "max_cents": 10949100,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "04752bcdbd33107c0c8fcf79d044d10574c37f3bd891ece2cd0706a171e40d02",
+            "source": "zoho_recruit",
+            "source_posting_id": "613047000065033949",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://fulcrumdigital.zohorecruit.com/jobs/Careers/613047000065033949"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://fulcrumdigital.zohorecruit.com/jobs/Careers/613047000065033949"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "New York",
+                "country": "US",
+                "countryRaw": "United States",
+                "postalCode": "10001",
+                "remote": false,
+                "zip": "10001"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 109491,
+                "max": 109491,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-07T00:00:00.000Z",
+            "first_seen_at": "2026-10-10T08:03:10.788Z",
+            "last_completed_fetch_at": "2026-11-12T15:25:43.904Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "94916a66-2ee4-4a37-910b-f7b24e359ea8",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "dff33a51-78ce-8ff5-be43-8b792b4f5ea9",
+        "employer_name": {
+          "state": "known",
+          "value": "Crystal Run Healthcare"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "## Company Description\n\nCrystal Run Healthcare is one of the fastest growing multi-specialty group practices in the country. We have over 350 exceptional physicians in over 40 medical specialties with multiple practice locations focused on the healthcare needs of the Hudson Valley and lower Catskill region.\n\nCrystal Run Healthcare offers fully accredited, all-digital radiology and laboratory services, and is a national leader in the use and advancement of electronic health records (EHR). Crystal Run Healthcare is accredited by The Joint Commission, designated by the NCQA as a level 3 Patient Centered-Medical Home, has been selected by the Centers for Medicare and Medicaid Services as one of the first 27 Accountable Care Organizations (ACO) in the nation to participate in the Medicare Shared Savings Program (MSSP). Crystal Run has also been recognized by NCQA as one of six “Early Adopters” seeking ACO accreditation in the nation. Crystal Run has the first American Academy of Sleep Medicine accredited sleep center in the region, was one of the first 16 practices across the US to be certified through the Quality Oncology Practice Initiative for its oncology care, and has the only Urgent Care in the region that is both Joint Commission Accredited and a Certified Urgent Care Center as designated by the Urgent Care Association of America.\n\nCrystal Run Healthcare is also a national leader in Healthcare Reform and offering integrated, coordinated care for all patients, including those with common medical conditions like diabetes, high blood pressure, coronary artery disease, and congestive heart failure. Our care management data proves that patients with these conditions receive better care, demonstrated by measures that exceed national quality benchmarks. Our primary care physicians work with all patients on prevention and wellness strategies and coordinate all appropriate health screening tests such as mammograms, pap smears, immunizations and colonoscopies. Simply put, patients treated at Crystal Run Healthcare feel better and have better results.\n\n## Job Description\n\nThe Business Intelligence Analyst will be responsible for the delivery  \nof reports, dashboards, business needs and analytic specifications for Crystal Run  \nHealthcare. These specifications will directly result in solutions  \nthat support financial and operational decision making processes across the  \nenterprise. The BI Analyst will work with end users to determine stakeholder  \nrequirements and translate them into the appropriate specifications. The  \nBI Analyst will work closely with the architectural and development teams to assure  \nthe written specifications are understood and applied appropriately.\n\n  \n\nDUTIES AND RESPONSIBILITIES  \n  \n\n  \n* Gather report requirements and understand Crystal Run Healthcare’s  \n    strategic goals and ensure request is in alignment with these goals.\n  \n\n  \n* Critically evaluate information gathered from  \n    multiple sources.\n  \n* Decompose high-level information into  \n    details.\n  \n* Distinguish user requests from the underlying  \n    true needs.\n  \n* Provide creative solutions to problems.\n  \n\n  \n* Ability to decompose stakeholders needs into well-structured  \n    documented requirements and specification. All documentation will be  \n    according to standard templates.\n  \n* Present alternative BI solutions for customer, using creative-thinking  \n    expertise and solution prototypes, to ensure effective reporting/analysis.  \n    \n  \n* Excellent verbal and written  \n    communication skills and the ability to interact professionally with a  \n    diverse group that includes clinicians, management, and subject matter  \n    experts.\n  \n* Ability to work  \n    independently to provide technical expertise in identifying, evaluating,  \n    and developing specifications and procedures that meet user requirements\n  \n* Successfully engage in  \n    multiple initiatives simultaneously.\n  \n* Interviewing stakeholders,  \n    facilitating workgroups, prototyping process flows and business rules.\n* \n    \n* Business requirements gathering, which describe the higher-level  \n    needs of the organization as a whole.\n    \n\n  \n\n* Solution requirements gathering, which describe features,  \n    functions, and characteristics of the product, service, or result that will  \n    meet the business and stakeholder requirements.  \n    This includes functional requirements that describe the behaviors of the  \n    product and non-functional requirements that describe the environmental  \n    conditions or qualities required for the product to be effective.\n\n  \n  \n\n**BI Data Analysis and Design:**\n\n  \n\n* Based on User Requirements Documentation, collaborate with the  \n    development team and subject matter experts to define solutions to develop  \n    the architecture of the selected reporting solution.\n  \n* Work with development team to design and develop high performing  \n    data solutions which meet the needs satisfy the BI requirements.\n  \n* Design creative BI components for the delivery of dashboards,  \n    scorecards, delivered reports, ad hoc queries, extracts and analytics  \n    using the MS Suite of tools, QlikView, as well as other platforms.\n  \n* Create QA test cases/test steps to ensure quality assurance of BI  \n    output.\n  \n* Work with end users to ensure user acceptance testing and a  \n    complete delivery of reporting/analysis solution.\n  \n* Responsible for QA testing the entire solution to ensure that it is  \n    ready for user acceptance testing.\n  \n\n## Qualifications\n\n**JOB  \nREQUIREMENTS**\n\n  \n\n  \n\n  \n* Bachelor’s degree in  \n    computer science, information systems or engineering\n  \n* Experience with development lifecycle methodology, healthcare  \n    specific environment\n  \n* Experience with Software Development Lifecycle and related QA  \n    processes.\n  \n\n* Exposure to healthcare business concepts\n\n  \n* Excellent written and oral  \n    communication skills\n  \n* Experience in revenue cycle, general ledger and physician compensation  \n    strongly preferred\n  \n* Experience in the process of determining, documenting, and managing  \n    stakeholder needs and requirements to meet stated goals and objectives.\n  \n\n  \n\n  \n\n## Additional Information\n\nAll your information will be kept confidential according to EEO guidelines.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Middletown",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36071",
+              "msa": {
+                "cbsa_code": "28880",
+                "cbsa_title": "Kiryas Joel-Poughkeepsie-Newburgh, NY",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-13T08:53:46.409Z",
+        "curated_at": "2026-11-12T06:26:13.382Z",
+        "job_updated_at": "2026-11-12T06:26:13.382Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "5b57981103c1ed168b032eb7bdf8a598d9b3eee923bc8decaa5ec0b2951f2681",
+            "source": "smartrecruiters",
+            "source_posting_id": "108032409",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.smartrecruiters.com/CrystalRunHealthcare1/108032409"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.smartrecruiters.com/CrystalRunHealthcare1/108032409-business-intelligence-analyst?oga=true"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Middletown",
+                "state": "NY",
+                "country": "US",
+                "regionCode": "NY",
+                "latitude": 41.4459271,
+                "longitude": -74.42293410000002,
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2017-02-10T18:59:57.000Z",
+            "first_seen_at": "2026-10-13T08:53:46.409Z",
+            "last_completed_fetch_at": "2026-11-12T06:25:16.195Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "364e70ca-d555-4fd0-81c9-9cea96a28e90",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "123b335f-8de0-4621-a34a-0ebd8488c2b7",
+        "employer_name": {
+          "state": "known",
+          "value": "Bowhead Specialty Holdings Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Bowhead is seeking a hands-on Lead Business Intelligence professional to lead and evolve our BI capabilities. This is a player/coach role combining direct technical delivery with stakeholder leadership.\n\nYou will work with business leaders to understand their needs and priorities, translate them into effective BI solutions, and personally contribute to their design and delivery. You will also help manage BI priorities and determine how the team should grow as demand increases.\n\nKey Responsibilities\n\n• Lead stakeholder requirements gathering and translate business needs into KPIs, metrics, requirements, and analytical solutions .\n\n• Manage expectations, priorities, scope, and trade-offs across competing business needs.\n\n• Personally design, develop, deploy, and support Power BI reports, dashboards, and semantic models .\n\n• Perform hands-on development and analysis using Power BI, Microsoft Fabric, Azure data services, SQL, DAX, and Power Query .\n\n• Own and evolve the BI semantic layer , ensuring consistent business definitions, measures, and reporting.\n\n• Partner with Data Engineering on data requirements, quality, and integration.\n\n• Manage the BI backlog and improve the quality, reliability, and adoption of production reporting.\n\n• Assess BI demand and capability gaps and help determine how the BI team should grow .\n\n• Provide technical leadership and mentoring while remaining an active hands-on contributor.\n\nRequired Skills\n\n• Strong hands-on Power BI experience.\n\n• Experience with Microsoft Fabric and Azure data services .\n\n• Strong SQL, DAX, Power Query, dimensional modeling, and semantic-modeling skills.\n\n• Experience delivering BI solutions from requirements through production support.\n\n• Strong requirements-gathering and stakeholder-management skills.\n\n• Ability to set expectations, establish priorities, manage scope, and communicate trade-offs .\n\n• Strong analytical, problem-solving, and communication skills.\n\n• Ability to operate effectively as a hands-on player/coach .\n\nWhat Success Looks Like\n\nYou can understand and challenge a business requirement, manage expectations and priorities, understand the underlying data, and personally build and support the solution .\n\nAs BI demand grows, you will help determine the additional skills and capacity needed to scale the team."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-04T13:23:44.923Z",
+        "curated_at": "2026-11-12T06:18:45.919Z",
+        "job_updated_at": "2026-11-12T06:18:45.919Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-a"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "b7c7b97916d3c4919e24d07743b474aaa756d05ed6e1c8fc84a32074d3be696e",
+            "source": "paycor",
+            "source_posting_id": "8a78879ea06420fb01a08b7584bf38e1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d096d0d55a019738a026c95bd9&id=8a78879ea06420fb01a08b7584bf38e1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d096d0d55a019738a026c95bd9&id=8a78879ea06420fb01a08b7584bf38e1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "NY",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": null,
+            "first_seen_at": "2026-11-04T13:23:44.923Z",
+            "last_completed_fetch_at": "2026-11-12T06:17:42.378Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "97573a9b-da91-4ef3-9dea-cc1ce4bb9767",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "318e05e4-daca-8317-bb21-1187d8336cef",
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Associate - Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Location Designation:\n\nAbout New York Life Investment Management\n\nWith over $800 billion in assets under management, NYLIM is a Pensions & Investments ' Top 30 Largest Money Manager and one of the largest global asset managers serving institutional, retail and insurance clients. NYLIM brings together the firm’s global investment teams under one unified brand, combining specialized expertise with the strength and stability of New York Life.\n\nOur platform is built on disciplined active management, deep investment capabilities and a long-term partnership approach designed to deliver enduring value across market cycles and help clients navigate the next era of investing.\n\nMore powerful, together, we combine the agility of specialized investment teams with the scale and longevity of a leading mutual institution.\nSenior Associate – Business Intelligence Analyst\n\nRole Overview\n\nWe are seeking a highly qualified and motivated candidate to join the Institutional Intelligence team within New York Life Investment Management’s Business Intelligence & Data Analytics Group . This role will support our Private Fixed Income team within New York Life Investment Management and play a pivotal part in enhancing the tools, reporting, and workflows that support the evaluation and monitoring of a portfolio of privately placed, investment-grade securities, including corporate, infrastructure, and private ABS transactions.\n\nThis position offers a dynamic opportunity to expand a business and technology professional's expertise within the investment management industry, working in a results-oriented environment while cultivating meaningful relationships across investment, operations, and technology teams.\n\nWhat You'll Do\n\nAs a Senior Associate supporting our Private Fixed Income investment teams, your primary focus will be to lead our partnership with investment professionals and technology stakeholders to enhance the platforms, reporting capabilities, and business processes supporting investment activities. Your key responsibilities will include, but are not limited to:\n\nInvestment Process Support & Business Analysis\n\n• Partner with investment professionals to support origination, underwriting, and portfolio management workflows across private investment-grade transactions.\n\n• Gather business requirements and translate investment team needs into scalable reporting, dashboards, and technology solutions.\n\n• Assist in developing tools, templates, and analyses that support underwriting, credit monitoring, portfolio surveillance, and investment committee materials.\n\nPlatform Management & Reporting\n\n• Own and maintain the deal/portfolio management platforms used to track investments pipeline and portfolio activity across PFI and ABF.\n\n• Build dashboards, reports, and workflows that support credit monitoring, deal tracking, and investment committee materials, reducing manual data gathering for portfolio managers and analysts.\n\n• Support the rollout and adoption of AI-enabled tools for credit memo drafting, covenant monitoring, and portfolio reporting.\n\n• Act as the primary liaison between the Investments team and Operations/IT on platform enhancements, data integration, and systems issues affecting investment workflows.\n\nThis role offers the opportunity to make a meaningful impact by empowering our investment professionals with the technology platforms, reporting capabilities, and streamlined processes needed to enhance investment decision-making and operational effectiveness.\n\nRequired Skills\n\n• Bachelor's degree or equivalent in Business Administration, Finance, Information Systems, Computer Science, or a related field.\n\n• 5+ years of relevant experience in a business analyst, technology, platform management, or business process improvement role within the financial services or investment management industry.\n\n• Strong business analysis and problem-solving skills , with demonstrated experience gathering requirements, evaluating business processes, and translating stakeholder needs into effective solutions.\n\n• Hands-on experience supporting business-critical systems and analytical platforms , preferably within an investment management environment.\n\n• Working knowledge of SQL, Python and Excel , with the ability to analyze datasets, support reporting requirements, and collaborate with technical teams on data-related initiatives.\n\n• Excellent interpersonal and communication skills , with the ability to interact effectively with investment professionals, Operations, IT, and stakeholders across various levels of the organization.\n\n• Self-starter with a strong sense of urgency , accountability, and personal responsibility, capable of independently identifying challenges and driving solutions.\n\nPreferred Skills\n\n• Experience working with investment management platforms (RiskSpan, dv01) supporting private fixed income, private credit, asset-backed finance, or portfolio management.\n\n• Experience developing or maintaining dashboards using Tableau, Power BI, or similar business intelligence tools.\n\n• Experience working with Snowflake\n\n• Python skills for reporting automation, data manipulation, and workflow optimization.\n\n• Experience supporting API integrations, data migrations, and system implementation initiatives.\n\n• Familiarity with AI-enabled tools and their application to investment workflows, credit monitoring, and reporting automation.\n\nJob Level:\n\nPay Transparency\n\nSalary Range:\n\nOvertime eligible:\n\nDiscretionary bonus eligible:\n\nSales bonus eligible:\n\nActual base salary will be determined based on several factors but not limited to individual’s experience, skills, qualifications, and job location. Additionally, employees are eligible for an annual discretionary bonus. In addition to base salary, employees may also be eligible to participate in an incentive program.\n\nOur Benefits\n\nWe provide a full package of benefits for employees – and have unique offerings for a modern workforce, including leave programs, adoption assistance, and student loan repayment programs. Based on feedback from our employees, we continue to refine and add benefits to our offering, so that you can flourish both inside and outside of work. Click here to discover more about our comprehensive benefit options or visit our NYL Benefits Site .\n\nOur Commitment to Inclusion\n\nAt New York Life, fostering an inclusive workplace is fundamental to who we are and how we serve our communities. We have a longstanding commitment to creating an environment where individuals can contribute their best and succeed together. This foundation is rooted in our core values of humanity and integrity, ensuring that every employee feels valued and supported. By embracing a broad range of perspectives and experiences, we achieve greater success and fulfill our promise of providing financial security and peace of mind to families across all communities. Click here to learn more about New York Life’s leadership in this space.\n\nRecognized as one of Fortune’s World’s Most Admired Companies, New York Life is committed to improving local communities through a culture of employee giving and volunteerism, supported by the Foundation . We're proud that due to our mutuality, we operate in the best interests of our policy owners. To learn more about career opportunities at New York Life, please visit the Careers page of www.NewYorkLife.com .\n\nJob Requisition ID: 94770"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-30T02:48:08.085Z",
+        "curated_at": "2026-11-10T20:13:15.299Z",
+        "job_updated_at": "2026-11-10T20:13:15.299Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "QJ-13"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "d20c10bee760686706ff6b4d7522bc32878e44df1866515775e05b0bcb7a4041",
+            "source": "successfactors",
+            "source_posting_id": "94770",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://career8.successfactors.com/career?company=NYLPRD&career_ns=job_listing&career_job_req_id=94770"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://career8.successfactors.com/career?company=NYLPRD&career_ns=job_listing&career_job_req_id=94770"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "NY",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-05T00:00:00.000Z",
+            "first_seen_at": "2026-09-30T02:48:08.085Z",
+            "last_completed_fetch_at": "2026-11-14T21:02:22.446Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "dc26aa1d-249d-4b9c-9cb0-20593fc180c8",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "2de59920-aaac-8b60-b2c8-23751034bac2",
+        "employer_name": {
+          "state": "known",
+          "value": "CrossCountry Consulting"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "CrossCountry Consulting is the transformation partner for the Office of the CFO. As a trusted advisor to Fortune 500 companies, emerging growth market leaders, and private equity sponsors, we combine deep domain expertise with the power of data, AI, and technology to modernize workflows, drive human-centered change, and maximize transaction value. Grounded in our Core Values, we are committed to solving today's most complex challenges while delivering a better experience for our clients, our people, and our communities. When you join CrossCountry, you become part of a team that believes in collaboration, generosity, and the drive to help our clients work smarter, build resiliency, and prepare for the future.\n\nWe’re building a modern enterprise data warehouse on Snowflake and need a BI Analyst who works directly with the business to turn data into decisions. You’ll partner with stakeholders to scope their reporting needs, build dashboards, and teach teams how to use them. This role is as much about relationships and enablement as it is about building.\n\nWhat You'll Do:\nPartner with stakeholders across finance, sales, and operations to understand their goals and translate them into clear requirements and KPIs\n\nScope dashboard projects: define success criteria, prioritize requests, set timelines, and manage expectations\n\nBuild, publish, and maintain dashboards and reports in Power BI (or Tableau) that are accurate , intuitive, and actionable\n\nWrite SQL against Snowflake to explore data, validate results, and support ad hoc analysis\n\nWork with Data Engineering to shape the semantic layer and data models, define KPI and calculation logic, flag data quality issues, and improve report performance and Snowflake costs\n\nBuild the business definitions and synonyms that help AI tools (like Snowflake Cortex Analyst or Power BI Copilot) answer questions correctly\n\nTest AI-generated reports and text-to-SQL results against known-correct answers before they go live\n\nRun training sessions, workshops, and office hours that build self-service skills across the business\n\nCreate user guides, metric definitions, and walkthroughs so business users can trust and navigate the data\n\nGather feedback after launch, track adoption, and iterate on dashboards\n\nWhat You'll Bring:\n5+ years in business intelligence, analytics, FP&A, or a similar role\n\nStrong dashboarding skills in Power BI, Tableau, or a comparable BI tool\n\nWorking SQL proficiency (joins, aggregations, CTEs, basic window functions)\n\nDemonstrated ability to run requirements-gathering conversations and turn vague asks into scoped deliverables\n\nHands-on use of AI tools in analytical work, with the judgment to evaluate output quality and spot unsupported answers.\n\nExperience facilitating trainings , workshops, or demos for non-technical audiences\n\nExcellent written and verbal communication, with the ability to explain data clearly\n\nStrong attention to detail and a habit of validating numbers before sharing them\n\nPreferred Qualifications:\nExperience with Snowflake or another cloud data warehouse\n\nFamiliarity with DAX and dimensional modeling concepts\n\nExperience writing business definitions, synonyms, or test cases for AI-driven or natural-language analytics tools.\n\nBackground in finance, FP&A, or sales operations\n\nExposure to dbt , Fivetran , or modern data stack tools\n\nExperience building a data community or champions program\n\nBachelor’s degree in Finance , Business, IT, Analytics, or a related field (or equivalent experience)\n\nCrossCountry Consulting is required to include an estimate of the compensation range for this role. The following range takes into account a wide range of factors including but not limited to, skills, experience, education, licenses, certifications, business needs, and internal equity. An estimate of the current range is $120,000 - $175,000 per year + annual bonus + additional benefits.\n\n#LI-AJ1\n\nBenefits Summary\n\nThe CrossCountry total rewards package includes comprehensive healthcare options, including medical, dental, and vision coverage; flexible spending accounts; and a 401(k) with company matching. Additionally, employees can take advantage of generous parental and maternity leave policies, technology stipends, and wellness reimbursement programs, all designed to support both professional growth and personal well-being. For detailed information about benefits at CrossCountry, please visit our dedicated benefits site: https://www.crosscountry-consulting.com/careers/benefits/ .\n\nEqual Employment Opportunity (EEO)\n\nCrossCountry provides equal employment opportunities (EEO) to all employees and applicants for employment and believes that respect and fair treatment are critical to creating a productive and inclusive workplace.\n\nAs an equal opportunity employer, CrossCountry is fully committed to comply with all federal, state, and local laws and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability, pregnancy, genetics, sexual orientation, veteran status, gender identity or expression or any other protected characteristic. The company also complies with pay transparency and labor laws applicable to all terms and conditions of employment."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "McLean",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-09T14:49:44.772Z",
+        "curated_at": "2026-11-09T14:51:44.220Z",
+        "job_updated_at": "2026-11-09T14:51:44.220Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12000000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "881ef95462c729f083003beb0154245f4c61776eac1ab6ec58847d3cd2a82bd9",
+            "source": "lever",
+            "source_posting_id": "b043ecd7-c72b-43b3-997e-bd787e7f7930",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "McLean",
+                "state": "VA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "McLean",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "McLean, VA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "Boston",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Boston, MA"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Chicago, IL"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Dallas, TX"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 120000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-05T21:33:29.429Z",
+            "first_seen_at": "2026-11-09T14:49:44.772Z",
+            "last_completed_fetch_at": "2026-11-09T14:48:50.437Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "da818e64-4118-489e-8a61-869d1d68863f",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "444cb94a-2177-8ec9-a708-16c4894c9ad7",
+        "employer_name": {
+          "state": "known",
+          "value": "City of New York"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "## Job Description\n\nThe New York City Department of Correction (DOC) is an integral part of the City’s evolving criminal justice system, participating in reform initiatives and strategies aimed to move the City towards a smaller jail system without compromising public safety. The DOC is responsible for maintaining a safe and secure environment for our employees, visitors, volunteers, and people in our custody. Importantly, safe jails enable DOC to provide people in custody with the tools and opportunities they need to successfully re-enter their communities. The DOC operates facilities and court commands across the five boroughs with more than 7,500 diverse professionals and knowledgeable experts.  \n  \nThe Office of Management, Analysis, and Planning (OMAP) is seeking a skilled and proactive Business Intelligence Analyst to transform complex operational data into actionable dashboards, automated reporting pipelines, and strategic insights. Working at the intersection of data engineering and visual analytics, this role supports executive leadership and operational divisions by ensuring high-integrity, real-time visibility into agency performance, compliance metrics, and strategic initiatives.  \n  \nResponsibilities:  \n  \nBusiness Intelligence & Automated Reporting:  \n  \n\\- Write, optimize, and maintain complex SQL queries across relational databases and centralized data  \nwarehouses to extract, transform, and validate operational records.  \n\\- Design, build, and maintain automated scheduled data pipelines and executive dashboards using tools  \nlike Tableau, Python (Dash), or Power BI.  \n\\- Establish and monitor automated data validation scripts to proactively identify system entry gaps, data  \ndiscrepancies, or pipeline failures.  \n  \nPerformance Metrics & Analytics:  \n  \n\\- Collaborate with operational stakeholders to translate operational workflows and policy mandates into  \nstructured KPIs and performance scorecards.  \n\\- Conduct exploratory and descriptive data analysis to detect trends, system utilization gaps, and  \nlongitudinal performance shifts.  \n\\- Prepare recurring executive briefings, compliance summaries, and ad-hoc data extracts for leadership,  \nlegal, or oversight reviews.  \n  \nData Governance & System Integration:  \n  \n\\- Partner with enterprise IT to reconcile discrepancies between front-end data entry applications, legacy  \nadministrative systems, and centralized data warehouses.  \n\\- Contribute to standardizing data dictionaries, field mappings, and master data management practices  \nacross diverse operational units.  \n\\- Document data extraction methodologies, reporting logic, and pipeline workflows to ensure institutional  \ncontinuity.  \n  \nCITY RESEARCH SCIENTIST - 21744\n\n## Qualifications\n\n1\\. For Assignment Level I (only physical, biological and environmental sciences and public health) A master's degree from an accredited college or university with a specialization in an appropriate field of physical, biological or environmental science or in public health.  \nTo be appointed to Assignment Level II and above, candidates must have:  \n1\\. A doctorate degree from an accredited college or university with specialization in an appropriate field of physical, biological, environmental or social science and one year of full-time experience in a responsible supervisory, administrative or research capacity in the appropriate field of specialization; or  \n2\\. A master's degree from an accredited college or university with specialization in an appropriate field of physical, biological, environmental or social science and three years of responsible full-time research experience in the appropriate field of specialization; or  \n3\\. Education and/or experience which is equivalent to \"1\" or \"2\" above. However, all candidates must have at least a master's degree in an appropriate field of specialization and at least two years of experience described in \"2\" above. Two years as a City Research Scientist Level I can be substituted for the experience required in \"1\" and \"2\" above.  \n  \nNOTE:  \nProbationary Period  \nAppointments to this position are subject to a minimum probationary period of one year.\n\n## Additional Information\n\nThe City of New York is an inclusive equal opportunity employer committed to recruiting and retaining a diverse workforce and providing a work environment that is free from discrimination and harassment based upon any legally protected status or protected characteristic, including but not limited to an individual's sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, veteran status, gender identity, or pregnancy.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Queens",
+              "region": "US-NY",
+              "country": "US",
+              "postal_code": "11370",
+              "zip": "11370",
+              "county_fips": "36081",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-01T21:38:14.205Z",
+        "curated_at": "2026-11-03T01:08:42.128Z",
+        "job_updated_at": "2026-11-03T01:08:42.128Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 9815900,
+                "max_cents": 11288300,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "3a0a88aa9f09d15996089997f591fcb84926ce82430506b9833d4d39342e64a3",
+            "source": "smartrecruiters",
+            "source_posting_id": "3743990016455986",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.smartrecruiters.com/CityOfNewYork/3743990016455986"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.smartrecruiters.com/CityOfNewYork/3743990016455986-business-intelligence-analyst?oga=true"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Queens",
+                "state": "NY",
+                "country": "US",
+                "regionCode": "NY",
+                "postalCode": "11370",
+                "remote": false,
+                "zip": "11370"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 98159,
+                "max": 112883,
+                "currency": "USD",
+                "interval": "unknown",
+                "ranges": [
+                  {
+                    "min": 98159,
+                    "max": 112883,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-10-28T11:35:24.401Z",
+            "first_seen_at": "2026-11-01T21:38:14.205Z",
+            "last_completed_fetch_at": "2026-11-05T23:43:45.329Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 16,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:44:42.310Z"
+  },
+  "response_usage": {
+    "charged": "13",
+    "remaining": "99721",
+    "request_id": "a8797a99-f014-4c3c-8f36-ec465b99c4b5"
+  }
+}

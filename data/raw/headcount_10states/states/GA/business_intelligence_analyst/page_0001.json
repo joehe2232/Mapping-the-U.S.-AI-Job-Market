@@ -1,0 +1,1471 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:47:19.060794+00:00",
+  "state_filter": "GA",
+  "title_filter": "business intelligence analyst",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "GA",
+    "title": "business intelligence analyst",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "2d73e6ce-881e-4646-9811-7b84cd358448",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "5827c1e8-8add-82fc-984b-bf9c37eb23fe",
+        "employer_name": {
+          "state": "known",
+          "value": "Acuity Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Acuity Inc. (NYSE: AYI) is a market-leading industrial technology company. We use technology to solve problems in spaces, light and more things to come. Through our two business segments, Acuity Brands Lighting (ABL) and Acuity Intelligent Spaces (AIS), we design, manufacture, and bring to market products and services that make a valuable difference in people’s lives.\n\nWe achieve growth through the development of innovative new products and services, including lighting, lighting controls, building management solutions, and an audio, video and control platform. We focus on customer outcomes and drive growth and productivity to increase market share and deliver superior returns. We look to aggressively deploy capital to grow the business and to enter attractive new verticals.\n\nAcuity Inc. is based in Atlanta, Georgia, with operations across North America, Europe and Asia. The Company is powered by approximately 13,000 dedicated and talented associates. Visit us at www.acuityinc.com .\n\nWork location:\n\n• This position may be based anywhere in the United States and includes travel as part of the responsibilities.\n\nJob Summary\n\nThis job role enhances the efficiency and effectiveness of procurement and sourcing departments through expert use of business systems. It involves being the go-to authority for the functionality of Acuity's QUANTUM by GEP source-to-pay software. The position includes conducting training sessions, overseeing the usage and performance of the tool, and collaborating with tech partners to consistently advance and refine system workflows and features.\n\nKey Tasks & Responsibilities (Essential Functions)\n\nSupporting sourcing event creation and execution\n\nSystem Management and Enhancement\n\nProcure to Pay process enhancement\n\nContract Management System Management\n\nSkills and Minimum Experience Required\n\n• 3 to 5 years within a sourcing, purchasing or supply-chain support organization, plus the education listed below\n\n• Source to pay software expertise, emphasis on GEP platform\n\n• Robust analytical skills, capable of identifying and addressing the underlying causes of complex issues.\n\n• Possesses knowledge and experience in managing the complexities associated with both direct material procurement and indirect categories.\n\n• Proficient in MS Excel (Experience with MS Access, PowerBI, PowerQuery, or other query/reporting systems is a plus)\n\n• Proficient in MS Office Suite tools (PowerPoint, Outlook, Teams, Word)\n\n• Procurement experience with different commodities is a plus.\n\n• Knowledge of ERP/Source-to-Pay (Planning, Sourcing or Purchasing) environments a plus.\n\n• Bachelor’s Degree [Business Administration] or equivalent technology certification\n\nThe range for this position is $68,600.00 to $105,000.00 USD. Placement within this range may vary, depending on the applicant’s experience and geographic location. Acuity offers generous benefits including health care, dental coverage, vision plans, 401K benefits, and commissions/incentive compensation depending on the role. For a list of our benefits, click here .\n\nWe value diversity and are an equal opportunity employer. All qualified applicants will be considered for employment without regards to race, color, age, gender, sexual orientation, gender identity and expression, ethnicity or national origin, disability, pregnancy, religion, covered veteran status, protected genetic information, or any other characteristic protected by law.\n\nPlease click here and here for more information.\n\nAccommodation in the Application Process: Acuity Inc. is an equal opportunity employer. It complies with the Americans with Disabilities Act (ADA) and other applicable laws requiring reasonable accommodation of persons with disabilities in employment. This includes the provision of reasonable accommodation in the application process. If you believe you need reasonable accommodation to assist with our online application system or any aspect of the application process, please contact Human Resources at (770) 922-9000, and select option 4. Please be prepared to identify the requisition / position applied for and the aspect of the application process for which you believe accommodation is needed. The company will engage in an interactive process with you to better understand the request and to determine whether reasonable accommodation is needed and available.\n\nAny unsolicited resumes sent to Acuity Inc. from a third party, such as an Agency recruiter, including unsolicited resumes sent to an Acuity Inc. mailing address, fax machine or email address, directly to Acuity Inc. employees, or to Acuity Inc. resume database will be considered Acuity Inc. property. Acuity Inc. will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume.\n\nAcuity Inc. will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees. This includes any Agency that is an approved/engaged vendor, but does not have the appropriate approvals to be engaged on a search.\n\nE-Verify Participation Poster\n\ne-verify.gov\n\neeoc.gov"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Conyers",
+              "region": "US-GA",
+              "country": "US",
+              "postal_code": "30012",
+              "zip": "30012",
+              "county_fips": "13247",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-20T06:48:21.894Z",
+        "curated_at": "2026-11-20T07:08:44.037Z",
+        "job_updated_at": "2026-11-20T07:08:44.037Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 6860000,
+                "max_cents": 10500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "8f7e777f40c4f8937424dd67254f6fdc1038fe24f7479703828edd96a5ac0b24",
+            "source": "successfactors",
+            "source_posting_id": "1452455600",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.acuityinc.com/job/Conyers-Business-Intelligence-Analyst-GA-30012/1452455600/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://careers.acuityinc.com/job/Conyers-Business-Intelligence-Analyst-GA-30012/1452455600/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Conyers",
+                "state": "GA",
+                "country": "US",
+                "regionCode": "GA",
+                "postalCode": "30012",
+                "remote": false,
+                "zip": "30012"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 68600,
+                "max": 105000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-20T00:00:00.000Z",
+            "first_seen_at": "2026-11-20T06:48:21.894Z",
+            "last_completed_fetch_at": "2026-11-20T06:48:21.870Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "272ba0d2-1f49-4f43-8fdc-400266495c6a",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "e15e72dd-52b4-82b4-8bea-e401d4320523",
+        "employer_name": {
+          "state": "known",
+          "value": "Quantum Health, Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead Business Intelligence Analyst (CirrusMD)"
+        },
+        "description": {
+          "state": "known",
+          "value": "About CirrusMD:\n\nCirrusMD is redefining virtual care by delivering a Physician-first Care & Guidance solution that meets patients at their moment of need. Our text-based (or web) app connects patients with licensed physicians in under a minute, allowing them to engage in care at their own pace and convenience. Available 24/7/365, CirrusMD’s integrated care spans multiple specialties—from acute and chronic care to behavioral health. Our platform serves 10 million users across all 50 states and is offered exclusively through employers and health plans. Learn more at cirrusmd.com .\n\nAbout the role\n\nThere’s data everywhere. The real value comes from knowing what it means, what matters, and what we should do next.\n\nThat’s where you come in.\n\nAs a Lead Business Intelligence Analyst at CirrusMD, you’ll sit at the intersection of data, technology, healthcare, and business strategy. You’ll partner with teams across Product, Clinical, Client Success, Finance, and Engineering to turn complex questions into trusted data, meaningful insights, and better decisions.\n\nThis isn’t a role where you’ll simply take requests and build dashboards.\n\nYou’ll help shape how CirrusMD measures success, demonstrates the value of our solutions, and builds a stronger data-informed culture. You’ll be comfortable talking strategy with business leaders one minute and getting into SQL, LookML, data models, or reporting logic the next.\n\nIf you love digging into complex data, connecting dots others might miss, and turning analysis into action, we’d love to meet you.\n\nLocation: This position can work remotely from anywhere within the U.S.\n\nWhat you'll do (Essential Responsibilities)\n\nConnect data to the business. Serve as a trusted data partner across Product, Clinical, Client Success, Finance, and Engineering, helping teams connect business goals with technical execution.\n\nShow the value. Build measurement frameworks that translate our product, clinical, and commercial work into meaningful performance metrics and help demonstrate the value and ROI of CirrusMD’s solutions.\n\nOwn the data journey. Lead analytics projects from the first question and feasibility assessment through modeling, analysis, reporting, and client-facing delivery.\n\nBuild data people can trust. Partner with Engineering to define data structures and strengthen our Looker semantic layer, creating scalable, reusable, high-confidence data.\n\nTurn complexity into clarity. Dig into complex datasets and uncover insights that help teams understand what’s happening, why it matters, and where we should go next.\n\nBring performance to life. Build thoughtful dashboards, visualizations, and reporting frameworks that make important metrics understandable and actionable.\n\nProtect the integrity of the data. Balance client and stakeholder needs with strong governance, privacy standards, and organizational data practices.\n\nGet into the weeds when it matters. Investigate anomalies, challenge assumptions, validate results, and make sure the story the data tells is actually true.\n\nHelp us get smarter. Identify opportunities to evolve our analytics capabilities, improve existing data models, reduce technical debt, and make trusted insights easier to access across the organization.\n\nTake on other responsibilities as needed to support our clients, teams, and business.\n\nWhat you'll bring (Qualifications)\n\nExperience: 5+ years of relevant analytics or business intelligence experience.\n\nStrong to advanced SQL skills and experience working with cloud data platforms such as Snowflake.\n\nHands-on experience with business intelligence platforms such as Looker.\n\nExperience building and maintaining semantic layers using LookML.\n\nExperience using GitHub or similar version-control practices within a modern analytics environment.\n\nA track record of translating complex or ambiguous business questions into well-defined technical and analytical solutions.\n\nExperience owning analytics work from initial idea through feasibility, modeling, validation, visualization, and delivery.\n\nThe ability to build new data solutions while also improving, refactoring, and simplifying existing ones.\n\nStrong two-way communication skills that allow you to explain technical concepts to business partners and translate business needs for technical teams.\n\nExperience balancing complex, client-facing data requests with established data governance standards.\n\nExperience working with high-integrity data processes where accuracy is non-negotiable, such as billing, invoicing, financial, or clinical reporting.\n\nKnowledge and application of analytical and statistical concepts such as confidence intervals, hypothesis testing, sentiment analysis, and anomaly detection.\n\nThe ability to manage competing priorities and know when a problem requires a deep dive and when it’s time to zoom back out.\n\nPreferred Qualifications\n\nExperience with modern data transformation and orchestration tools such as dbt or Airflow.\n\nExperience using Python or R when the analysis needs to go beyond SQL.\n\nKnowledge of healthcare data and standards, including HIPAA, FedRAMP, PII/PHI, or clinical quality measures such as HEDIS, NCQA, or NQF.\n\nExperience with event-based product analytics or Customer Data Platforms such as Segment.\n\nA strong understanding of modern data architecture and how upstream engineering decisions affect downstream analytics.\n\nExperience working within digital health or the broader U.S. healthcare ecosystem.\n\nExperience using AI to make data easier to access and understand, including natural-language querying, conversational analytics, or AI-enabled self-service BI.\n\nWhat's in it for you:\n\nCirrusMD is paving the way to a better healthcare future and our work truly matters! Our solution is exceptionally accessible, instantly available, and simply scalable. If you are looking to make a lasting impact where your voice matters, consider joining our team and help us deliver care without barriers. We take the health and happiness of our employees seriously and offer great benefits including:\n\nCompetitive compensation\n\nDeeply subsidized medical, dental & vision insurance for you and your family\n\nUnlimited PTO / Vacation\n\n401(K) + match\n\nPaid maternity & paternity leave\n\nRemote friendly\n\nGrowth opportunity\n\nA positive, collaborative and diverse culture\n\nSocial events onsite & remote\n\nFree, unlimited access to our text-first platform\n\nReasonable Accommodation:\n\nShould you require reasonable accommodation(s) to participate in the application/interview/selection process, or in order to complete the essential duties of the position upon acceptance of a job offer, click here to submit a recruitment accommodation request.\n\nRecruiting Scams:\n\nUnfortunately, scams targeting job seekers are common. To protect our candidates, we want to remind you that authorized representatives of Quantum Health will only contact you from an email address ending in @quantum-health.com. Quantum Health will never ask for personally identifiable information such as Date of Birth (DOB), Social Security Number (SSN), banking/direct/tax details, etc. via email or any other non-secure system, nor will we instruct you to make any purchases related to your employment. If you believe you’ve encountered a recruiting scam, report it to the Federal Trade Commission and your state’s Attorney General .\n\nCalifornia Employee and Job Applicant Notice of Collection of Personal Information:\n\nIf you are a California resident, Quantum Health may collect personal information in connection with your application for employment and, if hired, during the course of your employment. The categories of personal information collected and the purposes for which that information is used are described in our California Employee and Job Applicant Notice of Collection of Personal Information.\n\nPlease review the notice here:\n\nCalifornia Employee and Job Applicant Notice\n\nUse of Technology Notice:\n\nQuantum Health and its authorized service providers may contact applicants by email, phone, and text message about their application and related employment opportunities. Text messages may cover application status, interview invitations, and reminders, and applicants will have the option to opt out at any time. Message frequency varies. Message and data rates may apply.\n\nQuantum Health uses AI-assisted recruiting technology to support communication, scheduling, and candidate evaluation, including tools that may review application materials and analyze recorded interviews. These tools assist our recruiting team; final employment decisions are made by human reviewers. Applicants who will be interviewed using these tools receive advance notice describing the technology and what it evaluates, are asked for permission before the interview is recorded or analyzed, and may request deletion of their recording."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "remote"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Atlanta",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": "13121",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Raleigh",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37183",
+              "msa": {
+                "cbsa_code": "39580",
+                "cbsa_title": "Raleigh-Cary, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Austin",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48453",
+              "msa": {
+                "cbsa_code": "12420",
+                "cbsa_title": "Austin-Round Rock-San Marcos, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Minneapolis",
+              "region": "US-MN",
+              "country": "US",
+              "county_fips": "27053",
+              "msa": {
+                "cbsa_code": "33460",
+                "cbsa_title": "Minneapolis-St. Paul-Bloomington, MN-WI",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Columbus",
+              "region": "US-OH",
+              "country": "US",
+              "county_fips": "39049",
+              "msa": {
+                "cbsa_code": "18140",
+                "cbsa_title": "Columbus, OH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Nashville",
+              "region": "US-TN",
+              "country": "US",
+              "county_fips": "47037",
+              "msa": {
+                "cbsa_code": "34980",
+                "cbsa_title": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Charlotte",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37119",
+              "msa": {
+                "cbsa_code": "16740",
+                "cbsa_title": "Charlotte-Concord-Gastonia, NC-SC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Phoenix",
+              "region": "US-AZ",
+              "country": "US",
+              "county_fips": "04013",
+              "msa": {
+                "cbsa_code": "38060",
+                "cbsa_title": "Phoenix-Mesa-Chandler, AZ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Tampa",
+              "region": "US-FL",
+              "country": "US",
+              "county_fips": "12057",
+              "msa": {
+                "cbsa_code": "45300",
+                "cbsa_title": "Tampa-St. Petersburg-Clearwater, FL",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Philadelphia",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42101",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Salt Lake City",
+              "region": "US-UT",
+              "country": "US",
+              "county_fips": "49035",
+              "msa": {
+                "cbsa_code": "41620",
+                "cbsa_title": "Salt Lake City-Murray, UT",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Indianapolis",
+              "region": "US-IN",
+              "country": "US",
+              "county_fips": "18097",
+              "msa": {
+                "cbsa_code": "26900",
+                "cbsa_title": "Indianapolis-Carmel-Greenwood, IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Pittsburgh",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42003",
+              "msa": {
+                "cbsa_code": "38300",
+                "cbsa_title": "Pittsburgh, PA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Kansas City",
+              "region": "US-MO",
+              "country": "US",
+              "county_fips": "29095",
+              "msa": {
+                "cbsa_code": "28140",
+                "cbsa_title": "Kansas City, MO-KS",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-02T11:31:13.743Z",
+        "curated_at": "2026-11-12T15:03:51.619Z",
+        "job_updated_at": "2026-11-18T19:02:08.949Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "a20aabcacff6e25b2d60eed29a02f8ce9f51c5b4b977105ec720e5989dfc8d9b",
+            "source": "lever",
+            "source_posting_id": "d6611a30-59e9-41c8-8926-9a4d3e60bd2f",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/quantum-health/d6611a30-59e9-41c8-8926-9a4d3e60bd2f"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/quantum-health/d6611a30-59e9-41c8-8926-9a4d3e60bd2f/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Dallas",
+                "state": "TX",
+                "country": "US",
+                "remote": true,
+                "alternatives": [
+                  {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Dallas, TX"
+                  },
+                  {
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Atlanta, GA"
+                  },
+                  {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Raleigh, NC"
+                  },
+                  {
+                    "city": "Austin",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Austin, TX"
+                  },
+                  {
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Minneapolis, MN"
+                  },
+                  {
+                    "city": "Columbus",
+                    "state": "OH",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Columbus, OH"
+                  },
+                  {
+                    "city": "Nashville",
+                    "state": "TN",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Nashville, TN"
+                  },
+                  {
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Charlotte, NC"
+                  },
+                  {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Phoenix, AZ"
+                  },
+                  {
+                    "city": "Tampa",
+                    "state": "FL",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Tampa, FL"
+                  },
+                  {
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Philadelphia, PA"
+                  },
+                  {
+                    "city": "Salt Lake City",
+                    "state": "UT",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Salt Lake City, UT"
+                  },
+                  {
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Indianapolis, IN"
+                  },
+                  {
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Pittsburgh, PA"
+                  },
+                  {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Kansas City, MO"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-13T18:50:19.149Z",
+            "first_seen_at": "2026-10-02T11:31:13.743Z",
+            "last_completed_fetch_at": "2026-11-18T19:01:55.933Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "589de941-e37e-4198-a522-59b128788901",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "560a7ace-d71d-8af3-8dbe-548c8eda70b6",
+        "employer_name": {
+          "state": "known",
+          "value": "Yamaha Motor Corporation, U.S.A."
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst III"
+        },
+        "description": {
+          "state": "known",
+          "value": "Yamaha has an exciting opportunity for a Motorsports Business Intelligence Analyst to join our Motorsports team. This role serves as the division's fact base and insight engine, transforming fragmented market, customer, competitive, industry, and internal business data into forward-looking intelligence. The role identifies emerging trends, opportunities, risks, and possible future business environments to support Yamaha Motorsports' 10-years strategy and portfolio decisions. The Analyst primarily owns the data to intelligence to insight stages and partners with strategy leaders to translate findings into strategic choices and actions. What you'll be doing: Track and analyze market size, demand, volume, share, category and regional trends, industry structure, adjacent categories, technology developments, economic, demographic, lifestyle, and societal forces. Translate external signals into implications for the next 5-10 years. Develop and maintain transparent, evidence-based long-term market and demand outlooks, including baseline forecasts, alternative scenarios, key assumptions, leading indicators, and potential strategic implications. Monitor and assess established and emerging competitors across corporate direction, portfolios, product launches, pricing, features, technology, accessories, financing, connectivity, positioning, customer experience, and partnerships. Analyze actual vs. plan, historical performance, market share, category and segment results, pricing, retail, dealer inventory, and key business drivers. Establish the fact-based baseline for strategy and identify changes, root causes, risks, and opportunities. Connect multiple quantitative and qualitative sources to identify patterns, relationships, gaps, opportunities, and risks. Move analysis from what happened to why it happened, what may happen next, and what it could mean for Yamaha's motorsports portfolio over a 5-10 year horizon. Assess changes in economic conditions, tariffs, fuel prices, interest rates, and relevant regulations that may affect market demand, industry structure, or competitive activity. Translate research and analysis into clear implications and recommendations, partnering with Business Management, Product Planning, Sales, Marketing, Operations, FP&A, and other stakeholders. Partner with Business Management, Product Planning, Research, Finance, Sales, Marketing YMUS Corporate, YMC, and other stakeholders to align definitions and assumptions, validate findings, and improve the use of intelligence in planning in planning and decision-making. What you need to be successful: Bachelor's degree in Business, Economics, Finance, Marketing, Statistics, Data Analytics, Market Research, or a related field required. 3+ years of experience in business intelligence, market analysis, forecasting, strategy, analytics, or a related discipline. Demonstrated experience conducting trend analysis, building or supporting industry and demand forecasts, and analyzing market share and competitive performance Experience benchmarking products and technologies, assessing competitor companies, and monitoring industry, economic, or regulatory developments. Experience in motorsports, automotive, powersports, consumer products, or related business preferred. Strong ability to synthesize complex external and internal information into clear business implications. Knowledge of industry and demand forecasting, market sizing, market-share analysis, segment analysis, and business-performance measurement. Experience with competitor benchmarking, product and technology comparisons, pricing and positioning analysis, competitor company assessments, and competitive-landscape monitoring. Advanced proficiency in Excel and PowerPoint; experience with Power BI, Tableau, or similar visualization tools preferred. What's in it for you: 401(k) and Profit Sharing Fertility Benefits 37.5 hour work-week Medical, Dental, Vision Life and AD&D Insurance Wellness Program Short-Term Disability Coverage (for hourly roles) Long-Term Disability Student Debt Repayment Benefits Ability to borrow Yamaha product Reports to: Department ManagerYamaha Motor Corporation, USA is proud to be an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identify, national origin, veteran or disability or any other status protected by federal, state, or local law. We celebrate diversity and are committed to creating an inclusive environment for all employees.#LI-RM1"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Marietta",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": "13067",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-29T07:45:40.801Z",
+        "curated_at": "2026-11-12T14:00:37.992Z",
+        "job_updated_at": "2026-11-18T14:35:28.795Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "0155848f5fbad157c0729f389c1ff0a640b95376e8f1b35e44378e9c30ba57ee",
+            "source": "activate",
+            "source_posting_id": "9b5a6e61-cc1c-4c1b-b526-b80ee234f471",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.yamaha-motor.com/search/jobdetails/business-intelligence-analyst-iii/9b5a6e61-cc1c-4c1b-b526-b80ee234f471"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://careers.yamaha-motor.com/search/jobdetails/business-intelligence-analyst-iii/9b5a6e61-cc1c-4c1b-b526-b80ee234f471"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Marietta",
+                "state": "Georgia",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "source_omitted"
+            },
+            "source_posted_at": "2026-09-28T04:00:00.000Z",
+            "first_seen_at": "2026-10-29T07:45:40.801Z",
+            "last_completed_fetch_at": "2026-11-18T14:34:53.335Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "dc27248e-65c1-42a0-bd4b-737c15f8f04b",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "082a928d-6936-80ed-b6f0-188655e349bb",
+        "employer_name": {
+          "state": "known",
+          "value": "RxVantage"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "As the **Business Intelligence (BI) Analyst** you will be responsible for analyzing customer use cases and business objectives to inform analytics and BI. The BI Analyst will use data analysis and cross-functional collaboration to deliver data-powered insights and dashboards that support RxVantage life science and sales organizations. Key duties include collecting business requirements, defining metrics and visualizations that meet the business needs, and delivering internal-facing Tableau dashboards.\n\nAt RxVantage we transform how medical practices engage with life sciences resources and expertise to improve patient care. Our platform intelligently connects healthcare providers with the precise life sciences experts that they need, when they need them. As a result, medical practices stay on the cutting edge of patient care without disrupting workflows. Trusted by more than tens of thousands of healthcare practitioners and all major life sciences companies, RxVantage has powered millions of educational exchanges between healthcare teams and life sciences companies.\n\n**What you’ll be doing:**\n\n* Partner with key stakeholders to understand internal and external (client) analytic needs and logic\n    \n    * Collaboratively define success and develop measurement frameworks\n        \n* Gather, analyze, and interpret business requirements\n    \n* Produce documentation in alignment with RxVantage standards for business intelligence dashboards\n    \n* Ensure consistency in metric names, calculations, and delivery so that metrics always match across dashboards and with the agreed upon definition\n    \n* Demonstrate SME regarding data (domains, sources, use) relevant to RxVantage use cases\n    \n* Gain insights into the business aspects of life sciences, healthcare providers, and pharmaceutical industries to tailor dashboards that meet specific use cases\n    \n* Build scalable, performant BI solutions for addressing internal analytic needs\n    \n* Independently work through a Jira backlog of user requests, communicating status, and meeting agreed upon delivery dates\n    \n    * Provide input on backlog creation and due dates.\n        \n* Comply with the RxVantage Tableau security framework\n    \n\n**Benefits:**\n\n* Competitive Salary\n    \n* 100% Company-Paid Premiums for Employee’s Medical Health (HDHP 4500), Vision, and Dental Plans + $4,400 company sponsored contribution into an HSA\n    \n* Short-term and Long-term Disability\n    \n* Life Insurance\n    \n* 401k Matching\n    \n* Work from Anywhere within the US\n    \n* Flexible PTO\n    \n* Paid Parental Leave\n    \n* Post-Parental Leave Program - $5k stipend to assist with expenses, 4 week 100% paid “Ease-Back” return to work transition period\n    \n* Starter+ Membership to Wellhub (access to over 5k gyms and studios)\n    \n* Charitable donation matching\n    \n\n**Location:**\n\nOur **“Work from Anywhere”** (within the United States) philosophy is aimed at making sure that we recruit a diverse range of thought leadership to ensure that our technology is better able to serve local health care providers. Our goal is to hire the country’s top talent and allow them to create an environment where they can do their best work. PLEASE NOTE: Our \"work from anywhere\" only applies to the continental U.S. where our open roles are posted.\n\n**About Our Organization:**\n\nAt RxVantage, we're a small company with a big mission: to connect healthcare providers with the right life science experts and resources they need, exactly when they need them, to improve patient care. We’ve built a software platform that’s changing the way providers learn about the latest medical advancements and technologies. Every year, our platform powers over 1 million educational exchanges between medical practices and life science companies, making it easier for them to stay informed and provide better care.\n\n  \nWe have a proven product, a strong mission, and a passionate team. Now, we're looking for talented people to help us grow even more. If you're driven, eager to make an impact, and ready to be part of something meaningful, we want to hear from you!\n\n*\\---*\n\n*RxVantage is an equal opportunity employer and dedicated to ensuring that we represent the local communities where our health and wellbeing providers serve as pillars of support to our family, friends, and neighbors. Our representation within these communities allows us to embody a diverse set of backgrounds, experiences, abilities and perspectives; and provide an inclusive environment for our team to feel empowered to be their authentic selves, without fear of harassment or discrimination.*",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "remote"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Austin",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48453",
+              "msa": {
+                "cbsa_code": "12420",
+                "cbsa_title": "Austin-Round Rock-San Marcos, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Salt Lake City",
+              "region": "US-UT",
+              "country": "US",
+              "county_fips": "49035",
+              "msa": {
+                "cbsa_code": "41620",
+                "cbsa_title": "Salt Lake City-Murray, UT",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Portland",
+              "region": "US-OR",
+              "country": "US",
+              "county_fips": "41051",
+              "msa": {
+                "cbsa_code": "38900",
+                "cbsa_title": "Portland-Vancouver-Hillsboro, OR-WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Atlanta",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": "13121",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-13T06:26:25.661Z",
+        "curated_at": "2026-11-12T10:39:50.685Z",
+        "job_updated_at": "2026-11-14T22:38:00.978Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "3d172a5e267f371754b3e4ace2f96c2e41e2aabea093c2a276bb0ab76966cb45",
+            "source": "ashby",
+            "source_posting_id": "929717fa-844d-4df2-af64-28de55eabe89",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/rxvantage/929717fa-844d-4df2-af64-28de55eabe89"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/rxvantage/929717fa-844d-4df2-af64-28de55eabe89/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "country": "US",
+                "remote": true,
+                "alternatives": [
+                  {
+                    "city": "Chicago",
+                    "state": "Illinois",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": true,
+                    "raw": "Chicago, IL | Remote"
+                  },
+                  {
+                    "city": "Austin",
+                    "state": "Texas",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": true,
+                    "raw": "Austin, TX | Remote"
+                  },
+                  {
+                    "city": "Salt Lake City",
+                    "state": "Utah",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": true,
+                    "raw": "Salt Lake City, UT | Remote"
+                  },
+                  {
+                    "city": "Portland",
+                    "state": "Oregon",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": true,
+                    "raw": "Portland, OR | Remote"
+                  },
+                  {
+                    "city": "Atlanta",
+                    "state": "Georgia",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": true,
+                    "raw": "Atlanta, GA | Remote"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-09T18:22:18.200Z",
+            "first_seen_at": "2026-10-13T06:26:25.661Z",
+            "last_completed_fetch_at": "2026-11-14T22:32:14.342Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "2b41fc1d-a634-4030-8ed0-975bca060382",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "a5ae54a9-dfdf-8f4a-848c-5cd8b29bfc18",
+        "employer_name": {
+          "state": "known",
+          "value": "STV Incorporated"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "**STV** is seeking a **Business Intelligence Analyst**, reporting to the IT Director of Business Systems. This position is designated as **hybrid (3 days per week in office) and can be located within a commutable distance of any of our main office locations, preferably within the central or east co.**\n\n  \n\nThis is a critical role in supporting business growth by delivering accurate, actionable reporting and analysis across all business units and for executive leadership. This position supports the development of reports, dashboards, KPIs, and performance insights that guide strategic decision‑making and ensure healthy project performance.\n\n  \n\n**Key Responsibilities**\n\n**Reporting & Visualization**\n\n* Develop, maintain, and optimize enterprise reporting dashboards supporting project performance, financial management, and business development initiatives\n* Create standardized reporting packages and deliver ongoing monthly, quarterly, and annual performance reports\n* Design and maintain semantic models, relationships, measures, and calculated columns using DAX\n* Optimize Power BI models for performance, scalability, and reusability\n* Collaborate with technical staff on deployment pipelines, data refresh strategies, and lifecycle management\n\n  \n\n**Data Management & Analysis**\n\n* Extract, clean, validate, and analyze data from our ERP and related business systems to assess pipeline activity, win rates, sales cycle trends, and client behavior\n* Perform financial and operational performance analysis, including KPI tracking, revenue and margin variance analysis, backlog and WIP reporting, forecasting support, and project health assessments\n* Ensure data integrity by identifying inconsistencies, correcting gaps, and recommending process improvements across our ERP and reporting systems\n\n  \n\n**Strategic Insights & Cross**‑**Functional Partnership**\n\n* Translate complex data findings into clear, concise insights for both technical and non‑technical audiences\n* Partner closely with business development, operations, finance, and support teams to understand reporting needs and deliver timely analysis\n* Support strategic planning through ad‑hoc analyses, scenario modeling, and client insights that inform leadership decisions\n\n  \n\n**Required Qualifications**\n\n* Bachelor’s degree in Business Analytics, Data Science, Information Systems, or a related field\n* 5+ years of experience in advanced reporting, business analytics, or financial analysis; AEC industry experience preferred\n* Experience supporting financial reporting for professional services or project-based organizations\n* Strong understanding of project accounting concepts (e.g., revenue, backlog, utilization, margin, WIP)\n* Strong proficiency with data visualization tools (e.g., Power BI)\n* Proven experience with Power BI data modeling and DAX\n* Experience working with ERP systems (e.g., Deltek Vantagepoint)\n* Advanced Excel skills, including pivot tables, advanced formulas, and Power Query\n* Strong analytical and quantitative abilities, with the capacity to interpret and clearly communicate complex data\n* High attention to detail and proven ability to manage multiple priorities in a fast‑paced environment\n* Excellent communication and collaboration skills\n\n  \n\n**Preferred Qualifications**\n\n* Experience integrating ERP and large data sets into automated reporting workflows\n* Familiarity with AEC project processes, reporting structures, and performance metrics\n* Ability to develop and maintain data workflow technologies including SSIS, Data Factory (or equivalent)\n* Knowledge of statistical analysis techniques or SQL is a plus\n\n  \n\n**Outside agencies, or unsolicited applicants will not be considered**\n\n  \n\n**THIS POSITION DOES NOT QUALIFY FOR SPONSORSHIP**\n\n  \n\n**#LI-AW1 #LI-HYBRID**\n\nCompensation Range:\n\n$88,777.71 - $101,460.24\n\n  \n  \n\n**STV offers the following benefits** • Health insurance, including an option with a Health Savings Account • Dental insurance • Vision insurance • Flexible Spending Accounts (Healthcare, Dependent Care and Transit and Parking where applicable) • Disability insurance • Life Insurance and Accidental Death & Dismemberment • 401(k) Plan • Retirement Counseling • Employee Assistance Program • Paid Time Off • Paid Holidays • Back-Up Dependent Care • Parental Leave • Continuing Education Program • Professional Licensure and Society Memberships\n\n  \n\nSTV is committed to paying all of its employees in a fair, equitable, and transparent manner. The listed pay range is STV’s good-faith salary estimate for this position. Please note that the final salary offered for this position may be outside of this published range based on many factors, including but not limited to geography, education, experience, and/or certifications.\n\n  \n\n**Not sure this role is the perfect match?** We encourage you to apply if STV’s work and values resonate with you. We know great candidates don’t always meet every qualification, and research shows women and people of color are less likely to apply unless they do. At STV, we believe strong talent comes from a wide range of backgrounds, and your skills and experience may align with this or another opportunity as we continue to grow.\n\n  \n\nSTV is one of the top infrastructure-focused professional services firms in North America. Founded in 1912, STV advises, plans, designs, engineers and delivers the infrastructure that powers local economies, including transportation systems, buildings, water and other facilities. Headquartered in New York City, the company has more than 65 offices and 3,400 employees who reimagine the solutions and structures that connect our communities. The firm is ranked 32nd in Engineering News-Record’s Top 500 Design Firms survey and is 10th in its transportation category.\n\n  \n\nSTV is deeply committed to investing in its people and creating a world-class employee experience. We are passionate about mentoring, coaching and cultivating our talent because we know they are destined to become the next generation of industry leaders. We’re also committed to delivering formative career experiences – and we do that by providing challenging and unique work experiences, by mapping multiple ways to advance (beyond the traditional career ladder!) and by recognizing those who successfully chart new and exciting paths for the firm.\n\n  \n\nWe value a wide range of perspectives and experiences, without regard to any factor or characteristic, regardless of whether it is a category protected by federal, state and/or local law, making them an integral part of how we work. Our approach ensures that every individual is respected, heard, and given opportunities to contribute meaningfully. We remove barriers and create pathways for growth, embedding fairness into our daily operations.\n\n  \n\nLearn more at [stvinc.com](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstvinc.com%2F&data=05%7C02%7CAnthony.Scioli%40stvinc.com%7C08724f4ebd69449e127c08dc818f9a6c%7C7e24c8b1662f487d82acbbeb898cc172%7C0%7C0%7C638527700991287846%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=xzboA1AJQbXrkUbp6%2Be02jdizKYJaoBRBtLM0APQKWc%3D&reserved=0).\n\n  \n\nSTV exists to make communities better through innovative solutions that connect people, places and the present to the future. Our local teams throughout the country deeply understand the needs of their communities and have the expertise to provide solutions. We are also committed to giving back to our communities and our neighbors through volunteering and philanthropic activities; fundraising events; scholarships, internships, and mentoring; and sustainability and community improvement projects. [Learn more](https://stvpages.com/).\n\n  \n\nSTV provides equal employment opportunities to all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "hybrid",
+          "evidence": [
+            "jobPostingInfo.jobDescription: #LI-HYBRID"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Douglassville",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Atlanta",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": "13121",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Charlotte",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37119",
+              "msa": {
+                "cbsa_code": "16740",
+                "cbsa_title": "Charlotte-Concord-Gastonia, NC-SC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Newark",
+              "region": "US-NJ",
+              "country": "US",
+              "county_fips": "34013",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Philadelphia",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42101",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-13T08:15:01.225Z",
+        "curated_at": "2026-11-13T08:23:23.847Z",
+        "job_updated_at": "2026-11-13T09:11:49.819Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 8877771,
+                "max_cents": 10146024,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "53f2b168fc349e9d6e809652b5cd6fbc3bcb69c240ef3c05faca930d779c4bfa",
+            "source": "workday",
+            "source_posting_id": "/job/Douglassville-Pennsylvania/Business-Intelligence-Analyst_JR5589",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Douglassville-Pennsylvania/Business-Intelligence-Analyst_JR5589"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Douglassville-Pennsylvania/Business-Intelligence-Analyst_JR5589"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Douglassville",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Atlanta, Georgia"
+                  },
+                  {
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Charlotte, North Carolina"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Chicago, Illinois"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Dallas, Texas"
+                  },
+                  {
+                    "city": "Newark",
+                    "state": "NJ",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Newark, New Jersey"
+                  },
+                  {
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Philadelphia, Pennsylvania"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 88777.71,
+                "max": 101460.24,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-11T00:00:00.000Z",
+            "first_seen_at": "2026-11-13T08:15:01.225Z",
+            "last_completed_fetch_at": "2026-11-13T09:09:02.380Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "c16221e5-7b85-4292-9785-fe0acd3e34ba",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "e1ecd1c8-04a6-8184-9502-82c2cf63c179",
+        "employer_name": {
+          "state": "known",
+          "value": "Irving Tissue"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Description\n\nWhat we offer\nIrving Tissue is proud to offer a competitive salary and benefits package, including but not limited to:\nMedical, Dental, Vision Insurance effective 1st of the month following start date\n401K with 5% company match eligible on the 1st of the month 30 days following your start date\nHealth & Wellness Reimbursement\nEmployee & Family Assistance Program\nProduct Purchase Program\nOpportunities to take part in job related training and development\nGrowth and progression opportunities within Irving Tissue and the larger network of the J.D. Irving group of companies\nThis position is 100% onsite. Remote work is not available for this position.\n\nThe Business Intelligence Analyst is an integral member of the Macon Tissue and Corporate Business Data team, designing and developing solutions to support data-informed decision making across ICP’s operations. Reporting directly to the Continuous Improvement Leader, the Business Intelligence Analyst will work with the Corporate Data Team to design and develop reporting and analytics solutions using data gathered from machine sensors and production systems to support strategic objectives.\n\nAs the Business Intelligence Analyst, you have a passion for turning disparate streams of data into organized and valuable data products and services. You will remove data blockers, develop reporting and analytics solutions, promote a data-informed approach to problem-solving, and provide coaching and mentoring to project team members in the effective use of data. Additionally, you will play a key role in promoting, maintaining, and administrating the operations team’s Power BI ecosystem. You will work closely with the Continuous Improvement Leader and Corporate Business Data Manager to influence our Corporate Data Strategy by recommending and developing reporting and analytics solutions that support our data-informed culture.\nDeveloping Reporting and Analytics Solutions\nLead, prioritize, and execute on the development of reporting and analytics solutions in support of business objectives\nEnd-to-end development of reporting and analytics solutions as member of project teams\nImplement design thinking and agile methodologies to speed time-to-value for reporting and analytics solutions\nAnalyze, study and test data inputs and outputs to ensure quality\nCollaborate with users and senior leadership to understand features and business requirements, and propose solutions\nTranslate requirements into wireframes, mockups, and functional prototypes\n\nCoaching and Mentorship\nImprove data literacy of team members and promote a data-informed culture\nCoach and mentor supervisors/leaders/managers/process engineers to improve analytical capabilities across our manufacturing sites\nFacilitate hands-on training sessions to teach others about business intelligence tools and concepts\n\nPower BI Administration\nPromote best practices and standards for working with Power BI\nTest and publish reports to Power BI Service\nMonitor and maintain existing reports on Power BI Service\nFacilitate dataset creation with the team’s Data Engineer\nStandardize reporting where possible\n\nResearch and Development\nResearch and self-educate on emerging technologies and themes relating to Business Intelligence\nAssess new technologies/approaches, and promote their use across the organization\nResearch other areas of design, technology, and innovation that support Corporate Data Strategy\n\nEducational Requirements:\nPostsecondary education in Business Intelligence, Business Analytics, Data Science and Analytics, Computer Science, Engineering, Software Engineering, or similar field of study\nPL-300 Microsoft Power BI Data Analyst Certification Preferred\n\nExperience Requirements:\n3-7 years of Business Intelligence experience:\nDesigning and implementing reporting solutions in various BI tools as required (Excel, PowerBI, Cognos, Jupyter Notebook, etc.)\nQuerying SQL/NoSQL databases/data warehouses\nDesigning, developing, and communicating KPIs to business stakeholders\nCreating mockups and prototypes to facilitate report design\nTeaching others how to effectively build reporting solutions\nDeveloping reporting solutions that are scalable, sustainable, and easy to maintain\n3-7 years of Microsoft Power Platform experience:\nDeveloping and publishing reports and dashboards in Power BI\nDeveloping data models in Power BI\nDeveloping Power Automate Flows\nDeveloping Power Apps\nAdministrating Power BI Service and Workspaces\n3-7 years of solution design experience:\nCommunicating complex technical solutions to business stakeholders\nPerforming stakeholder analysis as part of Systems Analysis and Design\nSoliciting requirements from stakeholders at all leadership levels\nImplementing Design Thinking and Agile methodologies to improve solution adoption\nMonitoring and collecting usage statistics on solutions once implemented\nWorking as an influencer and evangelist for data-informed decision making\n\nFounded in 1882, J.D. Irving, Limited (JDI) operates in Eastern Canada (New-Brunswick, Nova Scotia, Prince Edward Island, Québec, Ontario, Newfoundland and Labrador), as well as in USA. We are a team of 20,000 dedicated employees. At J.D. Irving, Limited, you are part of a dynamic team of professionals who lead with integrity and are passionate about delivering results. With a culture that nurtures talent and creates an inclusive workplace, you can grow your career across our various operating divisions.\n\nWe are committed to creating accessible environments for our colleagues, candidates, and customers. Requests for accommodation due to a disability (which may be visible or invisible, temporary, or permanent) can be made at any stage of application and employment. We encourage candidates to make their accommodation needs known so that we can provide equitable opportunities.\n\nWorried you do not meet all the requirements? Studies have shown that many applicants apply only to job opportunities when they feel they meet 100% of the criteria. We promote an inclusive environment where everyone is appreciated, recognized, and empowered to contribute fully. If you are interested in this position but are worried you did not meet all the requirements, we would encourage you to still apply.\n\nOur recruitment advisors and hiring teams will utilize human screening combined with AI technology to help identify the skills and qualities that matter most to our business, while safeguarding your privacy and using AI responsibly.\n\nWe appreciate your interest in our company however only those candidates selected for an interview will be contacted.\n\nAt Irving Tissue, we know the key to success is our people.\n\nWe are a leading manufacturer of premium quality tissue products – including national brands Royale® in Canada and Scotties® in the US - and private label.\n\nWe pride ourselves in our commitment to providing the best quality products and exceptional service to our consumers and customers.\n\nOur parent company - J.D. Irving, Limited, is a responsible steward of the forests. J.D. Irving has planted more than 1 billion trees since 1957, and the Irving Forest Supply Chain, which includes Irving Tissue, was declared carbon neutral for the first time in 2020 and each full year since.\n\nJob Info\nJob Identification\n12898\nJob Category\nData Analytics/Warehousing & Business Intelligence\nPosting Date\n11/12/2026\nJob Schedule\nFull time\nJob Shift\nDay\nLocations\nMacon, GA, United States"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Macon",
+              "region": "US-GA",
+              "country": "US",
+              "zip": "31216",
+              "county_fips": "13021",
+              "msa": {
+                "cbsa_code": "31420",
+                "cbsa_title": "Macon-Bibb County, GA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-13T05:18:13.053Z",
+        "curated_at": "2026-11-13T05:26:31.973Z",
+        "job_updated_at": "2026-11-13T05:26:31.973Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "7492d08bb159aa2191b3e7227729e7eb1a8f0fea7145ef2c4f43a4dad7144ebe",
+            "source": "oracle_hcm",
+            "source_posting_id": "12898",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/12898"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/12898"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Macon",
+                "state": "GA",
+                "country": "US",
+                "countryRaw": "United States",
+                "latitude": 32.83994,
+                "longitude": -83.62802,
+                "remote": false,
+                "zip": "31216"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-12T00:00:00.000Z",
+            "first_seen_at": "2026-11-13T05:18:13.053Z",
+            "last_completed_fetch_at": "2026-11-13T05:23:04.078Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "1576e7e4-7ade-4dc3-b71e-4aa8398e2f55",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "909075d5-b32a-8bc7-be1d-b825e80ba39a",
+        "employer_name": {
+          "state": "known",
+          "value": "Arconic"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Description\n\nArconic is currently in search of a Business Intelligence Analyst to join our Kawneer Business in Alpharetta, GA.\n\nAt Arconic, we take pride in our work and our innovative products and technologies that advance sustainable solutions for a better world. We strive to create a safe, inclusive, and collaborative workplace with competitive benefits, development opportunities and a culture that values and rewards employees on all levels of the organization.\n\nJob Summary:\nThe Business Intelligence Analyst designs, develops, and continuously improves analytics, visualization, and AI-assisted intelligence solutions that support decision-making across Kawneer.\n\nThis position offers the opportunity to help shape the future of business intelligence at Kawneer as the organization continues to evolve beyond traditional reporting toward more interactive analytics, modern visualization, self-service intelligence, AI-assisted insight generation, and emerging Microsoft data platforms.\n\nWorking closely with business and technology teams, the analyst develops analytics and intelligence solutions that improve data accessibility, enhance how information is presented and consumed, and enable better operational and business decision-making. The role supports the continued evolution of Kawneer's analytics capabilities through technologies such as Power BI, Microsoft Fabric, semantic models, Copilot-enabled analytics, and other emerging intelligence capabilities.\n\nIn this role, you will:\nDesign, develop, and maintain analytics, intelligence, and visualization solutions that support operational and strategic decision-making.\n\nCreate dashboards, KPIs, semantic models, and analytical experiences that improve how business information is consumed and understood.\n\nLeverage AI-assisted analytics, self-service capabilities, and modern Microsoft technologies to improve insight generation and analytical productivity.\n\nPartner with business stakeholders to translate business questions into meaningful analytical solutions and actionable insights.\n\nImprove the accessibility, consistency, quality, and trustworthiness of enterprise data and intelligence assets.\n\nSupport and enhance Power BI, Microsoft Fabric, and related analytics platforms.\n\nEvaluate emerging analytics, visualization, and AI capabilities and apply them where they provide measurable business value.\n\nAlso note:\nAnalytics and intelligence solutions become more intuitive, flexible, and widely adopted.\n\nBusiness users gain faster access to meaningful information and insights.\n\nSelf-service and AI-assisted analytics capabilities expand across the organization.\n\nEnterprise data and intelligence assets become more consistent, scalable, and valuable.\n\nAnalytics and visualization capabilities continue to evolve in support of Kawneer's digital transformation.\n\nYou have:\nAssociate’s degree or 5 years of experience\n\nExperience designing and delivering business intelligence, analytics, reporting, and data visualization solutions.\n\nStrong experience with Power BI and modern data visualization practices.\n\nExperience with Microsoft Fabric, Azure analytics services, cloud analytics platforms, or similar technologies required.\n\nExperience leveraging AI-assisted analytics, Copilot capabilities, analytical automation, or emerging intelligence technologies.\n\nStrong understanding of data modeling, semantic models, KPI development, reporting architecture, and visualization best practices.\n\nStrong analytical thinking, communication, stakeholder engagement, and data storytelling skills.\n\nCuriosity and enthusiasm for modern analytics, visualization, and AI capabilities, with a desire to continuously improve how business information is delivered and consumed.\n\nEmployees must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is not available for this position.\n\nJob Info\nJob Identification\n114346\nJob Category\nInformation Technology\nPosting Date\n11/04/2026\nDegree Level\nAssociate Degree\nJob Schedule\nFull time\nLocations\n5555 Windward Parkway, Alpharetta, GA, 30004, US"
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "in_person",
+          "evidence": [
+            "detail: "
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Norcross",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": "13135",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Alpharetta",
+              "region": "US-GA",
+              "country": "US",
+              "postal_code": "30004",
+              "street": "5555 Windward Parkway, Suite 220",
+              "zip": "30004",
+              "county_fips": "13121",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-05T18:43:05.351Z",
+        "curated_at": "2026-11-11T21:20:55.468Z",
+        "job_updated_at": "2026-11-11T21:20:55.468Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "4ce9c0e31e86e1a3480a5b648dc4b0a702121885f208da3e841e72ef0cd02eef",
+            "source": "oracle_hcm",
+            "source_posting_id": "114346",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114346"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114346"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Norcross",
+                "state": "GA",
+                "country": "US",
+                "countryRaw": "United States",
+                "latitude": 33.94308,
+                "longitude": -84.2104,
+                "remote": false,
+                "zip": "30004",
+                "alternatives": [
+                  {
+                    "city": "Alpharetta",
+                    "state": "GA",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "regionCode": "GA",
+                    "postalCode": "30004",
+                    "streetAddress": "5555 Windward Parkway, Suite 220",
+                    "latitude": 34.12981,
+                    "longitude": -84.29013,
+                    "remote": false,
+                    "raw": "Alpharetta, GA, US"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-04T00:00:00.000Z",
+            "first_seen_at": "2026-11-05T19:27:02.943Z",
+            "last_completed_fetch_at": "2026-11-11T21:19:34.070Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "54aa8524f888d48cadabc202c56ee6213ccf540dcc43eee7d8c0f150d385eb81",
+            "source": "oracle_hcm",
+            "source_posting_id": "114346",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114346"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114346"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Norcross",
+                "state": "GA",
+                "country": "US",
+                "countryRaw": "United States",
+                "latitude": 33.94308,
+                "longitude": -84.2104,
+                "remote": false,
+                "zip": "30004",
+                "alternatives": [
+                  {
+                    "city": "Alpharetta",
+                    "state": "GA",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "regionCode": "GA",
+                    "postalCode": "30004",
+                    "streetAddress": "5555 Windward Parkway, Suite 220",
+                    "latitude": 34.12981,
+                    "longitude": -84.29013,
+                    "remote": false,
+                    "raw": "Alpharetta, GA, US"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-04T00:00:00.000Z",
+            "first_seen_at": "2026-11-05T18:43:05.351Z",
+            "last_completed_fetch_at": "2026-11-05T18:43:04.539Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8a120206-f698-45c2-bed6-9808cbdc18b9",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "909075d5-b32a-8bc7-be1d-b825e80ba39a",
+        "employer_name": {
+          "state": "known",
+          "value": "Arconic"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Description\n\nArconic is currently in search of a Business Intelligence Analyst to join our Kawneer Business in Alpharetta, GA.\n\nAt Arconic, we take pride in our work and our innovative products and technologies that advance sustainable solutions for a better world. We strive to create a safe, inclusive, and collaborative workplace with competitive benefits, development opportunities and a culture that values and rewards employees on all levels of the organization.\n\nJob Summary:\nThe Business Intelligence Analyst designs, develops, and continuously improves analytics, visualization, and AI-assisted intelligence solutions that support decision-making across Kawneer.\n\nThis position offers the opportunity to help shape the future of business intelligence at Kawneer as the organization continues to evolve beyond traditional reporting toward more interactive analytics, modern visualization, self-service intelligence, AI-assisted insight generation, and emerging Microsoft data platforms.\n\nWorking closely with business and technology teams, the analyst develops analytics and intelligence solutions that improve data accessibility, enhance how information is presented and consumed, and enable better operational and business decision-making. The role supports the continued evolution of Kawneer's analytics capabilities through technologies such as Power BI, Microsoft Fabric, semantic models, Copilot-enabled analytics, and other emerging intelligence capabilities.\n\nIn this role, you will:\nDesign, develop, and maintain analytics, intelligence, and visualization solutions that support operational and strategic decision-making.\n\nCreate dashboards, KPIs, semantic models, and analytical experiences that improve how business information is consumed and understood.\n\nLeverage AI-assisted analytics, self-service capabilities, and modern Microsoft technologies to improve insight generation and analytical productivity.\n\nPartner with business stakeholders to translate business questions into meaningful analytical solutions and actionable insights.\n\nImprove the accessibility, consistency, quality, and trustworthiness of enterprise data and intelligence assets.\n\nSupport and enhance Power BI, Microsoft Fabric, and related analytics platforms.\n\nEvaluate emerging analytics, visualization, and AI capabilities and apply them where they provide measurable business value.\n\nAlso note:\nAnalytics and intelligence solutions become more intuitive, flexible, and widely adopted.\n\nBusiness users gain faster access to meaningful information and insights.\n\nSelf-service and AI-assisted analytics capabilities expand across the organization.\n\nEnterprise data and intelligence assets become more consistent, scalable, and valuable.\n\nAnalytics and visualization capabilities continue to evolve in support of Kawneer's digital transformation.\n\nYou have:\nAssociate’s degree or 5 years of experience\n\nExperience designing and delivering business intelligence, analytics, reporting, and data visualization solutions.\n\nStrong experience with Power BI and modern data visualization practices.\n\nExperience with Microsoft Fabric, Azure analytics services, cloud analytics platforms, or similar technologies required.\n\nExperience leveraging AI-assisted analytics, Copilot capabilities, analytical automation, or emerging intelligence technologies.\n\nStrong understanding of data modeling, semantic models, KPI development, reporting architecture, and visualization best practices.\n\nStrong analytical thinking, communication, stakeholder engagement, and data storytelling skills.\n\nCuriosity and enthusiasm for modern analytics, visualization, and AI capabilities, with a desire to continuously improve how business information is delivered and consumed.\n\nEmployees must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is not available for this position.\n\nJob Info\nJob Identification\n114346\nJob Category\nInformation Technology\nPosting Date\n11/04/2026\nDegree Level\nAssociate Degree\nJob Schedule\nFull time\nLocations\n5555 Windward Parkway, Alpharetta, GA, 30004, US"
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "in_person",
+          "evidence": [
+            "detail: "
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Norcross",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": "13135",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Alpharetta",
+              "region": "US-GA",
+              "country": "US",
+              "postal_code": "30004",
+              "street": "5555 Windward Parkway, Suite 220",
+              "zip": "30004",
+              "county_fips": "13121",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T10:08:27.375Z",
+        "curated_at": "2026-11-10T10:08:39.258Z",
+        "job_updated_at": "2026-11-10T10:08:39.258Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "54aa8524f888d48cadabc202c56ee6213ccf540dcc43eee7d8c0f150d385eb81",
+            "source": "oracle_hcm",
+            "source_posting_id": "114346",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114346"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114346"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Norcross",
+                "state": "GA",
+                "country": "US",
+                "countryRaw": "United States",
+                "latitude": 33.94308,
+                "longitude": -84.2104,
+                "remote": false,
+                "zip": "30004",
+                "alternatives": [
+                  {
+                    "city": "Alpharetta",
+                    "state": "GA",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "regionCode": "GA",
+                    "postalCode": "30004",
+                    "streetAddress": "5555 Windward Parkway, Suite 220",
+                    "latitude": 34.12981,
+                    "longitude": -84.29013,
+                    "remote": false,
+                    "raw": "Alpharetta, GA, US"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-04T00:00:00.000Z",
+            "first_seen_at": "2026-11-10T10:08:27.375Z",
+            "last_completed_fetch_at": "2026-11-10T10:08:27.322Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "b49bfb8d-b609-4367-be46-5687533620dc",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "source_omitted"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst #1335"
+        },
+        "description": {
+          "state": "known",
+          "value": "LABOR CATEGORY : Business Analyst, Integration SEHLKE POSITION TITLE : SME II LOCATION : Albany, GA (MCLB Albany) JOB DESCRIPTION : Sehlke Consulting is currently seeking qualified candidates that will lead a team of subject matter experts located in Albany, GA in conjunction with Marine Corps Logistics Command Supply Chain Management Center’s mission of strategic logistics services planning to accomplish the continued logistical support mission to enhance Fleet Marine Force readiness and sustainability objectives. Experience that equipped the applicant with a high level of knowledge, skills, and abilities to successfully perform the duties of the position, and that is typically in or related to the work of Lead Business Analyst regarding Integration. Experience should demonstrate: Duties and expectations include, but are not limited to the following: Ability to analyze problems to identify significant factors, gather pertinent data, and recognize solutions at an enterprise level. Support the Business Analyst (Lead – Integration) in analyzing supply chain processes and architecture and providing recommended courses of action for integration of Supply Chains and improvement of processes. Support change management efforts for the government customer to integrate and improve supply chains. Apply knowledge of laws, policies, regulations and precedents applicable to logistics planning and program execution/sustainment. Support development of recommendations for changes to Marine Corps policy that integrate and improve supply chains. Support development of briefings, documents, and other communications related supply chain integration and improvement. Support facilitation of meetings or conferences for integration and improvement in supply chains. CLEARANCE REQUIREMENTS : Secret EDUCATION REQUIREMENTS : Minimum of a four (4) year course of study in a relevant field leading to a bachelor’s degree, or a combination of successfully completed post-high school education and/or training experiences that meet the total qualification requirements for this position level. CERTIFICATION REQUIREMENTS : N/A EXPERIENCE REQUIREMENTS: Possess 5 years of successful Reparable/Consumable Management experience at Marine Corps activities in the facilitation and operational planning skills. Possess detailed knowledge and insight into Logistics Command’s management and organizational structure for Ground Equipment Secondary Items Management. Possess detailed knowledge of Logistics Command’s performance management framework for evaluating the effectiveness of SECREP Products & Services. Possess detailed knowledge and experience with Logistics Command’s framework and concept for planning and execution in the Metrics Management, SECREP sourcing, Source of Repair processes; and SECREP Wholesale pricing. SYSTEM SPECIFIC EXPERIENCE REQUIREMENTS : Proven capabilities to adjust to and train personnel on newly designed systems required for better enhancement of supply/fiscal operations that may be similar to legacy systems as comparable to: SABRS SMARTS GCSS-MC ADDITIONAL REQUIREMENTS : Travel may be required at least two weeks per year. Must be able to lift 50 pounds. Ability to multi-task and employ problem-solving skills. Warehouse technicians may require forklift certification and minimum sin-shop license To be eligible for employment, you must be fully vaccinated, except in limited circumstances where an employee is legally entitled to an accommodation, by January 4 th , 2022 or your start date, whichever is second in time. People are considered fully vaccinated for COVID-19 two weeks after they have received the second dose in a two-dose series, or two weeks after they have received a single-dose vaccine. If you think you are entitled to an accommodation, please advise your Sehlke liaison and they will consult our human resource leads for consideration. Founded in 2011, Sehlke Consulting is headquartered in Arlington, VA – and an Equal Opportunity Employer that values the strength diversity brings to the workplace. Individuals with Disabilities and Protected Veterans are encouraged to apply."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Albany",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": "13095",
+              "msa": {
+                "cbsa_code": "10500",
+                "cbsa_title": "Albany, GA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-14T22:29:11.871Z",
+        "curated_at": "2026-11-04T19:12:18.937Z",
+        "job_updated_at": "2026-11-04T19:12:18.937Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "5adb2703b4761fd552dad6f1d156d5725e52deb0c3c4f80782059337a0203729",
+            "source": "adp",
+            "source_posting_id": "9200326379265_1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=77ef84c0-52b2-4d4d-8bbb-2583d18b4b36&ccId=19000101_000001&lang=en_US&jobId=9200326379265_1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=77ef84c0-52b2-4d4d-8bbb-2583d18b4b36&ccId=19000101_000001&lang=en_US&jobId=9200326379265_1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Albany",
+                "state": "GA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2021-09-13T22:43:00.000Z",
+            "first_seen_at": "2026-10-14T22:29:11.871Z",
+            "last_completed_fetch_at": "2026-11-04T19:12:01.273Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 11,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:47:17.160Z"
+  },
+  "response_usage": {
+    "charged": "9",
+    "remaining": "98167",
+    "request_id": "bd07bc54-1db2-4d03-9bd6-fa6d61c6ca31"
+  }
+}

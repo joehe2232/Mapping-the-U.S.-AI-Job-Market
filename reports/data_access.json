@@ -1,0 +1,48 @@
+{
+  "postgresql": {
+    "host": "ai-job-market-group07.c3ckyiegwuxb.us-east-2.rds.amazonaws.com",
+    "port": 5432,
+    "database": "ai_job_market",
+    "raw": [
+      "raw.oews_metro",
+      "raw.onet_occupation",
+      "raw.onet_software_skills",
+      "raw.onet_essential_skills"
+    ],
+    "processed": [
+      "clean.postings",
+      "clean.posting_locations",
+      "clean.source_postings",
+      "clean.pay_ranges",
+      "clean.posting_skills",
+      "clean.job_entities"
+    ],
+    "analysis": [
+      "serving.analysis_jobs",
+      "serving.postings_with_bls",
+      "serving.metro_sample_counts",
+      "serving.salary_comparisons",
+      "serving.role_skill_comparison",
+      "serving.state_salary_field_coverage"
+    ]
+  },
+  "mongodb": {
+    "host": "aijobmarketcluster.7irkp1a.mongodb.net",
+    "database": "ai_job_market",
+    "collections": {
+      "raw": "raw_pages",
+      "source_metadata": "collection_manifests",
+      "processed_jobs": "clean_job_summaries",
+      "processed_salary": "clean_pay_ranges"
+    },
+    "source_snapshot": "hc_source_eea46d64c7da954d7bab",
+    "clean_version": "mc_e6b15bd4d4ef57ed176b"
+  },
+  "local_raw": {
+    "archives": "data/downloads/",
+    "government": "data/raw/bls_2025_metro/ and data/raw/onet_31_0_csv/",
+    "headcount": "data/raw/headcount_10states/",
+    "checksums": "reports/raw_file_manifest.json"
+  },
+  "credentials": "Use local .env; credentials are not included in this inventory."
+}

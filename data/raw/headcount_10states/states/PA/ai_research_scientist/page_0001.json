@@ -1,0 +1,281 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:44:26.238704+00:00",
+  "state_filter": "PA",
+  "title_filter": "AI research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "PA",
+    "title": "AI research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "b4058259-7af6-40ea-8870-d686081100ab",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "2a18eec0-fad7-86d5-ab1b-378a371572a4",
+        "employer_name": {
+          "state": "known",
+          "value": "Datadog"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist - Datadog AI Research (DAIR)"
+        },
+        "description": {
+          "state": "known",
+          "value": "As a Research Scientist on our team, you will partner with Research Engineers, working on fundamental research problems and collaborating with Datadog’s Product and Engineering teams to help translate research advances into tangible benefits for our customers.\n\nBuilding on our proven track record of delivering AI-powered solutions, including [Bits AI](https://www.datadoghq.com/blog/bits-ai-sre/), [Toto 2.0](https://www.datadoghq.com/blog/ai/toto-2/), and [Scout](https://www.datadoghq.com/blog/ai/introducing-scout-sre-specialized-model-bits-ai/), Datadog AI Research (DAIR) pursues ambitious, high-risk, high-reward research initiatives focused on solving real-world challenges in cloud observability and security.\n\nWe are currently focused on two key research areas:\n\n1.  **Observability Foundation Models** – Building state-of-the-art models for advanced forecasting, anomaly detection, and multi-modal telemetry analysis (logs, metrics, traces, etc.). These models will also provide the foundation for our decision models to natively analyze telemetry data.\n2.  **Observability Native Decision Models**  – Developing multimodal (logs, traces, metrics, text, images, ...) hybrid decision and reasoning models that are general and efficient enough to be watching your entire system continuously and effectively. Building and training hybrid Decision/Generative systems, e.g., decision models call on agentic models for deeper investigations or support evidence.\n\n**What You’ll Do:**\n\n* Conduct cutting-edge research in Generative AI and Machine Learning, aiming to build specialized Foundation Models and AI Agents for observability, site reliability engineering, and code repair\n* Leverage large-scale distributed training infrastructure to pre-train and post-train state-of-the-art models on diverse, real-world telemetry data\n* Build simulated environments to facilitate on-policy agentic training and evaluation.\n* Share research findings with external audiences upon reaching significant project milestones.\n* Collaborate with cross-functional teams (e.g., Product, Engineering) to integrate advanced AI capabilities – like multi-modal analysis or automated incident resolution planning – into Datadog’s product ecosystem\n* Stay at the forefront of LLMs, Foundation Models, and Generative AI research and engage with the external research community\n* Foster a culture of scientific rigor, innovation, and practical impact, e.g., by actively participating in reading groups and mentoring interns\n\n**Who You Are:**\n\n* You hold a PhD in Computer Science, Machine Learning, or a related field, with deep expertise in areas like generative modeling, AI agents, decision models or reinforcement learning (or have equivalent experience)\n* You possess extensive experience in designing and implementing deep learning models and agents, and have a strong background in distributed training frameworks (e.g., DeepSpeed, Megatron-LM) and ML libraries (PyTorch, TensorFlow)\n* You have a proven track record of conducting impactful research in the field with publications at top-tier venues (e.g., NeurIPS, ICLR, ICML, TMLR)\n* You're familiar with efficient training, post-training, fine-tuning, and inference techniques for large foundation models\n* You excel at explaining complex models and research findings to both technical and non-technical audiences\n* You have strong interest in open-science and open-source contributions, including establishing rigorous benchmarks and sharing research with the community\n\n**Bonus Points (any of the following):**\n\n* You have a demonstrated ability to bridge cutting-edge research and real-world product applications, ideally with an emphasis on large foundation models, generative AI agents, or domain-specific LLM deployments.\n* You’re passionate about pushing the boundaries of AI while maintaining a strong focus on customer impact, scalability, and responsible deployment of new technologies\n* You have experience writing production data pipelines and applications\n* You have hands-on experience with GPU programming and optimization, including experience in CUDA\n\n*Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about AI Research and want to grow your skills, we encourage you to apply.*\n\nDatadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate's skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.\n\nThe reasonably estimated yearly salary for this role at Datadog is:\n\n$320,000—$400,000 USD\n\n* * *\n\n**About Datadog:**\n\nDatadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on [Instagram](https://www.instagram.com/datadoghq/?hl=en), [LinkedIn,](https://www.linkedin.com/company/datadog) and [Datadog Learning Center.](https://learn.datadoghq.com/)\n\n* * *\n\n**Equal Opportunity at Datadog:**\n\nDatadog is proud to offer [equal employment opportunity](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf) to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our [Candidate Legal Notices](https://www.datadoghq.com/legal/candidate-legal-notices/) for your reference.\n\nDatadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform). This form is for accommodation requests only and cannot be used to inquire about the status of applications.\n\n**Privacy and AI Guidelines:**\n\nAny information you submit to Datadog as part of your application will be processed in accordance with Datadog’s [Applicant and Candidate Privacy Notice](https://www.datadoghq.com/legal/applicant-candidate-privacy/). For information on our AI policy, please visit [Interviewing at Datadog AI Guidelines](https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Pittsburgh",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42003",
+              "msa": {
+                "cbsa_code": "38300",
+                "cbsa_title": "Pittsburgh, PA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T02:04:52.645Z",
+        "curated_at": "2026-11-12T20:56:03.973Z",
+        "job_updated_at": "2026-11-13T21:05:19.723Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 32000000,
+                "max_cents": 40000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "12c73ffa3f8dd4f22604f6a6aa11a0297e638c6f44d1186d8c0cafd596a4165d",
+            "source": "greenhouse",
+            "source_posting_id": "6572669",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "NY",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Pittsburgh, Pennsylvania, USA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 320000,
+                "max": 400000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 320000,
+                    "max": 400000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "The reasonably estimated yearly salary for this role at Datadog is:"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2025-01-24T14:48:23.000Z",
+            "first_seen_at": "2026-09-21T02:04:52.645Z",
+            "last_completed_fetch_at": "2026-11-19T11:30:05.265Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "a79054e4-b6f9-461f-8a25-cf1d9ce3921d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "0a345466-d881-89af-821d-5fb58272edd7",
+        "employer_name": {
+          "state": "known",
+          "value": "Carnegie Mellon University"
+        },
+        "title": {
+          "state": "known",
+          "value": "Edge AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "**Edge AI Research Scientist (MTS-C)**\n\n**What We Do:**\n\nAt the SEI’s Enabling Edge Intelligence (E2I) team, we bridge the gap between breakthrough edge AI research and operational, real-world deployment. Our multi-disciplinary team of software engineers, researchers, and data scientists designs and optimizes intelligent edge systems for resource-constrained environments where reliability, safety, and performance are primary drivers. We focus on three core areas:\n\n* Evolving Systems for Next-Gen AI: Pioneering methods to integrate emerging paradigms like small language models (SLMs), agentic AI, and hardware-aware runtime optimization.\n* Seamless Cloud-to-Tactical Integration: Driving effective deployment of intelligent capabilities across the full compute continuum—from enterprise cloud down to the tactical edge.\n* Mission-Critical Infrastructure: Architecting resilient capabilities and infrastructure that keep edge operations running reliably in real-world scenarios.\n\n**Position Summary:**\n\nWe are seeking a visionary an Edge AI Research Scientist to develop, mature, prototype, and transition technology that redefines edge intelligence and delivers tangible impact to critical missions. In this role, you will lead high-visibility research initiatives, striking a balance between solving immediate, real-world customer challenges and pioneering long-term solutions to complex technical bottlenecks. You will serve as a lead technical voice — presenting groundbreaking work to executive stakeholders, defense and industry partners, and top-tier academic communities — while actively advancing our core research agenda in areas such as:\n\n* Agentic systems for edge intelligence\n* Software engineering to support edge missions\n* Resource management for edge systems\n* Adaptive systems for mission resilience\n\nAs a member of the AI-Native Software Engineering (AISE) Directorate, you will also collaborate within the AISE Lab, directly shaping and mastering state-of-the-art AI-assisted tools and workflows that are actively transforming the modern software engineering lifecycle.\n\n**Requirements:**\n\n* Education & Experience: PhD in Computer Science, Software Engineering, Machine Learning, or a related field with 2+ years of experience in edge AI system engineering—or equivalent experience (e.g., 8+ years demonstrated experience in developing and transitioning innovative technical solutions to operational practice).\n* Empirical Research: Proven track record of rigorous empirical research design, experimentation, and quantitative validation.\n* Communication: Exceptional written and oral communication skills, with a proven ability to translate complex research into compelling technical narratives.\n\n**Desired Experience, Knowledge, Skills, and Abilities:**\n\n* Operational Deployment: Practical experience building and deploying edge AI software (or systems with similar hardware/network constraints) into real-world operational environments.\n* Academic Leadership: Proven ability to publish and present research findings at premier software engineering, edge computing, or AI conferences and journals.\n* Research Funding: Track record of crafting, winning, and executing research proposals or securing funding from government agencies or strategic industry partners.\n* Analytical & Interpersonal Leadership: Outstanding analytical capabilities paired with strong interpersonal skills to collaborate effectively across multi-disciplinary teams.\n\n**Other Requirements:**\n\n* Travel: Ability to travel (~10%) to present at top-tier venues including but not limited to conferences, collaborate with sponsors, and attend strategic offsite meetings.\n* Onsite Presence: Willingness and capability to work onsite at the SEI main office in Pittsburgh, PA (5 days/week).\n* Security Clearance: You will be subject to a background investigation and must be able to obtain/maintain a Department of War security clearance.\n\n**.**\n\n**Location**\n\nPittsburgh, PA\n\n**Job Function**\n\nSoftware/Applications Development/Engineering\n\n**Position Type**\n\nStaff – Regular\n\n**Full time/Part time**\n\nFull time\n\n**Pay Basis**\n\nSalary\n\n## **More Information:**\n\n* Please visit **“[Why Carnegie Mellon](http://www.cmu.edu/jobs/why-cmu/index.html)”** to learn more about becoming part of an institution inspiring innovations that change the world.\n    \n* Click [here](https://www.cmu.edu/jobs/benefits-at-a-glance/) to view a listing of employee benefits\n    \n* **Carnegie Mellon University is an Equal Opportunity Employer/Disability/Veteran**.\n    \n* [**Statement of Assurance**](https://www.cmu.edu/policies/administrative-and-governance/statement-of-assurance.html)\n    \n\n  \n\nAlways focused on the future, the Software Engineering Institute (SEI) advances software as a strategic advantage for national security. We lead research and direct transition of software engineering, cybersecurity, and artificial intelligence technologies at the intersection of academia, industry, and government. We serve the nation as a federally funded research and development center (FFRDC) sponsored by the U.S. Department of Defense (DoD) and are based at Carnegie Mellon University, a global research university annually rated among the best for its programs in computer science and engineering.\n\n  \n\nOur people apply special knowledge and skills and are part of an elite research university. We perform research and apply our expertise every day to foresee problems and exploit opportunities in software engineering, AI engineering, and cybersecurity. Quality software that is secure will control the future. At CMU SEI, we are engineering that ever-greater software-fueled future.\n\n  \n\n**Need Help?**\n\nFor technical assistance, email [hr-help@andrew.cmu.edu](mailto:hr-help@andrew.cmu.edu) or call 412-268-5072.\n\n  \n\nWe are committed to providing an accessible experience throughout our recruitment process. If you need assistance or a reasonable accommodation at any stage of the application, interview, or hiring process, please contact Equal Opportunity Services by email at [employeeaccess@andrew.cmu.edu](mailto:employeeaccess@andrew.cmu.edu?subject=Assistance%20Requested) or by phone at 412-268-3930.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Pittsburgh",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42003",
+              "msa": {
+                "cbsa_code": "38300",
+                "cbsa_title": "Pittsburgh, PA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T18:02:17.650Z",
+        "curated_at": "2026-11-11T16:53:58.783Z",
+        "job_updated_at": "2026-11-11T16:53:58.783Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "09a5c9039befe6d4312988e0cf47008ea9b6d12fcae08d9fa9890a5f90c18fb9",
+            "source": "workday",
+            "source_posting_id": "/job/Pittsburgh-PA/AI-and-Software-Engineering-Research-Scientist_2024782",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/AI-and-Software-Engineering-Research-Scientist_2024782"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/AI-and-Software-Engineering-Research-Scientist_2024782"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Pittsburgh",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "PA",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-30T00:00:00.000Z",
+            "first_seen_at": "2026-09-21T18:04:16.885Z",
+            "last_completed_fetch_at": "2026-11-11T17:08:51.895Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "2a544f9364a7d39ce384c8e4ff82e8b6a2f7be14a4b47ba33aea349f4b70321f",
+            "source": "workday",
+            "source_posting_id": "/job/Pittsburgh-PA/AI-and-Software-Engineering-Research-Scientist_2024782-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-and-Software-Engineering-Research-Scientist_2024782-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-and-Software-Engineering-Research-Scientist_2024782-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Pittsburgh",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "PA",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-30T00:00:00.000Z",
+            "first_seen_at": "2026-09-21T18:02:17.650Z",
+            "last_completed_fetch_at": "2026-11-11T18:05:34.889Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 2,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:44:14.631Z"
+  },
+  "response_usage": {
+    "charged": "2",
+    "remaining": "99777",
+    "request_id": "e4655dbf-1d47-4081-b640-9c467242e07e"
+  }
+}

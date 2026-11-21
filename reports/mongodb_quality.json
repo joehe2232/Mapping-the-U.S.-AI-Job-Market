@@ -1,0 +1,30 @@
+{
+  "generated_at_utc": "2026-11-21T04:15:01.953968+00:00",
+  "database": "ai_job_market",
+  "postgres_batch_id": "hc_c23c7bb86f43c8505bb8",
+  "source_snapshot": "hc_source_eea46d64c7da954d7bab",
+  "clean_version": "mc_e6b15bd4d4ef57ed176b",
+  "counts": {
+    "pages": 251,
+    "occurrences": 5635,
+    "empty_pages": 5,
+    "postgres_analysis_ad_groups": 2815,
+    "clean_job_summaries": 3705,
+    "clean_pay_ranges": 27771,
+    "eligible_salary_ranges": 23388
+  },
+  "checks": {
+    "original_files_unchanged": true,
+    "raw_counts_match_acquisition": true,
+    "completed_run_registered": true,
+    "provider_ids_equal_postgres_staging": true,
+    "same_selected_original_file": true,
+    "query_occurrence_counts_equal": true,
+    "missing_description_states_equal": true,
+    "salary_row_keys_equal": true,
+    "salary_values_and_flags_equal": true,
+    "postgres_provider_rows_retained": true,
+    "raw_pages_still_preserved": true
+  },
+  "salary_difference_examples": []
+}

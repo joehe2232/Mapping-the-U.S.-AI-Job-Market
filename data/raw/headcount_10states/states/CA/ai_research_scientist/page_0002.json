@@ -1,0 +1,2817 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:48:41.117436+00:00",
+  "state_filter": "CA",
+  "title_filter": "AI research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "CA",
+    "title": "AI research scientist",
+    "sort": "updated",
+    "limit": 25,
+    "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo0NTowNi4wODBaIiwiZmlsdGVyRGlnZXN0IjoiMmdoSVlYWlRnUHdIcHJxUDZwejEybDBMcHprb2ZTVlF1d1BKWk1MQVpwcyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEzVDE5OjE3OjUyLjcyMjAwMFoiLCJqb2JJZCI6IjEwMjNlMTYzLWM0YmEtNDVhYy05NTRiLWI1NzkwZGJiZTlmMyJ9fQ.l1ZAGssraS9YdcFaPcg0s2OpduFYaquK40OanloidZU"
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "e6e44270-d2b8-46a3-9045-9caae6c5c77b",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "79164d3a-73d8-87a1-ae74-ac3d0e1d5e7b",
+        "employer_name": {
+          "state": "known",
+          "value": "Tanium"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "**The Basics**\n\nTanium is seeking an AI Research Scientist. This role reports to our Sr. Director AI and Applied Research leading AI design, prototyping, and experimentation across Tanium products and solutions. As an AI Research Scientist, you will collaborate across engineering and product teams to design, develop, and evaluate AI and ML models that power intelligent endpoint management and security solutions. This is an exciting opportunity to work at the intersection of cutting-edge AI research and real-world cybersecurity applications at enterprise scale.\n\n***This position follows the Company’s hybrid schedule which currently requires employees to work in the office at one of the following locations a minimum of three days per week: Addison, TX; Bellevue, WA; Durham, NC; Emeryville, CA; or Reston, VA.***\n\n**What you’ll do**\n\n* Collaborate with data science and engineering teams to design and implement AI and machine learning (ML) algorithms that improve Tanium’s autonomous IT capabilities.\n* Develop and evaluate ML models across a wide variety of use cases, including anomaly detection, threat identification, and performance optimization.\n* Analyze large-scale endpoint data to extract meaningful insights and develop predictive models.\n* Contribute to the design and implementation of data pipelines that efficiently process and analyze endpoint data at scale.\n* Conduct exploratory data analyses and and develop visualizations to communicate findings (to technical and non-technical stakeholders) and inform product development decisions.\n* Document research methodologies, experiments, and results to expand Tanium's internal knowledge base and support reproducibility.\n* Stay up to date with the latest advancements in AI, ML, and endpoint management technologies.\n* Monitor and incorporate the latest advancements in AI, ML, large language models, and endpoint management technologies into ongoing research efforts\n* Partner with cross-functional teams to translate research findings into scalable product features and improvements.\n\n**We’re looking for someone with**\n\n* In accordance with Department of Defense requirements, applicants for this role must be a U.S. citizen, national, or resident pursuant to 8 U.S.C. 1101(a)(20) and 8 U.S.C. 1324b(a)(3)\n* Education\n    * Bachelor's degree in Computer Science, Mathematics, Statistics, Data Science, or a related field, or equivalent experience.\n* Experience\n    * 1+ years of experience in applied machine learning, data science, or AI research, or equivalent demonstrated expertise\n    * Experience developing and deploying ML models for tasks such as classification, regression, or anomaly detection\n    * Experience working with large-scale datasets and the tools and techniques required to process and analyze them efficiently\n    * Experience in one or more of the following areas preferred: statistical modeling, anomaly detection, internals of large language models (LLMs), or agentic AI systems\n* Other\n    * Strong foundation in machine learning, data analysis, and statistics\n    * Proficiency in Python\n    * Familiarity with machine learning frameworks and libraries such as PyTorch, scikit-learn, TensorFlow, NumPy, SciPy, and pandas\n    * Strong problem-solving skills with the ability to work both independently and collaboratively in a team environment\n    * Excellent written and verbal communication skills, including the ability to present complex technical concepts clearly to diverse audiences\n    * Passion for technology, cybersecurity, and autonomous systems preferred\n\n**About Tanium**\n\nTanium is the Autonomous IT company. As Al accelerates both innovation and risk, Tanium Atlas, the company's autonomous operating system, puts the full depth of the Tanium Autonomous IT Platform behind every IT and security operator - human and agentic. Tanium provides the real-time intelligence, agentic decision-making, and autonomous execution operators needed to detect, decide, and remediate at machine speed across their endpoint estate.\n\nThe company is recognized as a Leader in the inaugural 2026 Gartner® Magic Quadrant™ for Endpoint Management Tools, as a Leader in the IDC MarketScape: Worldwide Client Endpoint Management Software for Windows Device Management 2025-2026 Vendor Assessment, and as a Leader in The Forrester Wave™. Endpoint Management Platforms, Q2 2026.\n\nTo learn how Tanium delivers Autonomous IT for unstoppable business, visit [www.tanium.com](http://www.tanium.com/) and follow us on [LinkedIn](https://www.linkedin.com/company/tanium) and [X](https://twitter.com/Tanium).\n\n**On a mission. Together.**\n\nAt Tanium, we are stewards of a culture that emphasizes the importance of collaboration, respect, and diversity. In our pursuit of revolutionizing the way some of the largest enterprises and governments in the world solve their most difficult IT challenges, we are strengthened by our unique perspectives and by our collective actions.\n\nAs a global organization with stakeholders around the world, it’s imperative that the diversity of our customers and communities is reflected internally in our team members. We strive to create a diverse and inclusive environment where everyone feels they have opportunities to succeed and grow because we know that only together can we do great things. \n\nOur commitment to excellence and innovation has earned us a place on the Forbes Cloud 100 list for ten consecutive years, and we continue to be recognized worldwide as a great place to work.\n\nEach of our team members has 5 days set aside as volunteer time off (VTO) to contribute to the communities they live in and give back to the causes they care about most.\n\n**What you’ll get**\n\nThe annual base salary range for this full-time position is $143,000 to $219,000. This range is an estimate for what Tanium will pay a new hire. The actual annual base salary offered may be adjusted based on a variety of factors, including but not limited to, location, education, skills, training, and experience.\n\nIn addition to an annual base salary, team members will receive equity awards and a generous benefits package consisting of medical, dental and vision plan, family planning benefits, health savings account, flexible spending account, transportation savings account, 401(k) retirement savings plan with company match, life, accident and disability coverage, business travel accident insurance, employee assistance programs, disability insurance, and other well-being benefits.\n\nTanium is an Equal Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, gender identity, sexual orientation, disability, protected Veteran status, or other legally protected categories. If you require a reasonable accommodation in searching for a job opening, completing an application, interviewing, or completing any pre-employment testing or requirements, please contact [accommodations@tanium.com](mailto:accommodations@tanium.com). For more information refer to the “Know Your Rights” poster which is available here - [https://www.eeoc.gov/poster](https://www.eeoc.gov/poster).\n\nPlease be aware of job offers coming from people claiming to be Tanium employees. Tanium employees will only use @tanium.com email addresses to communicate with you, will have video interviews with you, and will never ask you for money.\n\n[This link](https://www.cigna.com/legal/compliance/machine-readable-files) leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data.\n\nFor more information on how Tanium processes your personal data, please see our [Privacy Policy](https://www.tanium.com/privacy-policy/).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Addison",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Bellevue",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Durham",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37063",
+              "msa": {
+                "cbsa_code": "20500",
+                "cbsa_title": "Durham-Chapel Hill, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Emeryville",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06001",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Reston",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-21T17:54:31.617Z",
+        "curated_at": "2026-11-11T15:45:52.220Z",
+        "job_updated_at": "2026-11-13T18:50:16.833Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 14300000,
+                "max_cents": 21900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1d9cdc827d4ba246bb23858d370af5e8682ed8d0462d3b85cefcab9df834477b",
+            "source": "greenhouse",
+            "source_posting_id": "8232146",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Addison",
+                "state": "TX",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Bellevue, WA"
+                  },
+                  {
+                    "city": "Durham",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Durham, NC"
+                  },
+                  {
+                    "city": "Emeryville",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Emeryville, CA"
+                  },
+                  {
+                    "city": "Reston",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Reston, VA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 143000,
+                "max": 219000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-21T16:30:12.000Z",
+            "first_seen_at": "2026-10-21T17:54:31.617Z",
+            "last_completed_fetch_at": "2026-11-13T18:49:05.461Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "2d8a54a7-61ec-49d6-bc55-e30755a800cb",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "bdc5d621-8fd2-88bd-a921-6b9dc0ae63e3",
+        "employer_name": {
+          "state": "known",
+          "value": "Cogent Security"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "ABOUT COGENT\n\nCogent is an Applied AI Lab building the next generation of AI agents for cybersecurity. AI has fundamentally changed how attacks happen, allowing malicious actors to operate at unprecedented speed and scale. Cogent’s \"AI Taskforce\" assesses petabytes of enterprise data to remediate these issues before critical breaches occur.\n\nTo stay at the cutting edge, we blend frontier research with real-world execution. Alongside our core product work, Cogent Research serves as our applied AI lab, providing the research horsepower needed to make truly agentic security workflows a reality.\n\nSince coming out of stealth, Cogent has experienced rapid growth. We partner with Fortune 500 companies to secure some of the most complex production environments in the world.\n\nWe’re backed by Greylock and we’ve built a team with the best minds in applied AI. Our team is comprised of people from:\n\n- Top universities like Stanford, Berkeley, Penn, Duke, Carnegie Mellon, Waterloo\n\n- Unicorn, high-growth companies like Scale AI, Databricks, Stripe, Tesla, Coinbase\n\n- World class cybersecurity experts from Wiz, Abnormal AI, Zscaler\n\n- Preeminent research labs like Deepmind and SAIL\n\nABOUT THE ROLE\n\nCogent Research is the applied AI lab at the heart of Cogent's mission. As a Research Scientist, you will drive foundational and applied research at the frontier of automated reasoning and AI-driven code analysis — producing work that is both scientifically rigorous and directly impactful in the real world.\n\nWe are looking for someone who thrives in ambiguity, invents novel solutions when existing ones fall short, and has the flexibility to change course when initial ideas don't pan out. If you have deep expertise in automated reasoning, a strong publication or artifact track record, and a passion for making the world's infrastructure safer, we want to hear from you.\n\nWHAT YOU’LL DO & ACHIEVE\n\n- Drive original, high-impact research in automated reasoning, code analysis, and AI-driven security, from early hypothesis through publication-quality results\n\n- Invent and apply novel AI techniques to challenges in code reasoning and code generation, advancing the state of the art\n\n- Develop significant research artifacts, tools, or systems that have real-world impact inside Cogent and in the broader research community\n\n- Design and execute automated testing and fuzzing strategies to validate systems under development\n\n- Publish findings at top-tier conferences and peer-reviewed journals\n\n- Collaborate with engineering and product teams to translate research into Cogent's core AI platform\n\n- Stay at the cutting edge of developments in ML, program analysis, and formal methods — and help shape Cogent's research direction\n\nWHAT YOU’LL BRING\n\n- Extensive Experience in Automated Reasoning: Deep hands-on expertise in static/dynamic analysis, formal verification, and/or automated testing and fuzzing\n\n- AI Expertise: Proven experience developing or applying AI/ML techniques to code reasoning or code generation problems\n\n- Education: An MSc or PhD/DPhil in Computer Science or a closely related technical field\n\n- Proven Track Record: Demonstrated impact through publications at top-tier conferences, significant artifacts developed in a professional setting, or widely-adopted open-source contributions\n\n- Independence: A highly self-directed, proactive, and self-starting attitude — you identify problems, propose solutions, and drive them to completion\n\n- Mission Alignment: A genuine passion for Cogent's mission and a belief that this work matters\n\nBONUS POINTS:\n\n- Experience in cybersecurity — knowledge of vulnerability classes, exploit techniques, or secure-by-design systems\n\n- Familiarity with Cloud Infrastructure as Code (IaC) — tools like Terraform, Pulumi, CDK, or equivalent\n\nFOR CALIFORNIA BASED APPLICANTS\n\nThe standard base salary range for this position is $100,000 - $300,000 annually. Compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits.\n\nWe are committed to building an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-07T21:37:12.741Z",
+        "curated_at": "2026-10-03T03:24:25.328Z",
+        "job_updated_at": "2026-11-13T18:48:03.927Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "02b7a7846764c674ac821912a6c5a33bb357eb28ed4a853d747996f764596bc9",
+            "source": "ashby",
+            "source_posting_id": "ce972e7a-d724-46a5-873c-9b2ba8397bb8",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/cogent-security/ce972e7a-d724-46a5-873c-9b2ba8397bb8"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/cogent-security/ce972e7a-d724-46a5-873c-9b2ba8397bb8/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-08-03T15:13:37.454Z",
+            "first_seen_at": "2026-09-07T21:37:12.741Z",
+            "last_completed_fetch_at": "2026-11-19T12:02:01.837Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "dcaae442-2b14-4bd9-98c0-aa3aefe0e727",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Physical AI"
+        },
+        "description": {
+          "state": "known",
+          "value": "Meta's Fundamental AI Research lab is seeking a Research Scientist to drive foundational research aimed at advancing physical AI capabilities. We seek to generate advanced engineering designs such as robotic hardware, vehicles, and novel semiconductors. This role will involve heavy software research engineering, such as large-scale data manipulation and simulator integration.\n\nResponsibilities\nExplore and develop novel post-training paradigms for LLMs using reinforcement learning\nExplore and develop novel LLM post-training recipes using 3D data\nIntegrate large-scale simulation into LLM post-training\nExplore mechanical, aerospace, civil, and other engineering disciplines and how to enable LLMs to solve key problems in these domains\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, Mechanical Engineering, Electrical Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\nCurrently has or is in the process of obtaining a PhD degree in Artificial Intelligence, Physical AI, Computer Vision (3D), Machine Learning, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\nResearch experience in at least one of the following research areas: physical AI, simulation, reinforcement learning, representation learning, self-supervised learning, multimodal learning, robotics policy development, computer vision (3D), egocentric perception, embodied AI and/or LLMs, control theory, optimization algorithms\nExperience in C/C++ and Python and deep learning frameworks (e.g., PyTorch, TensorFlow)\nMust obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment Experience integrating and debugging prototype/scientific software-hardware systems including mechanical, aerospace, or civil engineering domain-specific simulation\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading workshops or conferences such as NeurIPS, ICML, ICLR, AAAI, JMLR and Computer Vision (CVPR, ICCV, ECCV, TPAMI)\nPrior work experience in the fields of mechanical, aerospace, civil engineering or other engineering domains\nExperience working and communicating cross-functionally in a team environment"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T08:07:59.322Z",
+        "curated_at": "2026-11-12T13:30:42.287Z",
+        "job_updated_at": "2026-11-13T18:05:48.674Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "e7fa9d78987437a1915d41c18230ffe42161eccafb15c72449fec2c6d90b75c2",
+            "source": "employer_site",
+            "source_posting_id": "2947322545617694",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2947322545617694/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2947322545617694/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-08-12T23:47:00.000Z",
+            "first_seen_at": "2026-09-21T08:07:59.322Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "068d58ea-2b17-4f0b-b70f-6d1cf175ebd5",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, FAIR Security, Privacy, and Reliability"
+        },
+        "description": {
+          "state": "known",
+          "value": "The FAIR Security, Privacy, and Reliability team breaks and fixes agents and the foundational models that power them. We conduct fundamental research to discover novel attacks, measure privacy, and find non-intuitive breaks in robustness. We frequently contribute those benchmarks to Meta's model Evaluation Reports and have published many of them in top research venues, earning top-1% recognition at ICLR and ICML. The team also lands novel post-training mitigations for these risks in both the open-source line of models and has multiple opportunities for direct research-to-production.\n\nResponsibilities\nConduct fundamental research to discover novel safety and security failures, robust approaches to measuring memorization risk or reliability failures in AI agents and foundational models,\nDevelop and contribute benchmarks to Meta's foundational model evaluation suite and/or the Evaluation Reports\nDesign and implement novel post-training mitigations for safety, security, privacy, and reliability risks in foundation models\nCollaborate with cross-functional teams to translate research into production systems\n\nQualifications\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\nPhD in Computer Science, Machine Learning, or related field, or equivalent practical experience\nResearch experience in at least one of the following areas: safety, security, privacy, or robustness of AI models; adversarial machine learning; indirect prompt injections or jailbreaks; contextual integrity or memorization; reward hacking or other agent reliability failures; testing or mitigating foundation models for catastrophic risk (CBRNE, cyber, loss of control); or developing mitigations in any of these areas Track record of publications in top-tier research venues"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-13T17:45:33.536Z",
+        "curated_at": "2026-11-13T18:05:38.615Z",
+        "job_updated_at": "2026-11-13T18:05:38.615Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "8769108c730ced7c58f79f3e7b3cb9b270dc2ae029aa8edd53fb80b87dc2dbfc",
+            "source": "employer_site",
+            "source_posting_id": "1482970387066899",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1482970387066899/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1482970387066899/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Menlo Park",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Menlo Park, CA"
+                  },
+                  {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Seattle, WA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "San Francisco, CA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-13T13:13:47.000Z",
+            "first_seen_at": "2026-11-13T17:45:33.536Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "d7ee0fed-054f-41cc-a30a-977157a60660",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "14fa055d-c70b-47c8-bf46-0427b94fa1cf",
+        "employer_name": {
+          "state": "known",
+          "value": "Intuit"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "Intuit is hiring a Senior AI Scientist to join the Intuit Foresight team.\n\nThe Foresight team at Intuit develops and incubates emerging technologies, user experiences, capabilities and products that have the potential to be transformative to businesses and consumers. The AI Research team's mission is to do cutting-edge research in AI topics that directly influence Intuit's portfolio of fintech offerings and position Intuit as a global leader in AI.\n\nIn this role, you will bridge research and product by taking advanced AI methods, from foundational language models and agentic systems to reasoning and decision-support capabilities, and translating them into production-quality AI solutions that serve Intuit's 100M+ customers. You will work closely with the AI Research Scientists on the team, applying and adapting their research to real-world financial AI use cases across TurboTax, QuickBooks, Credit Karma, and Mailchimp.\n\nWe are seeking candidates with strong applied expertise in NLP, large language models, agentic AI systems, post-training and fine-tuning, retrieval-augmented generation, and production ML systems, combined with sufficient research depth to read, evaluate, and build on cutting-edge methods from the team's research pipeline.\nYou will join a high-caliber team of domain experts, data scientists, and machine learning engineers to shape our strategy in this area, and develop advanced capabilities that serve our customers’ needs, both current and future.\n\nResponsibilities\nApplying and adapting cutting-edge AI research from the team's pipeline into scalable, production-ready AI capabilities for Intuit's financial products Building, fine-tuning, and evaluating large language models for domain-specific financial AI applications, including post-training (SFT, RLHF), prompt engineering, and model optimization Designing and implementing agentic AI systems with multi-step reasoning, tool use, and structured decision-making for real-world customer workflows Developing retrieval-augmented generation (RAG) pipelines and knowledge-grounded systems for financial document understanding and question answering Building evaluation frameworks for non-deterministic AI systems, including LLM-as-judge pipelines, rubric-based assessment, and automated regression testing Collaborating with AI Research Scientists, product managers, designers, and engineers to translate scientific AI methods into customer-facing capabilities across Intuit's product portfolio Curating task-specific datasets, defining success metrics, and running experiments to validate model improvements in production settings Embedding AI agents into science and engineering workflows, including experiment orchestration, hyperparameter search, and simulation-based validation\nQualifications\nMS or PhD (preferred) in Computer Science, Electrical Engineering, Statistics, Applied Mathematics, or a related field with focus on AI/ML/NLP 3+ years of industry experience building and deploying ML/AI systems in production environments Strong hands-on expertise with large language models, including fine-tuning (SFT, LoRA, RLHF/GRPO), prompt engineering, and inference optimization Experience building agentic AI systems, multi-agent pipelines, or tool-use workflows Proficiency in Python with PyTorch, Hugging Face Transformers, or similar deep learning frameworks Experience with NLP techniques including text generation, summarization, information extraction, and semantic search Familiarity with retrieval-augmented generation, knowledge graphs, or structured data reasoning Track record of translating research methods into production-quality systems that deliver measurable customer or business impact Strong communication skills for technical and non-technical audiences\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits ). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.\nThe expected base pay range for this position is:\nMountain View $180,000 - $243,500"
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Mountain View",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94043",
+              "zip": "94043",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-15T00:09:00.466Z",
+        "curated_at": "2026-10-15T00:10:43.072Z",
+        "job_updated_at": "2026-11-13T12:30:38.563Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 18000000,
+                "max_cents": 24350000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "451e31ffc241d8d02247a1b0b34bb944d798715cd183ba5a52b2deeeee4e94bd",
+            "source": "radancy",
+            "source_posting_id": "101934793488",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.intuit.com/job/mountain-view/senior-ai-research-scientist/27595/101934793488"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://intuit.avature.net/externalCareers/JobApplication?pipelineId=24410"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Mountain View",
+                "state": "California",
+                "country": "US",
+                "postalCode": "94043",
+                "remote": false,
+                "zip": "94043"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 180000,
+                "max": 243500,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-13T00:00:00.000Z",
+            "first_seen_at": "2026-10-15T00:09:00.466Z",
+            "last_completed_fetch_at": "2026-11-13T12:28:40.183Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "a114bfe8-f338-484d-9d26-96b2780f8362",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "14fa055d-c70b-47c8-bf46-0427b94fa1cf",
+        "employer_name": {
+          "state": "known",
+          "value": "Intuit"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Staff AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "_*]:min-w-0 gap-3'> Intuit's AI Research team develops novel AI/ML solutions that power intelligent experiences across Intuit's ecosystem of products. The team conducts applied and fundamental research across areas including decision-focused AI, probabilistic modeling, causal inference, simulation-based planning, agentic and multi-agent systems, neuro-symbolic AI, and LLM-based reasoning for business decision workflows, partnering with product and platform teams to translate research breakthroughs into customer value.\n_*]:min-w-0 gap-3'> We are looking for a Senior Staff AI Research Scientist to shape and drive the research agenda in one or more of these areas. In this role, you will lead research projects that span multiple workstreams, define technical direction for your area of expertise, and deliver research outcomes that influence Intuit's AI strategy. You will mentor junior researchers, establish collaborations across the organization, and serve as a recognized technical authority both within the team and externally.\n\nResponsibilities\nLead and define the research agenda in one or more focus areas, identifying high-impact problems and charting a path from exploration to impact Conduct original research in decision-focused AI, probabilistic modeling, causal inference, simulation-based planning, agentic and multi-agent systems, neuro-symbolic AI, deep learning, and/or LLM-based reasoning for business decision workflows Drive research programs across multiple concurrent workstreams, providing technical direction and ensuring coherence across projects Publish research findings in top-tier venues and represent Intuit's research contributions to the broader scientific community Collaborate with product and platform teams to translate research innovations into platform or customer-facing AI capabilities Mentor junior researchers, elevating the team's technical depth and research quality Identify and establish strategic research collaborations with academic institutions and external partners Contribute to the team's intellectual culture through reading groups, seminars, and internal knowledge sharing\nQualifications\nPhD in Computer Science, Electrical Engineering, Statistics, Applied Mathematics, or a related field 8+ years of post-PhD research experience in AI/ML, with a strong record of publications in top-tier conferences and journals (e.g., NeurIPS, ICML, ICLR, AAAI, KDD, ACL) Deep expertise in one or more of the following: decision-focused AI, probabilistic modeling, causal inference, simulation-based planning, agentic and multi-agent systems, neuro-symbolic AI, LLM-based reasoning Strong fundamentals in deep learning, optimization, and statistical machine learning Demonstrated ability to lead research projects and to provide technical direction across multiple projects and researchers Proficiency in Python and ML frameworks (PyTorch, TensorFlow, or equivalent) Strong communication and interpersonal skills; ability to influence across teams and present research to both technical and non-technical audiences Track record of translating research into real-world impact in an industry setting\n\nPreferred:\nExperience as a tech lead in research Active engagement with the research community (program committees, reviewing, workshops) Familiarity with Intuit's product domains: tax preparation, accounting, personal finance, or small business management\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits ). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.\nThe expected base pay range for this position is:\nMountain View $226,000 - $306,000\nSan Diego, CA $211,500- $286,000"
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Mountain View",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94043",
+              "zip": "94043",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Diego",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06073",
+              "msa": {
+                "cbsa_code": "41740",
+                "cbsa_title": "San Diego-Chula Vista-Carlsbad, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T00:15:46.692Z",
+        "curated_at": "2026-09-24T08:02:00.258Z",
+        "job_updated_at": "2026-11-13T12:30:36.517Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 22600000,
+                "max_cents": 30600000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "fec857939479e7506e8c13505d971ec38e6de8821546b30871c54e6b32bba11e",
+            "source": "radancy",
+            "source_posting_id": "93438425040",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.intuit.com/job/mountain-view/senior-staff-ai-research-scientist/27595/93438425040"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://intuit.avature.net/externalCareers/JobApplication?pipelineId=21420"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Mountain View",
+                "state": "California",
+                "country": "US",
+                "postalCode": "94043",
+                "remote": false,
+                "zip": "94043",
+                "alternatives": [
+                  {
+                    "city": "San Diego",
+                    "state": "California",
+                    "country": "US",
+                    "remote": false
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 226000,
+                "max": 306000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-03-31T00:00:00.000Z",
+            "first_seen_at": "2026-09-21T00:15:46.692Z",
+            "last_completed_fetch_at": "2026-11-13T12:28:40.183Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "878508bc-9b58-4157-ba51-d40712bc844d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "00b7c169-8749-43d9-ac56-a48613cc22ff",
+        "employer_name": {
+          "state": "known",
+          "value": "Intel Corporation"
+        },
+        "title": {
+          "state": "known",
+          "value": "Neuromorphic/AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "# **Job Details:**\n\n## Job Description:\n\nIntel's Neuromorphic Computing Lab has been at the forefront of brain-inspired computing for nearly a decade, working alongside a global ecosystem of 250+ research groups. Our groundbreaking Loihi series research chips have pioneered event-driven, sparse, and massively parallel neuro-inspired processing, resulting in over 100 peer-reviewed publications. As part of Intel's CTO Office, we're now transforming these research breakthroughs into real-world products that will power the next generation of physical AI systems.\n\nWe are seeking a Neuromorphic AI Research Scientist to advance state-of-the-art neuromorphic processor technology toward commercial adoption. This role focuses on modeling, prototyping, and defining architectures and algorithms that enable transformative gains for real-world customer applications in edge computing, signal processing, and autonomous systems.\n\n**Key Responsibilities**\n\n* Design and analyze neuromorphic AI algorithms for robotics, signal processing, control, and learning on edge platforms\n    \n* Develop research-quality software artifacts including APIs, kernels, and benchmarking tools that enable collaborative innovation\n    \n* Prototype and evaluate approaches under realistic constraints including quantization, sparsity, memory footprint, latency, and energy optimization\n    \n* Collaborate with hardware and software engineering teams to translate algorithmic requirements into hardware specifications\n    \n* Build experimental pipelines and benchmarks for target use cases with comprehensive baseline and ablation studies\n    \n* Communicate results through technical documentation, customer prototypes, and publications in leading conferences and journals\n    \n* Contribute to technical thought leadership in neuromorphic computing and present findings to internal and external stakeholders\n    \n\n**As a successful candidate, you must possess**\n\n* Innovative Problem-Solving: Skills to approach complex challenges with creative, out-of-the-box thinking\n    \n* Collaborative Leadership: Strong interpersonal skills to work effectively across diverse, multidisciplinary teams\n    \n* Adaptability: Flexibility to navigate the dynamic landscape of emerging AI technologies\n    \n* Communication Excellence: Skills to articulate complex technical concepts to both technical and non-technical audiences\n    \n* Results-Oriented Mindset: Drive to translate research innovations into practical, commercial solutions\n    \n* Intellectual Curiosity: Passion for continuous learning and staying at the cutting edge of neuromorphic computing\n    \n\nJoin Intel's pioneering team and help define the next wave of AI technology that will transform industries and create new possibilities. Apply today to be part of this groundbreaking journey from research to real-world impact.\n\n## **Qualifications:**\n\nYou must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.\n\n**Minimum Qualifications:**\n\n\\- PhD (or equivalent research experience) in Computational Neuroscience, Computer Science, Electrical Engineering, Applied Mathematics, Robotics, or a related field.\n\n\\- 1+ projects demonstrating the skills to turn research ideas into working prototypes and to evaluate them rigorously (benchmarks, baselines, ablations, quantitative reporting).\n\n\\- 3+ publications in leading journals or conferences on AI/ML, edge computing, robotics, and/or control.\n\n\\- 2+ years of experience with:\n\n* State-of-the-art AI models, optimization, and at least one of: control/dynamical systems, signal processing, or probabilistic inference.\n* Scientific programming for research (e.g., Python or C/C++) including experience with software development best practices (OO design, testing, debugging, documentation, version control, code reviews).\n\n**Preferred Qualifications:**\n\n\\- Track record of open-source releases or widely used internal libraries; skills to write high-impact technical narratives (e.g., position papers).\n\n\\- 1+ years of experience with:\n\n* Strong mathematical background.\n* Edge AI HW accelerators or event-based sensors.\n* Quantization and computations with low-precision arithmetic.\n* Developing software for robotics or other real-time control systems.\n* Building performant components in a systems language (e.g., C/C++/assembler) or equivalent performance-oriented environment.\n* Profiling and benchmarking algorithms and hardware architectures.\n* Hardware architecture and design experience.\n\n## Job Type:\n\nExperienced Hire\n\n## Shift:\n\nShift 1 (United States of America)\n\n## Primary Location:\n\nUS, California, Santa Clara\n\n## Additional Locations:\n\nUS, Arizona, Phoenix, US, California, Folsom, US, Oregon, Hillsboro, US, Texas, Austin\n\n## Posting Statement:\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.\n\n## Position of Trust\n\nN/A\n\n## Benefits\n\nWe offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which include health, retirement, and vacation. Find out more about the [benefits of working at Intel](https://intel.wd1.myworkdayjobs.com/External/page/1025c144664a100150b4b1665c750003).\n\nAnnual Salary Range for jobs which could be performed in the US: $170,500.00-315,490.00 USD\n\nThe range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific compensation range for your preferred location during the hiring process.\n\n**Work Model for this Role**\n\nThis role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. \\* Job posting details (such as work model, location or time type) are subject to change.\n\n\\*\n\nADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you are asked to pay any fees during our hiring process, please report this immediately to your recruiter.  \n\nIntel’s official careers website. Find your next job and take on projects that shape tomorrow’s technology.\n\n  \n\n[Benefits](http://intel.wd1.myworkdayjobs.com/External/page/1025c144664a100150b4b1665c750003)\n\n[Internships](http://intel.wd1.myworkdayjobs.com/External/page/f7af6f4ab7131001ecc380a588ca0000)\n\n[Life at Intel](http://intel.wd1.myworkdayjobs.com/External/page/6042070b79e01001f04fa9b468070000)\n\n[Locations](http://intel.wd1.myworkdayjobs.com/External/page/6c3f41ef6b4f1000ad687b2597d20000)\n\n[Recruitment Process](http://intel.wd1.myworkdayjobs.com/External/page/03febd61d61810018e4f0aa38fd10003)",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "hybrid",
+          "evidence": [
+            "description: hybrid"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Santa Clara",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Phoenix",
+              "region": "US-AZ",
+              "country": "US",
+              "county_fips": "04013",
+              "msa": {
+                "cbsa_code": "38060",
+                "cbsa_title": "Phoenix-Mesa-Chandler, AZ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Folsom",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06067",
+              "msa": {
+                "cbsa_code": "40900",
+                "cbsa_title": "Sacramento-Roseville-Folsom, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Hillsboro",
+              "region": "US-OR",
+              "country": "US",
+              "county_fips": "41067",
+              "msa": {
+                "cbsa_code": "38900",
+                "cbsa_title": "Portland-Vancouver-Hillsboro, OR-WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Austin",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48453",
+              "msa": {
+                "cbsa_code": "12420",
+                "cbsa_title": "Austin-Round Rock-San Marcos, TX",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-13T08:12:34.664Z",
+        "curated_at": "2026-11-13T08:14:59.572Z",
+        "job_updated_at": "2026-11-13T08:14:59.572Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 17050000,
+                "max_cents": 31549000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "5050479119f99e239aed76adc9d2a3ef994a957e1ff78e1331b6cf6e07a7396d",
+            "source": "workday",
+            "source_posting_id": "/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Santa Clara",
+                "state": "CA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "CA",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US, Arizona, Phoenix"
+                  },
+                  {
+                    "city": "Folsom",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US, California, Folsom"
+                  },
+                  {
+                    "city": "Hillsboro",
+                    "state": "OR",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US, Oregon, Hillsboro"
+                  },
+                  {
+                    "city": "Austin",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US, Texas, Austin"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 170500,
+                "max": 315490,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-06T00:00:00.000Z",
+            "first_seen_at": "2026-11-13T08:12:34.664Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "f3032dba-2bde-45d4-afb8-3c1fe0c84d0f",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "be1b6c56-dc40-4869-9c71-70ccc6fc8de1",
+        "employer_name": {
+          "state": "known",
+          "value": "Apple"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation"
+        },
+        "description": {
+          "state": "known",
+          "value": "The Multimodal Intelligence Team is building the next generation of foundation models for Apple experiences. We are looking for a research scientist to advance the architectures, pre-training methods, and distillation techniques that make highly capable multimodal models practical across the Apple ecosystem.\n\nOur research spans the full foundation-model lifecycle: model architecture, pre-training objectives, data mixtures, optimization, scaling, distillation, and evaluation. A defining challenge of our work is to develop models that combine broad intelligence with the memory, latency, energy, and privacy requirements of on-device deployment.\n\nYou will have the opportunity to shape new research directions, conduct ambitious experiments at scale, and translate successful ideas into foundation-model technologies that can reach Apple products. Where appropriate, this work may also lead to publications and the open sourcing of selected models, research artifacts, evaluations, or tools.\n\nIn this role, you will investigate fundamental questions about how multimodal foundation models should be designed, trained, and distilled.\n\nYou will develop and evaluate new model architectures, pre-training objectives, data strategies, optimization methods, and teacher–student learning techniques. Your work will explore how capabilities developed in large foundation models can be effectively transferred to smaller, more efficient models without treating distillation as an isolated downstream step.\n\nA major focus of the role will be the co-development of frontier models and efficient models for Apple silicon and on-device intelligence. This includes designing architectures that distill effectively, studying how teacher and student models should be trained together, and developing distillation methods that preserve reasoning, multimodal understanding, instruction following, and other important capabilities under constrained model capacity.\n\nRather than treating deployment constraints as an afterthought, you will incorporate them into the research process—from early architecture experiments and pre-training through distillation and final model evaluation.\n\nYou may thrive in this role if you:\n\n* Want to invent new foundation-model architectures rather than only adapt existing models.\n* Enjoy combining scientific ambition with real compute, memory, latency, and energy constraints.\n* Believe that small and efficient models can be a frontier research problem, not merely a compression exercise.\n* Are comfortable working across model research, data, systems, and hardware boundaries.\n* Care about translating research into private, useful, and deeply integrated intelligent experiences.\n* Want your work to have both product impact and a presence in the broader research community.\n\nPotential research directions include:\n\n* Novel dense, recurrent, state-space, mixture-of-experts, and hybrid foundation-model architectures.\n* Multimodal pre-training across language, images, video, audio, and sensor-derived representations.\n* Compute-optimal model and data scaling, including data mixtures, curricula, tokenization, and training objectives.\n* Architecture and algorithm co-design for memory-efficient and energy-efficient inference on Apple silicon.\n* Offline and on-policy distillation using teacher-generated data, logits, representations, rationales, and other supervision signals.\n\nMinimum qualifications\nHands-on experience designing, implementing, and running large-scale pre-training experiments for large language models.\nExperience with LLM pre-training topics such as model architecture, training objectives, data mixtures, tokenization, curricula, scaling, and optimization.\nStrong proficiency with modern deep learning frameworks such as PyTorch or JAX and distributed training systems.\nExperience evaluating pre-trained models across language understanding, reasoning, instruction following, or multimodal capabilities.\nStrong understanding of transformer-based architectures and current approaches to efficient or scalable foundation-model training.\nMaster’s degree, or equivalent practical experience in machine learning, computer science, or a related technical field, and a minimum of 6 years relevant experience.\n\nPreferred qualifications\nExperience contributing to major foundation-model pre-training efforts or leading architecture experiments that influenced a large training run.\nResearch contributions in model architecture, scaling laws, multimodal pre-training, optimization, efficient attention, mixture-of-experts, state-space models, or related areas.\nExperience with knowledge distillation, including offline or off-policy distillation, on-policy distillation, self-distillation, sequence-level distillation, logic matching, or representation transfer.\nExperience designing teacher–student training pipelines or transferring capabilities from large foundation models to smaller models.\nExperience with multimodal models spanning language, vision, video, audio, or other sensor modalities.\nUnderstanding of inference efficiency, memory hierarchy, hardware accelerators, or hardware–software co-design.\nStrong publication record, influential open-source contributions, or an equivalent record of applied research impact"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "zip": "98117",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Sunnyvale",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94085",
+              "zip": "94085",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-12T16:29:23.210Z",
+        "curated_at": "2026-11-13T04:13:05.369Z",
+        "job_updated_at": "2026-11-13T04:13:05.369Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 20540000,
+                "max_cents": 30850000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "48befbf7e9bffb453bc5a7ee75adc48405123996dd13232dcc8f5be44e3f44aa",
+            "source": "employer_site",
+            "source_posting_id": "200694379-3956",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.apple.com/en-us/details/200694379-3956/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.apple.com/en-us/details/200694379-3956/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Seattle",
+                "state": "Washington",
+                "country": "US",
+                "remote": false,
+                "zip": "98117",
+                "alternatives": [
+                  {
+                    "city": "Seattle",
+                    "state": "Washington",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Seattle"
+                  },
+                  {
+                    "city": "Sunnyvale",
+                    "state": "California",
+                    "country": "US",
+                    "postalCode": "94085",
+                    "remote": false,
+                    "raw": "Sunnyvale"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 205400,
+                "max": 308500,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-10T22:16:19.745Z",
+            "first_seen_at": "2026-11-12T16:29:23.210Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "998daca0-fa58-4de7-a9fd-285f4003d88d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "be1b6c56-dc40-4869-9c71-70ccc6fc8de1",
+        "employer_name": {
+          "state": "known",
+          "value": "Apple"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation"
+        },
+        "description": {
+          "state": "known",
+          "value": "The Multimodal Intelligence Team is building the next generation of foundation models for Apple experiences. We are looking for a research scientist to advance the architectures, pre-training methods, and distillation techniques that make highly capable multimodal models practical across the Apple ecosystem.\n\nOur research spans the full foundation-model lifecycle: model architecture, pre-training objectives, data mixtures, optimization, scaling, distillation, and evaluation. A defining challenge of our work is to develop models that combine broad intelligence with the memory, latency, energy, and privacy requirements of on-device deployment.\n\nYou will have the opportunity to shape new research directions, conduct ambitious experiments at scale, and translate successful ideas into foundation-model technologies that can reach Apple products. Where appropriate, this work may also lead to publications and the open sourcing of selected models, research artifacts, evaluations, or tools.\n\nIn this role, you will investigate fundamental questions about how multimodal foundation models should be designed, trained, and distilled.\n\nYou will develop and evaluate new model architectures, pre-training objectives, data strategies, optimization methods, and teacher–student learning techniques. Your work will explore how capabilities developed in large foundation models can be effectively transferred to smaller, more efficient models without treating distillation as an isolated downstream step.\n\nA major focus of the role will be the co-development of frontier models and efficient models for Apple silicon and on-device intelligence. This includes designing architectures that distill effectively, studying how teacher and student models should be trained together, and developing distillation methods that preserve reasoning, multimodal understanding, instruction following, and other important capabilities under constrained model capacity.\n\nRather than treating deployment constraints as an afterthought, you will incorporate them into the research process—from early architecture experiments and pre-training through distillation and final model evaluation.\n\nYou may thrive in this role if you:\n\n* Want to invent new foundation-model architectures rather than only adapt existing models.\n* Enjoy combining scientific ambition with real compute, memory, latency, and energy constraints.\n* Believe that small and efficient models can be a frontier research problem, not merely a compression exercise.\n* Are comfortable working across model research, data, systems, and hardware boundaries.\n* Care about translating research into private, useful, and deeply integrated intelligent experiences.\n* Want your work to have both product impact and a presence in the broader research community.\n\nPotential research directions include:\n\n* Novel dense, recurrent, state-space, mixture-of-experts, and hybrid foundation-model architectures.\n* Multimodal pre-training across language, images, video, audio, and sensor-derived representations.\n* Compute-optimal model and data scaling, including data mixtures, curricula, tokenization, and training objectives.\n* Architecture and algorithm co-design for memory-efficient and energy-efficient inference on Apple silicon.\n* Offline and on-policy distillation using teacher-generated data, logits, representations, rationales, and other supervision signals.\n\nMinimum qualifications\nHands-on experience designing, implementing, and running large-scale pre-training experiments for large language models.\nExperience with LLM pre-training topics such as model architecture, training objectives, data mixtures, tokenization, curricula, scaling, and optimization.\nStrong proficiency with modern deep learning frameworks such as PyTorch or JAX and distributed training systems.\nExperience evaluating pre-trained models across language understanding, reasoning, instruction following, or multimodal capabilities.\nStrong understanding of transformer-based architectures and current approaches to efficient or scalable foundation-model training.\nMaster’s degree, or equivalent practical experience in machine learning, computer science, or a related technical field, and a minimum of 6 years relevant experience.\n\nPreferred qualifications\nExperience contributing to major foundation-model pre-training efforts or leading architecture experiments that influenced a large training run.\nResearch contributions in model architecture, scaling laws, multimodal pre-training, optimization, efficient attention, mixture-of-experts, state-space models, or related areas.\nExperience with knowledge distillation, including offline or off-policy distillation, on-policy distillation, self-distillation, sequence-level distillation, logic matching, or representation transfer.\nExperience designing teacher–student training pipelines or transferring capabilities from large foundation models to smaller models.\nExperience with multimodal models spanning language, vision, video, audio, or other sensor modalities.\nUnderstanding of inference efficiency, memory hierarchy, hardware accelerators, or hardware–software co-design.\nStrong publication record, influential open-source contributions, or an equivalent record of applied research impact"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "postal_code": "98117",
+              "zip": "98117",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Sunnyvale",
+              "region": "US-CA",
+              "country": "US",
+              "zip": "94085",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-12T16:29:23.210Z",
+        "curated_at": "2026-11-13T04:12:56.936Z",
+        "job_updated_at": "2026-11-13T04:12:56.936Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 20540000,
+                "max_cents": 30850000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1ef5270200569d8392b8b6ff9878ccc919e022058c6972711a7acbeb599e9a2f",
+            "source": "employer_site",
+            "source_posting_id": "200694379-3337",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.apple.com/en-us/details/200694379-3337/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.apple.com/en-us/details/200694379-3337/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Seattle",
+                "state": "Washington",
+                "country": "US",
+                "postalCode": "98117",
+                "remote": false,
+                "zip": "98117",
+                "alternatives": [
+                  {
+                    "city": "Seattle",
+                    "state": "Washington",
+                    "country": "US",
+                    "postalCode": "98117",
+                    "remote": false,
+                    "raw": "Seattle"
+                  },
+                  {
+                    "city": "Sunnyvale",
+                    "state": "California",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Sunnyvale"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 205400,
+                "max": 308500,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-10T22:16:19.745Z",
+            "first_seen_at": "2026-11-12T16:29:23.210Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8275cf78-bfd1-49ee-b2b8-249b3bab7c35",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "be1b6c56-dc40-4869-9c71-70ccc6fc8de1",
+        "employer_name": {
+          "state": "known",
+          "value": "Apple"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation"
+        },
+        "description": {
+          "state": "known",
+          "value": "The Multimodal Intelligence Team is building the next generation of foundation models for Apple experiences. We are looking for a research scientist to advance the architectures, pre-training methods, and distillation techniques that make highly capable multimodal models practical across the Apple ecosystem.\n\nOur research spans the full foundation-model lifecycle: model architecture, pre-training objectives, data mixtures, optimization, scaling, distillation, and evaluation. A defining challenge of our work is to develop models that combine broad intelligence with the memory, latency, energy, and privacy requirements of on-device deployment.\n\nYou will have the opportunity to shape new research directions, conduct ambitious experiments at scale, and translate successful ideas into foundation-model technologies that can reach Apple products. Where appropriate, this work may also lead to publications and the open sourcing of selected models, research artifacts, evaluations, or tools.\n\nIn this role, you will investigate fundamental questions about how multimodal foundation models should be designed, trained, and distilled.\n\nYou will develop and evaluate new model architectures, pre-training objectives, data strategies, optimization methods, and teacher–student learning techniques. Your work will explore how capabilities developed in large foundation models can be effectively transferred to smaller, more efficient models without treating distillation as an isolated downstream step.\n\nA major focus of the role will be the co-development of frontier models and efficient models for Apple silicon and on-device intelligence. This includes designing architectures that distill effectively, studying how teacher and student models should be trained together, and developing distillation methods that preserve reasoning, multimodal understanding, instruction following, and other important capabilities under constrained model capacity.\n\nRather than treating deployment constraints as an afterthought, you will incorporate them into the research process—from early architecture experiments and pre-training through distillation and final model evaluation.\n\nYou may thrive in this role if you:\n\n* Want to invent new foundation-model architectures rather than only adapt existing models.\n* Enjoy combining scientific ambition with real compute, memory, latency, and energy constraints.\n* Believe that small and efficient models can be a frontier research problem, not merely a compression exercise.\n* Are comfortable working across model research, data, systems, and hardware boundaries.\n* Care about translating research into private, useful, and deeply integrated intelligent experiences.\n* Want your work to have both product impact and a presence in the broader research community.\n\nPotential research directions include:\n\n* Novel dense, recurrent, state-space, mixture-of-experts, and hybrid foundation-model architectures.\n* Multimodal pre-training across language, images, video, audio, and sensor-derived representations.\n* Compute-optimal model and data scaling, including data mixtures, curricula, tokenization, and training objectives.\n* Architecture and algorithm co-design for memory-efficient and energy-efficient inference on Apple silicon.\n* Offline and on-policy distillation using teacher-generated data, logits, representations, rationales, and other supervision signals.\n\nMinimum qualifications\nHands-on experience designing, implementing, and running large-scale pre-training experiments for large language models.\nExperience with LLM pre-training topics such as model architecture, training objectives, data mixtures, tokenization, curricula, scaling, and optimization.\nStrong proficiency with modern deep learning frameworks such as PyTorch or JAX and distributed training systems.\nExperience evaluating pre-trained models across language understanding, reasoning, instruction following, or multimodal capabilities.\nStrong understanding of transformer-based architectures and current approaches to efficient or scalable foundation-model training.\nMaster’s degree, or equivalent practical experience in machine learning, computer science, or a related technical field.\n\nPreferred qualifications\nExperience contributing to major foundation-model pre-training efforts or leading architecture experiments that influenced a large training run.\nResearch contributions in model architecture, scaling laws, multimodal pre-training, optimization, efficient attention, mixture-of-experts, state-space models, or related areas.\nExperience with knowledge distillation, including offline or off-policy distillation, on-policy distillation, self-distillation, sequence-level distillation, logic matching, or representation transfer.\nExperience designing teacher–student training pipelines or transferring capabilities from large foundation models to smaller models.\nExperience with multimodal models spanning language, vision, video, audio, or other sensor modalities.\nUnderstanding of inference efficiency, memory hierarchy, hardware accelerators, or hardware–software co-design.\nStrong publication record, influential open-source contributions, or an equivalent record of applied research impact"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "zip": "98117",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Sunnyvale",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94085",
+              "zip": "94085",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-12T16:29:23.210Z",
+        "curated_at": "2026-11-13T04:12:56.443Z",
+        "job_updated_at": "2026-11-13T04:12:56.443Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 14230000,
+                "max_cents": 26330000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1c5bdf83d95638a067f2dbb50e0b2015c5a4a62c3a29d01ccd23139e1997cbcb",
+            "source": "employer_site",
+            "source_posting_id": "200694380-3956",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.apple.com/en-us/details/200694380-3956/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.apple.com/en-us/details/200694380-3956/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Seattle",
+                "state": "Washington",
+                "country": "US",
+                "remote": false,
+                "zip": "98117",
+                "alternatives": [
+                  {
+                    "city": "Seattle",
+                    "state": "Washington",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Seattle"
+                  },
+                  {
+                    "city": "Sunnyvale",
+                    "state": "California",
+                    "country": "US",
+                    "postalCode": "94085",
+                    "remote": false,
+                    "raw": "Sunnyvale"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 142300,
+                "max": 263300,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-10T22:16:52.318Z",
+            "first_seen_at": "2026-11-12T16:29:23.210Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "b6b65482-e430-4b8d-8be6-cfba8871f760",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b9929f2e-38bb-813d-8837-fd7347f8afd1",
+        "employer_name": {
+          "state": "known",
+          "value": "Anthrogen"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "source_omitted",
+          "evidence": [
+            "no description published by the source; every description field in the detail response is present and empty (content, user_provided_description)"
+          ]
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T00:26:23.771Z",
+        "curated_at": "2026-11-13T00:32:54.574Z",
+        "job_updated_at": "2026-11-13T00:32:54.574Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ce98888f2bfd85175b7e077a21403886fda8801f447b43d196e1c868e42a67bc",
+            "source": "dover",
+            "source_posting_id": "8776e1b5-306e-4e3b-94d0-f3c8d727f2d9",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-08-30T10:50:59.510Z",
+            "first_seen_at": "2026-11-10T00:26:23.771Z",
+            "last_completed_fetch_at": "2026-11-13T00:32:41.324Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "ea71a376-7b4d-4ef7-aa1b-1ef33b5197d1",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "23e6af10-7ffa-8d40-a04b-e08b6d232c9a",
+        "employer_name": {
+          "state": "known",
+          "value": "RoboForce"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior / Staff AI Research Scientist, Foundation Models"
+        },
+        "description": {
+          "state": "known",
+          "value": "**Why RoboForce**\n\nRoboForce is an AI robotics company developing Physical AI–powered Robo-Labor for dull, dirty, and dangerous work. The company's robots are engineered for demanding industrial environments, with a focus on real-world deployment and scalability.\n\nWe are looking for a **Senior / Staff AI Research Scientist, Foundation Models** to advance robotic embodied intelligence. In this role, you will develop algorithms that enable robots to understand their environment, interpret and execute tasks, and communicate seamlessly with humans — with a particular focus on building and training world models that allow robots to predict, plan, and generalize across complex physical tasks.\n\n**Responsibilities**\n\n* Design and deploy vision-language(-action) models (VLM/VLA) for contextual understanding and generalized robot action policies.\n    \n* Develop and train world models for action-conditioned prediction, long-horizon planning, and environment simulation — enabling robots to reason about the consequences of their actions before execution.\n    \n* Research approaches to improve world model fidelity using multi-modal inputs including vision, language, proprioception, and spatial representations.\n    \n* Develop foundation models with spatial reasoning capabilities to achieve high-precision robotic actions.\n    \n* Integrate multi-modal data sources (vision, language, speech, etc.) to enable natural human-robot communication.\n    \n* Optimize and deploy models as production-grade solutions on RoboForce robotic platforms.\n    \n\n**Requirements**\n\n* PhD degree in Machine Learning, Robotics, or related field, or Master's degree with 4+ years of relevant experience.\n    \n* Proficiency in Python and deep learning frameworks (e.g., PyTorch, JAX).\n    \n* Expertise in large foundation models (VLM, VLA, etc.).\n    \n* Strong understanding of world model architectures and action-conditioned generative modeling for robot learning.\n    \n* Decent understanding of multimodal models, modern ML architectures (transformers, diffusion models, etc.).\n    \n* **Requires 5 days/week in-office collaboration with the teams.**\n    \n\n**Bonus Qualifications**\n\n* Experience with video generation or prediction models (e.g., diffusion-based video models, autoregressive video transformers) and their application to world modeling or synthetic data generation for robot learning.\n    \n* Strong publication record at top conferences (NeurIPS, ICML, CVPR, ICCV, CoRL, ICRA, or equivalent).\n    \n* Expertise in neural network deployment (e.g., TensorRT) and GPU programming with CUDA.\n    \n* Proven ability to design scalable experimentation and data pipelines.\n    \n\n**Benefits**\n\n* Competitive stock options/equity programs.\n    \n* Health, dental, and vision insurance, 401(k) plan.\n    \n* Visa sponsorship and green card support for qualified candidates.\n    \n* Lunches and dinners, a fully stocked kitchen, and regular team-building events.\n    \n\nCompensation: Salary $200,000–$360,000 USD \\+ Bonus + Equity\n\nThe base salary range above represents the expected compensation for this full-time U.S. position. Final compensation will be determined based on role scope, level, location, job-related skills, experience, and relevant education or training, and may fall outside the listed range in exceptional cases.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Milpitas",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-07T21:54:29.310Z",
+        "curated_at": "2026-11-12T16:17:12.530Z",
+        "job_updated_at": "2026-11-12T16:17:12.530Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 20000000,
+                "max_cents": 36000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "f27121bdc6b5a752575ca4003f5784af8d3cbb9ac4405b6cd3b67e0e1701557e",
+            "source": "greenhouse",
+            "source_posting_id": "4981345008",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/roboforce/jobs/4981345008"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/roboforce/jobs/4981345008"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Milpitas",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 200000,
+                "max": 360000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2025-11-10T16:25:24.000Z",
+            "first_seen_at": "2026-09-07T21:54:29.310Z",
+            "last_completed_fetch_at": "2026-11-13T16:19:17.172Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "d834220a-06c2-4366-bcec-6319e6d10954",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "8c9ef036-3c97-429c-88fa-3e0f520f1395",
+        "employer_name": {
+          "state": "known",
+          "value": "NVIDIA USA"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Quantum AI Research Scientist, Applied Research"
+        },
+        "description": {
+          "state": "known",
+          "value": "At NVIDIA, we're solving the world's most exciting problems with our unique approach to accelerated computing. We're looking for a passionate AI research scientist with deep quantum computing expertise to path-find the future of fault-tolerant quantum systems powered by machine learning.\n\nQuantum computing is a strategic priority for NVIDIA, and our goal is to accelerate the entire ecosystem. As a Sr. Applied Research Scientist in Quantum Computing, you will architect and build AI solutions at the heart of fault-tolerant quantum computing—spanning quantum error correction, decoding, calibration, and beyond. You will research and develop open AI models, curated datasets, and rigorous benchmarks that advance the state of the art and empower the broader quantum community. Your research will help translate cutting-edge theory into practice by fine-tuning models for specific quantum error-correcting codes and hardware platforms, while collaborating with multi-functional teams across Product, Engineering, and Applied Research to integrate AI into next-generation Accelerated Quantum Supercomputers!\n\nDo you love developing new technology, enjoy working with collaborative people and teams around the world, and operating at the speed of light? If yes, we would love to hear from you!\n\n**What you'll be doing:**\n\n* Design and architect AI/ML models—including deep neural networks, graph neural networks, transformers, and reinforcement-learning agents—for quantum error correction, syndrome decoding, logical operation synthesis, and real-time calibration in fault-tolerant quantum systems.\n    \n* Develop cutting-edge AI techniques for quantum computing that contribute to NVIDIA's open model efforts across the quantum ecosystem.\n    \n* Help create high-quality, large-scale datasets for quantum error correction and quantum system characterization, including simulated and hardware-derived syndrome data, enabling the community to train and evaluate AI models at scale.\n    \n* Collaborate with quantum hardware teams to collect and structure hardware-derived training data, enabling domain-adapted models that improve over time as hardware matures.\n    \n* Co-design AI solutions with quantum hardware and software teams, ensuring decoders and calibration models meet latency and throughput requirements for real-time operation inside fault-tolerant feedback loops.\n    \n* Communicate research findings through top-tier venues and collaborate with academic and industry partners to advance the field, while championing a culture of rapid innovation, technical depth, and creative problem solving.\n    \n\n**What we need to see:**\n\n* Degree in Computer Science, Physics, Applied Mathematics, Electrical Engineering, or a related field (Ph.D. strongly preferred); equivalent demonstrated experience also considered.\n    \n* 8+ years of combined experience in quantum computing and/or AI/ML research, with a track record of high-impact contributions in at least one of these domains.\n    \n* Deep expertise in machine learning and deep learning—including model architecture design, training at scale, and evaluation—applied to scientific or engineering problems.\n    \n* Strong background in Quantum Information Science, including quantum error correction, fault-tolerant protocols, and quantum noise models.\n    \n* Excellent communication skills and the ability to collaborate effectively with multi-functional teams across research, engineering, and product.\n    \n\n**Ways to stand out from the crowd:**\n\n* Hands-on experience developing learned decoders or AI-driven calibration systems for quantum hardware (superconducting qubits, trapped ions, or other platforms).\n    \n* Experience with large-scale model training and fine-tuning—including parameter-efficient fine-tuning (LoRA, QLoRA, adapters) and domain adaptation for scientific AI models.\n    \n* Proficiency with CUDA and NVIDIA GPU programming for accelerating quantum simulation, AI model training, or real-time decoding workloads.\n    \n* Experience with high-performance computing (HPC) environments and distributed training frameworks (e.g., PyTorch Distributed, Megatron-LM, or JAX pmap) for large-scale quantum AI workloads.\n    \n* Passion to drive AI innovations into NVIDIA software and hardware products that support the broader quantum computing ecosystem.\n    \n\nWidely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. As you plan your future, see what we can offer to you and your family [www.nvidiabenefits.com/](http://www.nvidiabenefits.com/)\n\n#LI-Hybrid\n\nYour base salary will be determined based on your location, experience, and other objective job-related factors. The expected base salary range for this position is 192,000 USD – 304,750 USD.\n\nYou will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/).\n\nApplications for this job will be accepted at least until November 3, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n\n  \n\nNVIDIA pioneered accelerated computing. Today, our AI infrastructure powers global intelligence, transforming every industry.\n\nLearn more about [NVIDIA](https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.nvidia.com%2Fobject%2Fabout-nvidia.html%23sthash.qlXKW56Q.dpuf&data=05%7C01%7Chozkan%40nvidia.com%7Cf442a08620ed4ab9afb108db18e6d308%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C638131151878484303%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=DjpWGYWzl3J2uwSP6woYwjdRi52yvWRVeAijKer9u%2Fk%3D&reserved=0).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "hybrid",
+          "evidence": [
+            "jobPostingInfo.jobDescription: #LI-Hybrid"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Redmond",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Santa Clara",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-12T14:00:57.325Z",
+        "curated_at": "2026-11-12T14:03:47.236Z",
+        "job_updated_at": "2026-11-12T14:03:47.236Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 19200000,
+                "max_cents": 30475000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "802ca700ba39929d96826edb410f8c1bca5e1f7c16c970fd1440ba8c4ad33cdd",
+            "source": "workday",
+            "source_posting_id": "/job/US-WA-Redmond/Senior-Quantum-AI-Research-Scientist---Applied-Research_JR2018110",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Quantum-AI-Research-Scientist---Applied-Research_JR2018110"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Quantum-AI-Research-Scientist---Applied-Research_JR2018110"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Redmond",
+                "state": "WA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "WA",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Santa Clara",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US, CA, Santa Clara"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 192000,
+                "max": 304750,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-30T00:00:00.000Z",
+            "first_seen_at": "2026-11-12T14:00:57.325Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "a57e296b-c188-4380-a7e0-b69cb5517993",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, LLM Post-Training - Meta Superintelligence Labs"
+        },
+        "description": {
+          "state": "known",
+          "value": "We are seeking AI researchers for the Modeling & ToolCalling team within Meta Superintelligence Labs. This team is focused on LLM post-training, with emphasis on advancing long-horizon agentic tool use, search, personalization, and other frontier capabilities required for models to operate effectively in real-world settings.\n\nResponsibilities\nWork across the full LLM post-training stack\nBuilding high-quality training data, and designing and running evaluations\nExecute and iterate on post-training runs\nOwn end-to-end LLM capability “hill-climbing”\nConduct research on improved training and data curation strategies\nLead complex technical projects end-to-end\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nCurrently has, or is in the process of obtaining, a PhD degree in Computer Science or a related technical field\n2+ years of industry research experience in LLM/NLP, computer vision, or related AI/ML models\nDeep, practical experience in LLM post-training\nExperience as a technical lead on a team and/or leading complex technical projects from end to end\nPublished research in leading peer-reviewed conferences (e.g., ACL, NeurIPS, ICML, ICLR, AAAI, KDD, CVPR, ICCV) and/or demonstrated significant industry influence in the field of AI Extensive experience working on long horizon agents, agentic tool use, personalization, and/or search\nExperience working on frontier-quality, state-of-the-art Large Language Models\nFirst-author publications at top peer-reviewed conferences (e.g., ACL, NeurIPS, ICML, ICLR, AAAI, KDD, CVPR, ICCV)"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-03T13:13:13.416Z",
+        "curated_at": "2026-11-12T13:30:42.522Z",
+        "job_updated_at": "2026-11-12T13:30:42.522Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "12476ee4375ec7eb23d719cf1c9faee71bf08be63bac20549e95aab9fa3b8fe8",
+            "source": "employer_site",
+            "source_posting_id": "899348339326560",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/899348339326560/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/899348339326560/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-07-18T06:07:48.000Z",
+            "first_seen_at": "2026-11-03T13:13:13.416Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "a0c4eb6c-fcd1-4714-a385-488c9fbbdd52",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Ads Ranking"
+        },
+        "description": {
+          "state": "known",
+          "value": "Meta is seeking a Research Scientist to join our Ads Ranking organization. Individuals in this role are expected to be recognized experts in areas such as artificial intelligence, machine learning, and computational statistics, particularly including areas such as: sequential decision making, graph learning, reinforcement learning, deep learning, data representation and theory, and optimization. The ideal candidate will have an interest in producing new science to understand intelligence and technology to make computers smarter, and an equal interest in taking new research findings in this area and implementing them towards product needs.\n\nResponsibilities\nIdentify and lead research on the most challenging and high-impact open problems in core machine learning, including areas such as optimization, generalization, representation learning, and scalable training\nDevelop novel machine learning algorithms, architectures, and theoretical frameworks that advance the state of the art and address previously intractable problems\nTranslate fundamental research findings into production-grade systems that deliver measurable improvements to Meta's AI-powered products and infrastructure\nDefine and drive the long-term technical vision and research roadmap for a core ML domain, gaining alignment across multiple research and engineering organizations\nEstablish extensible technical foundations, modeling standards, and evaluation frameworks that promote consistency and quality across research teams and product areas\nIdentify systemic gaps in existing ML approaches and develop invariants, benchmarks, and methodologies that prevent entire classes of modeling failures\nCollaborate with research engineers, product teams, and infrastructure organizations to ensure research advances are operationalized at scale with reliability and efficiency\nCommunicate complex research findings through publications, technical reports, and presentations that serve as long-term reference points for the broader ML community\nMentor other researchers and engineers across the organization, providing customized technical guidance and fostering rigorous and innovative research practices\nMonitor developments in the academic and industry ML landscape to identify emerging techniques and assess their relevance and risk to Meta's research strategy\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n12+ years of experience in machine learning research, including developing and publishing novel approaches in areas such as optimization, deep learning, representation learning, or related core ML domains\nTrack record of identifying and solving foundational machine learning problems that have resulted in measurable impact on large-scale AI systems or products\nExperience defining multi-year research strategies and influencing technical direction across multiple teams or organizations\nExperience translating theoretical machine learning research into production systems, including designing experiments, defining evaluation metrics, and connecting research outcomes to organizational priorities\nExperience communicating complex machine learning concepts and research findings to both technical and non-technical audiences through publications, design documents, or technical presentations Demonstrated ability to develop new debugging, evaluation, or verification methodologies that generalize across model families and prevent systemic failure modes\nExperience leading cross-organizational research programs in large-scale model training, efficient inference, or foundational model architectures\nExperience collaborating with applied research and product engineering teams to bring core ML advances from research prototype to global-scale deployment\nHistory of publishing influential research in top-tier machine learning venues such as NeurIPS, ICML, ICLR, or equivalent, with demonstrated impact on the broader research community"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Sunnyvale",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-13T04:02:03.563Z",
+        "curated_at": "2026-11-12T13:30:42.494Z",
+        "job_updated_at": "2026-11-12T13:30:42.494Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "df0a3ffdf6031e21c37512cf38e06ec4b27565da64b0973e11bd7384b4a5d442",
+            "source": "employer_site",
+            "source_posting_id": "28584828864517265",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/28584828864517265/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/28584828864517265/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Sunnyvale",
+                "state": "CA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Sunnyvale, CA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-05T18:37:46.000Z",
+            "first_seen_at": "2026-10-13T04:02:03.563Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "9e4a1aa9-23a1-410f-ba52-e7d2c364f81d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, MRS Knowledge"
+        },
+        "description": {
+          "state": "known",
+          "value": "The MRS AI Knowledge team is at the forefront of innovation in content understanding, user understanding, retrieval, and ranking. As a key driver of Meta's app growth, we are committed to revolutionizing recommendation systems by leveraging the latest advancements in AI, including large language models (LLMs) and generative AI. We're dedicated to pushing the boundaries of recommendation systems to deliver user experiences across Facebook, Instagram, Threads, and more.\n\nResponsibilities\nDesign and execute original research in core machine learning, including areas such as deep learning architectures, optimization methods, representation learning, or generative modeling\nDevelop and maintain high-quality, reusable research code and experimental pipelines to support reproducible and scalable ML research\nIdentify and define long-term research directions as well as near-term milestones that align with team and organizational goals\nAnalyze experimental results using rigorous statistical and empirical methods to draw actionable conclusions and inform future research directions\nContribute to publications at top-tier machine learning venues and support open-sourcing efforts that advance the broader research community\nCollaborate with product and engineering teams to translate fundamental research findings into practical improvements in Meta's AI systems\nEstablish and improve telemetry, evaluation frameworks, and benchmarks to measure research progress and model quality\nProvide technical guidance and mentorship to other engineers and researchers on the team, sharing expertise through design reviews, research critiques, and knowledge-sharing sessions\nDrive cross-functional research initiatives by coordinating with collaborators across AI infrastructure, product, and applied science teams\nProactively identify gaps in existing research programs or methodologies and propose improvements to strengthen the team's research output\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n6+ years of experience in machine learning research, including hands-on work with deep learning, optimization, generative models, or related core ML areas\nExperience developing and publishing novel machine learning approaches at peer-reviewed venues such as NeurIPS, ICML, ICLR, CVPR, or equivalent\nExperience designing and running large-scale ML experiments, including model training, evaluation, and iterative refinement using frameworks such as PyTorch or TensorFlow\nExperience communicating research findings and technical trade-offs in writing to both research and non-research audiences, such as through papers, technical reports, or design documents\nExperience collaborating across research and engineering teams to drive projects from ideation through production impact Experience mentoring other researchers or engineers and contributing to the development of team research culture, evaluation standards, or shared tooling\nExperience applying core ML research to large-scale production systems, including working with high-dimensional, large-volume datasets and distributed training infrastructure\nPhD in Machine Learning, Computer Science, Statistics, or a closely related field, with a dissertation focused on a core ML topic\nProven track record of high-impact publications or open-source contributions that have been widely adopted or cited within the ML research community"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-20T07:06:14.957Z",
+        "curated_at": "2026-11-12T13:30:42.474Z",
+        "job_updated_at": "2026-11-12T13:30:42.474Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "3d79f51abc647d45d9ce7dbfc1e29c29ead97e6fa8eeb4d5041410a276096baa",
+            "source": "employer_site",
+            "source_posting_id": "1710830543977644",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1710830543977644/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1710830543977644/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-19T20:13:58.000Z",
+            "first_seen_at": "2026-10-20T07:06:14.957Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "f3573b7f-db17-4c8f-8cbd-756b2513aaaa",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, SysML"
+        },
+        "description": {
+          "state": "known",
+          "value": "Reality Labs (RL) focuses on delivering Meta's vision through Virtual Reality (VR), Augmented Reality (AR) and wearable devices. The compute performance and power efficiency requirements of Virtual and Augmented Reality require custom silicon. Reality Labs Silicon team is driving the state of the art forward with breakthrough work in computer vision, machine learning, mixed reality, graphics, displays, sensors, and new ways to map the human body. Our chips will enable wearable devices, where our real and virtual world will mix and merge throughout the day. We believe the only way to achieve our goals is to look at the entire stack, from transistors, through architecture, firmware, and algorithms.\n\nMeta is seeking a Research Scientist to join our Research and Development teams. This role involves working on AI models, hardware acceleration, and software systems related topics. The position will involve taking these skills and applying them to solve for some of the most crucial and exciting problems that exist in Reality Labs. The primary objective will be to develop novel solutions that enable compute and power efficient training and on-device inference of vision and language models for use cases in AR, VR, and edge devices. We are hiring in multiple locations.\n\nResponsibilities\nIdentify and solve multi-disciplinary ML acceleration problems spanning algorithms, model architecture, software, and hardware for AR, VR, and wearables use cases, often requiring novel approaches not yet established in the industry\nInvent and develop state-of-the-art model compression, efficiency, and scalability techniques, including numerics, pruning, distillation, speculative decoding, and memory-efficient transformer architectures, and benchmark them across diverse network classes. Integrate proven research into production ML infrastructure for broad adoption across the organization\nPost-train and optimize foundation models to deliver Pareto-optimal multimodal LLMs and GenAI models on our target hardware under real-time latency, power, and memory constraints\nUse models and algorithm insights to co-design next-generation hardware and system architectures, partnering with research scientists and silicon teams, and drive the algorithms and software integration needed to exploit these enhancements, applying in-depth knowledge of how ML acceleration interacts with surrounding systems\nDefine use cases, methodology, and benchmarks to evaluate competing approaches, and influence partners to adopt recommended solutions through data-driven analysis and clear communication of trade-offs\nStay at the forefront of efficient on-device ML research, and contribute to patents and publications in peer-reviewed conferences and journals\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nPhD in Electrical Engineering, Computer Science, or equivalent experience\nExperience developing AI-System infrastructure, AI algorithms or AI hardware acceleration in C/C++ or Python Experience working and communicating cross-functionally in a team environment\nDemonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)\nExperience or knowledge of architecting ML hardware accelerators and systems\nExperience or knowledge of post-training inference of Large scale GenAI/LLM models\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences such as ICLR, NeurIPS, CVPR, ACL, ICML, MLSys, ISCA, MICRO, DAC, ASPLOS etc\nExperience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)\nDemonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies\nExperience evaluating alternative system or algorithm designs by analyzing trade-offs in performance, power, and latency to recommend a solution\nExperience with PyTorch, TensorFlow or similar machine learning toolsets\nDemonstrated research and engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub)\nExperience or knowledge of on-device algorithm development including hardware-aware ML models and/or optimizing ML compilers for efficient deployment on AI accelerators"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Sunnyvale",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-06T00:23:40.761Z",
+        "curated_at": "2026-11-12T13:30:42.421Z",
+        "job_updated_at": "2026-11-12T13:30:42.421Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ffeb1bcf8b815ed3756858066e9db774f7c99a2fafe18eb48cb606e036c80bf9",
+            "source": "employer_site",
+            "source_posting_id": "1168687122556258",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1168687122556258/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1168687122556258/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Sunnyvale",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-16T20:17:22.000Z",
+            "first_seen_at": "2026-11-06T00:23:40.761Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e579234f-f2eb-4f26-b1b3-232b6d31df4b",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist Intern, Neural Interfaces(PhD)"
+        },
+        "description": {
+          "state": "known",
+          "value": "Reality Labs at Meta is looking for PhD research interns to advance our pioneering work in neural interfaces, which grew out of the acquisition of CTRL-labs. We're building a practical interface that draws on rich signals measured non-invasively from the body, including surface electromyography (EMG), inertial measurement units (IMU), and photoplethysmography (PPG). This technology could become one of the main pillars for interaction with virtual and augmented realities. Help us unleash human potential by removing the bottlenecks between user intent and action.\n\nIn this role you will join a world-class, multi-disciplinary team of researchers. You'll investigate the nature of human neuromotor and other sensor signals, develop new signal processing and machine learning methods to infer a user's intent, and help create AI-first new interaction techniques and user experiences. Our internships are twelve (12) to twenty-four (24) weeks long, and we have various start dates throughout the year.\n\nResponsibilities\nResearch and develop neural networks, machine learning, or other computational models that use EMG, IMU and other relevant sensor data to advance neural interface capabilities.\nDesign methods, tools, and infrastructure to analyze and make use of rich multimodal datasets.\nAdapt machine learning methods to modern parallel computing environments (e.g., distributed clusters and GPUs).\nWork with engineering and Human-Computer Interaction (HCI) teams to turn research into new technology and user experiences.\nUse quantitative research methods to define, iterate on, and advance key areas of our research agenda.\n\nQualifications\nCurrently has, or is in the process of obtaining, a PhD in machine learning, computational neuroscience, speech and language technologies, signal processing, electrical engineering, computer science, statistics, physics, or a related field\nResearch-oriented implementation skills, including fluency in scientific Python and deep learning frameworks such as PyTorch, as shown by academic or professional research experience or contributions to open source projects\nExperience in machine learning, deep learning, signal processing, computer vision, probabilistic graphical models, and/or natural language processing\nMust obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment Intent to return to degree program after the completion of the internship\nExperience working with biosignals or wearable sensor data (e.g., EMG, IMU, PPG, EEG)\nExperience with multi-channel array processing or real-time signal processing\nExperience with sequence modeling of time-series data\nExperience training machine learning models at scale, including distributed or multi-GPU training on large datasets\nExperience moving machine learning research into prototypes or products\nExperience in software engineering in industry, including prior internships"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Burlingame",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-25T05:22:21.782Z",
+        "curated_at": "2026-11-12T13:30:42.343Z",
+        "job_updated_at": "2026-11-12T13:30:42.343Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "f8ae2724f5471d67ac5f9a1b511076f28482109607db7ee319c1b9d6ab9ee4bf",
+            "source": "employer_site",
+            "source_posting_id": "1436615821934863",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1436615821934863/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1436615821934863/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Burlingame",
+                "state": "CA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Burlingame",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Burlingame, CA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Seattle, WA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-20T18:40:20.000Z",
+            "first_seen_at": "2026-10-25T05:22:21.782Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e30bf4de-97ef-4063-8b82-dcca8ece192f",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Robotics"
+        },
+        "description": {
+          "state": "known",
+          "value": "At Meta, we’re building the future of human connection and the technology that enables it. This means continuously inventing and developing technologies for the next generation of experiences. To continue our efforts in the path to AGI, and as we move closer to a future with intelligent robots and advanced AI models, we're hiring talent across a broad range of disciplines from robotics hardware to system software, machine perception, and artificial intelligence. These crucial projects and initiatives taken on by this team have never been done before, so you have a rare opportunity to help us create new ways people connect around the world.\n\nWe’re seeking a Research Scientist ready to use their skills in system design and modeling and with a knowledge of a wide variety of components and technologies. These roles will require research and problem-solving skills, as well as fabrication and prototyping to design, develop, and construct novel prototypes and architectures. These roles will work in a focused incubation team and collaborate with a large and wide-ranging set of scientists and engineers in the greater organization.\n\nResponsibilities\nPerform fundamental and applied research to push the scientific and technological frontiers of embodied artificial intelligence\nInvent/improve novel data-driven paradigms for robotics, leveraging a variety of modalities (images, video, text, audio, tactile, etc.)\nInvestigate paradigms that can deliver a spectrum of embodied behaviors - from simulated characters to real robots, and from short-horizon, low-level to long-horizon, high-level intelligence\nDevelop algorithms based on state-of-the-art machine learning and neural network methodologies\nDefine, build and benchmark new functionality needed for the next generation of AI\nConduct research towards long-term product goals while identifying intermediate milestones\nLead, plan, and execute novel research based on long-term objectives of the organization\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nPhD degree in the field of Artificial Intelligence, Robotics, Computer Vision, Machine Learning, Language, a related field, or equivalent practical experience\nExperience with any of the following research areas: robotics, motion planning, embodied AI, human-robot interaction, sim-to-real transfer, learning from demonstration, reinforcement learning, dexterous manipulation, digital agents, vision language models, computer vision, egocentric perception, and/or Large Language Models\n5+ years of industry experience in relevant robotics related research areas, such as: Vision Language Models robot learning, reinforcement learning, imitation learning, action-conditioned world models, task and motion planning, sim-to-real transfer robotic control, manipulation, navigation, or generally embodied AI Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences in Machine Learning (NeurIPS, ICML, ICLR), Robotics (ICRA, IROS, RSS, CoRL), Computer Vision (CVPR, ICCV, ECCV)\n7+ years of industry experience in relevant robotics related research areas, such as: robot learning, reinforcement learning, imitation learning, action-conditioned world models, task and motion planning, sim-to-real transfer robotic control, manipulation, navigation, or generally embodied AI\nDemonstrated research and software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub)\nExperience with manipulating and analyzing complex, large scale, high-dimensionality data from varying sources\nExperience building systems based on machine learning and/or deep learning methods\nExperience with deep learning frameworks (such as PyTorch, Tensorflow) and Python\nExperience solving complex problems and comparing alternative solutions, tradeoffs, and different perspectives to determine a path forward\nExperience working with robot simulations and real-world hardware\nExperience working and communicating cross functionally in a team environment"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Redmond",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Burlingame",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T08:07:59.322Z",
+        "curated_at": "2026-11-12T13:30:42.330Z",
+        "job_updated_at": "2026-11-12T13:30:42.330Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "39f8712190b7afe5a477479308b4e679ff56fecefd012b6e0fe1cce4eb3f448d",
+            "source": "employer_site",
+            "source_posting_id": "3068587003348843",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/3068587003348843/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/3068587003348843/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Redmond",
+                "state": "WA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Redmond",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Redmond, WA"
+                  },
+                  {
+                    "city": "Menlo Park",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Menlo Park, CA"
+                  },
+                  {
+                    "city": "Burlingame",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Burlingame, CA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-11-24T17:55:28.000Z",
+            "first_seen_at": "2026-09-21T08:07:59.322Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e1bb4efd-564e-4515-aecc-a271488208d7",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Robotics"
+        },
+        "description": {
+          "state": "known",
+          "value": "The ideal Research Scientist candidate will use their skills in system design and modeling and possess knowledge of a wide variety of components and technologies. These roles will require research and problem-solving skills, as well as fabrication and prototyping to design, develop, and construct novel prototypes and architectures. These roles will work in a focused incubation team and collaborate with a large and wide-ranging set of scientists and engineers in the greater organization.\n\nResponsibilities\nPerform fundamental and applied research to push the scientific and technological frontiers of embodied artificial intelligence\nInvent/improve novel data-driven paradigms for robotics, leveraging a variety of modalities (images, video, text, audio, tactile, etc)\nInvestigate paradigms that can deliver a spectrum of embodied behaviors - from simulated characters to real robots, and from short-horizon, low-level to long-horizon, high-level intelligence\nDevelop algorithms based on state-of-the-art machine learning and neural network methodologies\nDefine, build and benchmark new functionalities needed for the next generation of AI\nConduct research towards long-term product goals while identifying intermediate milestones\nPlan and execute novel research based on long-term objectives of the organization\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nCurrently has or is in the process of obtaining a PhD degree in the field of Artificial Intelligence, Robotics, Computer Vision, Machine Learning, Language, a related field, or equivalent practical experience\nExperience with any of the following research areas: robotics, motion planning, embodied AI, human-robot interaction, sim-to-real transfer, learning from demonstration, reinforcement learning, dexterous manipulation, digital agents, vision language models, computer vision, egocentric perception, and/or LLMs\nExperience in relevant robotics related research areas, such as: VLM, robot learning, reinforcement learning, imitation learning, action-conditioned world models, task and motion planning, sim-to-real transfer robotic control, manipulation, navigation, or generally embodied AI Experience solving complex problems and comparing alternative solutions, tradeoffs, and different perspectives to determine a path forward\nExperience working with robot simulations and real-world hardware\nExperience working and communicating cross functionally in a team environment\n2+ years of industry experience in relevant robotics related research areas, such as: robot learning, reinforcement learning, imitation learning, action-conditioned world models, task and motion planning, sim-to-real transfer robotic control, manipulation, navigation, or generally embodied AI\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences in Machine Learning (NeurIPS, ICML, ICLR), Robotics (ICRA, IROS, RSS, CoRL), Computer Vision (CVPR, ICCV, ECCV)\nExperience with manipulating and analyzing complex, large scale, high-dimensionality data from varying sources\nExperience building systems based on machine learning and/or deep learning methods\nDemonstrated research and software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub)\nExperience with deep learning frameworks (such as PyTorch, Tensorflow) and Python"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Redmond",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Burlingame",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T08:07:59.322Z",
+        "curated_at": "2026-11-12T13:30:42.321Z",
+        "job_updated_at": "2026-11-12T13:30:42.321Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "7cf4a433f4a53aa8ff9bfee3708fa63b1310a5daad0543c5f5f08381f61489b7",
+            "source": "employer_site",
+            "source_posting_id": "4173593806295761",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/4173593806295761/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/4173593806295761/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Redmond",
+                "state": "WA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Redmond",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Redmond, WA"
+                  },
+                  {
+                    "city": "Burlingame",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Burlingame, CA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-08-20T23:46:29.000Z",
+            "first_seen_at": "2026-09-21T08:07:59.322Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8e4ddf83-c9b1-4eff-af95-7ad14afb7e95",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, FAIR Security, Privacy, and Reliability"
+        },
+        "description": {
+          "state": "known",
+          "value": "The FAIR Security, Privacy, and Reliability team breaks and fixes agents and the foundational models that power them. We conduct fundamental research to discover novel attacks, measure privacy, and find non-intuitive breaks in robustness. We frequently contribute those benchmarks to Meta's model Evaluation Reports and have published many of them in top research venues, earning top-1% recognition at ICLR and ICML. The team also lands novel post-training mitigations for these risks in both the open-source line of models and has multiple opportunities for direct research-to-production.\n\nResponsibilities\nConduct fundamental research to discover novel safety and security failures, robust approaches to measuring memorization risk or reliability failures in AI agents and foundational models,\nDevelop and contribute benchmarks to Meta's foundational model evaluation suite and/or the Evaluation Reports\nDesign and implement novel post-training mitigations for safety, security, privacy, and reliability risks in foundation models\nCollaborate with cross-functional teams to translate research into production systems\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nPhD in Computer Science, Machine Learning, or related field, or equivalent practical experience\nResearch experience in at least one of the following areas: safety, security, privacy, or robustness of AI models; adversarial machine learning; indirect prompt injections or jailbreaks; contextual integrity or memorization; reward hacking or other agent reliability failures; testing or mitigating foundation models for catastrophic risk (CBRNE, cyber, loss of control); or developing mitigations in any of these areas Track record of publications in top-tier research venues"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T23:42:13.550Z",
+        "curated_at": "2026-11-12T13:30:42.187Z",
+        "job_updated_at": "2026-11-12T13:30:42.187Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "7abd8f76182c55544d4205aa174a3e0c7a32bab3929aca68ede8f10f79489822",
+            "source": "employer_site",
+            "source_posting_id": "1414134214191432",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1414134214191432/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1414134214191432/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-21T20:36:37.000Z",
+            "first_seen_at": "2026-09-21T23:42:13.550Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "56053719-be0a-419a-85af-a0df4b00112c",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Robotics - Meta Superintelligence Labs"
+        },
+        "description": {
+          "state": "known",
+          "value": "Meta is seeking a Research Scientist to join Meta Superintelligence Labs. Individuals in this role are expected to be recognized experts in identified research areas such as artificial intelligence, machine learning, robotics, and embodied AI, particularly including areas such as transfer learning, learning from demonstration, reinforcement learning, action-conditioned world models, perception, representation learning, robot control, navigation, mobile manipulation, dexterous manipulation, and vision-language models. You should have a keen interest in producing new, open science to make embodied agents more intelligent.\n\nResponsibilities\nPerform fundamental and applied research to push the scientific and technological frontiers of embodied artificial intelligence\nInvent/improve novel data-driven paradigms for robotics, leveraging a variety of modalities (images, video, text, audio, tactile, etc)\nInvestigate paradigms that can deliver a spectrum of embodied behaviors - from simulated characters to real robots, and from short-horizon, low-level to long-horizon, high-level intelligence\nDevelop algorithms based on state-of-the-art machine learning and neural network methodologies\nDefine, build and benchmark new capabilities needed for the next generation of AI\nConduct research towards long-term research goals while identifying intermediate milestones\nLead, plan, and execute novel research based on long-term objectives of the organization\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nPhD degree in the field of Artificial Intelligence, Robotics, Computer Vision, Machine Learning, Language, a related field, or equivalent practical experience\n2+ years of industry experience in relevant robotics related research areas, such as: robot learning, reinforcement learning, imitation learning, action-conditioned world models, task and motion planning, sim-to-real transfer robotic control, manipulation, navigation, or generally embodied AI\nExperience with any of the following research areas: robotics, motion planning, embodied AI, human-robot interaction, sim-to-real transfer, learning from demonstration, reinforcement learning, dexterous manipulation, digital agents, vision language models, computer vision, egocentric perception, and/or LLMs\nMust obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences in Machine Learning (NeurIPS, ICML, ICLR), Robotics (ICRA, IROS, RSS, CoRL), Computer Vision (CVPR, ICCV, ECCV)\n5+ years of industry experience in relevant robotics related research areas, such as: robot learning, reinforcement learning, imitation learning, action-conditioned world models, task and motion planning, sim-to-real transfer robotic control, manipulation, navigation, or generally embodied AI\nExperience solving complex problems and comparing alternative solutions, tradeoffs, and different perspectives to determine a path forward\nDemonstrated research and software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub)\nExperience with robotics frameworks like ROS, along with experience working with robot simulations and real-world hardware\nExperience building systems based on machine learning and/or deep learning methods\nExperience with deep learning frameworks (such as pytorch, tensorflow) and Python\nExperience with manipulating and analyzing complex, large scale, high-dimensionality data from varying sources\nExperience working and communicating cross functionally in a team environment"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-18T21:23:18.969Z",
+        "curated_at": "2026-11-12T13:30:42.041Z",
+        "job_updated_at": "2026-11-12T13:30:42.041Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "58a98b55db45221c0b48610e2fcd0d82b9243aba4d3e2e76069181c901ead166",
+            "source": "employer_site",
+            "source_posting_id": "2329761541160858",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2329761541160858/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2329761541160858/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-16T05:11:14.000Z",
+            "first_seen_at": "2026-09-18T21:23:18.969Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "54556b49-6fcc-44c1-9e2a-f9e463ec4dfa",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Visual Coding - MSL FAIR"
+        },
+        "description": {
+          "state": "known",
+          "value": "We are seeking AI research scientists to help us build Meta's most advanced multimodal large language models. To push the frontier of what those models can generate, we need to work with data and train at scale, and advance our visual coding capabilities.\n\nOur team contributes across all stages of development (pre-training, mid-training, post-training) and all multimodal modalities (image, video, audio, 3D). We are tackling complex challenges at trillion-scale, including organic data curation, synthetic data generation, agent and interaction data, visual code generation, agent post-training, and frontier paradigms that redefine what is possible.\n\nBased in Meta Superintelligence Labs (MSL) within the Fundamental AI Research Organization (FAIR), you will directly contribute to Meta's frontier models and collaborate with scientists and engineers across MSL.\n\nResponsibilities\nApply specialized expertise in visual code generation for 3D, web, and game environments\nExecute on high-priority projects in pre-training, mid-training, or post-training data curation and evaluation development\nCollaborate with cross-functional teams to develop Meta’s next foundational models\nLead complex technical projects end-to-end\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nBachelor's degree in Computer Science, Computer Engineering, a relevant technical field, or equivalent practical experience\nA PhD in Computer Science or a related technical field\n2+ years of industry research experience with large language or large media models, computer vision, or related AI/ML models\nExperience as a formal technical lead, leading major technical initiatives with cross-functional impact, and/or influencing strategy across multiple teams\nExperience in visual code generation - generating code that produces visual output for 3D, web, or game environments\nExperience with multimodal pre-training or mid-training data curation for large media perception models\nPublished research in leading peer-reviewed conferences (e.g., ACL, NeurIPS, ICML, ICLR, AAAI, KDD, CVPR, ICCV) and/or demonstrated significant industry influence in the field of AI Experience working on frontier-quality and state-of-the-art Large Language or Large Media Models\nProgramming experience in Python and hands-on experience with frameworks like PyTorch or Spark, or related distributed computing frameworks (Ray, DataFlow)\nFamiliarity with SQL and file formats, such as Hive, Iceberg, Parquet, etc\nFirst-author publications in leading peer-reviewed conferences (e.g., ACL, NeurIPS, ICML, ICLR, AAAI, KDD, CVPR, ICCV)"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-03T13:13:13.416Z",
+        "curated_at": "2026-11-12T13:30:42.034Z",
+        "job_updated_at": "2026-11-12T13:30:42.034Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "56232668ecaa77ad9e9f3113f6902b860c94e82da88ff5731254b3302074b169",
+            "source": "employer_site",
+            "source_posting_id": "2922422108141088",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2922422108141088/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2922422108141088/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-02T15:03:18.000Z",
+            "first_seen_at": "2026-11-03T13:13:13.416Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "7c53c561-5d10-4ff4-9d91-554236141fe2",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Robotics - Meta Superintelligence Labs"
+        },
+        "description": {
+          "state": "known",
+          "value": "Meta is seeking an AI Research Scientist to join Meta Superintelligence Labs. Individuals in this role are expected to be recognized experts in identified research areas such as artificial intelligence, machine learning, robotics, and embodied AI, particularly including areas such as transfer learning, learning from demonstration, reinforcement learning, action-conditioned world models, perception, representation learning, robot control, navigation, mobile manipulation, dexterous manipulation, and vision-language models. You should have a keen interest in producing new, open science to make embodied agents more intelligent.\n\nResponsibilities\nPerform fundamental and applied research to push the scientific and technological frontiers of embodied artificial intelligence.\nInvent/improve novel data-driven paradigms for robotics, leveraging a variety of modalities (images, video, text, audio, tactile, etc).\nInvestigate paradigms that can deliver a spectrum of embodied behaviors from simulated characters to real robots, and from short-horizon, low-level to long-horizon, high-level intelligence.\nDevelop algorithms based on state-of-the-art machine learning and neural network methodologies.\nDefine, build and benchmark new capabilities needed for the next generation of AI.\nConduct research towards long-term research goals while identifying intermediate milestones.\nExecute novel research based on long-term objectives of the organization.\n\nQualifications\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\nCurrently has or is in the process of obtaining a PhD degree in the field of Artificial Intelligence, Robotics, Computer Vision, Machine Learning, Language, a related field, or equivalent practical experience\nExperience in relevant robotics research areas such as: robot learning, reinforcement learning, imitation learning, action-conditioned world models, task and motion planning, sim-to-real transfer, robotic control, dexterous manipulation, navigation, vision language models, or generally embodied AI\nMust obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment 2+ years of industry experience in relevant robotics related research areas, such as: robot learning, reinforcement learning, imitation learning, action-conditioned world models, task and motion planning, sim-to-real transfer robotic control, manipulation, navigation, or generally embodied AI\nPhD degree in the field of Artificial Intelligence, Robotics, Computer Vision, Machine Learning, Language, a related field, or equivalent practical experience\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences in Machine Learning (NeurIPS, ICML, ICLR), Robotics (ICRA, IROS, RSS, CoRL), Computer Vision (CVPR, ICCV, ECCV)\nDemonstrated research and software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub)\nExperience solving complex problems and comparing alternative solutions, tradeoffs, and different perspectives to determine a path forward\nExperience working and communicating cross functionally in a team environment\nExperience with robotics frameworks like ROS, along with experience working with robot simulations and real-world hardware\nExperience building systems based on machine learning and/or deep learning methods\nExperience with deep learning frameworks (such as pytorch, tensorflow) and Python\nExperience with manipulating and analyzing complex, large scale, high-dimensionality data from varying sources"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-18T21:23:18.969Z",
+        "curated_at": "2026-11-12T13:30:41.867Z",
+        "job_updated_at": "2026-11-12T13:30:41.867Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "58d71cb2ca9aad9125e59a1e2efc502527b0fd0968e69cfd0922cd2596e5b0d9",
+            "source": "employer_site",
+            "source_posting_id": "2058939638096096",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2058939638096096/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2058939638096096/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-16T00:26:19.000Z",
+            "first_seen_at": "2026-09-18T21:23:18.969Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "d9cb9746-bae9-420b-b3d5-60488df9548d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Multimodal Perception"
+        },
+        "description": {
+          "state": "known",
+          "value": "Meta is seeking Research Scientists to join Meta Reality Labs organization to work on making significant advances in vision and multi-modal perception. You will work on vision models, image and video understanding and sensor fusion. The team builds efficient on-device models that will be the foundation for a new paradigm in how we perceive the world. You will work with a highly interdisciplinary team of scientists, engineers, and cross-functional partners with a broad range of experiences, perspectives, approaches, and backgrounds and access cutting-edge technology, resources, and research facilities.\n\nResponsibilities\nBuild models that can understand images and videos\nConduct research and work with efficient vision encoders, multi-modal LLMs\nDefine, build and benchmark new capabilities needed for the next generation of AI\nTrain and optimize state-of-the-art machine learning and neural network methodologies\nWork with and create large datasets, and contribute to data annotation engines\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nAI Research Scientist, multimodal perception (PhD)\nResearch Experience in deep learning, computer vision, robotics, or AI infrastructure\nExperience with Python and PyTorch\nExperience developing software and executing complex experiments\nExperience communicating research for public audiences of peers\nMust obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment Experience solving complex problems and comparing alternative solutions, tradeoffs, and different perspectives to determine a path forward\nDemonstrated research and software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub)\nResearch experience with efficiency as a focus\nExperience working and communicating cross functionally in a team environment\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences such as CVPR, ICCV, ECCV, ICML, NeurIPS or similar"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Redmond",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Burlingame",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-01T11:24:34.819Z",
+        "curated_at": "2026-11-12T13:30:41.674Z",
+        "job_updated_at": "2026-11-12T13:30:41.674Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ab17998272b2a28ec3a6d0f427a281bd20cbe5ae37aa074e518448f004bf9a72",
+            "source": "employer_site",
+            "source_posting_id": "4689387038007574",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/4689387038007574/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/4689387038007574/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Redmond",
+                "state": "WA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Redmond",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Redmond, WA"
+                  },
+                  {
+                    "city": "Burlingame",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Burlingame, CA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-19T13:41:26.000Z",
+            "first_seen_at": "2026-11-01T11:24:34.819Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo0ODozMC43NzNaIiwiZmlsdGVyRGlnZXN0IjoiMmdoSVlYWlRnUHdIcHJxUDZwejEybDBMcHprb2ZTVlF1d1BKWk1MQVpwcyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEyVDEzOjMwOjQxLjY3NDAwMFoiLCJqb2JJZCI6ImQ5Y2I5NzQ2LWJhZTktNDIwYi1iM2Q1LTYwNDg4ZGY5NTQ4ZCJ9fQ.8fPvpAZe5nhPzN_Lxt0p1KWeNzTPy1NdaLKlylTFatE",
+    "total": 82,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:48:30.773Z"
+  },
+  "response_usage": {
+    "charged": "25",
+    "remaining": "97595",
+    "request_id": "07d34857-d84b-4886-a03b-f4fe28f3fdc4"
+  }
+}

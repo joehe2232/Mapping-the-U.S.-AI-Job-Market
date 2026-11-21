@@ -1,0 +1,1296 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:48:57.541096+00:00",
+  "state_filter": "TX",
+  "title_filter": "business intelligence analyst",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "TX",
+    "title": "business intelligence analyst",
+    "sort": "updated",
+    "limit": 25,
+    "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo0NToxOC40ODBaIiwiZmlsdGVyRGlnZXN0IjoiY25qOGdhTmpaWU93VzlIYWtIeFkxRmZFN3lfa0pxMzRORFlTYmx6MVQzQSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTA3VDAzOjA2OjIxLjQxMzAwMFoiLCJqb2JJZCI6IjE2NjhhYTE0LWNjN2QtNGNlYS1hMWIwLTQxNzYyNjEwZTU1NyJ9fQ.IX8DpMFilPYQ23g0RhndYblC2wNe90KxyUYZucLgd4A"
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "8ba111b2-82cc-4469-a4c3-e1817d76c8ce",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "5deac5ba-f0b7-8030-a5f6-4ddd0a9c1c77",
+        "employer_name": {
+          "state": "known",
+          "value": "ROGUE"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst II"
+        },
+        "description": {
+          "state": "known",
+          "value": "Department : Enterprise Analytics Department Reports To : Enterprise Analytics Manager Classification : Exempt Location : (On-Site) Medford, Oregon About Rogue Credit Union : Rogue Credit Union is a member-owned, not-for-profit financial cooperative headquartered in the Rogue Valley located in beautiful southern Oregon. Providing services to our members in select Oregon, California and Idaho counties. We strive to make an impact in the communities we serve by living, giving, and supporting local. Our mission is to provide exceptional member experiences that build mutually beneficial relationships to create the most loyal members in the nation. Here at Rogue, we believe in having a culture of happy team members who feel supported, have the chance to grow their careers, and LOVE where they work! Role : Analyzes data and generates output that enables Rogue Credit Union's leaders and employees to make data informed decisions in pursuit of the most loyal members in the nation. Strategically studies and evaluates information from many data sources. Develops meaningful and usable assessments to make recommendations consistent with the credit union's mission, vision and filter to aid in creating value for the membership, supporting creation of the most loyal members in the nation. Essential Functions & Responsibilities : 30% Proactively analyzes data from a variety of sources to make recommendations that uncover trends that contribute to Rogue Credit Union’s initiatives and the achievement of the organization’s goals and objectives. 25% Works with internal and external stakeholders to classify data, provides reports and data in a usable format for project teams, managers, decision makers, or departments as requested. 15% Provides and maintains models that highlight member segments and life cycles based on a variety of data points. Analyzes the ongoing business operations of the Credit Union and makes recommendations on opportunities that will increase member participation. Identifies opportunities to enhance or add deposit and loan products and other services. 15% Provides recommendations to management of how data can translate to tools that staff can utilize to deliver exceptional service and deepen member participation. 5% Provides regular competitive analysis based on current and potential new markets. 5% Provides training and ongoing support to power users. 5% Proactively performs other duties as assigned. Knowledge & Skills : Experience : Five years to eight years of similar or related experience. Experience evaluating business needs and user requirements in a related position. Three to Five years of experience in a financial services environment with an awareness of accounting principles and financial statements preferred. Education : (1) A master's degree, or (2) a bachelor's degree plus professional certification (e.g., CPA). Interpersonal Skills : Work involves extensive personal contact with others and is of a personal or sensitive nature. Motivating, influencing, and/or training others is key at this level. Outside contacts become important and fostering sound relationships with other entities (companies and/or individuals) becomes necessary and often requires the ability to influence and/or sell ideas or services to others. Other Skills : Extensive use of SQL and RDBMS systems (DB2, Oracle, SQL Server, etc) and data warehouse implementations. Strong knowledge of logical and physical data modeling concepts. Experience with R and/or Python programming languages for data analysis. Experience with ETL and BI tools, experience with common data visualization tools (Tableau, Power BI, Sisense, etc.), programming / scripting experience and knowledge of software development life cycle. Excellent organization and time management skills. Strong data mining, analysis and report building skills. Strategic, critical thinking skills. Familiarity with Agile development processes and team environments. Physical Requirements : Some adjusting or moving objects up to 30 pounds in all directions. Must be able to remain in a stationary position, often standing or sitting for prolonged periods. Repeating motions that may include the wrists, hands and/or fingers while using computer. Communicating with others to exchange information. Perceiving the nature of sounds at normal speaking levels or without correction. Ability to receive detailed information through oral communication and make fine discernments in sound. Close and continuous visual acuity to perform activities such as: preparing and analyzing data and figures, transcribing, viewing a computer terminal and extensive reading. Work Environment : This job is an exempt position that requires flexibility in scheduling tasks and projects. The employee must independently monitor hours and judge the time needed to be spent on applicable duties. Employee must be capable of adjusting to unpredictable schedules proactively. As a direct representative of the credit union, the employee must conduct and present themselves courteously and professionally. Exposed to potentially hazardous conditions, i.e., robbery. Travel to all credit union regions may be required. Disclaimer : Rogue Credit Union is a drug free workplace and requires a drug screening test within 48 hours of employment offer. Rogue Credit Union is an Equal Opportunity Employer and makes employment decisions without regard to race, color, national origin, religion, sex, age, disability, veteran status, or any other protected class. If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process or are limited in the ability or unable to access or use this online application process and need an alternative method, please call (541) 622-7295. This Job Description is not a complete statement of all duties and responsibilities comprising the position ."
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "remote",
+          "evidence": [
+            "location: Remote"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-06T23:55:11.729Z",
+        "curated_at": "2026-11-06T23:55:28.847Z",
+        "job_updated_at": "2026-11-06T23:55:28.847Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-a"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 8241178,
+                "max_cents": 10301473,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "2bafc31aedeb3e01661b6d1927d1d1e76d1bf2048a04cd49f4ad8c7d5407bed4",
+            "source": "adp",
+            "source_posting_id": "9202967028520_2",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=51c37692-2a31-4483-9a40-7d4bf5fe276f&ccId=19000101_000001&lang=en_US&jobId=9202967028520_2"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=51c37692-2a31-4483-9a40-7d4bf5fe276f&ccId=19000101_000001&lang=en_US&jobId=9202967028520_2"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "state": "TX",
+                "country": "US",
+                "regionCode": "TX",
+                "remote": true,
+                "alternatives": [
+                  {
+                    "state": "FL",
+                    "country": "US",
+                    "regionCode": "FL",
+                    "remote": true,
+                    "raw": "Remote FL, FL, US"
+                  },
+                  {
+                    "state": "OR",
+                    "country": "US",
+                    "regionCode": "OR",
+                    "remote": true,
+                    "raw": "Remote OR, OR, US"
+                  },
+                  {
+                    "state": "VA",
+                    "country": "US",
+                    "regionCode": "VA",
+                    "remote": true,
+                    "raw": "Remote VA, VA, US"
+                  },
+                  {
+                    "state": "ID",
+                    "country": "US",
+                    "regionCode": "ID",
+                    "remote": true,
+                    "raw": "Remote ID, ID, US"
+                  },
+                  {
+                    "state": "CA",
+                    "country": "US",
+                    "regionCode": "CA",
+                    "remote": true,
+                    "raw": "Remote CA, CA, US"
+                  },
+                  {
+                    "state": "NV",
+                    "country": "US",
+                    "regionCode": "NV",
+                    "remote": true,
+                    "raw": "Remote NV, NV, US"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 82411.78,
+                "max": 103014.73,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-07T04:26:00.000Z",
+            "first_seen_at": "2026-11-06T23:55:11.729Z",
+            "last_completed_fetch_at": "2026-11-06T23:55:11.716Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "1185400b-53d9-4673-bba7-17982cc8a743",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "d72ed442-47be-8042-9d54-d72fb3f5e52a",
+        "employer_name": {
+          "state": "known",
+          "value": "RELX INC"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst - Snowflake, Databricks, SSRS"
+        },
+        "description": {
+          "state": "known",
+          "value": "St Louis, MO\nIowa\nFlorida\nHouston, TX\nNorth Carolina\nIllinois\nFull time\nR119700\nAre you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS) looking to build complex reports for our core Healthcare Education Team?\nAbout the role: As a BI Analyst you will be entrusted to support Trade and Commercial Reporting within Elsevier Healthcare Education’s (EHE) Business Intelligence Team. This role will partner with commercial, analytics, technology, and senior stakeholders to modernize reporting workflows, improve reporting quality, and deliver scalable BI solutions that support business decision-making.\nAbout the team- Elsevier’s Healthcare Education team develops digital learning, assessment, and simulation products—including Sherpath AI, ClinicalKey Student, Shadow Health, HESI, Complete Anatomy, and Osmosis—to support medical and nursing students, educators, and future healthcare professionals worldwide. From an AI Software Engineering perspective, the team’s work spans generative AI, RAG, intelligent search, personalized learning, data analytics, cloud-based applications, and virtual patient simulations to improve educational experiences and learning outcomes.\nKey Responsibilities\n+ Owning the development and enhancement of Trade and Commercial Reporting solutions across Snowflake, Tableau, and related BI environments.\n+ Applying AI tools, where appropriate, to improve analysis, documentation, workflow efficiency, and reporting development.\n+ Converting legacy manual reporting workflows, including Excel-based processes, into scalable dashboards, automated reporting, and repeatable analytical solutions.\n+ Supporting reporting migrations by translating legacy queries, business rules, and reporting logic into new data warehouse environments.\n+ Validating reporting outputs across legacy and new environments to ensure accuracy, consistency, and alignment with business definitions.\n+ Partnering with commercial stakeholders, including senior and VP-level audiences, to gather requirements, clarify business questions, and deliver actionable reporting outputs.\n+ Investigating data discrepancies, perform quality checks, document issues, and coordinating resolution with business and technical partners.\n+ Maintaining documentation for reporting processes, data definitions, query logic, migration mappings, and technical workflows.\n+ Managing multiple reporting priorities and stakeholder requests with strong attention to detail and limited oversight.\nRequired Qualifications\n+ 3+ years of hands-on SQL experience using Snowflake, Databricks, SSRS, or similar data platforms.\n+ 3+ years of experience developing dashboards and reports in BI visualization tools such as Tableau, Power BI, Looker, or similar platforms.\n+ Demonstrated experience converting manual or legacy reporting workflows into automated BI, dashboard, or reporting solutions.\n+ Demonstrated experience translating reporting logic, SQL queries, or business rules across systems, data warehouses, or reporting platforms.\n+ Experience gathering requirements from business stakeholders and converting them into technical specifications, reporting logic, or dashboard solutions.\n+ Proven ability to validate data, investigate discrepancies, and ensure reporting accuracy.\n+ Familiarity with AI tools such as ChatGPT, Claude, Copilot and their applications.\nElsevier employs 10,000 people worldwide, including over 2,500 technologists. We have supported the work of our research and health partners for more than 140 years. Growing from our roots in publishing, we offer knowledge and valuable analytics that help our users make breakthroughs and drive societal progress.\nU.S. National Base Pay Range: $71,600 - $119,400. Geographic differentials may apply in some locations to better reflect local market rates.\nIf performed in Illinois, the base pay range is $75,200 - $125,500.If performed in Chicago, IL, the base pay range is $78,700 - $131,400.\nThis job is eligible for an annual incentive bonus.\nWe know your well-being and happiness are key to a long and successful career. We are delighted to offer country specific benefits. Click here (https://www.relx.com/careers/join-us/benefits) to access benefits specific to your location.\nWe are committed to providing a fair and accessible hiring process. If you have a disability or other need that requires accommodation or adjustment, please let us know by completing our Applicant Request Support Form or please contact 1-855-833-5120.\nCriminals may pose as recruiters asking for money or personal information. We never request money or banking details from job applicants. Learn more about spotting and avoiding scams here.\nPlease read our Candidate Privacy Policy.\nWe are an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law.\nUSA Job Seekers:\nEEO Know Your Rights.\nRELX is a global provider of information-based analytics and decision tools for professional and business customers, enabling them to make better decisions, get better results and be more productive.\nOur purpose is to benefit society by developing products that help researchers advance scientific knowledge; doctors and nurses improve the lives of patients; lawyers promote the rule of law and achieve justice and fair results for their clients; businesses and governments prevent fraud; consumers access financial services and get fair prices on insurance; and customers learn about markets and complete transactions.\nOur purpose guides our actions beyond the products that we develop. It defines us as a company. Every day across RELX our employees are inspired to undertake initiatives that make unique contributions to society and the communities in which we operate."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "St Louis",
+              "region": "US-MO",
+              "country": "US",
+              "postal_code": "63112",
+              "zip": "63112",
+              "county_fips": "29510",
+              "msa": {
+                "cbsa_code": "41180",
+                "cbsa_title": "St. Louis, MO-IL",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Houston",
+              "region": "US-TX",
+              "country": "US",
+              "postal_code": "77007",
+              "zip": "77007",
+              "county_fips": "48201",
+              "msa": {
+                "cbsa_code": "26420",
+                "cbsa_title": "Houston-Pasadena-The Woodlands, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Springfield",
+              "region": "US-IL",
+              "country": "US",
+              "postal_code": "62762",
+              "zip": "62762",
+              "county_fips": "17167",
+              "msa": {
+                "cbsa_code": "44100",
+                "cbsa_title": "Springfield, IL",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Raleigh",
+              "region": "US-NC",
+              "country": "US",
+              "postal_code": "27608",
+              "zip": "27608",
+              "county_fips": "37183",
+              "msa": {
+                "cbsa_code": "39580",
+                "cbsa_title": "Raleigh-Cary, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Boca Raton",
+              "region": "US-FL",
+              "country": "US",
+              "postal_code": "33434",
+              "zip": "33434",
+              "county_fips": "12099",
+              "msa": {
+                "cbsa_code": "33100",
+                "cbsa_title": "Miami-Fort Lauderdale-West Palm Beach, FL",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Des Moines",
+              "region": "US-IA",
+              "country": "US",
+              "postal_code": "50381",
+              "zip": "50381",
+              "county_fips": "19153",
+              "msa": {
+                "cbsa_code": "19780",
+                "cbsa_title": "Des Moines-West Des Moines, IA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-04T17:30:51.688Z",
+        "curated_at": "2026-11-06T09:21:43.187Z",
+        "job_updated_at": "2026-11-06T12:53:02.565Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 7160000,
+                "max_cents": 11940000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7520000,
+                "max_cents": 12550000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7870000,
+                "max_cents": 13140000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1e8c422580989b701ad1d01a4cac3fec97281d033d1b24a00791a7b1c58e833d",
+            "source": "directemployers",
+            "source_posting_id": "6BEADEAEF8354ADF9D397515CF166CDB",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://relx.dejobs.org/st-louis-mo/business-intelligence-analyst-snowflake-databricks-ssrs/6BEADEAEF8354ADF9D397515CF166CDB/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/6BEADEAEF8354ADF9D397515CF166CDB10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "St Louis",
+                "state": "MO",
+                "country": "US",
+                "regionCode": "MO",
+                "postalCode": "63112",
+                "latitude": 38.636894,
+                "longitude": -90.285034,
+                "remote": false,
+                "zip": "63112",
+                "alternatives": [
+                  {
+                    "city": "Houston",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 71600,
+                "max": 119400,
+                "currency": "USD",
+                "interval": "unknown",
+                "ranges": [
+                  {
+                    "min": 71600,
+                    "max": 119400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 75200,
+                    "max": 125500,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 78700,
+                    "max": 131400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-10-15T06:30:43.000Z",
+            "first_seen_at": "2026-11-04T17:32:39.411Z",
+            "last_completed_fetch_at": "2026-11-04T17:39:31.204Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 7160000,
+                "max_cents": 11940000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7520000,
+                "max_cents": 12550000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7870000,
+                "max_cents": 13140000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "71a0abe1fdc0db714e007bf6ac035f008013308eda0e0e4c48d459b10000dc03",
+            "source": "directemployers",
+            "source_posting_id": "7815EF7D0831457F93DBBCF76F953DFD",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://relx.dejobs.org/houston-tx/business-intelligence-analyst-snowflake-databricks-ssrs/7815EF7D0831457F93DBBCF76F953DFD/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/7815EF7D0831457F93DBBCF76F953DFD10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Houston",
+                "state": "TX",
+                "country": "US",
+                "regionCode": "TX",
+                "postalCode": "77007",
+                "latitude": 29.768396,
+                "longitude": -95.4075,
+                "remote": false,
+                "zip": "77007",
+                "alternatives": [
+                  {
+                    "city": "St Louis",
+                    "state": "MO",
+                    "country": "US",
+                    "remote": false
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 71600,
+                "max": 119400,
+                "currency": "USD",
+                "interval": "unknown",
+                "ranges": [
+                  {
+                    "min": 71600,
+                    "max": 119400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 75200,
+                    "max": 125500,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 78700,
+                    "max": 131400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-10-15T06:30:43.000Z",
+            "first_seen_at": "2026-11-04T17:32:39.411Z",
+            "last_completed_fetch_at": "2026-11-04T17:39:31.204Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 7160000,
+                "max_cents": 11940000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7520000,
+                "max_cents": 12550000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7870000,
+                "max_cents": 13140000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "7cc47dbc53134c1dcf842b4fa6ccc1db20dd91084de7a5f4f70fb33efc3e1ad8",
+            "source": "directemployers",
+            "source_posting_id": "61D9F01369C046EC82E828561572359D",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://relx.dejobs.org/springfield-il/business-intelligence-analyst-snowflake-databricks-ssrs/61D9F01369C046EC82E828561572359D/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/61D9F01369C046EC82E828561572359D10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Springfield",
+                "state": "IL",
+                "country": "US",
+                "regionCode": "IL",
+                "postalCode": "62762",
+                "latitude": 39.790783,
+                "longitude": -89.64678,
+                "remote": false,
+                "zip": "62762",
+                "alternatives": [
+                  {
+                    "city": "St Louis",
+                    "state": "MO",
+                    "country": "US",
+                    "remote": false
+                  },
+                  {
+                    "city": "Houston",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 71600,
+                "max": 119400,
+                "currency": "USD",
+                "interval": "unknown",
+                "ranges": [
+                  {
+                    "min": 71600,
+                    "max": 119400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 75200,
+                    "max": 125500,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 78700,
+                    "max": 131400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-10-15T06:30:43.000Z",
+            "first_seen_at": "2026-11-04T17:30:51.688Z",
+            "last_completed_fetch_at": "2026-11-04T17:39:31.204Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 7160000,
+                "max_cents": 11940000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7520000,
+                "max_cents": 12550000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7870000,
+                "max_cents": 13140000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "c1365e47f7c5665989930890685ea60c737b3f5dc0e4cb20b35b018e218e2767",
+            "source": "directemployers",
+            "source_posting_id": "F788D0C8734B428DA1C015F336980CD4",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://relx.dejobs.org/raleigh-nc/business-intelligence-analyst-snowflake-databricks-ssrs/F788D0C8734B428DA1C015F336980CD4/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/F788D0C8734B428DA1C015F336980CD410"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Raleigh",
+                "state": "NC",
+                "country": "US",
+                "regionCode": "NC",
+                "postalCode": "27608",
+                "latitude": 35.813522,
+                "longitude": -78.64896,
+                "remote": false,
+                "zip": "27608",
+                "alternatives": [
+                  {
+                    "city": "St Louis",
+                    "state": "MO",
+                    "country": "US",
+                    "remote": false
+                  },
+                  {
+                    "city": "Houston",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 71600,
+                "max": 119400,
+                "currency": "USD",
+                "interval": "unknown",
+                "ranges": [
+                  {
+                    "min": 71600,
+                    "max": 119400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 75200,
+                    "max": 125500,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 78700,
+                    "max": 131400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-10-15T06:30:45.000Z",
+            "first_seen_at": "2026-11-04T17:30:51.688Z",
+            "last_completed_fetch_at": "2026-11-04T17:39:31.204Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 7160000,
+                "max_cents": 11940000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7520000,
+                "max_cents": 12550000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7870000,
+                "max_cents": 13140000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "db61bcc325fd734c1bcb862e8c0285b165c86528c68468725cfac0a0fd7d765e",
+            "source": "directemployers",
+            "source_posting_id": "68380BDDF2F04CE6860AC84DB19628F5",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://relx.dejobs.org/boca-raton-fl/business-intelligence-analyst-snowflake-databricks-ssrs/68380BDDF2F04CE6860AC84DB19628F5/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/68380BDDF2F04CE6860AC84DB19628F510"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boca Raton",
+                "state": "FL",
+                "country": "US",
+                "regionCode": "FL",
+                "postalCode": "33434",
+                "latitude": 26.383781,
+                "longitude": -80.13317,
+                "remote": false,
+                "zip": "33434",
+                "alternatives": [
+                  {
+                    "city": "St Louis",
+                    "state": "MO",
+                    "country": "US",
+                    "remote": false
+                  },
+                  {
+                    "city": "Houston",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 71600,
+                "max": 119400,
+                "currency": "USD",
+                "interval": "unknown",
+                "ranges": [
+                  {
+                    "min": 71600,
+                    "max": 119400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 75200,
+                    "max": 125500,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 78700,
+                    "max": 131400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-10-15T06:30:43.000Z",
+            "first_seen_at": "2026-11-04T17:30:51.688Z",
+            "last_completed_fetch_at": "2026-11-04T17:39:31.204Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 7160000,
+                "max_cents": 11940000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7520000,
+                "max_cents": 12550000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7870000,
+                "max_cents": 13140000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "de9fd162c96580fbb297d4964e41b499605e1d9a7d49ae1d3e6eaf66a8358511",
+            "source": "directemployers",
+            "source_posting_id": "08C03B4394814B8089CC9EB899FC07E1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://relx.dejobs.org/des-moines-ia/business-intelligence-analyst-snowflake-databricks-ssrs/08C03B4394814B8089CC9EB899FC07E1/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/08C03B4394814B8089CC9EB899FC07E110"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Des Moines",
+                "state": "IA",
+                "country": "US",
+                "regionCode": "IA",
+                "postalCode": "50381",
+                "latitude": 41.5935,
+                "longitude": -93.6558,
+                "remote": false,
+                "zip": "50381",
+                "alternatives": [
+                  {
+                    "city": "St Louis",
+                    "state": "MO",
+                    "country": "US",
+                    "remote": false
+                  },
+                  {
+                    "city": "Houston",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 71600,
+                "max": 119400,
+                "currency": "USD",
+                "interval": "unknown",
+                "ranges": [
+                  {
+                    "min": 71600,
+                    "max": 119400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 75200,
+                    "max": 125500,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 78700,
+                    "max": 131400,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-10-15T06:30:42.000Z",
+            "first_seen_at": "2026-11-04T17:30:51.688Z",
+            "last_completed_fetch_at": "2026-11-04T17:39:31.204Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "93b45445-395f-42ab-9e63-35cd5f93a1ef",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "c2cf56f8-420b-8c6e-9007-8549aa8d5180",
+        "employer_name": {
+          "state": "known",
+          "value": "Lone Star National Bank"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "*** ONSITE ONLY ***\n\nJOB SUMMARY\n\nIndividuals within the Business Intelligence (BI) Analyst I role identify business intelligence, reporting, and data analysis needs. They work closely with clients and IT teams to turn data into critical information and knowledge that can be used to make sound business decisions. It is essential that BI Analysts build an understanding of the business at a level of detail that enables them to identify and address critical issues. They provide data that is accurate, congruent and reliable, and ensure the information is easily available to users for direct consumption or integration with other systems.\n\nBI Analysts educate and train clients to use the data as an analytical tool, displaying the information in new forms and content for the purpose of analysis and option exploration.\n\nBI Analysts work with clients to determine business requirements, priorities, define key performance indicators (KPI), and develop BI and data warehouse (DW) strategy. This includes working with business and development teams to design and document dashboards, alerts, and reports. This individual is accountable for providing leadership and independent initiatives in facilitating information gathering, structured documentation and presentation of findings to all levels of management. They conduct analyses of functional business processes and functional business requirements and participate in the development of business cases in the support of process changes and/or IT projects.\n\nBI Analysts understand how data is turned into information and knowledge and how that knowledge supports and enables key business processes. They must have an in-depth understanding of the business environment and an interest in going beyond the obvious, delving into the source, the definition, philosophy, and foundational roots of a data element in order to create information. They must work well within a team environment.\n\nESSENTIAL DUTIES\n\nThe duties listed below may not include all responsibilities that the person in this role may be asked to perform. Incumbent may be required to perform other related duties, as assigned, including cross training across other departments, as necessary.\n\n• Works on low to medium complexity tasks within one or more functional areas\n\n• Works on one or more tasks/projects as a team member and participates in or supports work-stream planning process\n\n• Works with internal and external customers and IT team members to gather and validate requirements\n\n• Develops and writes business requirements for the design of solutions\n\n• May determine and analyze commonly used queries and reports\n\n• Researches business problems and assists in the creation of models that help analyze these problems\n\n• Verifies the collected data is within required quality standards\n\n• May maintain the quality of metadata repository/data dictionary by adding, modifying and deleting data\n\n• Creates data quality tickets, as needed\n\n• Participates in job specific training and other various Bank training programs, as necessary\n\n• Maintains current knowledge of internal risk controls and loss prevention, including reporting of suspicious or unusual customer activity per Bank policy\n\n• Maintains current knowledge and complies with all federal and state laws and regulations and all established Bank policies and procedures, including internal audit controls related to department operations\n\n• Maintains current knowledge of all rules, regulations, and laws as they apply to BSA/OFAC/USA Patriot Act/CIP/AML\nQUALIFICATIONS\n\nThese specifications are general guidelines based on the minimum experience normally considered essential to the satisfactory performance of this position. The requirements listed below are representative of the knowledge, skill and/or ability required to perform the position in a satisfactory manner. Individual abilities may result in some deviation from these guidelines.\n\n• Bachelor's degree in Computer Science, Information Systems, Business Management or specialized training/certification, or equivalent work experience\n\n• Six (6) months to Two (2) years’ Business Analysis experience, or related education experience\n\n• Banking experience required\n\n• General Knowledge of business functional areas\n\n• Bilingual in English and Spanish is desired\n\nORGANIZATION\n\n• This position reports to the Business Intelligence Team Lead\n\n• This position does not oversee other positions\n\nTRAINING REQUIREMENTS\n\nAll employees are required to attend scheduled mandatory trainings and complete online regulatory compliance training courses applicable to their specific job function. In all situations, employees must ensure that their actions fully comply with all federal banking laws and regulations, including internal bank policies and procedures. Failure to adhere to these requirements will be grounds for disciplinary action, including probation and possible termination.\n\nCOMMUNITY INVOLVEMENT\n\nLone Star National Bank’s Mission Statement includes a commitment to helping our communities grow by serving them with pride and integrity. All employees are encouraged to volunteer for bank sponsored activities, civic, charitable and community events and to be active in the communities we serve.\n\nLSNB is an Equal Opportunity/Affirmative Action Employer and does not discriminate in the recruitment, hiring, and conditions of employment on the basis of race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, marital status, disability, age, veteran status, or any other status as protected by applicable laws.\n\nManagement reserves the right to change this position description at any time according to business needs."
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "McAllen",
+              "region": "US-TX",
+              "country": "US",
+              "postal_code": "78504",
+              "street": "610 W Nolana Ste 210",
+              "zip": "78504",
+              "county_fips": "48215",
+              "msa": {
+                "cbsa_code": "32580",
+                "cbsa_title": "McAllen-Edinburg-Mission, TX",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-15T07:22:28.326Z",
+        "curated_at": "2026-11-05T15:16:37.637Z",
+        "job_updated_at": "2026-11-05T15:16:37.637Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "74f26c4b88846aaa417f85a638e43e87dec53b285244811927704f950e58fb18",
+            "source": "paycom",
+            "source_posting_id": "502102",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.paycomonline.net/v4/ats/web.php/portal/C5C3BEDC353EFF1CDAEE8B40E3D95FED/jobs/502102"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.paycomonline.net/v4/ats/web.php/portal/C5C3BEDC353EFF1CDAEE8B40E3D95FED/jobs/502102"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "McAllen",
+                "state": "TX",
+                "country": "US",
+                "countryRaw": "USA",
+                "regionCode": "TX",
+                "postalCode": "78504",
+                "streetAddress": "610 W Nolana Ste 210",
+                "remote": false,
+                "zip": "78504"
+              }
+            },
+            "pay": {
+              "state": "source_omitted"
+            },
+            "source_posted_at": "2026-09-04T00:00:00.000Z",
+            "first_seen_at": "2026-10-15T07:22:28.326Z",
+            "last_completed_fetch_at": "2026-11-05T15:16:34.929Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "94efd28b-66d7-4c25-ae32-956de179c4bf",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "53ee47b2-6e21-84b1-b4ba-752d64da1705",
+        "employer_name": {
+          "state": "known",
+          "value": "T-Mobile USA, Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "Sr Business Intelligence Analyst, Broadband"
+        },
+        "description": {
+          "state": "known",
+          "value": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That’s how we’re UNSTOPPABLE for our employees!\n\nThe Broadband Business Intelligence team supports business decision making through the delivery of key commercial and marketing performance insights to unravel the intricate problems that come with being a wireless ISP/Fiber provider.\n\nThe Senior Business Intelligence Analyst role is responsible for guiding the business through the analysis (and communication) of quantitative & qualitative data. The right person will be experienced in visual storytelling on the impact of marketing campaigns/tactics and know how to go from requirements gathering to presentation, with tailored content for varying levels of audience. Insights and analysis generated in this role will be critical to driving decisions about business/product performance across the broadband organization.\n\nThis role requires the creation of customer centric solutions driven by data analysis, business acumen, creativity, and effective communication. This position will participate in the design and development of reporting structures and interfaces, as well as model building.\n\nThis is a hybrid position required to be working in-office at least 3 days a week.\n\nJob Responsibilities:\n\n- Support the business intelligence needs of the business by using data from various sources (e.g. AWS Redshift, Azure, Databricks). Guide data strategy across multiple touch points (e.g. new third party data acquisition and integration).\n- Lead the process of driving core insights from available data and create strategies to improve the customer experience & performance. This involves collaboration with Marketing Managers, Data Scientists, and others.\n- Early involvement in enterprise projects to define reporting needs & incorporating those needs into system design.\n- Create comprehensive dashboards from different data sources for presentations to senior management on verbal and written forms\n- Provide recommendations to cross-functional teams, resulting in process improvement\n\nKnowledge, Skills, and Abilities:\n\n- Expert analytical, problem solving and critical reasoning skills\n- Advanced communication/consulting, influencing and relationship management skills\n- Proficient in Microsoft Excel and Powerpoint\n- Be able to work on multiple projects simultaneously\n- Ability to work with cross functional teams\n\nQualifications:\n\n- Bachelor's degree in Business, Statistics or similar degree plus 5 years of related work experience. Or, Advanced degree with 3 years of related experience\n- 4 years experience with business intelligence tools (e.g.Business Objects, Cognos, Hyperion, etc.)\n- 4 years experience in reporting & analyzing performance & data visualization with Tableau\n- 2 years experience in online e-commerce or on-line support environments\n- 2 years experience in advanced business analytics, which include testing, competitive analysis, surveys, & market research\n- 4 years experience with performant querying of databases (SQL)\n- At least 18 years of age\n- Legally authorized to work in the United States\n\nTotal Target Cash Earnings Opportunity: $92,690 - $167,325\n\nNational Base Pay Range: $80,600 - $145,500\n\nThe Total Target Cash Earnings Opportunity represents the expected total cash compensation for this role at target performance, combining base salary and annual incentive opportunity. Actual earnings may be higher or lower depending on individual performance and overall company results.\n\nThe base pay range reflects the compensation component of this opportunity. The candidate’s actual pay will be based on various factors, such as work location, qualifications, and experience, so the actual starting pay will vary within this range. To find the pay range for this role based on hiring location, https://paylookup.t-mobile.com/paylookup?reqID=REQ379925&paradox=1\n\nAt T-Mobile, employees in regular, non-temporary roles are eligible for an annual bonus or periodic sales incentive or bonus, based on their role. Corporate employees are eligible for a year-end bonus based on individual and/or company performance and which is set at a percentage of the employee’s eligible earnings in the prior year. Certain positions in Customer Care are eligible for monthly bonuses based on individual and/or team performance. The incentive component included in the Total Target Cash Earnings Opportunity reflects target performance. Actual earnings included in the Total Target Cash Earnings Opportunity reflect target performance; actual payouts may vary.\n\nAt T-Mobile, our benefits exemplify the spirit of One Team, Together! A big part of how we care for one another is working to ensure our benefits evolve to meet the needs of our team members. Full and part-time employees have access to the same benefits when eligible. We cover all of the bases, offering medical, dental and vision insurance, a flexible spending account, 401(k), employee stock grants, employee stock purchase plan, paid time off and up to 12 paid holidays - which total about 4 weeks for new full-time employees and about 2.5 weeks for new part-time employees annually - paid parental and family leave, family building benefits, back-up care, enhanced family support, childcare subsidy, tuition assistance, college coaching, short- and long-term disability, voluntary AD&D coverage, voluntary accident coverage, voluntary life insurance, voluntary disability insurance, and voluntary long-term care insurance. We don't stop there - eligible employees can also receive mobile service & home internet discounts, pet insurance, and access to commuter and transit programs! To learn about T-Mobile’s amazing benefits, check out www.t-mobilebenefits.com.\n\nNever stop growing!\n\nAs part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!\n\nT-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, genetic information, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.\n\nTalent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.\n\nAbout T-Mobile:\n\nT-Mobile US, Inc. (NASDAQ: TMUS), headquartered in Bellevue, Washington, is America’s supercharged Un-carrier, connecting millions through its strong nationwide network and flagship brands, T-Mobile and Metro by T-Mobile. Customers benefit from an unmatched combination of value, quality, and exceptional service experience.\n\nAbout TMUS Global Solutions:\n\nTMUS Global Solutions is a world-class technology powerhouse accelerating the company’s global digital transformation. With a culture built on growth, inclusivity, and global collaboration, the teams here drive innovation at scale, powered by bold thinking.\n\nTMUS India Private Limited operates as TMUS Global Solutions.\n\nWe take equal opportunity seriously—by choice.\n\nWe are an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, genetic information, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by applicable local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.\n\nWe are committed to maintaining your trust by respecting and protecting your privacy. For more information about how T-Mobile processes the personal data of job applicants, employees, and other personnel, please visit our U.S. Workforce Privacy Notice or our International Personnel Privacy Notice."
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "hybrid",
+          "evidence": [
+            "description: hybrid"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Frisco",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48085",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Denver",
+              "region": "US-CO",
+              "country": "US",
+              "county_fips": "08031",
+              "msa": {
+                "cbsa_code": "19740",
+                "cbsa_title": "Denver-Aurora-Centennial, CO",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Overland Park",
+              "region": "US-KS",
+              "country": "US",
+              "county_fips": "20091",
+              "msa": {
+                "cbsa_code": "28140",
+                "cbsa_title": "Kansas City, MO-KS",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-02T12:09:32.543Z",
+        "curated_at": "2026-11-02T12:50:51.160Z",
+        "job_updated_at": "2026-11-02T12:50:51.160Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 8060000,
+                "max_cents": 14550000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 9269000,
+                "max_cents": 16732500,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "0826a9f61725d94a8ff3e4da7612526ca3f8636a68cb9dd03d891a6a6cc837a6",
+            "source": "workday",
+            "source_posting_id": "/job/Frisco-Texas/Sr-Business-Intelligence-Analyst--Broadband_REQ379925-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Business-Intelligence-Analyst--Broadband_REQ379925-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Business-Intelligence-Analyst--Broadband_REQ379925-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Frisco",
+                "state": "TX",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "TX",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Denver",
+                    "state": "CO",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Denver, Colorado"
+                  },
+                  {
+                    "city": "Overland Park",
+                    "state": "KS",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Overland Park, Kansas"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 92690,
+                "max": 167325,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 80600,
+                    "max": 145500,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 92690,
+                    "max": 167325,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-10-30T00:00:00.000Z",
+            "first_seen_at": "2026-11-02T12:09:32.543Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 34,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:48:53.569Z"
+  },
+  "response_usage": {
+    "charged": "4",
+    "remaining": "97475",
+    "request_id": "c71f137f-ce89-4a7c-ad09-4ad214718a6c"
+  }
+}

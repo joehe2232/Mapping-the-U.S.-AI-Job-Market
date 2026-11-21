@@ -1,0 +1,3238 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:45:57.897098+00:00",
+  "state_filter": "WA",
+  "title_filter": "AI product manager",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "WA",
+    "title": "AI product manager",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "b718a7d1-6e3e-406d-b131-9d1a6dec4138",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "9f5c4eb2-d1c3-867b-bab2-972c5d632bae",
+        "employer_name": {
+          "state": "known",
+          "value": "Baylor Scott & White Health"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "JOB SUMMARY\n· Owns a major area of the BSWH AI use-case roadmap and is accountable for translating customer jobs-to-be-done into AI-powered experiences that improve customer outcomes, operational efficiency, and business value.\n· Leads prioritization, roadmap development, requirements definition, launch planning, and success measurement for AI-enabled capabilities across one or more customer journey areas.\n· Works closely with Digital, Journey, Clinical, Analytics, Data, Ontology, Architecture, Engineering, and Operations teams to define, deliver, and continuously improve AI-powered customer experiences.\n· Ensures AI capabilities solve meaningful customer problems, achieve measurable outcomes, and are designed for safe, scalable, and reusable implementation across BSWH use cases.\n· Drives alignment across stakeholders while balancing customer needs, technical feasibility, operational constraints, regulatory requirements, and enterprise priorities.\n· Partners with AI platform and architecture teams to leverage reusable AI capabilities while maintaining accountability for customer and business outcomes within the assigned product area.\nESSENTIAL FUNCTIONS OF THE ROLE\nAI Use Case Product Strategy & Roadmap\n· Own the product strategy, roadmap, and backlog for one or more priority AI use-case areas.\n· Translate customer, operational, and clinical problems into clear jobs-to-be-done, product requirements, delivery priorities, and measurable outcomes.\n· Define success metrics and key performance indicators that measure business impact, customer value, adoption, engagement, satisfaction, and operational improvement.\n· Identify, evaluate, and prioritize opportunities where AI can create differentiated customer experiences or operational advantages.\n· Develop business cases and prioritization frameworks that balance strategic value, implementation complexity, risk, dependency management, and expected return.\nCustomer Outcomes & Jobs-to-Be-Done Ownership\n· Lead discovery efforts to understand customer needs, stakeholder requirements, operational workflows, and pain points that can be addressed through AI-enabled capabilities.\n· Frame AI use cases as concrete customer jobs-to-be-done and ensure each use case has a clear problem statement, target outcome, measurable success criteria, and responsible stakeholders.\n· Partner with customer journey leaders, clinical and operational subject matter experts, and analytics teams to validate that proposed capabilities address the right problems.\n· Ensure product decisions stay grounded in customer value, clinical/operational integrity, and measurable business impact rather than technology novelty alone.\nAI Capability Definition & Experience Design\n· Define AI-enabled product capabilities, workflows, agent behaviors, escalation paths, guardrails, and customer experiences for assigned AI use cases.\n· Translate strategy into clear user stories, acceptance criteria, success metrics, and delivery priorities that engineering and AI teams can execute against.\n· Collaborate with architecture and engineering teams to determine when solutions should use orchestration, retrieval, deterministic rules, personalization, automation, or human review.\n· Partner with design, research, and customer experience teams to ensure AI-powered interactions are understandable, helpful, trustworthy, and aligned with BSWH experience standards.\nCross-Functional Delivery & Adoption\n· Lead cross-functional collaboration across Product, Engineering, Architecture, Journey, Clinical, Analytics, Data, Ontology, Security, Privacy, Compliance, and Operations teams.\n· Manage roadmap tradeoffs across customer experience, speed of delivery, technical complexity, operational readiness, safety, compliance, and long-term scalability.\n· Communicate product vision, roadmap priorities, delivery progress, risks, launch readiness, and outcomes to leadership and stakeholders.\n· Support launch planning, adoption, training, stakeholder readiness, and operational handoffs for AI-enabled capabilities.\nEvaluation, Measurement & Continuous Improvement\n· Define expected AI behaviors, quality expectations, guardrails, and acceptance criteria in partnership with clinical, operational, technical, and AI quality stakeholders.\n· Partner with engineering, analytics, and AI quality teams to establish evaluation approaches, testing criteria, performance expectations, and feedback loops.\n· Monitor AI capability performance, adoption, customer outcomes, operational outcomes, and quality metrics to identify improvement opportunities.\n· Drive iterative improvement using customer feedback, evaluation results, product analytics, operational insights, and experimentation results.\nPlatform Reuse & Enterprise Alignment\n· Work with AI platform, architecture, data, ontology, and engineering teams to ensure assigned use cases leverage reusable enterprise AI capabilities where appropriate.\n· Identify reusable capabilities, patterns, or requirements that should be shared across multiple AI use cases or product areas.\n· Help prevent duplicated work by connecting use-case needs to common platform capabilities, integration patterns, evaluation approaches, and governance standards.\n· Ensure product decisions support both near-term use-case delivery and BSWH’s longer-term AI strategy.\nKEY SUCCESS FACTORS\n· Proven ability to define product strategies that translate customer problems into measurable business and customer outcomes.\n· Demonstrated success owning complex digital product areas with accountability for adoption, customer experience, and operational impact.\n· Strong product judgment and prioritization skills, particularly in environments with competing stakeholder needs, technical uncertainty, and resource constraints.\n· Ability to translate ambiguous customer, business, clinical, or operational needs into clear product requirements, roadmaps, and execution plans.\n· Strong understanding of AI-enabled products and how AI capabilities can be used to improve customer journeys, operational processes, and decision support.\n· Experience partnering with engineering, architecture, analytics, data, clinical, and operations teams to deliver complex technology-enabled solutions.\n· Strong stakeholder management and influencing skills, including the ability to align diverse groups around common objectives without relying on formal authority.\n· Ability to balance short-term delivery needs with long-term product, platform, and enterprise AI strategy.\n· Comfort operating in a regulated or high-trust environment where safety, privacy, compliance, auditability, and customer trust are critical.\nBENEFITS\nOur competitive benefits package includes the following\n- Immediate eligibility for health and welfare benefits\n- 401(k) savings plan with dollar-for-dollar match up to 5%\n- Tuition Reimbursement\n- PTO accrual beginning Day 1\nNote: Benefits may vary based upon position type and/or level\nMINIMUM REQUIREMENTS\nEducation\n· Bachelor’s degree in Business, Product Management, Engineering, Computer Science, Data Science, Healthcare Administration, or related field.\n· Master’s degree preferred.\nExperience\n· 8–12 years of product management experience.\n· Demonstrated ownership of digital products, platforms, customer experiences, or technology-enabled services with measurable business impact.\n· Experience managing complex cross-functional roadmaps involving product, engineering, design, analytics, data, and business stakeholders.\n· Experience working with AI-enabled products, machine learning systems, conversational experiences, personalization platforms, automation solutions, search experiences, recommendation systems, or decision-support technologies.\n· Strong experience translating customer and business needs into structured product requirements, prioritized roadmaps, user stories, and acceptance criteria.\n· Experience defining and measuring product success using KPIs, customer outcomes, business metrics, usage analytics, and qualitative customer insights.\n· Healthcare, life sciences, financial services, or other regulated-industry experience preferred but not required.\nRequired Technical Expertise\n· Strong understanding of AI-enabled product development and modern AI capabilities, including where AI can and cannot reliably improve customer or operational outcomes.\n· Familiarity with concepts such as large language models, AI agents, orchestration, retrieval, personalization, evaluation frameworks, guardrails, and human-in-the-loop workflows.\n· Product ownership across the full lifecycle, including strategy, discovery, requirements, prioritization, delivery, launch, measurement, and optimization.\n· Experience working with APIs, integrations, enterprise systems, data products, analytics, and platform capabilities that support reusable product development.\n· Ability to collaborate effectively with engineers, architects, data teams, analytics teams, clinical stakeholders, and operational stakeholders.\n· Strong analytical skills and comfort interpreting performance data, customer metrics, adoption trends, quality signals, and product outcomes.\nPREFERRED QUALIFICATIONS\n· Experience owning AI-powered customer experiences, digital assistants, conversational interfaces, recommendation systems, search experiences, workflow automation products, or decision-support capabilities.\n· Experience applying Jobs-to-Be-Done, customer-centered design, design thinking, agile product development, or outcome-based product management methodologies.\n· Familiarity with AI product evaluation approaches, including quality measurement, experimentation, benchmark definition, feedback loops, and performance optimization.\n· Experience operating in healthcare, life sciences, financial services, or similarly regulated environments involving sensitive data, safety requirements, auditability, and compliance considerations.\n· Experience launching products involving AI models, enterprise systems, APIs, cross-functional delivery teams, and operational adoption requirements.\n· Experience working with product analytics, experimentation frameworks, customer research, behavioral insights, and customer experience measurement.\n· Strong ability to influence without authority and drive alignment across business, technology, clinical, operational, and executive stakeholders.\nAs a health care system committed to improving the health of those we serve, we are asking our employees to model the same behaviours that we promote to our patients. As of January 1, 2012, Baylor Scott & White Health no longer hires individuals who use nicotine products. We are an equal opportunity employer committed to ensuring a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Des Moines",
+              "region": "US-IA",
+              "country": "US",
+              "postal_code": "50381",
+              "zip": "50381",
+              "county_fips": "19153",
+              "msa": {
+                "cbsa_code": "19780",
+                "cbsa_title": "Des Moines-West Des Moines, IA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Boise",
+              "region": "US-ID",
+              "country": "US",
+              "postal_code": "83756",
+              "zip": "83756",
+              "county_fips": "16001",
+              "msa": {
+                "cbsa_code": "14260",
+                "cbsa_title": "Boise City, ID",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Lincoln",
+              "region": "US-NE",
+              "country": "US",
+              "postal_code": "68503",
+              "zip": "68503",
+              "county_fips": "31109",
+              "msa": {
+                "cbsa_code": "30700",
+                "cbsa_title": "Lincoln, NE",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Columbus",
+              "region": "US-OH",
+              "country": "US",
+              "postal_code": "43201",
+              "zip": "43201",
+              "county_fips": "39049",
+              "msa": {
+                "cbsa_code": "18140",
+                "cbsa_title": "Columbus, OH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Hagatna",
+              "region": "GU",
+              "country": "US",
+              "postal_code": "96910",
+              "zip": "96910",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Albany",
+              "region": "US-NY",
+              "country": "US",
+              "postal_code": "12260",
+              "zip": "12260",
+              "county_fips": "36001",
+              "msa": {
+                "cbsa_code": "10580",
+                "cbsa_title": "Albany-Schenectady-Troy, NY",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Jefferson City",
+              "region": "US-MO",
+              "country": "US",
+              "postal_code": "65108",
+              "zip": "65108",
+              "county_fips": "29051",
+              "msa": {
+                "cbsa_code": "27620",
+                "cbsa_title": "Jefferson City, MO",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Sacramento",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94278",
+              "zip": "94278",
+              "county_fips": "06067",
+              "msa": {
+                "cbsa_code": "40900",
+                "cbsa_title": "Sacramento-Roseville-Folsom, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Salem",
+              "region": "US-OR",
+              "country": "US",
+              "postal_code": "97311",
+              "zip": "97311",
+              "county_fips": "41047",
+              "msa": {
+                "cbsa_code": "41420",
+                "cbsa_title": "Salem, OR",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Concord",
+              "region": "US-NH",
+              "country": "US",
+              "postal_code": "03302",
+              "zip": "03302",
+              "county_fips": "33013",
+              "msa": {
+                "cbsa_code": "18180",
+                "cbsa_title": "Concord, NH",
+                "type": "micro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Charleston",
+              "region": "US-WV",
+              "country": "US",
+              "postal_code": "25325",
+              "zip": "25325",
+              "county_fips": "54039",
+              "msa": {
+                "cbsa_code": "16620",
+                "cbsa_title": "Charleston, WV",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Hartford",
+              "region": "US-CT",
+              "country": "US",
+              "postal_code": "06132",
+              "zip": "06132",
+              "county_fips": "09110",
+              "msa": {
+                "cbsa_code": "25540",
+                "cbsa_title": "Hartford-West Hartford-East Hartford, CT",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Olympia",
+              "region": "US-WA",
+              "country": "US",
+              "postal_code": "98507",
+              "zip": "98507",
+              "county_fips": "53067",
+              "msa": {
+                "cbsa_code": "36500",
+                "cbsa_title": "Olympia-Lacey-Tumwater, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Atlanta",
+              "region": "US-GA",
+              "country": "US",
+              "postal_code": "30309",
+              "zip": "30309",
+              "county_fips": "13121",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Trenton",
+              "region": "US-NJ",
+              "country": "US",
+              "postal_code": "08629",
+              "zip": "08629",
+              "county_fips": "34021",
+              "msa": {
+                "cbsa_code": "45940",
+                "cbsa_title": "Trenton-Princeton, NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Oklahoma City",
+              "region": "US-OK",
+              "country": "US",
+              "postal_code": "73163",
+              "zip": "73163",
+              "county_fips": "40109",
+              "msa": {
+                "cbsa_code": "36420",
+                "cbsa_title": "Oklahoma City, OK",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Columbia",
+              "region": "US-SC",
+              "country": "US",
+              "postal_code": "29240",
+              "zip": "29240",
+              "county_fips": "45079",
+              "msa": {
+                "cbsa_code": "17900",
+                "cbsa_title": "Columbia, SC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Bismarck",
+              "region": "US-ND",
+              "country": "US",
+              "postal_code": "58507",
+              "zip": "58507",
+              "county_fips": "38015",
+              "msa": {
+                "cbsa_code": "13900",
+                "cbsa_title": "Bismarck, ND",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Santa Fe",
+              "region": "US-NM",
+              "country": "US",
+              "postal_code": "87501",
+              "zip": "87501",
+              "county_fips": "35049",
+              "msa": {
+                "cbsa_code": "42140",
+                "cbsa_title": "Santa Fe, NM",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Indianapolis",
+              "region": "US-IN",
+              "country": "US",
+              "postal_code": "46202",
+              "zip": "46202",
+              "county_fips": "18097",
+              "msa": {
+                "cbsa_code": "26900",
+                "cbsa_title": "Indianapolis-Carmel-Greenwood, IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Augusta",
+              "region": "US-ME",
+              "country": "US",
+              "postal_code": "04332",
+              "zip": "04332",
+              "county_fips": "23011",
+              "msa": {
+                "cbsa_code": "12300",
+                "cbsa_title": "Augusta-Waterville, ME",
+                "type": "micro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Tallahassee",
+              "region": "US-FL",
+              "country": "US",
+              "postal_code": "32395",
+              "zip": "32395",
+              "county_fips": "12073",
+              "msa": {
+                "cbsa_code": "45220",
+                "cbsa_title": "Tallahassee, FL",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Honolulu",
+              "region": "US-HI",
+              "country": "US",
+              "postal_code": "96823",
+              "zip": "96823",
+              "county_fips": "15003",
+              "msa": {
+                "cbsa_code": "46520",
+                "cbsa_title": "Urban Honolulu, HI",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Phoenix",
+              "region": "US-AZ",
+              "country": "US",
+              "postal_code": "85067",
+              "zip": "85067",
+              "county_fips": "04013",
+              "msa": {
+                "cbsa_code": "38060",
+                "cbsa_title": "Phoenix-Mesa-Chandler, AZ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Cheyenne",
+              "region": "US-WY",
+              "country": "US",
+              "postal_code": "82009",
+              "zip": "82009",
+              "county_fips": "56021",
+              "msa": {
+                "cbsa_code": "16940",
+                "cbsa_title": "Cheyenne, WY",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Harrisburg",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "17108",
+              "zip": "17108",
+              "county_fips": "42043",
+              "msa": {
+                "cbsa_code": "25420",
+                "cbsa_title": "Harrisburg-Carlisle, PA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Frankfort",
+              "region": "US-KY",
+              "country": "US",
+              "postal_code": "40621",
+              "zip": "40621",
+              "county_fips": "21073",
+              "msa": {
+                "cbsa_code": "23180",
+                "cbsa_title": "Frankfort, KY",
+                "type": "micro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Little Rock",
+              "region": "US-AR",
+              "country": "US",
+              "postal_code": "72205",
+              "zip": "72205",
+              "county_fips": "05119",
+              "msa": {
+                "cbsa_code": "30780",
+                "cbsa_title": "Little Rock-North Little Rock-Conway, AR",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Providence",
+              "region": "US-RI",
+              "country": "US",
+              "postal_code": "02940",
+              "zip": "02940",
+              "county_fips": "44007",
+              "msa": {
+                "cbsa_code": "39300",
+                "cbsa_title": "Providence-Warwick, RI-MA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "postal_code": "02133",
+              "zip": "02133",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Austin",
+              "region": "US-TX",
+              "country": "US",
+              "postal_code": "78703",
+              "zip": "78703",
+              "county_fips": "48453",
+              "msa": {
+                "cbsa_code": "12420",
+                "cbsa_title": "Austin-Round Rock-San Marcos, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Juan",
+              "region": "PR",
+              "country": "US",
+              "postal_code": "00918",
+              "zip": "00918",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Raleigh",
+              "region": "US-NC",
+              "country": "US",
+              "postal_code": "27608",
+              "zip": "27608",
+              "county_fips": "37183",
+              "msa": {
+                "cbsa_code": "39580",
+                "cbsa_title": "Raleigh-Cary, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Nashville",
+              "region": "US-TN",
+              "country": "US",
+              "postal_code": "37230",
+              "zip": "37230",
+              "county_fips": "47037",
+              "msa": {
+                "cbsa_code": "34980",
+                "cbsa_title": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Baton Rouge",
+              "region": "US-LA",
+              "country": "US",
+              "postal_code": "70806",
+              "zip": "70806",
+              "county_fips": "22033",
+              "msa": {
+                "cbsa_code": "12940",
+                "cbsa_title": "Baton Rouge, LA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Jackson",
+              "region": "US-MS",
+              "country": "US",
+              "postal_code": "39203",
+              "zip": "39203",
+              "county_fips": "28049",
+              "msa": {
+                "cbsa_code": "27140",
+                "cbsa_title": "Jackson, MS",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Pierre",
+              "region": "US-SD",
+              "country": "US",
+              "postal_code": "57501",
+              "zip": "57501",
+              "county_fips": "46065",
+              "msa": {
+                "cbsa_code": "38180",
+                "cbsa_title": "Pierre, SD",
+                "type": "micro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Richmond",
+              "region": "US-VA",
+              "country": "US",
+              "postal_code": "23274",
+              "zip": "23274",
+              "county_fips": "51760",
+              "msa": {
+                "cbsa_code": "40060",
+                "cbsa_title": "Richmond, VA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "St Thomas",
+              "region": "VI",
+              "country": "US",
+              "postal_code": "00801",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Juneau",
+              "region": "US-AK",
+              "country": "US",
+              "postal_code": "99811",
+              "zip": "99811",
+              "county_fips": "02110",
+              "msa": {
+                "cbsa_code": "27940",
+                "cbsa_title": "Juneau, AK",
+                "type": "micro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-12T22:21:48.386Z",
+        "curated_at": "2026-11-12T22:27:50.648Z",
+        "job_updated_at": "2026-11-12T22:27:50.648Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "0f6a0f13a7f3e23d3394c05b0da3fab42e63bb9e8b1063abb5d4d5b836cc244a",
+            "source": "directemployers",
+            "source_posting_id": "33403C45402E4D3796F30B33CF4C0316",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/des-moines-ia/senior-ai-product-manager/33403C45402E4D3796F30B33CF4C0316/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/33403C45402E4D3796F30B33CF4C031610"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Des Moines",
+                "state": "IA",
+                "country": "US",
+                "regionCode": "IA",
+                "postalCode": "50381",
+                "latitude": 41.5935,
+                "longitude": -93.6558,
+                "remote": false,
+                "zip": "50381"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:32.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "114f63383be9d164c0e15d9874e0249841783533718a6b707b5949b537aa75f7",
+            "source": "directemployers",
+            "source_posting_id": "8960008BEA9A443B9ECEAD2A3D71F4FD",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/boise-id/senior-ai-product-manager/8960008BEA9A443B9ECEAD2A3D71F4FD/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/8960008BEA9A443B9ECEAD2A3D71F4FD10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boise",
+                "state": "ID",
+                "country": "US",
+                "regionCode": "ID",
+                "postalCode": "83756",
+                "latitude": 43.598408,
+                "longitude": -116.21841,
+                "remote": false,
+                "zip": "83756"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:35.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "16fa3263e4ebb762c0e1ebe2fa51c0592405df897a0868f18dce1ed6a6e1e9de",
+            "source": "directemployers",
+            "source_posting_id": "2A7D66E5CE194F46ADEA5E6157A959AC",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/lincoln-ne/senior-ai-product-manager/2A7D66E5CE194F46ADEA5E6157A959AC/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/2A7D66E5CE194F46ADEA5E6157A959AC10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Lincoln",
+                "state": "NE",
+                "country": "US",
+                "regionCode": "NE",
+                "postalCode": "68503",
+                "latitude": 40.81701,
+                "longitude": -96.68364,
+                "remote": false,
+                "zip": "68503"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:32.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "1a818150f2c5fe4c62c15fa37e8aa3ec32acb74d24b41ebb66e90eb7ba103cfd",
+            "source": "directemployers",
+            "source_posting_id": "3F7FFDE7EEBD491D81B5659E3F9120A0",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/columbus-oh/senior-ai-product-manager/3F7FFDE7EEBD491D81B5659E3F9120A0/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/3F7FFDE7EEBD491D81B5659E3F9120A010"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Columbus",
+                "state": "OH",
+                "country": "US",
+                "regionCode": "OH",
+                "postalCode": "43201",
+                "latitude": 39.991177,
+                "longitude": -82.98888,
+                "remote": false,
+                "zip": "43201"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:33.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "2336e9a543f2525238959ffecd9846e88c6508b1423b8d016937048a0fe9912e",
+            "source": "directemployers",
+            "source_posting_id": "C972BE0DC086488EB621730DF696946B",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/hagatna-gu/senior-ai-product-manager/C972BE0DC086488EB621730DF696946B/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/C972BE0DC086488EB621730DF696946B10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Hagatna",
+                "state": "GU",
+                "country": "US",
+                "regionCode": "GU",
+                "postalCode": "96910",
+                "latitude": 13.476231,
+                "longitude": 144.74892,
+                "remote": false,
+                "zip": "96910"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:25:02.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "29596c45219c06b2020222dd6047766a32d72184eb6fc0535227b9f07ce7bb61",
+            "source": "directemployers",
+            "source_posting_id": "5A69376D15D44602A5A5077C9CFC5A91",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/albany-ny/senior-ai-product-manager/5A69376D15D44602A5A5077C9CFC5A91/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/5A69376D15D44602A5A5077C9CFC5A9110"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Albany",
+                "state": "NY",
+                "country": "US",
+                "regionCode": "NY",
+                "postalCode": "12260",
+                "latitude": 42.666103,
+                "longitude": -73.78636,
+                "remote": false,
+                "zip": "12260"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:33.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "30ab99c457bff84cb592936f0f3d8954ec3fb287911bba79daa1740b85ad7c57",
+            "source": "directemployers",
+            "source_posting_id": "8C1C129953C04C2A9266924FE108494B",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/jefferson-city-mo/senior-ai-product-manager/8C1C129953C04C2A9266924FE108494B/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/8C1C129953C04C2A9266924FE108494B10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Jefferson City",
+                "state": "MO",
+                "country": "US",
+                "regionCode": "MO",
+                "postalCode": "65108",
+                "latitude": 38.566036,
+                "longitude": -92.176636,
+                "remote": false,
+                "zip": "65108"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:34.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "3570aa2ee918a7afd20e07a3e9b8167c5f503f3bc69623195a0b51622697867f",
+            "source": "directemployers",
+            "source_posting_id": "03F1091CC97B4580B2094AC957820FB7",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/sacramento-ca/senior-ai-product-manager/03F1091CC97B4580B2094AC957820FB7/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/03F1091CC97B4580B2094AC957820FB710"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Sacramento",
+                "state": "CA",
+                "country": "US",
+                "regionCode": "CA",
+                "postalCode": "94278",
+                "latitude": 38.574604,
+                "longitude": -121.47096,
+                "remote": false,
+                "zip": "94278"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:31.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "37e7b75fee8e3c7c6b2a59ba05487ea6e37907396319968577e84add2c92f9bc",
+            "source": "directemployers",
+            "source_posting_id": "63178FAC23F144B09BDB8CE560CA4B00",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/salem-or/senior-ai-product-manager/63178FAC23F144B09BDB8CE560CA4B00/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/63178FAC23F144B09BDB8CE560CA4B0010"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Salem",
+                "state": "OR",
+                "country": "US",
+                "regionCode": "OR",
+                "postalCode": "97311",
+                "latitude": 44.941547,
+                "longitude": -123.01023,
+                "remote": false,
+                "zip": "97311"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:34.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "4a59f5baffb8736d8e0a898cbc144b3ee346d688f3520fa036e0fbf656f0ab1f",
+            "source": "directemployers",
+            "source_posting_id": "6F6FFAF995A64D2780537649065EE28C",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/concord-nh/senior-ai-product-manager/6F6FFAF995A64D2780537649065EE28C/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/6F6FFAF995A64D2780537649065EE28C10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Concord",
+                "state": "NH",
+                "country": "US",
+                "regionCode": "NH",
+                "postalCode": "03302",
+                "latitude": 43.245605,
+                "longitude": -71.56206,
+                "remote": false,
+                "zip": "03302"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:34.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "53f77daa6dd7bc3964b5e4f1c7eea26cc7211957870f9917900ab2de3830d1d1",
+            "source": "directemployers",
+            "source_posting_id": "823C4133B3E444D394241FC4A0B4FE44",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/charleston-wv/senior-ai-product-manager/823C4133B3E444D394241FC4A0B4FE44/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/823C4133B3E444D394241FC4A0B4FE4410"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Charleston",
+                "state": "WV",
+                "country": "US",
+                "regionCode": "WV",
+                "postalCode": "25325",
+                "latitude": 38.357227,
+                "longitude": -81.62902,
+                "remote": false,
+                "zip": "25325"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:34.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "5f9b8ee8e683dd8b575bc2bcd1ebcf86bd6ae973454025d9d656a511985cc4f6",
+            "source": "directemployers",
+            "source_posting_id": "26A0BC6EA6C148D480988F1E792BE482",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/hartford-ct/senior-ai-product-manager/26A0BC6EA6C148D480988F1E792BE482/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/26A0BC6EA6C148D480988F1E792BE48210"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Hartford",
+                "state": "CT",
+                "country": "US",
+                "regionCode": "CT",
+                "postalCode": "06132",
+                "latitude": 41.77246,
+                "longitude": -72.68509,
+                "remote": false,
+                "zip": "06132"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:32.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "628892ef4ba5d539806c7e237680a1600f1d7b0788ecaf920b7e7e3f9b44284b",
+            "source": "directemployers",
+            "source_posting_id": "4BAB2686F50E4D2DA75FD036D38CE366",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/olympia-wa/senior-ai-product-manager/4BAB2686F50E4D2DA75FD036D38CE366/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/4BAB2686F50E4D2DA75FD036D38CE36610"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Olympia",
+                "state": "WA",
+                "country": "US",
+                "regionCode": "WA",
+                "postalCode": "98507",
+                "latitude": 47.028008,
+                "longitude": -122.8908,
+                "remote": false,
+                "zip": "98507"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:33.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "62b8b772ced9b6e598b8e5406b380e3fda60be66c770e849bd282b754805e2d4",
+            "source": "directemployers",
+            "source_posting_id": "07934EECBFB8409880FE38806A1475A9",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/atlanta-ga/senior-ai-product-manager/07934EECBFB8409880FE38806A1475A9/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/07934EECBFB8409880FE38806A1475A910"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Atlanta",
+                "state": "GA",
+                "country": "US",
+                "regionCode": "GA",
+                "postalCode": "30309",
+                "latitude": 33.786983,
+                "longitude": -84.3907,
+                "remote": false,
+                "zip": "30309"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:31.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "62f0409c9130720b68633bdb6d5b585810b0b863ab4a15cbc258b182157a7cfc",
+            "source": "directemployers",
+            "source_posting_id": "DA5B0D2310E649C389D767594FB4B586",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/trenton-nj/senior-ai-product-manager/DA5B0D2310E649C389D767594FB4B586/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/DA5B0D2310E649C389D767594FB4B58610"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Trenton",
+                "state": "NJ",
+                "country": "US",
+                "regionCode": "NJ",
+                "postalCode": "08629",
+                "latitude": 40.21892,
+                "longitude": -74.72519,
+                "remote": false,
+                "zip": "08629"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:25:03.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "6d935c23223d94908fbbc1261ece1f5317fc62f5fbd57be3bd2fe6e61a147fb3",
+            "source": "directemployers",
+            "source_posting_id": "A8476C5812854FAB9A3133FA06A70877",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/oklahoma-city-ok/senior-ai-product-manager/A8476C5812854FAB9A3133FA06A70877/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/A8476C5812854FAB9A3133FA06A7087710"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Oklahoma City",
+                "state": "OK",
+                "country": "US",
+                "regionCode": "OK",
+                "postalCode": "73163",
+                "latitude": 35.476288,
+                "longitude": -97.521324,
+                "remote": false,
+                "zip": "73163"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:35.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "6eab1a7cf41c44274b1cd363d7c4f8e33c495257e7d56adf64c52591ee52a580",
+            "source": "directemployers",
+            "source_posting_id": "A6D3981EBFE842018B56F19EDC69B6D9",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/columbia-sc/senior-ai-product-manager/A6D3981EBFE842018B56F19EDC69B6D9/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/A6D3981EBFE842018B56F19EDC69B6D910"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Columbia",
+                "state": "SC",
+                "country": "US",
+                "regionCode": "SC",
+                "postalCode": "29240",
+                "latitude": 34.020462,
+                "longitude": -81.020905,
+                "remote": false,
+                "zip": "29240"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:35.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "71750e32cf5585fd577eb2283b040959b9c16add4de8d64592501558af5516f2",
+            "source": "directemployers",
+            "source_posting_id": "D354D2386A9D4C3B91E244AAFE519C36",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/bismarck-nd/senior-ai-product-manager/D354D2386A9D4C3B91E244AAFE519C36/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/D354D2386A9D4C3B91E244AAFE519C3610"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Bismarck",
+                "state": "ND",
+                "country": "US",
+                "regionCode": "ND",
+                "postalCode": "58507",
+                "latitude": 46.80895,
+                "longitude": -100.72246,
+                "remote": false,
+                "zip": "58507"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:25:02.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "720596323f67872136bd8cd2ddf8b5adda047b063119f7df66ece53834d7368b",
+            "source": "directemployers",
+            "source_posting_id": "81976A5BAB8F4BEB9E8BCE4D24C7DA4F",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/santa-fe-nm/senior-ai-product-manager/81976A5BAB8F4BEB9E8BCE4D24C7DA4F/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/81976A5BAB8F4BEB9E8BCE4D24C7DA4F10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Santa Fe",
+                "state": "NM",
+                "country": "US",
+                "regionCode": "NM",
+                "postalCode": "87501",
+                "latitude": 35.69265,
+                "longitude": -105.97496,
+                "remote": false,
+                "zip": "87501"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:34.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "721bb9f6bc7ed1f6e9bb7d353f1f40c8e406e8024de9425b03ba34cc1caa12bf",
+            "source": "directemployers",
+            "source_posting_id": "AB49095AFFDA408FAB62B62267A3297C",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/indianapolis-in/senior-ai-product-manager/AB49095AFFDA408FAB62B62267A3297C/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/AB49095AFFDA408FAB62B62267A3297C10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Indianapolis",
+                "state": "IN",
+                "country": "US",
+                "regionCode": "IN",
+                "postalCode": "46202",
+                "latitude": 39.79499,
+                "longitude": -86.15257,
+                "remote": false,
+                "zip": "46202"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:35.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "73ff577ac79b9e1644aa6e918e7aa5a93c0b4f74c127a63fa6f970f1de668a65",
+            "source": "directemployers",
+            "source_posting_id": "F77D7DFC75DB4A92BC7CCA289BE33D75",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/augusta-me/senior-ai-product-manager/F77D7DFC75DB4A92BC7CCA289BE33D75/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/F77D7DFC75DB4A92BC7CCA289BE33D7510"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Augusta",
+                "state": "ME",
+                "country": "US",
+                "regionCode": "ME",
+                "postalCode": "04332",
+                "latitude": 44.330597,
+                "longitude": -69.755775,
+                "remote": false,
+                "zip": "04332"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:25:04.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "876c4be5304b0dbaa71436f2d9c4aef92a4393e8a3b6e006f1141571cead992f",
+            "source": "directemployers",
+            "source_posting_id": "D2A8856E3C784F0B97ABCD4500D1790D",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/tallahassee-fl/senior-ai-product-manager/D2A8856E3C784F0B97ABCD4500D1790D/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/D2A8856E3C784F0B97ABCD4500D1790D10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Tallahassee",
+                "state": "FL",
+                "country": "US",
+                "regionCode": "FL",
+                "postalCode": "32395",
+                "latitude": 30.447653,
+                "longitude": -84.2599,
+                "remote": false,
+                "zip": "32395"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:25:02.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "8bde927a122f358c31a2bd9f14fbcf621626c13e66e6c5777cc15b14b36c53b0",
+            "source": "directemployers",
+            "source_posting_id": "B6F1CAE667C44D4EBA8D81DA87600026",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/honolulu-hi/senior-ai-product-manager/B6F1CAE667C44D4EBA8D81DA87600026/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/B6F1CAE667C44D4EBA8D81DA8760002610"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Honolulu",
+                "state": "HI",
+                "country": "US",
+                "regionCode": "HI",
+                "postalCode": "96823",
+                "latitude": 21.309805,
+                "longitude": -157.84294,
+                "remote": false,
+                "zip": "96823"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:35.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "8d3b3287207d88d3d363b6b306a0eba839e53ef2263cd4471e31d95477773862",
+            "source": "directemployers",
+            "source_posting_id": "5C6E5BEB56D347DCBBB87251476195B0",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/phoenix-az/senior-ai-product-manager/5C6E5BEB56D347DCBBB87251476195B0/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/5C6E5BEB56D347DCBBB87251476195B010"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Phoenix",
+                "state": "AZ",
+                "country": "US",
+                "regionCode": "AZ",
+                "postalCode": "85067",
+                "latitude": 33.51614,
+                "longitude": -112.07647,
+                "remote": false,
+                "zip": "85067"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:33.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "91f90e4694e66f386112c06d9f9f936ebecf1f74cd1037b6dbf36e842a376e09",
+            "source": "directemployers",
+            "source_posting_id": "F9687F33B2A640D4AEDB35BF9FDAA875",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/cheyenne-wy/senior-ai-product-manager/F9687F33B2A640D4AEDB35BF9FDAA875/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/F9687F33B2A640D4AEDB35BF9FDAA87510"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Cheyenne",
+                "state": "WY",
+                "country": "US",
+                "regionCode": "WY",
+                "postalCode": "82009",
+                "latitude": 41.182755,
+                "longitude": -104.8194,
+                "remote": false,
+                "zip": "82009"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:25:04.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "a14752ec6bd4b9bc0b06b8ea09655a2c450f28eb7bdc6bd40d9788d79f9c06d1",
+            "source": "directemployers",
+            "source_posting_id": "E23F4E8EB0D04A7798556302E49078C3",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/harrisburg-pa/senior-ai-product-manager/E23F4E8EB0D04A7798556302E49078C3/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/E23F4E8EB0D04A7798556302E49078C310"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Harrisburg",
+                "state": "PA",
+                "country": "US",
+                "regionCode": "PA",
+                "postalCode": "17108",
+                "latitude": 40.27466,
+                "longitude": -76.85533,
+                "remote": false,
+                "zip": "17108"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:25:03.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "a181157d9907233c6bc1e0ffe243772a1c92a581be0bc9ca6abe7e14e9e3b8e1",
+            "source": "directemployers",
+            "source_posting_id": "D4891EDB4DAA4DD6886687767C94ADC0",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/frankfort-ky/senior-ai-product-manager/D4891EDB4DAA4DD6886687767C94ADC0/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/D4891EDB4DAA4DD6886687767C94ADC010"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Frankfort",
+                "state": "KY",
+                "country": "US",
+                "regionCode": "KY",
+                "postalCode": "40621",
+                "latitude": 38.196888,
+                "longitude": -84.88344,
+                "remote": false,
+                "zip": "40621"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:25:03.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "a515f7adfdd22871db42c54f08fc48e820684b6635f054efad54ddb5e02c485d",
+            "source": "directemployers",
+            "source_posting_id": "64FEE2EA3359411E9C1835CFD9540982",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/little-rock-ar/senior-ai-product-manager/64FEE2EA3359411E9C1835CFD9540982/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/64FEE2EA3359411E9C1835CFD954098210"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Little Rock",
+                "state": "AR",
+                "country": "US",
+                "regionCode": "AR",
+                "postalCode": "72205",
+                "latitude": 34.74342,
+                "longitude": -92.33653,
+                "remote": false,
+                "zip": "72205"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:34.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "b17ec15e86fe5a4127b3dbc102f7f75880e2c28c49b44dd3aa30fefe0853e1e9",
+            "source": "directemployers",
+            "source_posting_id": "31BB3D8D195448EDAE800D6D855EAA61",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/providence-ri/senior-ai-product-manager/31BB3D8D195448EDAE800D6D855EAA61/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/31BB3D8D195448EDAE800D6D855EAA6110"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Providence",
+                "state": "RI",
+                "country": "US",
+                "regionCode": "RI",
+                "postalCode": "02940",
+                "latitude": 41.824356,
+                "longitude": -71.42063,
+                "remote": false,
+                "zip": "02940"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:32.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "c08ec6f9fa496651984e15fa51f030c3809d2f6c34aa5cc0d3b149133837dbf3",
+            "source": "directemployers",
+            "source_posting_id": "89038F66B36542AA8FFC33DDCF3F5333",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/boston-ma/senior-ai-product-manager/89038F66B36542AA8FFC33DDCF3F5333/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/89038F66B36542AA8FFC33DDCF3F533310"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boston",
+                "state": "MA",
+                "country": "US",
+                "regionCode": "MA",
+                "postalCode": "02133",
+                "latitude": 42.354702,
+                "longitude": -71.06527,
+                "remote": false,
+                "zip": "02133"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:35.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "c4707e5931afa80dc30b9dd94cb8b90d201d521e85573dcee7ef37de53633562",
+            "source": "directemployers",
+            "source_posting_id": "FD4882FF0B8143B0AB8BC2484E2F9A49",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/austin-tx/senior-ai-product-manager/FD4882FF0B8143B0AB8BC2484E2F9A49/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/FD4882FF0B8143B0AB8BC2484E2F9A4910"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Austin",
+                "state": "TX",
+                "country": "US",
+                "regionCode": "TX",
+                "postalCode": "78703",
+                "latitude": 30.2998,
+                "longitude": -97.754776,
+                "remote": false,
+                "zip": "78703"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:25:04.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "ca2afd71169bd2126169dc164cff08ed295f32dffa7624ae468235c49009183c",
+            "source": "directemployers",
+            "source_posting_id": "75E1A5EB0E444B3DB5D8077661C37ED4",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/san-juan-pr/senior-ai-product-manager/75E1A5EB0E444B3DB5D8077661C37ED4/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/75E1A5EB0E444B3DB5D8077661C37ED410"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Juan",
+                "state": "PR",
+                "country": "US",
+                "regionCode": "PR",
+                "postalCode": "00918",
+                "latitude": 18.419077,
+                "longitude": -66.06716,
+                "remote": false,
+                "zip": "00918"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:34.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "ccda65f9196511ae5d15017ad549770b0bb8726fe3cd536fd1b83475431bc24d",
+            "source": "directemployers",
+            "source_posting_id": "5AA681EE884746C6A04EDC03ADB0E7BA",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/raleigh-nc/senior-ai-product-manager/5AA681EE884746C6A04EDC03ADB0E7BA/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/5AA681EE884746C6A04EDC03ADB0E7BA10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Raleigh",
+                "state": "NC",
+                "country": "US",
+                "regionCode": "NC",
+                "postalCode": "27608",
+                "latitude": 35.813522,
+                "longitude": -78.64896,
+                "remote": false,
+                "zip": "27608"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:33.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "cef546bffc41b2a6517a719f9940c1d449e604d91100e5c5173655f8c6e2dda5",
+            "source": "directemployers",
+            "source_posting_id": "69C3C2D323B541D8B050095E23018F2F",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/nashville-tn/senior-ai-product-manager/69C3C2D323B541D8B050095E23018F2F/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/69C3C2D323B541D8B050095E23018F2F10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Nashville",
+                "state": "TN",
+                "country": "US",
+                "regionCode": "TN",
+                "postalCode": "37230",
+                "latitude": 36.146408,
+                "longitude": -86.77805,
+                "remote": false,
+                "zip": "37230"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:34.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "ddab13297f387e67b0a26c51bc00b3c3634282e66060a3bcbf6f2e2969a15e58",
+            "source": "directemployers",
+            "source_posting_id": "FC734A4068CB42F886C98DDCC64351B8",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/baton-rouge-la/senior-ai-product-manager/FC734A4068CB42F886C98DDCC64351B8/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/FC734A4068CB42F886C98DDCC64351B810"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Baton Rouge",
+                "state": "LA",
+                "country": "US",
+                "regionCode": "LA",
+                "postalCode": "70806",
+                "latitude": 30.44096,
+                "longitude": -91.118256,
+                "remote": false,
+                "zip": "70806"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:25:04.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "e4dfcb1fa6d49342dcdd24c87766bb1357f726438b1d2b74a4007d2130f87075",
+            "source": "directemployers",
+            "source_posting_id": "B3456B2D64EB4AB59EA16B3F600BB6E8",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/jackson-ms/senior-ai-product-manager/B3456B2D64EB4AB59EA16B3F600BB6E8/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/B3456B2D64EB4AB59EA16B3F600BB6E810"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Jackson",
+                "state": "MS",
+                "country": "US",
+                "regionCode": "MS",
+                "postalCode": "39203",
+                "latitude": 32.31454,
+                "longitude": -90.19847,
+                "remote": false,
+                "zip": "39203"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:39.000Z",
+            "first_seen_at": "2026-11-12T22:22:42.563Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "f043af8f38c8dcd67253c60c55fac0d972852fa3cc43e7a297f99efb0d794d6a",
+            "source": "directemployers",
+            "source_posting_id": "1E80B05C215F449A83839C6E88FF53C3",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/pierre-sd/senior-ai-product-manager/1E80B05C215F449A83839C6E88FF53C3/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/1E80B05C215F449A83839C6E88FF53C310"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Pierre",
+                "state": "SD",
+                "country": "US",
+                "regionCode": "SD",
+                "postalCode": "57501",
+                "latitude": 44.44692,
+                "longitude": -100.18752,
+                "remote": false,
+                "zip": "57501"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:32.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "f3e17b73fd5df220a4d8ea52b062d787d6743b751484b04bdafed17106430e1e",
+            "source": "directemployers",
+            "source_posting_id": "84596B02E5A44F0D8DEA43035C6CBF24",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/richmond-va/senior-ai-product-manager/84596B02E5A44F0D8DEA43035C6CBF24/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/84596B02E5A44F0D8DEA43035C6CBF2410"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Richmond",
+                "state": "VA",
+                "country": "US",
+                "regionCode": "VA",
+                "postalCode": "23274",
+                "latitude": 37.536358,
+                "longitude": -77.45762,
+                "remote": false,
+                "zip": "23274"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:34.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "f41def02a9acec54d2a5ae1c1734f38930c21ff35d9fc3472d4cfb7f929a74ab",
+            "source": "directemployers",
+            "source_posting_id": "D3CBDBBB8D634CCBA214DBAA1937FA8F",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/st-thomas-vi/senior-ai-product-manager/D3CBDBBB8D634CCBA214DBAA1937FA8F/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/D3CBDBBB8D634CCBA214DBAA1937FA8F10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "St Thomas",
+                "state": "VI",
+                "country": "US",
+                "regionCode": "VI",
+                "postalCode": "00801",
+                "latitude": 18.34438,
+                "longitude": -64.94194,
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:25:03.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "f538722d58adac9948977cb5dd872a3011ac9437dcfd242ba58c24fb159a11a6",
+            "source": "directemployers",
+            "source_posting_id": "A733C676E7284E6FB6F8AE027920A843",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://bswh.dejobs.org/juneau-ak/senior-ai-product-manager/A733C676E7284E6FB6F8AE027920A843/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/A733C676E7284E6FB6F8AE027920A84310"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Juneau",
+                "state": "AK",
+                "country": "US",
+                "regionCode": "AK",
+                "postalCode": "99811",
+                "latitude": 58.41011,
+                "longitude": -134.33522,
+                "remote": false,
+                "zip": "99811"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T08:24:35.000Z",
+            "first_seen_at": "2026-11-12T22:21:48.386Z",
+            "last_completed_fetch_at": "2026-11-12T22:27:37.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "4ec9e0cf-6308-4f96-ae2e-9a496c88c552",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "fc61881d-6322-87ff-9ea8-230b6b3148b6",
+        "employer_name": {
+          "state": "known",
+          "value": "Zoom"
+        },
+        "title": {
+          "state": "known",
+          "value": "Principal AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "What You Can Expect\nAs a Principal AI Product Manager at Zoom AI Services, you will own meaningful product outcomes at the intersection of AI innovation, platform strategy, and developer experience, shaping how developers and enterprises build intelligent applications. This role demands hands-on craft across product strategy, experience design, rapid prototyping, and execution, with the autonomy to define new AI-native product development patterns from first principles. You will work alongside a fast-moving, highly collaborative team, partnering with engineering, AI research, design, and go-to-market teams to build developer tools that move from concept to customer adoption with speed and quality. This is a hybrid position that requires on-site presence 3 to 4 days per week at our Seattle, WA or San Jose, CA office. Remote arrangements are not available for this role.\nAbout the Team\nZoom AI Services is building the next generation of AI capabilities and developer experiences, enabling developers and enterprises to create intelligent applications and agents through state-of-the-art speech recognition, decision intelligence, voice AI, and agentic capabilities. Our mission is to make powerful AI accessible, intuitive, and production-ready, helping developers move from their first API call to real-world applications quickly. We are a highly collaborative team operating at the intersection of AI innovation, platform engineering, product strategy, and developer experience, united by a commitment to curiosity, craft, and rapid experimentation.\nResponsibilities\n+ Define and drive product vision, strategy, and roadmap for Zoom AI Services experiences, from developer onboarding and API discovery to production adoption.\n+ Identify differentiation opportunities through AI-native interaction patterns and product-led growth, translating emerging AI capabilities and developer needs into products with measurable customer and business impact.\n+ Lead end-to-end experience design from concept and interaction models to production-ready designs, applying UX, visual design, and systems thinking to simplify complex AI and developer workflows.\n+ Prototype, test, and iterate rapidly using Figma, AI-assisted coding, and modern development tools, maintaining a high bar for usability, visual quality, and consistency.\n+ Leverage AI as a daily creative and execution partner for research, ideation, prototyping, and experimentation, exploring new interaction models for AI agents, multimodal experiences, and developer tools.\n+ Partner with engineering, AI researchers, design, developer relations, and go-to-market teams to bring products from ambiguous opportunity to successful launch.\n+ Own success metrics across developer activation, time to first value, adoption, retention, and customer satisfaction, making thoughtful trade-offs between customer value, technical feasibility, and speed.\n+ Shape product direction across teams through strong judgment, clear communication, and demonstrated results, operating as a hands-on individual contributor rather than through organizational authority.\nWhat We're Looking For\n+ Significant experience leading complex, high-impact technology products, with a proven track record of taking ambiguous opportunities from strategy to successful launch.\n+ Strong professional foundation in UX and product design, demonstrated through a portfolio of shipped products with outstanding interaction and visual design quality.\n+ Hands-on experience using generative AI, AI coding assistants, and rapid prototyping tools to accelerate product discovery, design, and development.\n+ Ability to work closely with engineers, understand APIs and platform capabilities, and translate sophisticated technology into intuitive customer experiences.\n+ Experience building developer platforms, APIs, enterprise SaaS, AI products, or similarly complex technical experiences.\n+ Comfort making decisions, building prototypes, and shipping in fast-moving environments with evolving priorities and minimal overhead.\n+ Demonstrated ability to shape strategy and raise the quality bar across teams while thriving as a hands-on individual contributor.\nSalary Range or On Target Earnings:\n$171,800.00 - $375,900.00\nIn addition to the base salary and/or OTE listed Zoom has a Total Direct Compensation philosophy that takes into consideration; base salary, bonus and equity value.\nNote: Starting pay will be based on a number of factors and commensurate with qualifications & experience.\nWe also have a location based compensation structure; there may be a different range for candidates in this and other locations\nAt Zoom, we offer a window of at least 5 days for you to apply because we believe in giving you every opportunity. Below is the potential closing date, just in case you want to mark it on your calendar. We look forward to receiving your application!\nAnticipated Position Close Date:\n11/20/26\nWays of WorkingOur structured hybrid approach is centered around our offices and remote work environments. The work style of each role, Hybrid, Remote, or In-Person is indicated in the job description/posting.\nBenefitsAs part of our award-winning workplace culture and commitment to delivering happiness, our benefits program offers a variety of perks, benefits, and options to help employees maintain their physical, mental, emotional, and financial health; support work-life balance; and contribute to their community in meaningful ways. Click Learn (https://careers.zoom.us/benefits) for more information.\nAbout UsZoomies help people stay connected so they can get more done together. We set out to build the best collaboration platform for the enterprise, and today help people communicate better with products like Zoom Contact Center, Zoom Phone, Zoom Events, Zoom Apps, Zoom Rooms, and Zoom Webinars.We’re problem-solvers, working at a fast pace to design solutions with our customers and users in mind. Find room to grow with opportunities to stretch your skills and advance your career in a collaborative, growth-focused environment.\nOur Commitment\nAt Zoom, we believe great work happens when people feel supported and empowered. We’re committed to fair hiring practices that ensure every candidate is evaluated based on skills, experience, and potential. If you require an accommodation during the hiring process, let us know—we’re here to support you at every step.\nIf you need assistance navigating the interview process due to a medical disability, please submit an Accommodations Request Form (https://form.asana.com/?k=OIuqpO5Tv9XQTWp1bNYd8w&d=1127274756253361) and someone from our team will reach out soon. This form is solely for applicants who require an accommodation due to a qualifying medical disability. Non-accommodation-related requests, such as application follow-ups or technical issues, will not be addressed.\nOur interviews are supported by BrightHire, a tool that helps us create a consistent and thoughtful interview experience and may include recordings. Please refer to our candidate privacy statement (https://www.zoom.com/en/trust/candidate-privacy-statement/) for more information of how we use your data.\nWe believe that the unique contributions of all Zoomies is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. Zoom is proud to be an equal opportunity workplace and is an affirmative action employer. All your information will be kept confidential according to EEO guidelines"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "postal_code": "98194",
+              "zip": "98194",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-05T12:22:42.677Z",
+        "curated_at": "2026-11-05T12:39:07.345Z",
+        "job_updated_at": "2026-11-07T12:45:50.480Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 17180000,
+                "max_cents": 37590000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "0f3394e2a6c06cf754347ae2b025c64d5e79342c5d047baaf23e72299e122c45",
+            "source": "directemployers",
+            "source_posting_id": "28DCF2DE36504C9EBF8A91A9D289C3CD",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://zoom.dejobs.org/seattle-wa/principal-ai-product-manager/28DCF2DE36504C9EBF8A91A9D289C3CD/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/28DCF2DE36504C9EBF8A91A9D289C3CD10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Seattle",
+                "state": "WA",
+                "country": "US",
+                "regionCode": "WA",
+                "postalCode": "98194",
+                "latitude": 47.597378,
+                "longitude": -122.32915,
+                "remote": false,
+                "zip": "98194"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 171800,
+                "max": 375900,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-31T02:55:46.000Z",
+            "first_seen_at": "2026-11-05T12:22:42.677Z",
+            "last_completed_fetch_at": "2026-11-07T12:44:35.986Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e3fb6fe3-d47a-40e3-9c23-dd5b598a0a5a",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "624d3f07-da91-8acf-8126-cfd58481945f",
+        "employer_name": {
+          "state": "known",
+          "value": "T-Mobile USA, Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "Principal AI Product Manager, Technical"
+        },
+        "description": {
+          "state": "known",
+          "value": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That’s how we’re UNSTOPPABLE for our employees!\n\n** This is not a remote position. T-Mobile is a hybrid work environment requiring work in the office three (3) days per week. The successful candidate will be located in either Seattle, Washington or Frisco, Texas areas.**\n\nJob Overview\nThe Principal AI Technical Product Manager is a visionary product leader, customer evangelist, and execution driver responsible for bringing T-Mobile's most ambitious AI innovations from concept to commercial success. This role owns end-to-end product strategy and delivery for breakthrough AI initiatives, working in a fast-paced, entrepreneurial environment within T-Mobile's AI Commercialization team. The Principal AI Technical Product Manager combines deep customer empathy, strategic thinking, and hands-on execution to deliver AI products that create new revenue streams and differentiated customer experiences. This role requires a unique blend of startup agility and enterprise scale capabilities, working closely with cross-functional teams to validate, build, and launch AI-powered solutions that push the boundaries of what's possible in telecommunications.\n\nThis role leads the end-to-end management of complex technical products to meet specific business goals and customer needs. It involves defining product vision, strategy, and roadmaps while collaborating with cross-functional teams to deliver technical solutions. The role requires analyzing market data, customer insights, and industry trends to prioritize product features and innovations. Success is measured by product performance, customer satisfaction, and alignment with business objectives. The work impacts organizational growth and enhances customer experiences through effective product delivery and technical leadership.\n\nNo day is the same for the Product Manager, Technical. Day to day activities or responsibilities include: conducting market research; writing detailed features or user stories; determining specifications; defining long-term strategy of the product; creating the product road map; driving technical delivery end to end; defining scope for releases/product increments; partnering with development, project/program management, marketing, and other key stakeholders to define release schedule; and support/drive go-to-market activities as needed.\n\nVision & Strategy for AI Products\n\n- Owns strategy, roadmap, and lifecycle for enterprise AI products and reusable AI capabilities serving multiple customer journeys, business units, or platforms.\n- Accountable for measurable business outcomes including revenue growth, cost reduction, adoption, retention, automation impact, and customer experience improvement.\n- Drives multi-year product investment strategy, including business cases, funding requests, and prioritization of AI initiatives across a portfolio of opportunities.\n- Own the product lifecycle for complex technical solutions, ensuring alignment with business objectives and customer needs\n- Conducts deep customer research and market analysis to identify breakthrough AI opportunities\n- Defines success metrics and tracks progress against ambitious growth targets\n- Anticipates AI trends and competitive threats, incorporating insights into product strategy\n- Conducts analysis of quantitative and qualitative data to identify product innovation opportunities or root cause of issues, and assess opportunity size and impact. May work with data scientists to answer complex questions or identify meaningful insights from data.\n- Leverages rapid hypothesis driven testing methodologies and experiments (i.e. paper prototype, A/B testing, etc.) to inform direction, prioritize investment.\n- Works with stakeholders and follows enterprise process to secure and maintain product funding.\n- Anticipates industry trends, direction, innovation, analyses potential impacts or opportunities to customer / product, and incorporates analyses into product process.\n- Communicates, influences, and sells ideas at SVP/EVP/C-Level and below. This includes regularly delivering product presentations.\n- Drives specific ad hoc analysis and presents information to SVP/EVP/C level and below on request.\n- Owns product feature set or technical improvements to improve customer experience.\n- Leads discussions with external third parties to assess partnerships and licensing opportunities.\n- Represents the company externally with strategic partners, industry groups, and executive customers on AI innovation strategy and product direction.\n\nCustomer Evangelist\n\n- Leads customer discovery and validation activities for new AI products\n- Writes detailed product requirements, user stories, and acceptance criteria for AI-powered features\n- Designs and executes rapid prototyping and MVP development cycles\n- Conducts user testing and iteration based on customer feedback\n- Ensures AI products deliver measurable customer value and exceptional user experience\n- Advocates for customer needs throughout the development process\n- Leverages customer insights for product vision, strategy, roadmap, priorities.\n- Create, manage, foster an active VOC feed for themselves and team.\n- Actively looks for opportunities to delight or meet customer’s unmet needs.\n- Evangelizes and advocates for the customer both internally (IC through C level) and externally, perpeuating the customer-first mindset.\n- Creates an environment and culture where the team is immersed in customer-first mindset.\n- Tests ideas with real customers to ensure that the product deliver the desired benefit.\n\nProduct Execution & Technical Delivery\n\n- Collaborates with Technical Architects to ensure AI solutions are technically feasible and scalable\n- Partners with UX/UI designers to create intuitive and engaging AI interactions\n- Works with engineering teams (both internal and matrixed) to deliver products on time and within scope\n- Coordinates with GTM and commercialization teams to develop launch strategies\n- Drives resolution of technical and business challenges that arise during development\n- Translates product/platform strategy by writing detailed features and user stories consumable for Dev teams for the highest level complexity products with multiple transactions and touchpoints across many teams. This work may include creation of prototypes.\n- Collaborates with PM and Dev leaders to design, architect and assemble effective Agile delivery teams in the Agile Release Train and Agile Teams.\n- Scopes and ensures alignment on the prioritization of activities based on business and customer impact.\n- Requires deep product and technical fluency in applied AI, including LLM-based experiences, model selection, retrieval-augmented generation (RAG), experimentation, evaluation frameworks, and production AI constraints.\n- Defines the product strategy for foundational AI platform capabilities, tooling, and reusable services that accelerate delivery across multiple teams.\n- Collaborates with Architecture and Dev teams to ensure technical debt and long term technical investment is factored into roadmap.\n- Ensures existing production defects are factored into regular backlog prioritization for resolution based on priority\n- In scaled teams, holds regular meetings and coordination activities with other PM’s and Product Owners (if applicable) to ensure parallel work is in sync and dependencies are known.\n- Generates and maintains dashboards and reports that track product health and success metrics, technical KPI’s.\n- Runs beta and pilot programs with early-stage products and samples.\n- Collaborates with advertising and public relations to promote product.\n- Supports sales, marketing, and other stakeholder teams with product or technical knowledge and additional documentation.\n- Anticipates and communinctes technical challenges to stakeholders and makes educated trade-off decisions with the team.\n- Accountable for product quality and performance in production environment. Accountable for product and Dev team response in event of critical or high impacting defect , including communications to stakeholders at all levels.\n- Manages development of adoption tools and training materials. Identify execution, operational, organizational issues that impede product success. Drive improvement plan to change or resolve issues (within sphere of influence).\n- Support and enable core agile practices and tenants: efficient just-in-time flow; lean practices; elimination of waste; DevOps CICD.\n\nRelationship & People, Professional Development\n\n- Builds strong relationships with Network, IT, Business, Marketing and other organizations\n- Acts as a force multiplier across the organization by mentoring product managers and establishing best practices for AI product discovery, experimentation, and delivery.\n- Negotiates priorities and resources across multiple stakeholder groups\n- Communicates product roadmaps and launches to internal and external audiences\n- Mentors junior product managers and shares innovation best practices\n- Represents T-Mobile at industry events and innovation forums\n- Collaborates and develops positive working relationships with many technical and non-technical teams, including sales, commercial accounting, marketing, legal, go-to-market, finance, Dev, Architecture, Engineering. Works with outside partners and other third parties.\n\nRequired Education:\n\n- Bachelor's Degree in Computer Science, Engineering, IT or equivalent experience.\n\nRequired Work Experience:\n\n- 8+ years’ experience in hands on technical role writing production code, solution engineering, or technical archtecture in large scale company / appplication / product environment.\n- More than 10 years relevant Product Management experience in an agile software product development environment.\n\nRequired Knowledge, Skills and Abilities:\n\n- Business Operations - Demonstrates complete mastery of business side skills (communication, customer research, product vision, feature definition), as well as technical architecture, Dev, and execution skills.\n- Business Analysis - Proven analytical skills with demonstrated ability to identify/analyze/synthesize product use data and use the data to drive decisions.\n- Customer Experience Management - Mastery level (industry leading) understanding of customer experience.\n- Technology - Mastery level understanding of platform technologies and components such as security, performance, optimization, API integration. Expert level knowledge of full technology stack on which your assigned product runs.\n- Agile Methodologies - Proven success in directing matrixed resources and delivering software, with Agile Scrum methodologies and other commonly used tools, across multiple teams.\n- Partnership Development - Experience working with external partners, vendors, and ecosystem players\n- Innovation Methodology - Expertise in design thinking, lean startup methodologies, rapid prototyping, and hypothesis-driven development\n- Collaboration - Experience with successive elaboration and ability to develop Initiatives, Features and User Stories that the DevOps teams can ingest.\n- Product Management - Experience in delivering large and complex business/technology initiatives as Product Manager or lead technology role.\n- Communication - Proven ability to effectively and efficiently communicate with Leadership, technical and non-technical audiences while employing a high degree of collaboration and influence.\n- Integration - Knowledge and experience with integration patterns, API’s, and protocols such as REST, EDI, SOAP, etc.\n- AI/ML Product Expertise - Deep understanding of AI technologies, capabilities, and limitations. Experience with LLMs, conversational AI, and ML platforms\n- Data-Driven Decision Making - Proficiency with analytics tools and metrics-based product optimization\n\n#LI-Corporate\n\n- At least 18 years of age\n- Legally authorized to work in the United States\n\nTravel:\nTravel Required (Yes/No):\n\nDOT Regulated:\nDOT Regulated Position (Yes/No): No\nSafety Sensitive Position (Yes/No): No\n\nTotal Target Cash Earnings Opportunity: $167,640 - $302,400\n\nNational Base Pay Range: $139,700 - $252,000\n\nThe Total Target Cash Earnings Opportunity represents the expected total cash compensation for this role at target performance, combining base salary and annual incentive opportunity. Actual earnings may be higher or lower depending on individual performance and overall company results.\n\nThe base pay range reflects the compensation component of this opportunity. The candidate’s actual pay will be based on various factors, such as work location, qualifications, and experience, so the actual starting pay will vary within this range. To find the pay range for this role based on hiring location, https://paylookup.t-mobile.com/paylookup?reqID=REQ372778&paradox=1\n\nAt T-Mobile, employees in regular, non-temporary roles are eligible for an annual bonus or periodic sales incentive or bonus, based on their role. Corporate employees are eligible for a year-end bonus based on individual and/or company performance and which is set at a percentage of the employee’s eligible earnings in the prior year. Certain positions in Customer Care are eligible for monthly bonuses based on individual and/or team performance. The incentive component included in the Total Target Cash Earnings Opportunity reflects target performance. Actual earnings included in the Total Target Cash Earnings Opportunity reflect target performance; actual payouts may vary.\n\nAt T-Mobile, our benefits exemplify the spirit of One Team, Together! A big part of how we care for one another is working to ensure our benefits evolve to meet the needs of our team members. Full and part-time employees have access to the same benefits when eligible. We cover all of the bases, offering medical, dental and vision insurance, a flexible spending account, 401(k), employee stock grants, employee stock purchase plan, paid time off and up to 12 paid holidays - which total about 4 weeks for new full-time employees and about 2.5 weeks for new part-time employees annually - paid parental and family leave, family building benefits, back-up care, enhanced family support, childcare subsidy, tuition assistance, college coaching, short- and long-term disability, voluntary AD&D coverage, voluntary accident coverage, voluntary life insurance, voluntary disability insurance, and voluntary long-term care insurance. We don't stop there - eligible employees can also receive mobile service & home internet discounts, pet insurance, and access to commuter and transit programs! To learn about T-Mobile’s amazing benefits, check out www.t-mobilebenefits.com.\n\nNever stop growing!\n\nAs part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!\n\nT-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, genetic information, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.\n\nTalent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.\n\nAbout T-Mobile:\n\nT-Mobile US, Inc. (NASDAQ: TMUS), headquartered in Bellevue, Washington, is America’s supercharged Un-carrier, connecting millions through its strong nationwide network and flagship brands, T-Mobile and Metro by T-Mobile. Customers benefit from an unmatched combination of value, quality, and exceptional service experience.\n\nAbout TMUS Global Solutions:\n\nTMUS Global Solutions is a world-class technology powerhouse accelerating the company’s global digital transformation. With a culture built on growth, inclusivity, and global collaboration, the teams here drive innovation at scale, powered by bold thinking.\n\nTMUS India Private Limited operates as TMUS Global Solutions.\n\nWe take equal opportunity seriously—by choice.\n\nWe are an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, genetic information, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by applicable local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.\n\nWe are committed to maintaining your trust by respecting and protecting your privacy. For more information about how T-Mobile processes the personal data of job applicants, employees, and other personnel, please visit our U.S. Workforce Privacy Notice or our International Personnel Privacy Notice."
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "hybrid",
+          "evidence": [
+            "jobPostingInfo.jobDescription: in the office three (3) days"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Frisco",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48085",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Bellevue",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-10T09:43:12.652Z",
+        "curated_at": "2026-11-07T03:30:26.557Z",
+        "job_updated_at": "2026-11-07T03:30:26.557Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 13970000,
+                "max_cents": 25200000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 16764000,
+                "max_cents": 30240000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "bb53d37414339d4372fda546f818da452266de252bdf9097723ce50469cc5252",
+            "source": "workday",
+            "source_posting_id": "/job/Frisco-Texas/Principal-AI-Product-Manager--Technical_REQ372778",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Principal-AI-Product-Manager--Technical_REQ372778"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Principal-AI-Product-Manager--Technical_REQ372778"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Frisco",
+                "state": "TX",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "TX",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Bellevue, Washington"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 167640,
+                "max": 302400,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 139700,
+                    "max": 252000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 167640,
+                    "max": 302400,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-11-06T00:00:00.000Z",
+            "first_seen_at": "2026-10-10T09:43:12.652Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "c390f738-330c-4079-b991-ed6a686b24ad",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "912ff729-3a0a-80ba-a102-997fcc95fd84",
+        "employer_name": {
+          "state": "known",
+          "value": "Boston Consulting Group"
+        },
+        "title": {
+          "state": "known",
+          "value": "(Associate/Senior) AI Product Manager/Owner, Salesforce, United States - BCG X"
+        },
+        "description": {
+          "state": "known",
+          "value": "Locations : Boston | Brooklyn | Chicago | Dallas | Los Angeles | Miami | New York | Pittsburgh | San Francisco | Seattle | Manhattan Beach Who We Are Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact. To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive. We Are BCG X We’re a diverse team of more than 3,000 tech experts united by a drive to make a difference. Working across industries and disciplines, we combine our experience and expertise to tackle the biggest challenges faced by society today. We go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. Leveraging BCG’s global network and partnerships with leading organizations, BCG X provides a stable ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions. What You'll Do BCG continues to expand its Marketing, Sales & Pricing practice and is experiencing increasing demand, particularly in the areas of B2B Sales. We are thrilled to expand our breadth and depth of expertise in this space, especially in Sales and Customer Success technology, CRM Sales Cloud & Service Cloud implementation, and familiarity with B2B Sales, Support and Customer Success best practices. We are currently looking for a Product Owner at the Associate/Senior level who is familiar operating with Salesforce Sales Cloud, Service Cloud, Experience Cloud, and/or Revenue Cloud. Ideal candidates will have experience as a product owner delivering solutions in the areas pertaining to B2B Sales including Campaign to Cash, and Sales Enablement, Sales Automation / Customer Success via relevant Sales Technologies (e.g.Salesforce, Dynamics, SalesLoft, etc.), BI, Analytic & Recommendation Technologies (e.g. , Tableau, PowerBI, CRM Analytics, Python), understanding of core B2B Sales Models and Digital Engagement Channels (e.g. Email, eCommerce, Virtual, etc.). Candidates should also have experience engaging with, and driving consensus across, business and IT stakeholders. What You'll Do In this role you will: Be the authority within a multi-disciplinary team to determine the optimal strategy to identify highest value use cases to unlock GTM across Marketing, Sales, and Service Lead roadmap creation, strategy, execution, and optimization for clients around digital transformation with SFDC as a platform Own multi-channel growth strategy based on marketing, sales, pricing, and digital self-service Define, execute, analyze, and optimize sophisticated Salesforce technical use case focused on pilot to scale mapping to quantitative impact Collaborate with X and core leadership to drive execution and implementation of identified use cases and roadmap Be value oriented by defining and validating core KPIs that will be achieved through execution of the SFDC strategy and roadmap such as customer acquisition, retention, share of wallet, win rate, ROI etc. to drive the business Build on BCG’s differentiation by building truly unique capabilities around media, technology, customer journey, and Growth operating models Be agile and iterative in your approach, and relentless in your search for the next unexploited growth opportunity What You'll Bring You should have: 2 - 6 years of professional experience in industry, consulting, or a relevant functional role Experience with Salesforce as well as other GTM tools like Marketo, Eloqua, or similar platforms Expert knowledge of CRM adjacent tools like 3rd party applications, managed packages, and expert in navigating PPT and Excel Proven ability to evaluate business and technical trade-offs (effort vs. value), resolve conflicts, and make critical choices on functionality, user experience, and technical implementation to maximize value and meet business objectives Experience collaborating with cross-functional stakeholders to establish a clear vision and strategy for the CRM modernization project and to collect and prioritize requirements Experience defining business goals, user needs, and market demands to define a product’s direction Experience collaborating with development teams, serving as the primary point of contact between business stakeholders and the technical teams A passion for B2B sales, marketing, service, driving customer adoption, bringing products to market, and scaling digital products and services Understanding of business outcomes and associated KPIs that will be impacted by product features in order to contribute to overall program value case Ability to think strategically and creatively: analyze, synthesize, recommend and take actions Previous sales, marketing, or service delivery experience focused on user acquisition, retention and other growth levers proliferating B2B facing digital products and services Expert communication, presentation, and material preparation skills required Previous experience at a professional consulting company highly desired Please note: any degree programs (including part-time) must be completed before starting at BCG. You must live within a reasonable commuting distance of your home office. As a member of that office, it is expected you will be in the office as directed. This role puts you on an accelerated path of personal and professional growth and development and so, at times, requires extended working hours. Our work often requires travel to client sites. Additional info FOR U.S. APPLICANTS: BCG is an Equal Employment Opportunity employer and is committed to a policy of administering all employment decisions and actions without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. The first-year base compensation for this role is: Associate: $139,500-$155,000 USD Senior: $200,000 USD At BCG, we are committed to offering a comprehensive benefit program that includes everything our employees and their families need to be well and live life to the fullest. We pay the full cost of medical, dental, and vision coverage for employees – and their eligible family members. * That’s zero dollars in premiums taken from employee paychecks. All our plans provide best in class coverage: Zero-dollar ($0) health insurance premiums for BCG employees, spouses, and children Low $10 (USD) copays for trips to the doctor, urgent care visits and prescriptions for generic drugs Dental coverage, including up to $5,000 in orthodontia benefits Vision insurance with coverage for both glasses and contact lenses annually Reimbursement for gym memberships and other fitness activities Fully vested Profit-Sharing Retirement Fund contributions made annually, whether you contribute or not, plus the option for employees to make personal contributions to a 401(k) plan Paid Parental Leave and other family benefits such as elective egg freezing, surrogacy, and adoption reimbursement Generous paid time off including 12 holidays per year, an annual office closure between Christmas and New Years, and 15 vacation days per year (earned at 1.25 days per month) Paid sick time on an as needed basis *Employees, spouses, and children are covered at no cost. Employees share in the cost of domestic partner coverage. #BCGXJob Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws. BCG is an E - Verify Employer. Click here for more information on E-Verify."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Brooklyn",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36047",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Los Angeles",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Miami",
+              "region": "US-FL",
+              "country": "US",
+              "county_fips": "12086",
+              "msa": {
+                "cbsa_code": "33100",
+                "cbsa_title": "Miami-Fort Lauderdale-West Palm Beach, FL",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Pittsburgh",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42003",
+              "msa": {
+                "cbsa_code": "38300",
+                "cbsa_title": "Pittsburgh, PA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Manhattan Beach",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-25T18:01:02.179Z",
+        "curated_at": "2026-09-26T09:48:21.125Z",
+        "job_updated_at": "2026-11-06T10:18:20.846Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 13950000,
+                "max_cents": 15500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "6da8b58b70687e5c1151b40ddac03cd6d9b1e7f0dcbcb44f8a1378c795424b8e",
+            "source": "phenom",
+            "source_posting_id": "59578",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.bcg.com/global/en/job/59578"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318613605?post_onboarding_pid=790318613605&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boston",
+                "state": "Massachusetts",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "MA",
+                "latitude": 42.35843,
+                "longitude": -71.05977,
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Brooklyn",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.6501,
+                    "longitude": -73.94958,
+                    "remote": false,
+                    "raw": "Brooklyn, New York, United States of America"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "Illinois",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 41.85003,
+                    "longitude": -87.65005,
+                    "remote": false,
+                    "raw": "Chicago, Illinois, United States of America"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "Texas",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 32.78306,
+                    "longitude": -96.80667,
+                    "remote": false,
+                    "raw": "Dallas, Texas, United States of America"
+                  },
+                  {
+                    "city": "Los Angeles",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 34.05223,
+                    "longitude": -118.24368,
+                    "remote": false,
+                    "raw": "Los Angeles, California, United States of America"
+                  },
+                  {
+                    "city": "Miami",
+                    "state": "Florida",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 25.77427,
+                    "longitude": -80.19366,
+                    "remote": false,
+                    "raw": "Miami, Florida, United States of America"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.71427,
+                    "longitude": -74.00597,
+                    "remote": false,
+                    "raw": "New York, New York, United States of America"
+                  },
+                  {
+                    "city": "Pittsburgh",
+                    "state": "Pennsylvania",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.44062,
+                    "longitude": -79.99589,
+                    "remote": false,
+                    "raw": "Pittsburgh, Pennsylvania, United States of America"
+                  },
+                  {
+                    "city": "San Francisco",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 37.77493,
+                    "longitude": -122.41942,
+                    "remote": false,
+                    "raw": "San Francisco, California, United States of America"
+                  },
+                  {
+                    "city": "Seattle",
+                    "state": "Washington",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 47.60621,
+                    "longitude": -122.33207,
+                    "remote": false,
+                    "raw": "Seattle, Washington, United States of America"
+                  },
+                  {
+                    "city": "Manhattan Beach",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 33.88474,
+                    "longitude": -118.41091,
+                    "remote": false,
+                    "raw": "Manhattan Beach, California, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 139500,
+                "max": 155000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-09-25T00:00:00.000Z",
+            "first_seen_at": "2026-09-25T18:01:02.179Z",
+            "last_completed_fetch_at": "2026-11-06T10:18:12.667Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "31236a37-4602-49b1-bc23-1dfc145d3fb0",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "11b3fbe8-dae2-84d7-9503-d77eb37b890e",
+        "employer_name": {
+          "state": "known",
+          "value": "Boston Consulting Group"
+        },
+        "title": {
+          "state": "known",
+          "value": "(Associate/Senior) AI Product Manager/Owner, Salesforce, United States - BCG X"
+        },
+        "description": {
+          "state": "known",
+          "value": "Locations : Boston | Brooklyn | Chicago | Dallas | Los Angeles | Miami | New York | Pittsburgh | San Francisco | Seattle | Manhattan Beach Who We Are Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact. To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive. We Are BCG X We’re a diverse team of more than 3,000 tech experts united by a drive to make a difference. Working across industries and disciplines, we combine our experience and expertise to tackle the biggest challenges faced by society today. We go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. Leveraging BCG’s global network and partnerships with leading organizations, BCG X provides a stable ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions. What You'll Do BCG continues to expand its Marketing, Sales & Pricing practice and is experiencing increasing demand, particularly in the areas of B2B Sales. We are thrilled to expand our breadth and depth of expertise in this space, especially in Sales and Customer Success technology, CRM Sales Cloud & Service Cloud implementation, and familiarity with B2B Sales, Support and Customer Success best practices. We are currently looking for a Product Owner at the Associate/Senior level who is familiar operating with Salesforce Sales Cloud, Service Cloud, Experience Cloud, and/or Revenue Cloud. Ideal candidates will have experience as a product owner delivering solutions in the areas pertaining to B2B Sales including Campaign to Cash, and Sales Enablement, Sales Automation / Customer Success via relevant Sales Technologies (e.g.Salesforce, Dynamics, SalesLoft, etc.), BI, Analytic & Recommendation Technologies (e.g. , Tableau, PowerBI, CRM Analytics, Python), understanding of core B2B Sales Models and Digital Engagement Channels (e.g. Email, eCommerce, Virtual, etc.). Candidates should also have experience engaging with, and driving consensus across, business and IT stakeholders. What You'll Do In this role you will: Be the authority within a multi-disciplinary team to determine the optimal strategy to identify highest value use cases to unlock GTM across Marketing, Sales, and Service Lead roadmap creation, strategy, execution, and optimization for clients around digital transformation with SFDC as a platform Own multi-channel growth strategy based on marketing, sales, pricing, and digital self-service Define, execute, analyze, and optimize sophisticated Salesforce technical use case focused on pilot to scale mapping to quantitative impact Collaborate with X and core leadership to drive execution and implementation of identified use cases and roadmap Be value oriented by defining and validating core KPIs that will be achieved through execution of the SFDC strategy and roadmap such as customer acquisition, retention, share of wallet, win rate, ROI etc. to drive the business Build on BCG’s differentiation by building truly unique capabilities around media, technology, customer journey, and Growth operating models Be agile and iterative in your approach, and relentless in your search for the next unexploited growth opportunity What You'll Bring You should have: 2 - 6 years of professional experience in industry, consulting, or a relevant functional role Experience with Salesforce as well as other GTM tools like Marketo, Eloqua, or similar platforms Expert knowledge of CRM adjacent tools like 3rd party applications, managed packages, and expert in navigating PPT and Excel Proven ability to evaluate business and technical trade-offs (effort vs. value), resolve conflicts, and make critical choices on functionality, user experience, and technical implementation to maximize value and meet business objectives Experience collaborating with cross-functional stakeholders to establish a clear vision and strategy for the CRM modernization project and to collect and prioritize requirements Experience defining business goals, user needs, and market demands to define a product’s direction Experience collaborating with development teams, serving as the primary point of contact between business stakeholders and the technical teams A passion for B2B sales, marketing, service, driving customer adoption, bringing products to market, and scaling digital products and services Understanding of business outcomes and associated KPIs that will be impacted by product features in order to contribute to overall program value case Ability to think strategically and creatively: analyze, synthesize, recommend and take actions Previous sales, marketing, or service delivery experience focused on user acquisition, retention and other growth levers proliferating B2B facing digital products and services Expert communication, presentation, and material preparation skills required Previous experience at a professional consulting company highly desired Please note: any degree programs (including part-time) must be completed before starting at BCG. You must live within a reasonable commuting distance of your home office. As a member of that office, it is expected you will be in the office as directed. This role puts you on an accelerated path of personal and professional growth and development and so, at times, requires extended working hours. Our work often requires travel to client sites. Additional info FOR U.S. APPLICANTS: BCG is an Equal Employment Opportunity employer and is committed to a policy of administering all employment decisions and actions without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. The first-year base compensation for this role is: Associate: $139,500-$155,000 USD Senior: $200,000 USD At BCG, we are committed to offering a comprehensive benefit program that includes everything our employees and their families need to be well and live life to the fullest. We pay the full cost of medical, dental, and vision coverage for employees – and their eligible family members. * That’s zero dollars in premiums taken from employee paychecks. All our plans provide best in class coverage: Zero-dollar ($0) health insurance premiums for BCG employees, spouses, and children Low $10 (USD) copays for trips to the doctor, urgent care visits and prescriptions for generic drugs Dental coverage, including up to $5,000 in orthodontia benefits Vision insurance with coverage for both glasses and contact lenses annually Reimbursement for gym memberships and other fitness activities Fully vested Profit-Sharing Retirement Fund contributions made annually, whether you contribute or not, plus the option for employees to make personal contributions to a 401(k) plan Paid Parental Leave and other family benefits such as elective egg freezing, surrogacy, and adoption reimbursement Generous paid time off including 12 holidays per year, an annual office closure between Christmas and New Years, and 15 vacation days per year (earned at 1.25 days per month) Paid sick time on an as needed basis *Employees, spouses, and children are covered at no cost. Employees share in the cost of domestic partner coverage. #BCGXJob Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws. BCG is an E - Verify Employer. Click here for more information on E-Verify."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Brooklyn",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36047",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Los Angeles",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Miami",
+              "region": "US-FL",
+              "country": "US",
+              "county_fips": "12086",
+              "msa": {
+                "cbsa_code": "33100",
+                "cbsa_title": "Miami-Fort Lauderdale-West Palm Beach, FL",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Pittsburgh",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42003",
+              "msa": {
+                "cbsa_code": "38300",
+                "cbsa_title": "Pittsburgh, PA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Manhattan Beach",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-04T10:29:23.488Z",
+        "curated_at": "2026-11-04T10:30:58.106Z",
+        "job_updated_at": "2026-11-04T10:30:58.106Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 13950000,
+                "max_cents": 15500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "6da8b58b70687e5c1151b40ddac03cd6d9b1e7f0dcbcb44f8a1378c795424b8e",
+            "source": "phenom",
+            "source_posting_id": "59578",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.bcg.com/global/en/job/59578"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318613605?post_onboarding_pid=790318613605&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boston",
+                "state": "Massachusetts",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "MA",
+                "latitude": 42.35843,
+                "longitude": -71.05977,
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Brooklyn",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.6501,
+                    "longitude": -73.94958,
+                    "remote": false,
+                    "raw": "Brooklyn, New York, United States of America"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "Illinois",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 41.85003,
+                    "longitude": -87.65005,
+                    "remote": false,
+                    "raw": "Chicago, Illinois, United States of America"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "Texas",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 32.78306,
+                    "longitude": -96.80667,
+                    "remote": false,
+                    "raw": "Dallas, Texas, United States of America"
+                  },
+                  {
+                    "city": "Los Angeles",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 34.05223,
+                    "longitude": -118.24368,
+                    "remote": false,
+                    "raw": "Los Angeles, California, United States of America"
+                  },
+                  {
+                    "city": "Miami",
+                    "state": "Florida",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 25.77427,
+                    "longitude": -80.19366,
+                    "remote": false,
+                    "raw": "Miami, Florida, United States of America"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.71427,
+                    "longitude": -74.00597,
+                    "remote": false,
+                    "raw": "New York, New York, United States of America"
+                  },
+                  {
+                    "city": "Pittsburgh",
+                    "state": "Pennsylvania",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.44062,
+                    "longitude": -79.99589,
+                    "remote": false,
+                    "raw": "Pittsburgh, Pennsylvania, United States of America"
+                  },
+                  {
+                    "city": "San Francisco",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 37.77493,
+                    "longitude": -122.41942,
+                    "remote": false,
+                    "raw": "San Francisco, California, United States of America"
+                  },
+                  {
+                    "city": "Seattle",
+                    "state": "Washington",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 47.60621,
+                    "longitude": -122.33207,
+                    "remote": false,
+                    "raw": "Seattle, Washington, United States of America"
+                  },
+                  {
+                    "city": "Manhattan Beach",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 33.88474,
+                    "longitude": -118.41091,
+                    "remote": false,
+                    "raw": "Manhattan Beach, California, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 139500,
+                "max": 155000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-09-25T00:00:00.000Z",
+            "first_seen_at": "2026-11-04T10:29:23.488Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 5,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:45:52.574Z"
+  },
+  "response_usage": {
+    "charged": "5",
+    "remaining": "98777",
+    "request_id": "28103a37-f249-46bf-91b0-ba771a76eaa0"
+  }
+}

@@ -1,0 +1,7 @@
+role,jobs,missing_descriptions,missing_employers,jobs_with_observed_salary,jobs_with_one_annual_range,proxy_mapped_jobs,jobs_with_dictionary_skills
+ai product manager,148,0,4,101,48,148,112
+ai research scientist,137,10,30,67,54,137,118
+data / bi analyst,970,5,32,586,278,970,796
+data engineer,620,1,5,443,196,620,603
+data scientist,816,1,7,588,270,0,767
+ml / ai engineer,1014,8,16,809,326,1014,962

@@ -1,0 +1,590 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:47:02.571523+00:00",
+  "state_filter": "VA",
+  "title_filter": "AI research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "VA",
+    "title": "AI research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "e5c68473-eb0a-4849-9660-40d37548ec02",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "7cdf19c0-1610-8494-b526-88c3d334c453",
+        "employer_name": {
+          "state": "known",
+          "value": "Tanium"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "**The Basics**\n\nTanium is seeking an AI Research Scientist. This role reports to our Sr. Director AI and Applied Research leading AI design, prototyping, and experimentation across Tanium products and solutions. As an AI Research Scientist, you will collaborate across engineering and product teams to design, develop, and evaluate AI and ML models that power intelligent endpoint management and security solutions. This is an exciting opportunity to work at the intersection of cutting-edge AI research and real-world cybersecurity applications at enterprise scale.\n\n***This position follows the Company’s hybrid schedule which currently requires employees to work in the office at one of the following locations a minimum of three days per week: Addison, TX; Bellevue, WA; Durham, NC; Emeryville, CA; or Reston, VA.***\n\n**What you’ll do**\n\n* Collaborate with data science and engineering teams to design and implement AI and machine learning (ML) algorithms that improve Tanium’s autonomous IT capabilities.\n* Develop and evaluate ML models across a wide variety of use cases, including anomaly detection, threat identification, and performance optimization.\n* Analyze large-scale endpoint data to extract meaningful insights and develop predictive models.\n* Contribute to the design and implementation of data pipelines that efficiently process and analyze endpoint data at scale.\n* Conduct exploratory data analyses and and develop visualizations to communicate findings (to technical and non-technical stakeholders) and inform product development decisions.\n* Document research methodologies, experiments, and results to expand Tanium's internal knowledge base and support reproducibility.\n* Stay up to date with the latest advancements in AI, ML, and endpoint management technologies.\n* Monitor and incorporate the latest advancements in AI, ML, large language models, and endpoint management technologies into ongoing research efforts\n* Partner with cross-functional teams to translate research findings into scalable product features and improvements.\n\n**We’re looking for someone with**\n\n* In accordance with Department of Defense requirements, applicants for this role must be a U.S. citizen, national, or resident pursuant to 8 U.S.C. 1101(a)(20) and 8 U.S.C. 1324b(a)(3)\n* Education\n    * Bachelor's degree in Computer Science, Mathematics, Statistics, Data Science, or a related field, or equivalent experience.\n* Experience\n    * 1+ years of experience in applied machine learning, data science, or AI research, or equivalent demonstrated expertise\n    * Experience developing and deploying ML models for tasks such as classification, regression, or anomaly detection\n    * Experience working with large-scale datasets and the tools and techniques required to process and analyze them efficiently\n    * Experience in one or more of the following areas preferred: statistical modeling, anomaly detection, internals of large language models (LLMs), or agentic AI systems\n* Other\n    * Strong foundation in machine learning, data analysis, and statistics\n    * Proficiency in Python\n    * Familiarity with machine learning frameworks and libraries such as PyTorch, scikit-learn, TensorFlow, NumPy, SciPy, and pandas\n    * Strong problem-solving skills with the ability to work both independently and collaboratively in a team environment\n    * Excellent written and verbal communication skills, including the ability to present complex technical concepts clearly to diverse audiences\n    * Passion for technology, cybersecurity, and autonomous systems preferred\n\n**About Tanium**\n\nTanium is the Autonomous IT company. As Al accelerates both innovation and risk, Tanium Atlas, the company's autonomous operating system, puts the full depth of the Tanium Autonomous IT Platform behind every IT and security operator - human and agentic. Tanium provides the real-time intelligence, agentic decision-making, and autonomous execution operators needed to detect, decide, and remediate at machine speed across their endpoint estate.\n\nThe company is recognized as a Leader in the inaugural 2026 Gartner® Magic Quadrant™ for Endpoint Management Tools, as a Leader in the IDC MarketScape: Worldwide Client Endpoint Management Software for Windows Device Management 2025-2026 Vendor Assessment, and as a Leader in The Forrester Wave™. Endpoint Management Platforms, Q2 2026.\n\nTo learn how Tanium delivers Autonomous IT for unstoppable business, visit [www.tanium.com](http://www.tanium.com/) and follow us on [LinkedIn](https://www.linkedin.com/company/tanium) and [X](https://twitter.com/Tanium).\n\n**On a mission. Together.**\n\nAt Tanium, we are stewards of a culture that emphasizes the importance of collaboration, respect, and diversity. In our pursuit of revolutionizing the way some of the largest enterprises and governments in the world solve their most difficult IT challenges, we are strengthened by our unique perspectives and by our collective actions.\n\nAs a global organization with stakeholders around the world, it’s imperative that the diversity of our customers and communities is reflected internally in our team members. We strive to create a diverse and inclusive environment where everyone feels they have opportunities to succeed and grow because we know that only together can we do great things. \n\nOur commitment to excellence and innovation has earned us a place on the Forbes Cloud 100 list for ten consecutive years, and we continue to be recognized worldwide as a great place to work.\n\nEach of our team members has 5 days set aside as volunteer time off (VTO) to contribute to the communities they live in and give back to the causes they care about most.\n\n**What you’ll get**\n\nThe annual base salary range for this full-time position is $143,000 to $219,000. This range is an estimate for what Tanium will pay a new hire. The actual annual base salary offered may be adjusted based on a variety of factors, including but not limited to, location, education, skills, training, and experience.\n\nIn addition to an annual base salary, team members will receive equity awards and a generous benefits package consisting of medical, dental and vision plan, family planning benefits, health savings account, flexible spending account, transportation savings account, 401(k) retirement savings plan with company match, life, accident and disability coverage, business travel accident insurance, employee assistance programs, disability insurance, and other well-being benefits.\n\nTanium is an Equal Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, gender identity, sexual orientation, disability, protected Veteran status, or other legally protected categories. If you require a reasonable accommodation in searching for a job opening, completing an application, interviewing, or completing any pre-employment testing or requirements, please contact [accommodations@tanium.com](mailto:accommodations@tanium.com). For more information refer to the “Know Your Rights” poster which is available here - [https://www.eeoc.gov/poster](https://www.eeoc.gov/poster).\n\nPlease be aware of job offers coming from people claiming to be Tanium employees. Tanium employees will only use @tanium.com email addresses to communicate with you, will have video interviews with you, and will never ask you for money.\n\n[This link](https://www.cigna.com/legal/compliance/machine-readable-files) leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data.\n\nFor more information on how Tanium processes your personal data, please see our [Privacy Policy](https://www.tanium.com/privacy-policy/).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Addison",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Bellevue",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Durham",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37063",
+              "msa": {
+                "cbsa_code": "20500",
+                "cbsa_title": "Durham-Chapel Hill, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Emeryville",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06001",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Reston",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-21T17:54:31.617Z",
+        "curated_at": "2026-11-20T01:48:46.635Z",
+        "job_updated_at": "2026-11-20T01:48:46.635Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 14300000,
+                "max_cents": 21900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1d9cdc827d4ba246bb23858d370af5e8682ed8d0462d3b85cefcab9df834477b",
+            "source": "greenhouse",
+            "source_posting_id": "8232146",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Addison",
+                "state": "TX",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Bellevue, WA"
+                  },
+                  {
+                    "city": "Durham",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Durham, NC"
+                  },
+                  {
+                    "city": "Emeryville",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Emeryville, CA"
+                  },
+                  {
+                    "city": "Reston",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Reston, VA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 143000,
+                "max": 219000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-21T16:30:12.000Z",
+            "first_seen_at": "2026-10-21T17:54:31.617Z",
+            "last_completed_fetch_at": "2026-11-20T01:47:58.516Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e6e44270-d2b8-46a3-9045-9caae6c5c77b",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "79164d3a-73d8-87a1-ae74-ac3d0e1d5e7b",
+        "employer_name": {
+          "state": "known",
+          "value": "Tanium"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "**The Basics**\n\nTanium is seeking an AI Research Scientist. This role reports to our Sr. Director AI and Applied Research leading AI design, prototyping, and experimentation across Tanium products and solutions. As an AI Research Scientist, you will collaborate across engineering and product teams to design, develop, and evaluate AI and ML models that power intelligent endpoint management and security solutions. This is an exciting opportunity to work at the intersection of cutting-edge AI research and real-world cybersecurity applications at enterprise scale.\n\n***This position follows the Company’s hybrid schedule which currently requires employees to work in the office at one of the following locations a minimum of three days per week: Addison, TX; Bellevue, WA; Durham, NC; Emeryville, CA; or Reston, VA.***\n\n**What you’ll do**\n\n* Collaborate with data science and engineering teams to design and implement AI and machine learning (ML) algorithms that improve Tanium’s autonomous IT capabilities.\n* Develop and evaluate ML models across a wide variety of use cases, including anomaly detection, threat identification, and performance optimization.\n* Analyze large-scale endpoint data to extract meaningful insights and develop predictive models.\n* Contribute to the design and implementation of data pipelines that efficiently process and analyze endpoint data at scale.\n* Conduct exploratory data analyses and and develop visualizations to communicate findings (to technical and non-technical stakeholders) and inform product development decisions.\n* Document research methodologies, experiments, and results to expand Tanium's internal knowledge base and support reproducibility.\n* Stay up to date with the latest advancements in AI, ML, and endpoint management technologies.\n* Monitor and incorporate the latest advancements in AI, ML, large language models, and endpoint management technologies into ongoing research efforts\n* Partner with cross-functional teams to translate research findings into scalable product features and improvements.\n\n**We’re looking for someone with**\n\n* In accordance with Department of Defense requirements, applicants for this role must be a U.S. citizen, national, or resident pursuant to 8 U.S.C. 1101(a)(20) and 8 U.S.C. 1324b(a)(3)\n* Education\n    * Bachelor's degree in Computer Science, Mathematics, Statistics, Data Science, or a related field, or equivalent experience.\n* Experience\n    * 1+ years of experience in applied machine learning, data science, or AI research, or equivalent demonstrated expertise\n    * Experience developing and deploying ML models for tasks such as classification, regression, or anomaly detection\n    * Experience working with large-scale datasets and the tools and techniques required to process and analyze them efficiently\n    * Experience in one or more of the following areas preferred: statistical modeling, anomaly detection, internals of large language models (LLMs), or agentic AI systems\n* Other\n    * Strong foundation in machine learning, data analysis, and statistics\n    * Proficiency in Python\n    * Familiarity with machine learning frameworks and libraries such as PyTorch, scikit-learn, TensorFlow, NumPy, SciPy, and pandas\n    * Strong problem-solving skills with the ability to work both independently and collaboratively in a team environment\n    * Excellent written and verbal communication skills, including the ability to present complex technical concepts clearly to diverse audiences\n    * Passion for technology, cybersecurity, and autonomous systems preferred\n\n**About Tanium**\n\nTanium is the Autonomous IT company. As Al accelerates both innovation and risk, Tanium Atlas, the company's autonomous operating system, puts the full depth of the Tanium Autonomous IT Platform behind every IT and security operator - human and agentic. Tanium provides the real-time intelligence, agentic decision-making, and autonomous execution operators needed to detect, decide, and remediate at machine speed across their endpoint estate.\n\nThe company is recognized as a Leader in the inaugural 2026 Gartner® Magic Quadrant™ for Endpoint Management Tools, as a Leader in the IDC MarketScape: Worldwide Client Endpoint Management Software for Windows Device Management 2025-2026 Vendor Assessment, and as a Leader in The Forrester Wave™. Endpoint Management Platforms, Q2 2026.\n\nTo learn how Tanium delivers Autonomous IT for unstoppable business, visit [www.tanium.com](http://www.tanium.com/) and follow us on [LinkedIn](https://www.linkedin.com/company/tanium) and [X](https://twitter.com/Tanium).\n\n**On a mission. Together.**\n\nAt Tanium, we are stewards of a culture that emphasizes the importance of collaboration, respect, and diversity. In our pursuit of revolutionizing the way some of the largest enterprises and governments in the world solve their most difficult IT challenges, we are strengthened by our unique perspectives and by our collective actions.\n\nAs a global organization with stakeholders around the world, it’s imperative that the diversity of our customers and communities is reflected internally in our team members. We strive to create a diverse and inclusive environment where everyone feels they have opportunities to succeed and grow because we know that only together can we do great things. \n\nOur commitment to excellence and innovation has earned us a place on the Forbes Cloud 100 list for ten consecutive years, and we continue to be recognized worldwide as a great place to work.\n\nEach of our team members has 5 days set aside as volunteer time off (VTO) to contribute to the communities they live in and give back to the causes they care about most.\n\n**What you’ll get**\n\nThe annual base salary range for this full-time position is $143,000 to $219,000. This range is an estimate for what Tanium will pay a new hire. The actual annual base salary offered may be adjusted based on a variety of factors, including but not limited to, location, education, skills, training, and experience.\n\nIn addition to an annual base salary, team members will receive equity awards and a generous benefits package consisting of medical, dental and vision plan, family planning benefits, health savings account, flexible spending account, transportation savings account, 401(k) retirement savings plan with company match, life, accident and disability coverage, business travel accident insurance, employee assistance programs, disability insurance, and other well-being benefits.\n\nTanium is an Equal Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, gender identity, sexual orientation, disability, protected Veteran status, or other legally protected categories. If you require a reasonable accommodation in searching for a job opening, completing an application, interviewing, or completing any pre-employment testing or requirements, please contact [accommodations@tanium.com](mailto:accommodations@tanium.com). For more information refer to the “Know Your Rights” poster which is available here - [https://www.eeoc.gov/poster](https://www.eeoc.gov/poster).\n\nPlease be aware of job offers coming from people claiming to be Tanium employees. Tanium employees will only use @tanium.com email addresses to communicate with you, will have video interviews with you, and will never ask you for money.\n\n[This link](https://www.cigna.com/legal/compliance/machine-readable-files) leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data.\n\nFor more information on how Tanium processes your personal data, please see our [Privacy Policy](https://www.tanium.com/privacy-policy/).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Addison",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Bellevue",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Durham",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37063",
+              "msa": {
+                "cbsa_code": "20500",
+                "cbsa_title": "Durham-Chapel Hill, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Emeryville",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06001",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Reston",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-21T17:54:31.617Z",
+        "curated_at": "2026-11-11T15:45:52.220Z",
+        "job_updated_at": "2026-11-13T18:50:16.833Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 14300000,
+                "max_cents": 21900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1d9cdc827d4ba246bb23858d370af5e8682ed8d0462d3b85cefcab9df834477b",
+            "source": "greenhouse",
+            "source_posting_id": "8232146",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Addison",
+                "state": "TX",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Bellevue, WA"
+                  },
+                  {
+                    "city": "Durham",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Durham, NC"
+                  },
+                  {
+                    "city": "Emeryville",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Emeryville, CA"
+                  },
+                  {
+                    "city": "Reston",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Reston, VA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 143000,
+                "max": 219000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-21T16:30:12.000Z",
+            "first_seen_at": "2026-10-21T17:54:31.617Z",
+            "last_completed_fetch_at": "2026-11-13T18:49:05.461Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "d552a9ec-0ab9-4fc0-8651-09d8938fe21b",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b2f1d612-46fa-486a-b3dd-61d94d13d49c",
+        "employer_name": {
+          "state": "known",
+          "value": "CrowdStrike, Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Agentic Systems (Remote)"
+        },
+        "description": {
+          "state": "known",
+          "value": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We're proud to work for a mission-driven company leveraging AI to transform the way we work. CrowdStrikers drive their careers through flexibility and autonomy while also being expected to contribute to a culture of responsible AI adoption, experimentation, and innovation. We use an AI-first mindset as a force multiplier to proactively and continuously accelerate execution, build expertise, uncover insights, and solve complex problems. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you.\n\n  \n\n**About the Role:**\n\nThe Data Science team is expanding and is looking for a Data Scientist to help build the next generation of agentic systems for cybersecurity. CrowdStrike's cybersecurity data is one-of-a-kind: we process nearly a trillion behavioral events per day. You'll work where Machine Learning, Big Data, and Cybersecurity converge — training models, building AI agents, and rigorously measuring whether they work — on data and problems you won't find anywhere else.\n\n## **What You'll Do:**\n\n* Work at the intersection of Artificial Intelligence and Threat Research\n    \n* Work closely with subject-matter experts in cybersecurity to understand analyst workflows and their security operations procedures\n    \n* Post-train LLMs and agents — supervised fine-tuning and reinforcement learning (RLHF/RLAIF, PPO/GRPO/DPO, reward modeling) — to automate analyst procedures and improve reliability on real security tasks\n    \n* Devise AI agents and combine them into increasingly complex workflows: planning and reasoning loops, tool and function calling, and retrieval and memory\n    \n* Research new approaches to agentic planning, and prototype state-of-the-art methods from the literature\n    \n* Establish objective criteria for benchmarking agentic systems — evals, LLM-as-judge pipelines, and trajectory-level metrics, with real statistical rigor\n    \n* Optimize prompts and inference to get the most out of every model\n    \n* Collaborate and coordinate across Engineering, Data Science, and Managed Services teams, and partner with engineers to take prototypes toward production\n    \n* Keep track of developments in the field of Artificial Intelligence and help identify, define, and prioritize areas for research\n    \n\n##   \n**What You'll Need:**\n\n* Excellent foundations in machine learning, probability, and statistics, with sound instincts for uncertainty, statistical skew/variance, and experimental design\n    \n* PhD-level depth of understanding in modern machine learning research —a doctorate itself is not required, but we expect equivalent mastery, including the ability to read, critique, implement, and improve upon current papers\n    \n* Experience training generative models, with a strong command of LLM training fundamentals (architecture, optimization, tokenization, data, and scaling behavior)\n    \n* Reinforcement learning / post-training as a core skill: RLHF/RLAIF, policy optimization (PPO/GRPO/DPO), reward modeling, and building RL environments for agents\n    \n* Experience building agentic systems: agent architectures (ReAct, planning, reflection), tool and function calling, and retrieval/memory/context management\n    \n* Experience with systematic prompt optimization, and with designing and building evals for LLM systems\n    \n* Fluency with GPUs, PyTorch, and the common LLM training and serving stack (e.g., Hugging Face Transformers/TRL/PEFT, DeepSpeed/FSDP, vLLM/TGI/SGLang)\n    \n* Strong, reproducible research engineering: clean Python and disciplined experiment tracking that your collaborators can build on\n    \n* Ability to work independently on ambiguous and complex objectives, and to communicate clearly within a large project team\n    \n* Proven experience utilizing AI technologies to enhance decision-making, streamline workflows and processes, improve efficiency and drive business outcomes.\n    \n\n##   \n**Bonus Points:**\n\n* Experience generating training data and environments — synthetic data, agent trajectories/rollouts, and task simulators\n    \n* Familiarity with inference-time scaling / test-time compute (search, self-consistency, verifier-guided decoding, long chain-of-thought)\n    \n* Experience with agent safety and guardrails: sandboxing, abuse/jailbreak resistance, and reliability for autonomous systems\n    \n* A knack for interpretability and failure analysis — diagnosing why a model or agent fails, not just that it does\n    \n* Notable open-source contributions and excellent technical writing\n    \n* Passionate about cybersecurity, with a firm understanding of the problem space — or passionate about applying your machine-learning skillset to a new domain such as cybersecurity (a security background is a plus, not a requirement)\n    \n* An independent self-starter who likes to take ownership and seeks out new challenges, and is thirsty for knowledge — never hesitant to step outside your comfort zone to learn new technologies, algorithms, and concepts\n    \n\n#LI-Remote  \n#LI-RC1\n\n**Benefits of Working at CrowdStrike:**\n\n* Market leader in compensation and equity awards\n    \n* Comprehensive physical and mental wellness programs\n    \n* Competitive vacation and holidays for recharge \n    \n* Paid parental and adoption leaves\n    \n* Professional development opportunities for all employees regardless of level or role\n    \n* Employee Networks, geographic neighborhood groups, and volunteer opportunities to build connections\n    \n* Vibrant office culture with world class amenities\n    \n* Great Place to Work Certified™ across the globe\n    \n\nCrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program.\n\nCrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on valid job requirements.\n\nIf you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at [recruiting@crowdstrike.com](mailto:recruiting@crowdstrike.com) for further assistance.\n\n[Find out more about your rights as an applicant.](http://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)\n\nCrowdStrike participates in the E-Verify program.\n\n[Notice of E-Verify Participation](https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf)\n\n[Right to Work](https://www.e-verify.gov/sites/default/files/everify/posters/IER_RightToWorkPoster%20Eng_Es.pdf)\n\nCrowdStrike, Inc. is committed to fair and equitable compensation practices. Placement within the pay range is dependent on a variety of factors including, but not limited to, relevant work experience, skills, certifications, job level, supervisory status, and location. The base salary range for this position for all U.S. candidates is $120,000 - $180,000 per year, with eligibility for bonuses, equity grants and a comprehensive benefits package that includes health insurance, 401k and paid time off.\n\nFor detailed information about the U.S. benefits package, please [click here](http://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/page/a78c53e64ec61001f47d48a4699e0000).\n\nExpected Close Date of Job Posting is:08-12-2026  \n\nCrowdStrike was founded in 2011 to fix a fundamental problem: The sophisticated attacks that were forcing the world’s leading businesses into the headlines could not be solved with existing malware-based defenses. Founder George Kurtz realized that a brand new approach was needed — one that combines the most advanced endpoint protection with expert intelligence to pinpoint the adversaries perpetrating the attacks, not just the malware.\n\n\n\nThere’s much more to the story of how Falcon has redefined endpoint protection but there’s only one thing to remember about CrowdStrike: We stop breaches.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "remote",
+          "evidence": [
+            "title, location: Remote; Remote"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-18T23:13:47.808Z",
+        "curated_at": "2026-09-24T08:06:06.602Z",
+        "job_updated_at": "2026-11-13T07:53:49.903Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12000000,
+                "max_cents": 18000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "5fb535ad88ea9d163157b791a8144747b670060118b11fccf6363e23c3d290b9",
+            "source": "workday",
+            "source_posting_id": "/job/USA---Remote/Data-Scientist--Remote-_R29082-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Remote-_R29082-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Remote-_R29082-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "state": "VA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": true
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 120000,
+                "max": 180000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-06T00:00:00.000Z",
+            "first_seen_at": "2026-09-18T23:13:47.808Z",
+            "last_completed_fetch_at": "2026-11-13T07:52:52.842Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "88d647e5-b6d1-4501-ae0a-225e1fe07420",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "789f38b6-f2c5-8548-a0cb-44cd6a7b662b",
+        "employer_name": {
+          "state": "known",
+          "value": "Pacific Defense"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "**About Us**\n\nAt Perceptronics, a subsidiary of Pacific Defense, we develop advanced technologies to address national security challenges in areas including electronic warfare, autonomy, sensing, and intelligent systems. We combine artificial intelligence, machine learning, signal processing, optimization, and other computational methods to develop innovative solutions to difficult real-world problems.\n\n**Position Overview**\n\nPerceptronics is seeking an AI Research Scientist to join our research and development team. We are looking for candidates who enjoy solving difficult, often poorly defined technical problems and developing new algorithmic solutions.\n\nWe are interested in candidates from a range of technical backgrounds, including artificial intelligence, machine learning, signal processing, controls, operations research, applied mathematics, statistics, robotics, and related fields. The common thread is an ability to formulate technical problems, identify promising approaches, develop and evaluate algorithms, and improve those approaches based on experimental results and a deeper understanding of the problem.\n\nOur work spans a broad range of methods, including statistical inference and estimation, clustering and density estimation, optimization, search and planning, tracking and filtering, signal processing, sensor fusion, machine learning, and related techniques. Machine learning is an important part of our work, but the appropriate solution to a problem may involve traditional algorithms, statistical methods, machine learning, or a combination of approaches.\n\nWe are particularly interested in candidates who can critically evaluate alternative approaches, understand their assumptions and limitations, and adapt or extend state-of-the-art academic research to solve real-world DoD problems.\n\nOur application areas include electronic warfare, RF signal analysis, autonomy, unmanned systems, multi-agent systems, sensor systems, and other national security problems. Prior experience in one or more of these domains is highly valuable but is not required for candidates with strong algorithmic and research capabilities.\n\n**Requirements**\n\n**Key Responsibilities**\n\n* Investigate challenging technical problems and formulate algorithmic approaches for solving them.\n* Perform literature reviews to identify promising methods, understand their strengths and limitations, and determine how they can be adapted to problems of interest.\n* Design, implement, test, and improve prototype algorithms using techniques drawn from AI, statistics, optimization, estimation, search, signal processing, machine learning, and related fields.\n* Analyze complex data and system behavior to understand underlying structure, identify meaningful patterns, and select appropriate computational approaches.\n* Approach succeeds or fails.\n* Compare alternative approaches and refine algorithms based on experimental results, theoretical insight, and operational requirements.\n* Collaborate with scientists and engineers to integrate algorithms into operational software and hardware systems.\n* Communicate technical approaches, experimental results, and recommendations to both technical and non-technical stakeholders.\n* Stay current with relevant academic research and emerging methods and identify opportunities to apply them to Perceptronics problems.\n\n**Qualifications**\n\n* Bachelor’s, Master’s, or PhD in Computer Science, Artificial Intelligence, Electrical Engineering, Robotics, Applied Mathematics, Statistics, Operations Research, Controls, or a related technical field. An advanced degree is preferred.\n* Strong foundation in algorithms and one or more areas such as probability and statistics, optimization, estimation, signal processing, control theory, search and planning, or machine learning.\n* Experience developing algorithms in one or more areas such as statistical estimation, optimization, search and planning, controls, signal processing, tracking, sensor fusion, clustering, anomaly detection, or machine learning. Breadth across multiple areas is a strong plus.\n* Ability to read and understand technical literature and translate research ideas into working algorithms.\n* Strong critical-thinking and problem-solving skills, including the ability to reason about assumptions, tradeoffs, failure modes, and alternative approaches.\n* Strong programming skills in Python, C++, or similar languages.\n* Experience with scientific computing and machine learning libraries is beneficial, but we place greater emphasis on understanding and developing algorithms than on experience with any particular framework.\n* Experience with electronic warfare, RF signal processing, autonomy, robotics, unmanned systems, multi-agent systems, tracking, sensing, or related defense applications is highly desirable but not required.\n* Excellent communication skills and the ability to work effectively as part of a collaborative technical team.\n* U.S. citizenship and willing to obtain a security clearance required.\n\n**Why Join Us?**\n\n* Work on challenging technical problems where research and creative problem solving directly contribute to operational capabilities.\n* Apply a broad range of algorithms and computational techniques rather than being limited to a single technology or methodology.\n* Work with a small, collaborative team of scientists and engineers on problems spanning AI, electronic warfare, autonomy, sensing, and advanced algorithms.\n* Opportunities for professional development and growth in rapidly evolving technical areas.\n* Because Perceptronics is a member of the Pacific Defense group of companies, our growth is accelerating and there is ample room for career growth.\n* Competitive salary and benefits package.\n\n**Benefits**\n\nWe offer competitive salaries, and great benefits including a top health insurance policy with employee's premium 100% covered, a generous PTO policy, and flexible work schedule. Perceptronics Solutions is an Equal Opportunity Employer and considers qualified applicants for employment without regard to race, color, creed, religion, national origin, sex, sexual orientation, gender identity or expression, age, disability, veteran status, or any other protected factor.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Fairfax",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51600",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-03T04:11:08.133Z",
+        "curated_at": "2026-11-12T06:13:28.636Z",
+        "job_updated_at": "2026-11-12T06:13:28.636Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "c07dcbd8f36f135bce8b40dc8f071d331e9ecb69d93fcd62ace3a5d3c1e42982",
+            "source": "workable",
+            "source_posting_id": "432476F5BA",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://apply.workable.com/j/432476F5BA"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://apply.workable.com/j/432476F5BA/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Fairfax",
+                "state": "Virginia",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-01T00:00:00.000Z",
+            "first_seen_at": "2026-10-03T04:11:08.133Z",
+            "last_completed_fetch_at": "2026-11-12T06:12:24.779Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 4,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:47:01.697Z"
+  },
+  "response_usage": {
+    "charged": "4",
+    "remaining": "98360",
+    "request_id": "93bcc27c-b040-4f7a-82c4-b0c6a780f548"
+  }
+}

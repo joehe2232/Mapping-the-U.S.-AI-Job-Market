@@ -1,0 +1,454 @@
+company,title,description_hash,job_ids
+Coinbase,Senior Machine Learning Engineer,bbf1d346afe6331432b59c64a11f98a3,23
+Coinbase,"Staff Machine Learning Engineer, Compliance Automation (Platform)",aa7873c488e2a07343b456f5204975c0,22
+Cognizant,AI-Augmented Data Analyst,d92fcb5d8d2ea55b4930c16ba0dcf73f,21
+Coinbase,"Senior Machine Learning Engineer, CX",82b1622d6aca249950a57de5599b3b8b,21
+Pfizer,Senior Machine Learning Research Scientist,c8a501ab062131e02635c433104e2c5f,20
+Capital One,"Director, Data Scientist - Global Payment Network",6b9e09d22f6f56f0b56c70b764655e0e,15
+Capital One,Machine Learning Engineer 4,fa9181a211a65f7c63edcd99ae75f8c9,14
+Coinbase,Staff Machine Learning Engineer,3bc184de5789c834125535b94764c152,13
+Cognizant,GCP data Engineer,6dc967f0ecd01c5ba45eb5457ac618f4,11
+Capital One,"Director, Data Scientist - US Card",89141a0894a20f835dafec0c10661b11,10
+Capital One,"Manager, Data Analyst - AML",abcccf5c2952f06a1e8466a49f14b545,10
+Capital One,"Senior Director, Data Scientist - US Card",f2d46e1f393e352466d26b0cc7e7ffb9,10
+Capital One,Staff AI Engineer - Enterprise Analysis Platform (Remote Eligible),e290e57042fde12d379d46daed0b1c5d,10
+Capital One,Staff AI Engineer role (Remote Eligible),ef902c0d2888ab1f9447febe324b776d,10
+Cognizant,AI Data Engineer,991c8648200c50a87a11326d265d86f9,10
+Capital One,"Data Engineer 4 (Manager, IC)",56831d8a643dd0659378d925568b0402,9
+Capital One,Machine Learning Engineer 4 - Finance Tech,2645b6d0fa435c419105eff407afc9a4,9
+Capital One,Senior Data Analyst - Risk Product Data,4a109e2b553e214c00348e3ab491311d,9
+Capital One,Staff AI Engineer (Remote Eligible),daa05fdb920a1efa467093c005324e9e,9
+Cognizant,AI Data Engineer,55ec9bda119e0ceaa70285dedba05f9e,9
+Capital One,Machine Learning Engineer 4 - Machine Learning Experiences (MLX),fb6e823878457fd5d4c1c983b97e4cd6,8
+Capital One,Machine Learning Engineer 5,d8eb79c9448327d520a01b19f709f4b1,8
+Capital One,"Machine Learning Engineer 5 (Senior Manager, IC)",c067af0d4b09286a60d6c686d91a96d3,8
+Capital One,"Manager, Data Scientist - Alternative Data Strategy",7a770b607d0eb6ec604bb117dc92872e,8
+Capital One,Principal Data Analyst - Risk Product Data,4650a9e4a8768251fa6474eba2e9fdc8,8
+Capital One,"Senior Manager, Machine Learning Engineer (People Leader)",1832bb28f83975494ac34796b1101662,8
+Capital One,Sr. Data Analyst,a78a6436e1b5ac0b87b701dfb95ab76a,8
+Capital One,Sr. Staff Data Engineer (Remote -Eligible),2edfe5b6a407c00381336b856da0bc4a,8
+S&P Global,"Lead AI Product Manager, Private Markets",94d2514999ad83f00e60c9d7b7922ac0,8
+S&P Global,Machine Learning Engineer II,6eebdcc500748f02b6c20842daab6ebc,8
+Capital One,Machine Learning Engineer 4,6f093c20b9f6f75fb4d828df7c5896cd,7
+Capital One,"Manager, Data Scientist, Data Solutions and Modeling",bf373ec68dd9ed17b330235c314635b7,7
+Capital One,"Senior Director, Data Scientist - Global Payment Network",c4b5f4949c486a3ac0398378b7119460,7
+Capital One,Senior Staff AI Engineer - Agentic AI Platform (Remote Eligible),0e2faaae1c328406f7c09e39d8ec817b,7
+Cognizant,Forward Deployed AI Engineer – Enterprise AI Architecture & Responsible AI,148cabe7dbad1918adc0460542bef19d,7
+RELX INC,Fraud Data Analyst,93730033f0defb1f2395220aac94d161,7
+RELX INC,"Principal Machine Learning Engineer I** Hybrid in Horsham, PA or Remote EST Preferred",cf2bc04e0e664e19295e920bc43b672c,7
+Sedgwick,Sr. Data Engineer,bb1f7622946ccc25fec5488e3d9970ae,7
+Abt Global Inc.,Data Engineer 3,85acff05f365a23cf7a87110962a1c8c,6
+Acosta Group,Client Data Analyst II,4e458ee9ad015e235946edf2c252c28e,6
+Capital One,"AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)",133ed1832575137e40b5143a82a8c031,6
+Capital One,Data Engineer 4 (Manager IC) - Modeling & Architecture,843be18b294e0093138e424d06224855,6
+Capital One,Machine Learning Engineer 4,bd47193f7ea4e45fce18c4f093eda95b,6
+Capital One,"Machine Learning Engineer 4 (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)",84590f1d324b946706057fdcb34a2ebb,6
+Capital One,"Principal Associate, Data Scientist - Capital One Personal Loan",202095ba35e62d06e7d30a56c39d3a72,6
+Capital One,Principal Data Analyst - Card,ea81a0e66a5b445ad314ad9fad8eeaf0,6
+Capital One,Senior Data Analyst - Emerging Payments & AirKey,b6f34db419c50dbdb4e6ceda6f97e739,6
+Capital One,Senior Staff Machine Learning Engineer,5dc10d1c93b3d17c663a35b56602aebf,6
+Capital One,Sr. Staff AI Engineer (Remote Eligible),0b19e2117acb8eed96bfab4bc2709eff,6
+Capital One,Staff Machine Learning Engineer,e2e21920b8eb26588d6ff372edae4fa0,6
+"Contact Government Services, LLC",Data Engineer,f0d2e5b0eb9a968f1ca3b2f42aee04c3,6
+Regions Bank,Risk Information Technology and Data Analyst,edfebc5691cc4903c75dac4c4b7f2cdd,6
+RELX INC,Data Scientist,f2a2e67e4a2d81f78f0c97c40c68bfbe,6
+RELX INC,Senior Data Scientist,d917204d4cebcc1e4eb8a308ef090d79,6
+Unum Group,Data Scientist II - Gen AI/Python/AWS/SQL,b19d92de65ae592462689e247be6d5cd,6
+Unum Group,Principal Data Scientist - CX Analytics,0318250e0262e985136e416322a653bc,6
+Capital One,Data Engineer 5,ad04f47d8e494fac46978540dda0c3de,5
+Capital One,"Machine Learning Engineer 4 (Manager, IC)",048bfc0c07693ec6cc946991957f27f8,5
+Capital One,"Senior Manager, Machine Learning Engineer",c54e19987bc41a3b5918631206d908d9,5
+Capital One,Senior Staff AI Engineer (Remote Eligible),c438ce45703824cbe0b876df5f1fbf23,5
+Cognizant,Senior Azure AI Engineer (.NET & OpenAI),e7db757d24adb7f95486170f65deecdc,5
+Coinbase,Senior Market Data Engineer,ec302cf1c1b290677337062f2919a550,5
+Deloitte,Supply Chain Optimization Data Scientist Senior Consultant,0757f8c7ed8fe4f7f14da0e3fce0a1af,5
+GlaxoSmithKline LLC,Senior Ai Product Manager,98fa3f9c0c25022bfe97d67010848153,5
+JPMorgan Chase,Data & AI Product Manager Vice President,10da009983483e816f22a71dbe5dee30,5
+KeyBank,Sr. Data Analyst - Tableau Developer,6f81ec1c5e94c79cb65e7359cece0f5f,5
+Serco,Data Scientist- Remote opportunity,493ac01e208f549ae45560a617b574db,5
+SHI,Sr. Data Engineer,1edc1a7667436fa738862a7443b74b72,5
+SMX,Data Scientist (5649),17ea09a3296c47bea657b20d7d7e41de,5
+TD Bank,Data Scientist III - FCRM Risk Modeling,36e7a72ac826ee06e2acbb31d57f4d22,5
+Warner Bros. Discovery,Principal Data Scientist,32202e006bf735167e207490e86727c6,5
+Apple,"AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation",ccb9520d806a8286c8348071d6a9bcc6,4
+Capital One,AI Engineer 4,922be28debef1c564647d0a42ba9de06,4
+Capital One,AI Engineer 4 (AI Foundations),6993d7eca20a3a3cd64fceb62219169e,4
+Capital One,AI Engineer 5,d7cab15a1d63aaa038a19438ce085960,4
+Capital One,Data Engineer 4,97fe2e5c24b1d45e49f5ba75e859a77a,4
+Capital One,Data Engineer 4,dd1f68b80175953976e1d9c7fa75091f,4
+Capital One,Data Engineer 5,aac0d74160fc5f83b6340b71fad62fa8,4
+Capital One,"Data Engineer 5, Marketing and Messaging (Enterprise Platform Technology)",099f40b75487e2b56d6b6c766921a241,4
+Capital One,"Data Engineer 5 (Senior Manager, IC)",4b527ffcb6262c539cdcd1810ac75ea4,4
+Capital One,"Director, Machine Learning Engineer",857a0bc629f257063f673ceea8497e4d,4
+Capital One,"Machine Learning Engineer 4 (Manager, IC)",5011243d48da9d19bf53d0650a4f6b75,4
+Capital One,"Senior Associate, Data Scientist - Applied AI (Financial Services)",a695837983749098818c1df7db58013e,4
+Capital One,"Sr. Manager, AI Engineer (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)",ceb99b78870cebb969fdcca484de25a1,4
+Capital One,Staff AI Engineer (Remote Eligible),21603fd82cf8609fe969fccb0d8f904a,4
+Capital One,Staff AI Engineer (Remote Eligible),dfe5d365370baa5ad35e7426ef8e7f80,4
+Cognizant,Lead AWS Data Engineer,f353ba5059ef7c610176fe245c8f2e62,4
+Disney Entertainment,Lead Data Scientist - Ad Platforms,f046870e8b76deb63573495991bc650b,4
+Disney Entertainment,Senior Data Scientist,999023344ec2f099a98f6cf4647656f5,4
+Humana,Data Engineer,a225fe22eda21d1d77f80dd9341d3c8c,4
+Indeed,Machine Learning Engineer II,2a11629b3b76c9c9788b48b26c52742f,4
+Infosys,AI Engineer,5dfd79022dd746aeaa82975bafea3d3e,4
+Infosys,Hadoop and PySpark Data Engineer,e76b51c4679d951174a798c55bb0a8ec,4
+RELX INC,"Business Intelligence Analyst - Snowflake, Databricks, SSRS",45df4620688e0d3a325a4b2dc066d419,4
+Sedgwick,Data Analyst Manager,a7fa59f8eb5caeed9a19ed3a9b48b038,4
+"ServiceNow, Inc.",Staff Machine Learning Engineer_Voice AI Engineer,0908e86c45ee12d64ca691883f4b9c2a,4
+Snap Inc.,"Data Scientist, Level 4",9341dca3e19c0670a0d6a0b991c52e1e,4
+Snap Inc.,"Lead Data Scientist, Core, Level 6",addff83378a2c15caab770e48decadbf,4
+UKG,Principal Labor Market Data Scientist,7546a663a29bf12763d81cef2b044ac6,4
+"UL, LLC",Lead Finance Data Analyst - Enterprise Reporting,49d80476fceecd31f2ffedf15174cc04,4
+US Foods,Sr. Data Scientist - Supply Chain,60bb9dfc815243ca4e77873fcdaf4266,4
+Zebra Technologies,"Cloud AI Engineer, Lead",9adb1e5e47eba24c331005441de945c6,4
+Accenture,Data Engineer – Finance Data & Governance,e1104ea3fc01fe4af83ab2c17ac81e67,3
+Apple,"AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation",7e7cd7ad145543404e612023ef005bb9,3
+Baylor Scott & White Health,Senior AI Product Manager,f66a43dbb31cdf46781b665e93fc2ef5,3
+Block,Business Intelligence Analyst,dffe442023d496c21753f3bd14b2b1bf,3
+"Blue Origin Personnel, LLC",Senior People Analytics Data Analyst,01c24df39ccd651344bb6c1aca7be40c,3
+Capital One,Data Engineer 4,70a6880c0a5797b9c98a5e3a897f12d5,3
+Capital One,"Data Engineer 4 (Manager, IC)",2664c267ca5aa834d38f0f345d047dcf,3
+Capital One,Machine Learning Engineer 4,ea3f2cb584b9146029858f43303efb44,3
+Capital One,Machine Learning Engineer 4,de6d2135e63bdc2d888f88987c2a363b,3
+Capital One,"Machine Learning Engineer 5 (Senior Manager, IC)",b47be190e236405842906ae1d40570b4,3
+Capital One,"Machine Learning Engineer 5 (Senior Manager, IC)",cb27f3a0123edf4e371266f6d7ad43c3,3
+Capital One,"Machine Learning Engineer 5, Senior Manager - Intelligent Foundations and Experiences (IFX)",f32395ba49c248e0c4a2d204ae984795,3
+Capital One,"Manager, Data Scientist -Advanced Recommenders and Personalization Systems (Transformers, LLMs & Reinforcement Learning)",2bba39410a9f6ccf084886e0b82e0a14,3
+Capital One,"Manager, Data Scientist -Financial Services- Pricing",892cd1b8f84a15e3c1dc7692d19a0041,3
+Capital One,"Principal Associate, Data Analyst - Credit Review",0c2e55edde13057c1f4347048c1a3862,3
+Capital One,Principal Data Analyst,45ad48ca8c8ac95ab372408d433c320f,3
+Capital One,Principal Data Analyst,c1f9efa08fb1fc8b24306ef111d2fc9d,3
+Capital One,Principal Data Analyst - Analytics & Transformation,d05125207059596786da291af1cd4018,3
+Capital One,Principal Data Analyst - Enterprise Services,35299aa171c3c8883f72266a2184c9d2,3
+Capital One,"Senior Associate, Data Scientist - Credit Card Innovation",45cf522e279d4e97c7b3eed218889bd0,3
+Capital One,Senior Data Analyst - Card,3192543d3d264939889a255a453f63f5,3
+Capital One,Senior Data Analyst - US Card,74917957a502e5ee7f0dc3f18118d332,3
+Capital One,"Sr. Manager, Data Analyst - Enterprise Data Risk",33fad043fd0826c7f5b471e02c8563fd,3
+Cayuse Holdings,Data Analyst,a70841230f21f0521be5587c588c939e,3
+"Chick-fil-A, Inc.",Sr. Lead Data Engineer,49a67c7be30af06b0adb9ec489b755d4,3
+Cognizant,AI-First Business & Data Analyst,dbe4c10eed4a7824dc850f258bcc3cf6,3
+Coinbase,"Staff Data Engineer, Market Data",c962c7a2ece6b580238654839719f327,3
+CrossCountry Consulting,Business Intelligence Analyst,6af7c44b232e05413909b9750cf70bf1,3
+Disney Entertainment,Data Engineer II,8f7bd1a708a915b26f1f21e7e0c7c71f,3
+Disney Entertainment,Principal Machine Learning Engineer,43d57311cb9f889bfa0c9164dfa2f4b7,3
+Epic Games,"Machine Learning Engineer, Memory",a927d32d1d7e93937b9fe0cb07ac9adf,3
+Epic Games,"Senior Machine Learning Engineer, Discovery Recommendations",bcf2a37815a4e5d0cb3ca3b67346471c,3
+EY,Data Analyst - Workforce Analytics & Data Quality - Associate,d4d7faabf0728c8d7c5b0a54d2d6b485,3
+Harvey,CX Data Analyst,c7191a30845667e4d2e7d89447179976,3
+Humana,Lead AI Engineer - NBA,4bbc95a5e8c92ded5dbacee2f2413894,3
+Hyatt Corporation,Senior Data and AI Product Manager (Chicago- Hybrid),53ae933944c196f3df80a7bce7c7a65f,3
+Infosys,"AI Engineer-Tampa, FL",5dfd79022dd746aeaa82975bafea3d3e,3
+Jobsultant Solutions,Data Analyst - Entry Level (Remote),a2610ec4a42c90405693476c2b25d9db,3
+Jobsultant Solutions,Remote Data Analyst - Entry Level,dc1a896b84d21f8767556b448d45a19d,3
+JPMorgan Chase,Sr Lead Software Engineer - AI Engineer,3cf196895114e793dc6886721ace07b1,3
+Mercedes-Benz Group AG,"Prinicipal, Data Engineer",ce5bd232aa5b5d2e234ba5f4afd2c781,3
+Northrop Grumman,Principal Systems Engineer / Sr. Principal Systems Engineer - Data Analyst,2dd8ae67b803544fd091310ed82dbfac,3
+Raydar,Machine Learning Research Scientist,529fdd2001c50689ec5910fdd3a198a2,3
+Regions Bank,Risk Data Scientist,8708b144d92271f49cf987f62f435ff4,3
+Serco,Data Analyst,ad4ec4bf744cc9c9683aefd0c16472f4,3
+"ServiceNow, Inc.",Staff Machine Learning Engineer - VoIP Infrastructure,2ba425b8e30e63452ced144d026a6963,3
+Siemens Energy,Principal AI Engineer,1db800856a92990c6653a610c19eaba8,3
+SMX,Cleared Data Engineer (5786),f7b9cfd8b87eb2bae266551d056181dc,3
+SMX,Data Engineer (5626),01bb0717d93bc80497a8f4f3fa97b74a,3
+SMX,Data Engineer (5688),a27ff2004d174cfcb686fefa23617afd,3
+SMX,Junior Data Engineer (5566),f6d6e9e2829de04b53281a80140b031b,3
+Tillster,Data Analyst,49566449a67a6eac3552d02b1571705d,3
+Trane Technologies,Senior Data Scientist,0dbc051caa692df12703374db91f99d3,3
+WSP USA,Transportation Data Analyst Intern - Summer 2027,062ee700851309bc46c9cf9bd3a2aa05,3
+ZS,AI Engineer Associate Consultant,f64fc0d83d9918b2b2e36da4897b2af7,3
+,Senior AI Product manager,9b766eb7a0e1e3158a2c6a37fa618fb9,3
+4P Consulting Inc.,Machine Learning Engineer 3 4P/392,a826da1484aaa4339760f7454dee6d35,2
+4P Consulting Inc.,Machine Learning Engineer III,456bd27fffcd91a613e46066fdf5d3d8,2
+4P Consulting Inc.,Machine Learning Engineer III 4P/791,d21e7739939c5897801a44f08d6dc809,2
+Accenture,"Applied AI Engineer, Founding Team",549eebd01054af7d931a764673ec7ee4,2
+Accenture,Forward Deployed AI Engineer Sr Manager,54916f83df6b2a8b29c98a3c83fb9b19,2
+Accenture,Secure AI Engineer Manager,7dd1554b201183cfff6e4ff8fa3c0ced,2
+Accenture,Snowflake Advanced AI Engineer,1e6b6283bfae79d124ca85c29cc8c0ad,2
+Accordion,AI Product Manager,8517bce866306580be0edb3b90c71860,2
+Alltech Consulting Services,Data Analyst,64744305d4149c1a995bce1b2a247430,2
+Alumni,"Global Private Bank, Technical AI Product Manager, AI & Innovation, Vice President",488a650cea4d0f9fb41eccfb1aef9e73,2
+American Airlines,"Data Scientist/Sr Data Scientist, IT Analytics",3855881a44de46a350b0833cdd6d8a23,2
+Amphenol ICC,Data Analyst,8ddc90f0f63978b6446aa04962227542,2
+Amphenol ICC,Data Scientist,25a19ef413876ab541009d7c9756e158,2
+Amphenol TCS,Data Analyst,8ddc90f0f63978b6446aa04962227542,2
+Amphenol TCS,Data Scientist,25a19ef413876ab541009d7c9756e158,2
+Applied Materials,"Summer 2027 Business Intelligence Analyst Intern- Master's (Santa Clara, CA)",40d586cbe92fd0376584c55456f433f8,2
+"Applied Materials, Inc",Business Intelligence Analyst,59daf4a8eeeb34d2ff0a91f858fe8b54,2
+Arconic,Business Intelligence Analyst,8952f02474c77217e824452b1a5ee088,2
+Audubon Companies,NDE Data Analyst,8f9adecd0e47acbd19fc6d8b87dfcb18,2
+BAE Systems,Data Scientist Sr,f319922ba560c99fed4c96c74124176e,2
+BNY,"Director, Applied AI Product Manager",257f09a415180f917f7c312dc2de1d63,2
+Bose Corporation,Audio AI Research Scientist — Audio Understanding,51273c7415288c82ab249b125b497305,2
+Boston Consulting Group,"(Associate/Senior) AI Product Manager/Owner, Salesforce, United States - BCG X",8ca640b9df2a3e51cae7021d6047980d,2
+Boston University,"Research Data Analyst I, Clinical, Pathology & Lab Medicine",165f7fdaaa956bb5ee248fe1a8765339,2
+ByteDance,Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start,eece69c7bec1bf4ab71e227e716355b2,2
+Capital One,AI Engineer 3 (AI Foundations),3b60a8a870990ca9bfdda478cc02040b,2
+Capital One,"AI Engineer 4 (AI Foundations: Benchmarking, Evaluation, and Explainability)",b55b157bca9a76e1d330205793508c65,2
+Capital One,"AI Engineer 4 (AI Foundations, VLM Customization)",1f213272c5a83cd2e16d16313d0bf920,2
+Capital One,"AI Engineer 4 (AI Foundations: World Model, RL, Causal Inference, Sequential Data)",93459bb8f5fbcee840151e8360941849,2
+Capital One,AI Engineer 4 (AI Safety and Multimodal),d7ab4df738023b9b742556215ba2d1ec,2
+Capital One,AI Engineer 4 (Gen AI Platform Services),b394b12c68920acaf117aefff6838be3,2
+Capital One,AI Engineer 4 (Gen AI Platform Services),3869a556464eb48bb04ce106cd7aea47,2
+Capital One,AI Engineer 4 (Gen AI Platform Services: Agentic AI),50fad92abbac59864041fa391cddba82,2
+Capital One,"AI Engineer 4 (Gen AI Platform Services: Agentic AI, Agent Guardrails, Agent Evaluation, Agent Memory)",da5a7ec9f8359aff586f6730c50552d6,2
+Capital One,"AI Engineer 4 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)",caf81ed82ff9650987024f73cf4c72be,2
+Capital One,AI Engineer 4 (Gen AI Platform Services: Agentic Systems),15e10cfea20cd53e81274304e6a3d17c,2
+Capital One,"AI Engineer 4 (LLM Gateway, FM Hosting)",9f61cf086b4b43a261abac980151d3cb,2
+Capital One,"AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)",b8e215e74872f5ecc461bb0947f91252,2
+Capital One,"AI Engineer 4 (MLX, Agentic AI, Gen AI workflows, GraphRAG)",7e65ecc64d5d627f25e39c270fc7dc82,2
+Capital One,AI Engineer 5,f7bcacfbf7997c63399d1783604bfc6f,2
+Capital One,AI Engineer 5,1b8c30c6ed56cee2fa1668a8b220905e,2
+Capital One,AI Engineer 5 (AI Foundations: Evaluations and Agentic Workflows),39617b812dd874c9a20333fd4bcf6979,2
+Capital One,"AI Engineer 5 (FM Hosting, LLM Inference)",b0d9434f83d932173cb38fade402376d,2
+Capital One,AI Engineer 5 (Gen AI Platform Services: Agentic AI),140c610c13bfc7ff7007b1d046009b7e,2
+Capital One,"AI Engineer 5 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)",4ec42fa5c604560156638b76f02bff9f,2
+Capital One,"AI Engineer 5 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)",4c9f0e43d0561f97e52b0e9c6bc71156,2
+Capital One,AI Engineer 5 (Gen AI Platform Services: Agentic Systems),b879eb9aef93d1eb3671eb6ba7668553,2
+Capital One,"AI Engineer 5 (Gen AI SDK: Agentic AI, Guardrails, Evaluation)",78aea02f7d5e62f75bc3d3d46abe8f55,2
+Capital One,"AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)",59a636accdc855e01942f5266ff9126f,2
+Capital One,AI Engineer 5 (MLXT),ff224e55c648059c127429b2e1e45aec,2
+Capital One,Data Engineer 4,dc5ac4789168e40e85d19abcd339ca00,2
+Capital One,Data Engineer 4,d26f1c0f59116ef515474e0bf81d1652,2
+Capital One,Data Engineer 4,33d3af35d0026d0733afba044829e2b3,2
+Capital One,Data Engineer 4,44dc7cd4f92a0f821ccf820d4db9a500,2
+Capital One,Data Engineer - 4 (Bank Tech),bc153cb4d6f106751b14545f7776721a,2
+Capital One,Data Engineer 4 - ERM Transformation,14a8dba867cac2c4a5f736c52836a743,2
+Capital One,Data Engineer 4 - Intelligent Foundations and Experiences (IFX),263fef645514015d8836d91dc4c252c9,2
+Capital One,"Data Engineer 4 (Manager, IC)",67d7c1005444d6e026f81e794edc6467,2
+Capital One,"Data Engineer 4 (Manager, IC) (CaCe)",cbb2a5cb79260cf2fadcd17007a82aa5,2
+Capital One,"Data Engineer 4 (Manager, IC)-EDT",b2199b89c8737915444c467c619b4abd,2
+Capital One,Data Engineer 4 (Manager IC) Risk Tech,d44ce8f993cfb2432a5e67c3fba0a172,2
+Capital One,Data Engineer 5,15ae1efab0a9984b96baf0df4bf9fd64,2
+Capital One,Data Engineer 5,d8b14a2d2a3b7b019cafeec7a8ed4d5f,2
+Capital One,Data Engineer 5,d28a9271f486b9811831122e5162291d,2
+Capital One,Data Engineer 5,ac3d190f13752fa3a6234793982afb11,2
+Capital One,Data Engineer 5,dd7e74ee37b4ea2d8e445c54138bde64,2
+Capital One,"Data Engineer 5 (Senior Manager, IC) (CaCe)",f38c54024f81df0045649cc86827fa33,2
+Capital One,Director AI Engineer,bb568251220ec45db4f3381037220056,2
+Capital One,Machine Learning Engineer 4,a50119696bd31e5e2e2d34c56e38c452,2
+Capital One,Machine Learning Engineer 4,dfa353c096c6a99ab07c6b2ce2796122,2
+Capital One,Machine Learning Engineer 4 - Manager IC,ba18de162ab4fc78aa12cee9c1b9513d,2
+Capital One,"Machine Learning Engineer 5 (Senior Manager, IC)",3fae4c4c655904ccff237eda13a0648a,2
+Capital One,"Manager, Data Scientist - Business Cards & Payments",05d47baef2a990a0a20433ae7df1e159,2
+Capital One,"Manager, Data Scientist - Optimization & Experimentation",ac261d4582cd90589eff6656c66c2e79,2
+Capital One,Principal Data Analyst,25854df9414b7c2af22f3c72b51d5652,2
+Capital One,Principal Data Scientist,4ebef1b8e3ade0e3af066d127a6fa973,2
+Capital One,"Principal Data Scientist, AI Foundations",36a592c980c795618c4e6d345e7b072e,2
+Capital One,Senior Data Analyst,623f826944afd8bf8afb536465276b69,2
+Capital One,"Senior Data Scientist, AI Foundations",8563c0b1c7439168ba1dfd9c299fc9da,2
+Capital One,"Senior Director, Data Engineer",e383324861bc7bacc0cd254605918a3a,2
+Capital One,Senior Staff Data Engineer,0c325881ffd16a5c70e3a61b732e31e4,2
+Capital One,"Sr. Manager, AI Engineer",45698750ee39d06cdb81ee7a9a66aa14,2
+Capital One,"Staff Data Engineer - (Director, IC - Card Tech)",9bf6fb8928eeb9bec83935f6cd8fa59b,2
+CBRE,Data Analyst,eebf3db9fb2a2ff6401972f9a6a9402b,2
+Celestica International LP,Data Scientist,f35f35a84aadc341a18ad778e7aa2033,2
+CenterWell,Senior Data Analyst,e6ec6a1f1f154c93c1231528c2a5be0c,2
+"CGI Technologies and Solutions, Inc.",Senior Full-Stack AI Engineer,517124bfad8a723688eab0f5c1fea85d,2
+CharterUP,Data Analyst,fa423f09234b26adddda2af01d1ae537,2
+Chenega Corporation,Scientific Data Analyst II (Public Health),ff5f794f04e64efb4a101710ebf839bc,2
+Cisco,AI Research Scientist III (Full Time) – United States,25acbd44ec5c8b31b93bd8af63e7b30e,2
+Cisco,AI Research Scientist III (Full Time) – United States,72810f166cb31ee0f5cf6fcd6946757e,2
+Cisco,Distinguished AI Engineer (Hybrid),b360c916491e3f51a268b8ff7edb5339,2
+Citi,Python AI Engineer - Assistant Vice President,46503bc1b264d43d8a09b10d60f95d7e,2
+Citi,"Senior AI Engineer, Python and Agentic Systems Vice President",3b47ef83e10ceb768b8d0ccf7c0e63fb,2
+Cognizant,AI Engineer (IOA),c2121e82bb8f81fcea73005430be001d,2
+Cognizant,Data Analyst - Mapping,2cb8ed8a8d5b9f8c578406b0c99fb8c8,2
+Cognizant,Senior Agentic AI Engineer (Remote),09186803a148bde56b8f0d1270f7e843,2
+Coinbase,Machine Learning Engineer Intern,a0868a9dcb708c9cadf55576079bcac0,2
+Coinbase,Staff Machine Learning Engineer(Platform - Identity),ef2b0b1bc41779e485ae7ff4802b4438,2
+Compass Group,"DATA ANALYST (CHARLOTTE, NC - HYBRID)",29914ff4465f2a093b634e3fb3e7c6aa,2
+Compass Group,"SALES DATA ANALYST (HYBRID - CHARLOTTE, NC)",8e8b046ece4f3461b08a3afff8852441,2
+"Constellation Technologies, Inc",Data Scientist - multiple levels - CLEARANCE and POLYGRAPH REQUIRED,cebb55d93efdeb5511d02aaf56231af8,2
+"Contact Government Services, LLC",Sr. Data Engineer,9e544ba88d4000146ae146eb9b1d26d8,2
+CoreWeave,Software and AI Engineer,3d60d4509c103f76a8e509e74de4de75,2
+CoVar,Machine Learning Engineer,2fe3ffd9b887950bde272c98a7990da9,2
+CPI Security,Senior Marketing Data Analyst,4cc8db63382f4ea46116bbb456714072,2
+Crowe Advisory LLC,Machine Learning Engineer,692c2eae200bfae84c9f53d2ac501ce7,2
+CVS Health,Lead Data Scientist (Medicare Sales Strategy),09c55c5b71f9e545bf08f49f89fced26,2
+CVS Health,Senior Data Scientist - AI,0f4ea25d060fcdc80ce02499ae3ca6a9,2
+CVS Health,Senior Data Scientist - Commercial Product Strategy,b35160fdb3eea9211e416d8f45dbb475,2
+DCS Corporation,Team Hornet Data Analyst,f20319eea7c3cbcf6619887293ec9d50,2
+Deloitte,Sr Databricks Data Engineer,39bdc63adaf679479d38cc466ce5949f,2
+Disney Entertainment,Lead Machine Learning Engineer,882758cec70b4746f7b6ace34f62a4f0,2
+DLH,Data Analyst (R and SAS) - Public Health Exp. Req. (Job 1520),8e114b8d7c36525361f9e091f15e9e97,2
+DoorDash USA,Data Scientist / Senior Data Scientist,466bf96ebc36d66b1d04e75787a5e098,2
+DoorDash USA,"Senior Staff Machine Learning Engineer, Consumer",ac49a8e524b648e3164a729a13d95932,2
+DoorDash USA,"Staff Machine Learning Engineer, Causal Inference",78916bef6606efc2f83067c80b989a57,2
+DPDHL,Business Data Analyst I,7b43559446e1a46b693cc0b06c35ca75,2
+Epic Games,"Senior Data Scientist, Transparency & Regulatory",207107077b68e61db099a2574259e6d8,2
+First Citizens Bank,"Data Analyst, Enterprise Data Management (MDM Ingestion)",e80748671646648b9da97508332eb775,2
+First Citizens Bank,"Data Engineer II - ETL/ELT (Remote - NC, AZ, TX, FL)",62ecdcc5616ba016fdab997f24b38f57,2
+First Citizens Bank,Data Engineer I - Remote,439f97077ee198493cdf090c946953f0,2
+First Citizens Bank,"Lead Data Engineer - ETL/ELT (Remote - NC, AZ, TX, FL)",821d21d9585ea7e38b68bbe1a21e92c3,2
+First Citizens Bank,"Lead Data Engineer - Remote (NC, AZ, FL, TX)",80fca494c41c444ea1e3aa46d84faf66,2
+First Citizens Bank,"Lead Data Engineer (Remote-NC, TX, AZ, FL)",cc1bc41a47c04ee37787a60980bdd05c,2
+First Citizens Bank,"Senior Data Engineer - DevOps (Remote - NC, AZ, TX, FL)",a3a5a2f2e252bbf371e4a46117d39bfb,2
+First Citizens Bank,"Senior Data Engineer - ETL/ELT (Remote - NC, AZ, TX, FL)",b80779f5f263698f0f08c5dc8d161fbf,2
+First Citizens Bank,"Senior Data Engineer (Remote - NC, AZ, TX, FL)",f9a28e0f060f722d9a2882ad4bd20e41,2
+First Citizens Bank,"Senior Data Engineer - Snowflake (Remote - NC, TX, AZ, FL)",ae1a5fceb3d3d72c347d9b30bd372784,2
+First Citizens Bank,"Senior Enterprise Data Analyst- (Charlotte, NC, Raleigh, NC or Phoenix, AZ)",c544ed5a2bc18177a80552850eff13b3,2
+First Citizens Bank,"Senior Enterprise Data Analyst- Remote (NC, AZ)",5b51e893fb3d98fb0341fecf499d26bd,2
+FSA Federal,Data Analyst at US Attorney's Office,e6687f3a6ce13df9c4c90dfaaa3e4c8c,2
+FSA Federal,Data Analyst Supporting the FBI,7590a89c1f88c4772d7a196daacf2fa5,2
+FSA Federal,Data Analyst Supporting the US Attorney's Office,0b7d31b7739a2fb4d5e1ea0ab4a65517,2
+FSA Federal,Legal Assistant / Data Analyst Supporting the US Attorney's Office,68b4403e721ef1083c6099b7abce0a42,2
+Fujifilm,Business Intelligence Analyst,9296557c3da640dd3de2a47df8d036f9,2
+Future Works,Senior AI Product Manager (CRE),c0b2927926715a1e5f8f52bb0b80feef,2
+"GD Information Technology, Inc.",Senior Data Scientist,35742166fb2ddc2552aa7763e6a28f9e,2
+GE Aerospace,Data Analyst- Insurance Claims,518882ae60600507d3696d900f503fc0,2
+GlaxoSmithKline LLC,"Staff, AI Product Manager",5c95b6a54134955e529cdd95548ced0c,2
+"Global InfoTek, Inc.",AI / Machine Learning Research Scientist BDVA 1672,1d5b21be50e072a7a9f51612c9e49dcf,2
+Gray Swan AI,Machine Learning Engineer,f4adfec3c8527d2e30a3252af787b198,2
+Hershey Entertainment & Resorts,Business Intelligence Analyst,475a40e48fce6b4f2cc0fc7913ef8144,2
+Hewlett Packard Enterprise,AI Product Manager,ced1ec01b41ee21ce6915b2d46fcacea,2
+Hewlett Packard Enterprise,Principal AI Research Scientist (HPE Labs),011afb4e96cc4d025930e0cf4cc1e35b,2
+Hewlett Packard Enterprise,Senior AI Product Manager,cfe4cef5eea2d1936ec1bab7d16409a5,2
+Hi Marley,Sr. Data Analyst,f155ef7a58e1693aef567edae53b6961,2
+Hyatt Corporation,Data & AI Product Manager,321cfdc2a40f641bd4553a12c0105424,2
+Indeed,Business Intelligence Analyst III,74bfbb502d48debc149055b7849398a3,2
+Infosys,AI Engineer,e76b51c4679d951174a798c55bb0a8ec,2
+Infosys,FS/ AI Engineer - GenAI / Agentic Systems - FS - Infosys Consulting,7649ae11cd2db9ed2ef925841ef29b83,2
+Infosys,Informatica Python ETL Data Engineer & Tester,e76b51c4679d951174a798c55bb0a8ec,2
+Insight Global,AI Data Engineer,f69bcec10d5c6cb270bd2a35a9656be9,2
+Insight Global,AI Engineer,b32194dc5a2f3bebd2087e9ab04c7a0e,2
+Insight Global,AI Engineer Architect / FDE (Prototype/POCs),1ce1c8a6088ee6b1383216d93b10edae,2
+Insight Global,AI Engineer Architect / FDE (Prototype/POCs),3fea0c6cc122ac2700c99e369f984971,2
+Insight Global,AI Product Manager,1082b127275bc2936b4398de42eab912,2
+Insight Global,Data Analyst,b3657644fa3673b222ccced20f7f29d6,2
+Insight Global,Data Analyst,039b83a0df067a0d78538d84cb357ad9,2
+Insight Global,Data Analyst,faeb4883f4574cf8ae394b7e59a7ad4f,2
+Insight Global,Data Analyst,9c69e40c606695311e93b997c0033518,2
+Insight Global,Data Engineer,f79f989e607587ad39a9abdf123189a7,2
+Insight Global,Data Engineer,15d4b5ffcb45265d96bca5d03677c5f4,2
+Insight Global,Data Engineer (backfill) - Onshore,accde25e443eab45649b70f650f7209b,2
+Insight Global,Data Engineer – Streaming & Real-Time Data (GCP),886f6767531f88aef82e5bb2206158b9,2
+Insight Global,Data Engineer – Streaming & Real-Time Data (GCP),5567df703c9f3138e19d5b346a8b870b,2
+Insight Global,Financial Data Analyst,6c96a440130171f4f7750e01c59e99ba,2
+Insight Global,Lead Data Engineer / Technical Product Owner,961d0eeee8205be388e377f1e8183992,2
+Insight Global,Mid-level Data Engineer,65c16a3097f816f63cabd11f83191fc5,2
+Insight Global,Mid/Senior Data Analyst,a0a6a2062964209437bde8ecfe127ab8,2
+Insight Global,Remote Senior Data Engineer,40961076b6d34f63eb8b2689b7f5d313,2
+Insight Global,Senior Data Scientist / Applied AI,f40b96ac1843979ebd43793853a8098b,2
+Insight Global,Sr Data Scientist,9fba0d124b7ef8f197311e8fbb0cf310,2
+Intel Corporation,Neuromorphic/AI Research Scientist,509677be7354ff41b0844e4afa61f2e2,2
+"International Motors, LLC",Pricing - Data Scientist,fabf969454214645e35fdca83e9fbea4,2
+"International Motors, LLC",Senior Data Engineer & Data Scientist – Commercial Intelligence,da629a43dda49b4912ced25c24b8441c,2
+Internet Brands,AI Engineer (Application Design & Rapid Deployment),efac25a383d6f4ccc33669954cc9de9c,2
+Jobcertify,Data Analyst - Entry Level (Remote),a2610ec4a42c90405693476c2b25d9db,2
+Jobcertify,Data Analyst / Entry Level - Remote,d0f214c4c370cf088b0366b01af77982,2
+JPMorgan Chase,Lead Machine Learning Engineer,b5f41309b0632d7e3e7e95dd07ff30c1,2
+Judi Health,"Manager, Data Analyst",51873d8550a5980ba2b0909a035f344c,2
+Judi Health,Senior Machine Learning Engineer I,5e568895e4c6634513b0e48ce6e10603,2
+Judi Health,Senior Machine Learning Engineer II,73ed83798ab0ae37243a16d8c6550b01,2
+Kelly Services,Global Data Analyst,32d48a1dd62fc9fae6767c962d4d82bc,2
+"Lutron Electronics Co., Inc",Principal Data Scientist,5e4ffab7d6930ced96ebd7d1efb174f5,2
+Lyft,Data Scientist,d844661ce426cd28ad302457fa130830,2
+Markit North America,"Lead AI Product Manager, Private Markets",06ac4c56b2c48b21b7b819f7166d7167,2
+Mass Financial Services,Investment Data Analyst,e859465fe19e6256bd5ea6c2c510bbba,2
+Mavria,Data Scientist,6891f23064da40636d8ea878438eabaf,2
+Metropolis,Senior AI Engineer,9c6451812768ed43269b18544f4ee105,2
+Metropolis,"Senior Data Scientist, Growth Marketing",15924dd9218c7f8766e7126b81990963,2
+NAC Voya Services Company,Lead AI Product Manager,bd0ab85d0660fe70ceb8543eab8b8306,2
+National Grid,"Senior Data Analyst, Management Data Analysis",15464fd2c2b7944d0f5318947e18ef4d,2
+National Grid,"Senior Data Scientist, Data Science",92ab76a7128211a57a4bacdc4f7d2347,2
+Navy Federal Credit Union,Business Intelligence Analyst (Financial Reporting & Forecasting Experience Preferred),2b61fd70a2968da1f522f74c0985c9b7,2
+Navy Federal Credit Union,Summer Associate Internship (Business Intelligence Analyst),4a83b25f84dd2fc0367b071b3ac9659d,2
+Navy Federal Credit Union,Summer Associate Internship (Business Intelligence Analyst),db25862b65f753c095071352d2a6c10d,2
+Navy Federal Credit Union,Summer Associate Internship (Business Intelligence Analyst),866ab36ba075763e299b8570d94098b8,2
+Navy Federal Credit Union,Summer Associate Internship (Business Intelligence Analyst),407014abe502bda25b8ec7ce4e63de01,2
+Navy Federal Credit Union,Summer Associate Internship (Business Intelligence Analyst),c9890b7075fe9370143eb4bc88beeb38,2
+Navy Federal Credit Union,Summer Associate Internship (Business Intelligence Analyst),f025ffe977a53b295a6595c634f33e8d,2
+Navy Federal Credit Union,Summer Associate Internship (Consumer Lending Business Intelligence Analyst),1e41c3cf686b7443abfd95121e0f1f87,2
+Nelnet,Data Engineer,95295a3a1f1e4fd367a8d3d791a114ab,2
+Notion,"AI Product Manager, Growth Marketing",e3f9096281b15fca4d717b551303c3b8,2
+NVIDIA USA,"Senior High Performance AI Engineer, Agentic AI",1181466ce96b5613e5112e3703602fd9,2
+NVIDIA USA,"Senior Quantum AI Research Scientist, Applied Research",0ba684eced6a9556f87cc97419a98ca8,2
+OpenAI,"Applied AI Engineer, API Platform, Digital Natives",41fbc866695f7c112e2461a3d8f68bd1,2
+OpenAI,"Applied AI Engineer, Codex Core Agent",5f575064fafd64ee3bf8a497c924f282,2
+OpenAI,"Data Engineer, Core Experimentation",4a842e96e0c9d2db6546c7ceddfe2244,2
+OpenAI,"Data Scientist, Cloud Distribution & Growth",c6e0c272701842fb5f5dfc22f7bc48bb,2
+OpenAI,"Data Scientist, Core Experimentation",c98f35f69b959382d407c3f15fb265fd,2
+OpenAI,"Machine Learning Engineer, Core Experimentation",df5830914a9f8c1dfef783423d0c0912,2
+Paramount,"Senior Machine Learning Engineer, Content Engineering",aa2c2c4fff91a228bb2c18d61c23dcfc,2
+Parts Town,Applied AI Engineer,ef9cfc18bacb3cd45f6072722218d82a,2
+Pfizer,Medical Analytics Impact & Outcomes Data Analyst,2f6d1db6330278b981669fa7f26be7a2,2
+Pfizer Inc,Medical Analytics Impact & Outcomes Data Analyst,c357bc31bf74d07fdbaecba52de914f3,2
+Pfizer Inc,Senior Machine Learning Research Scientist,8127b041a9e3d64e307880737a4ea6b9,2
+Plenful,Staff Machine Learning Engineer,0401cb05941b703be5bd5c4b3fc64e96,2
+PNC,"Data Scientist Lead - Data, Modeling & Analytics",e40ebf447e6a2b2ed23812b4f5ee8d6a,2
+PNC Bank NA,"Data Scientist Lead - Data, Modeling & Analytics",8204108a85f9bd8e551a60755c833022,2
+Prosper AI,AI Product Manager,091ef8e81c1905fcf7b9a2fd6ae0547d,2
+Publicis Groupe Holdings B.V,AI & Machine Learning Engineer - Chicago Hybrid,5430d04e2cc33e13f5f96967925b4136,2
+Publicis Groupe Holdings B.V,Senior Staff Data Scientist,2518ad383f33804c03a1f156b19ea8a8,2
+Recruiting From Scratch,AI Product Manager,2f4c64d4073b7160f3e95424d4de0f96,2
+RELX INC,Senior Software Engineer / Senior AI Engineer,c72f13e45c49725fbaad6be360f24cd0,2
+RoboForce,"Senior / Staff AI Research Scientist, Foundation Models",2afdec1bb599fa8bdb75727a008a0ffb,2
+RTX,Sr. Manufacturing Supplier Quality Data Analyst,f7e12a269fea3fe4a5ff1b7a8681e4fd,2
+SAS,Summer 2027 - Data Scientist Intern (Master's level),42f055e65d67fb329b81f4c2ee3317d9,2
+Sciemo,Data Scientist,b5f6596d4618de93b186686b4671e898,2
+Secretariat,"Senior Associate, Data Scientist - AI Enablement",8163a26d69de1f8ed24d803f0bde52e9,2
+Sedgwick,Principal Data Scientist,9aa2ae51002251182de1fc695c4d70dd,2
+Seekr,"AI Engineer / Scientist (Senior, Staff)",fff91427415d63e285e317ca36c3e03d,2
+Serco,"Data Scientist- Rock Island, IL",24e1a48f94c7f6a9779cdd8bdd04b56a,2
+Serco,Senior Data Scientist,6bd8b6fb265e89c2e55b0686773b4857,2
+"ServiceNow, Inc.",Senior Staff Machine Learning Engineer_Voice AI,0167a0c7e1cb72c58b9cc21446280118,2
+Seven AI,AI Product Manager,0f785765bd7cd93de5c6f3e9f2b3144b,2
+Seventh Dimension,Business Intelligence Analyst,307a65a68a16e0ce502c1100c4be81bf,2
+Sitreps,"AI Product Manager, Public Sector",df039170292c95a809122b9aa84ce97b,2
+Skyworks,Quality Systems Data Analyst Winter/Spring Co-Op,29202a2b3ebaef1ba7a17f578850fe12,2
+Snap Inc.,"Director, Machine Learning Engineer, Content",53a36205e2020967bec594cf3f603377,2
+Snap Inc.,"Machine Learning Engineer, Level 4",e353ac43a10f8bf67f47bb6eefcb2fb1,2
+Snap Inc.,"Machine Learning Engineer, Level 5",570f3a49abc499948c08cac844381194,2
+Snap Inc.,"Principal Machine Learning Engineer, Platform Integrity Engineering, Level 7",9999087379275c47c1e4ebba8f1192c2,2
+Snap Inc.,"Principal Machine Learning Engineer, Signals and Measurement",183c39dfea4013fe520b5580c9afac7b,2
+SpaceX,"Data Engineer, Ground Network Engineering (Gateway)",70ba1aebae388960d3bfc9f30d66222c,2
+SpaceX,Data Engineer (Starlink Mobile),67b2e21dda6e4b807a32c269e2f3f65c,2
+SpaceX,Data Scientist (Starlink),8d9c10747b6ba805dc7d4b81e39296a8,2
+S&P Global,Machine Learning Engineer II,e27475bfb2815be2d966f471de65d2aa,2
+Starbucks Coffee Company,"data engineer sr- ST; Seattle, WA",da2ec8164b49efc4c89f258af452172f,2
+State of Washington,Fiscal Information and Data Analyst (WMS2/FS) - Internal Only,b52dec5f4408a7bac3b8c201a2f6bb3a,2
+"Susquehanna International Group, LLP",Senior Data Engineer,272da6d71e50f7e9faa45cd1f8d95083,2
+Swayable,AI Product Manager,23e6f33bd425b4274a87633c4b4cbf19,2
+Swayable,Senior AI Product Manager,197889f2e677f8c56e88eee6d2667999,2
+System One,"AI Engineer Agentic Systems - must be local in Pittsburgh, PA",05ef971c00cc2878567e2ffce5081afc,2
+Systems Planning and Analysis,Business Intelligence Analyst,9c388603c063b398dcb434b39d090015,2
+Systems Planning and Analysis,Business Intelligence Analyst,42659c3a0965f636e4a96212ee1536fe,2
+Tahoe Forest Health System,Senior Business Intelligence Analyst,e809ad1ec26eaede97fe41b44c945e52,2
+Talent Sphere Staffing,Data Analyst- Remote,8430f21158f8009cf10d7200ebe3bbb9,2
+Talent Sphere Staffing,"Junior , Data Analyst- Remote",8430f21158f8009cf10d7200ebe3bbb9,2
+Talent Sphere Staffing,Virtual Data Analyst ( Remote),8430f21158f8009cf10d7200ebe3bbb9,2
+Tanium,AI Research Scientist,46c7a1a435bfbc9856fb3ca0ac1f6897,2
+Tanium,Applied AI Engineer II,4add52a34472abcdc49c0b37e662af23,2
+TD Bank,Data Scientist II - FCRM,73bce4433e0db95345d9a884d49f1b3e,2
+TD Bank,Data Scientist III - FCRM,1e3d70c9c0ad621d6c0a477bf3e75937,2
+"TeleTracking Technologies, Inc.",Machine Learning Engineer III,09085cf411a7a83486b719b03842e3f5,2
+The Walt Disney Company,Sr Data Engineer,d76b5924aa51096b5d707669f9021875,2
+Thomas Jefferson University,Senior Business Intelligence Analyst,17303d94b4ea99630f73ebc59e67b40a,2
+Trane Technologies,Data Scientist Manager,8caaa3e76405f024bc90329c0612907f,2
+Trane Technologies,Senior Data Engineer & Scientist,2094b2e33c7ea873edb12656ccc01454,2
+Trane Technologies,"Senior Data Scientist, Full-Stack / Cloud / Software",4e2659d37c046d1bb8701bd9882cd22b,2
+True Anomaly,Data Analyst,f66f94c7d3d18e816d4bf85cf5a16f90,2
+Veeva,Senior Data Scientist,70b3579057c6a0bffe06f9a096370717,2
+Vituity,Agentic AI Product Manager - Remote - Nationwide,d8bf10d2cbf8cd84cbf8d2c332177e34,2
+Volvo Group,Business Intelligence Analyst,b19e4da372bddd42dee14f84d85bc6c5,2
+Volvo Group,Business Intelligence Analyst,20a66b602cd26966300abeb702027204,2
+Waabi,"Senior / Staff Machine Learning Engineer, Vehicle Dynamics",467efcf8c938dea9ef22b23f49d9d747,2
+Walmart,"(USA) Staff, Data Engineer",00a8eff8e5fc6910a50846bd69ca7434,2
+West Monroe,"Principal AI Product Manager, US",c17b0837eb8fdf61cc0c9015a79d36a7,2
+West Monroe,"Senior AI Product Manager, TechEx, Software, US",677c11692b518aef770a87cd16c8a743,2
+Xylem Services USA LLC,Senior AI Product Manager,ca207503c5d5db94eb721395ba8e662d,2
+,"AI Engineer, Specialist - VR",dee536702506fbaa006518776018f1cb,2
+,"AI Engineer, Specialist - VR - (Technical Leadership)",7b8c88b569a7d8927b29dec23ff0525c,2
+,"AI Research Scientist, CoreML - Monetization AI",ad782fb8d0ff1dd74e4ec1bd013ff4e9,2
+,"AI Research Scientist, FAIR Security, Privacy, and Reliability",6744e0c23dceba965c1cdf884075f7f5,2
+,AI Research Scientist - MSL FAIR Foundations,953be36062cfba4ee8938485b8a62fb6,2
+,Business Intelligence Analyst,1e12223bc604e7fe6a68aab231de70ef,2
+,Business Intelligence Analyst,eddff6edd99dc7358d64cc798aee4d19,2
+,Business Intelligence Analyst II,d69ab7cd5be204f9edb05100a77a353e,2
+,Financial Data Analyst,208ea0d3cead374a2bd8da9ecf7ba134,2
+,Lead Agentic AI Engineer,636b400bba596c4b58ac7240f3ed0b0c,2
+,Senior Agentic AI Engineer (VP),e149be281a510da6f7960e81b4ad01c8,2
+,Senior Associate - Business Intelligence Analyst,dfa7d0763ff34a3b88db9023aa06f2d3,2
+,Senior Generative AI Engineer - Vice President,e3f2f7f210532a2767fd4d8f1b4670f8,2
+,Senior Marketing Data Analyst (HP Solutions Marketing),f71817325479a1c745ba8d639d712607,2
+,Sr Clinical Data Analyst - OPR GI/MI Surgery,a274bcbdc1c33bd4221d79a7fd6eac79,2

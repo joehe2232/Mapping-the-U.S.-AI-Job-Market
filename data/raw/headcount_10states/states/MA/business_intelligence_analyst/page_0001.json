@@ -1,0 +1,1468 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:46:11.455496+00:00",
+  "state_filter": "MA",
+  "title_filter": "business intelligence analyst",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "MA",
+    "title": "business intelligence analyst",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "18abc22c-2904-4951-91cc-6802865477d2",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "2de59920-aaac-8b60-b2c8-23751034bac2",
+        "employer_name": {
+          "state": "known",
+          "value": "CrossCountry Consulting"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "CrossCountry Consulting is the transformation partner for the Office of the CFO. As a trusted advisor to Fortune 500 companies, emerging growth market leaders, and private equity sponsors, we combine deep domain expertise with the power of data, AI, and technology to modernize workflows, drive human-centered change, and maximize transaction value. Grounded in our Core Values, we are committed to solving today's most complex challenges while delivering a better experience for our clients, our people, and our communities. When you join CrossCountry, you become part of a team that believes in collaboration, generosity, and the drive to help our clients work smarter, build resiliency, and prepare for the future.\n\nWe’re building a modern enterprise data warehouse on Snowflake and need a BI Analyst who works directly with the business to turn data into decisions. You’ll partner with stakeholders to scope their reporting needs, build dashboards, and teach teams how to use them. This role is as much about relationships and enablement as it is about building.\n\nWhat You'll Do:\nPartner with stakeholders across finance, sales, and operations to understand their goals and translate them into clear requirements and KPIs\n\nScope dashboard projects: define success criteria, prioritize requests, set timelines, and manage expectations\n\nBuild, publish, and maintain dashboards and reports in Power BI (or Tableau) that are accurate , intuitive, and actionable\n\nWrite SQL against Snowflake to explore data, validate results, and support ad hoc analysis\n\nWork with Data Engineering to shape the semantic layer and data models, define KPI and calculation logic, flag data quality issues, and improve report performance and Snowflake costs\n\nBuild the business definitions and synonyms that help AI tools (like Snowflake Cortex Analyst or Power BI Copilot) answer questions correctly\n\nTest AI-generated reports and text-to-SQL results against known-correct answers before they go live\n\nRun training sessions, workshops, and office hours that build self-service skills across the business\n\nCreate user guides, metric definitions, and walkthroughs so business users can trust and navigate the data\n\nGather feedback after launch, track adoption, and iterate on dashboards\n\nWhat You'll Bring:\n5+ years in business intelligence, analytics, FP&A, or a similar role\n\nStrong dashboarding skills in Power BI, Tableau, or a comparable BI tool\n\nWorking SQL proficiency (joins, aggregations, CTEs, basic window functions)\n\nDemonstrated ability to run requirements-gathering conversations and turn vague asks into scoped deliverables\n\nHands-on use of AI tools in analytical work, with the judgment to evaluate output quality and spot unsupported answers.\n\nExperience facilitating trainings , workshops, or demos for non-technical audiences\n\nExcellent written and verbal communication, with the ability to explain data clearly\n\nStrong attention to detail and a habit of validating numbers before sharing them\n\nPreferred Qualifications:\nExperience with Snowflake or another cloud data warehouse\n\nFamiliarity with DAX and dimensional modeling concepts\n\nExperience writing business definitions, synonyms, or test cases for AI-driven or natural-language analytics tools.\n\nBackground in finance, FP&A, or sales operations\n\nExposure to dbt , Fivetran , or modern data stack tools\n\nExperience building a data community or champions program\n\nBachelor’s degree in Finance , Business, IT, Analytics, or a related field (or equivalent experience)\n\nCrossCountry Consulting is required to include an estimate of the compensation range for this role. The following range takes into account a wide range of factors including but not limited to, skills, experience, education, licenses, certifications, business needs, and internal equity. An estimate of the current range is $120,000 - $175,000 per year + annual bonus + additional benefits.\n\n#LI-AJ1\n\nBenefits Summary\n\nThe CrossCountry total rewards package includes comprehensive healthcare options, including medical, dental, and vision coverage; flexible spending accounts; and a 401(k) with company matching. Additionally, employees can take advantage of generous parental and maternity leave policies, technology stipends, and wellness reimbursement programs, all designed to support both professional growth and personal well-being. For detailed information about benefits at CrossCountry, please visit our dedicated benefits site: https://www.crosscountry-consulting.com/careers/benefits/ .\n\nEqual Employment Opportunity (EEO)\n\nCrossCountry provides equal employment opportunities (EEO) to all employees and applicants for employment and believes that respect and fair treatment are critical to creating a productive and inclusive workplace.\n\nAs an equal opportunity employer, CrossCountry is fully committed to comply with all federal, state, and local laws and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability, pregnancy, genetics, sexual orientation, veteran status, gender identity or expression or any other protected characteristic. The company also complies with pay transparency and labor laws applicable to all terms and conditions of employment."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "McLean",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-07T15:24:48.993Z",
+        "curated_at": "2026-11-19T13:26:36.610Z",
+        "job_updated_at": "2026-11-19T13:26:36.610Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12000000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "881ef95462c729f083003beb0154245f4c61776eac1ab6ec58847d3cd2a82bd9",
+            "source": "lever",
+            "source_posting_id": "b043ecd7-c72b-43b3-997e-bd787e7f7930",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "McLean",
+                "state": "VA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "McLean",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "McLean, VA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "Boston",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Boston, MA"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Chicago, IL"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Dallas, TX"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 120000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-05T21:33:29.429Z",
+            "first_seen_at": "2026-11-07T15:24:48.993Z",
+            "last_completed_fetch_at": "2026-11-19T13:16:42.289Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "0d45eefe-9ad3-4f85-ab08-ad40630af2c1",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "6bad654e-4cb6-8310-8e28-ee9b94e38619",
+        "employer_name": {
+          "state": "known",
+          "value": "Appex"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst - Mobile Growth"
+        },
+        "description": {
+          "state": "known",
+          "value": "At Appex, we fuel mobile growth. We specialize in propelling great apps forward, leveraging data and a user-centric approach to unlock each app’s full potential. From Health & Fitness to Travel, Utilities, and Productivity, we supercharge apps like FitnessAI, achieving remarkable user base growth. Join us as we pioneer the future of mobile technology.\n\nWhat You’ll Do:\n\nAs a Business Intelligence Analyst at Appex, you'll play a pivotal role in driving our portfolio of mobile apps to new heights. You'll harness your strong SQL skills and expertise in ad-hoc data digging (using SQL, R, Python, Tableau, PowerBI, Excel, etc.) to unearth actionable insights. Proficiency in at least one popular BI tool (e.g., Tableau, PowerBI, Looker, Redash) is essential. You'll understand what data is crucial for strategic decision-making versus day-to-day operations, ensuring data accuracy and relevance.\n\nWhat You’ll be Working On:\n\nUtilize robust SQL skills and proficiency in data tools to conduct ad-hoc analysis and reporting.\n\nCollaborate with cross-functional teams to define key metrics and deliver actionable insights.\n\nServe as a critical partner to the CEO and CFO by supporting their daily data needs and requests, providing thorough analysis for our portfolio of mobile apps.\n\nDeliver clean, well-presented data and strategic insights to drive revenue growth across all apps.\n\nIdentify and communicate trends in app performance and user engagement, translating findings into actionable strategies.\n\nDevelop and maintain compelling dashboards and visualizations to track KPIs, monitor app health and ensure data accuracy.\n\nApply knowledge of Data Engineering (DBT, Fivetran, ELT) to streamline data pipelines and ensure data integrity.\n\nContribute to data-driven strategies to optimize user acquisition, retention, and monetization.\n\nWhat You’ll Bring to the Table:\n\nStrong proficiency in SQL for querying and manipulating large datasets.\n\nExperience in ad-hoc data analysis using tools like R, Python, Tableau, PowerBI, and Excel.\n\nProficiency in at least one popular BI tool (Tableau, PowerBI, Looker, Redash, etc.).\n\nAbility to differentiate between strategic data insights and operational data needs.\n\nFamiliarity with Data Engineering concepts (DBT, Fivetran, ELT) is a plus.\n\nExcellent communication skills with a knack for translating data into actionable insights.\n\nJoin Us: If you're passionate about leveraging data to drive mobile growth and thrive in a dynamic, collaborative environment, we want to hear from you. Take the next step in your career with Appex and help shape the future of mobile technology. Apply today and let's build something incredible together."
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "remote",
+          "evidence": [
+            "location: location.remote=true"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-29T17:09:39.463Z",
+        "curated_at": "2026-10-03T02:07:17.560Z",
+        "job_updated_at": "2026-11-15T10:42:01.080Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "5dee1f7f8c872fd8625138822f616d1df8828f813ee702d283c3bf131158c1c1",
+            "source": "dover",
+            "source_posting_id": "ebbacdab-9f41-4adb-a841-86e141a2363c",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/appex/ebbacdab-9f41-4adb-a841-86e141a2363c"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/appex/ebbacdab-9f41-4adb-a841-86e141a2363c"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boston",
+                "state": "MA",
+                "country": "US",
+                "remote": true
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2024-09-03T18:49:50.515Z",
+            "first_seen_at": "2026-09-29T17:09:39.463Z",
+            "last_completed_fetch_at": "2026-11-15T10:41:58.240Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8303b14f-ebf5-4c05-bdcf-a3c4027d3273",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "2de59920-aaac-8b60-b2c8-23751034bac2",
+        "employer_name": {
+          "state": "known",
+          "value": "CrossCountry Consulting"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "CrossCountry Consulting is the transformation partner for the Office of the CFO. As a trusted advisor to Fortune 500 companies, emerging growth market leaders, and private equity sponsors, we combine deep domain expertise with the power of data, AI, and technology to modernize workflows, drive human-centered change, and maximize transaction value. Grounded in our Core Values, we are committed to solving today's most complex challenges while delivering a better experience for our clients, our people, and our communities. When you join CrossCountry, you become part of a team that believes in collaboration, generosity, and the drive to help our clients work smarter, build resiliency, and prepare for the future.\n\nWe’re building a modern enterprise data warehouse on Snowflake and need a BI Analyst who works directly with the business to turn data into decisions. You’ll partner with stakeholders to scope their reporting needs, build dashboards, and teach teams how to use them. This role is as much about relationships and enablement as it is about building.\n\nWhat You'll Do:\nPartner with stakeholders across finance, sales, and operations to understand their goals and translate them into clear requirements and KPIs\n\nScope dashboard projects: define success criteria, prioritize requests, set timelines, and manage expectations\n\nBuild, publish, and maintain dashboards and reports in Power BI (or Tableau) that are accurate , intuitive, and actionable\n\nWrite SQL against Snowflake to explore data, validate results, and support ad hoc analysis\n\nWork with Data Engineering to shape the semantic layer and data models, define KPI and calculation logic, flag data quality issues, and improve report performance and Snowflake costs\n\nBuild the business definitions and synonyms that help AI tools (like Snowflake Cortex Analyst or Power BI Copilot) answer questions correctly\n\nTest AI-generated reports and text-to-SQL results against known-correct answers before they go live\n\nRun training sessions, workshops, and office hours that build self-service skills across the business\n\nCreate user guides, metric definitions, and walkthroughs so business users can trust and navigate the data\n\nGather feedback after launch, track adoption, and iterate on dashboards\n\nWhat You'll Bring:\n5+ years in business intelligence, analytics, FP&A, or a similar role\n\nStrong dashboarding skills in Power BI, Tableau, or a comparable BI tool\n\nWorking SQL proficiency (joins, aggregations, CTEs, basic window functions)\n\nDemonstrated ability to run requirements-gathering conversations and turn vague asks into scoped deliverables\n\nHands-on use of AI tools in analytical work, with the judgment to evaluate output quality and spot unsupported answers.\n\nExperience facilitating trainings , workshops, or demos for non-technical audiences\n\nExcellent written and verbal communication, with the ability to explain data clearly\n\nStrong attention to detail and a habit of validating numbers before sharing them\n\nPreferred Qualifications:\nExperience with Snowflake or another cloud data warehouse\n\nFamiliarity with DAX and dimensional modeling concepts\n\nExperience writing business definitions, synonyms, or test cases for AI-driven or natural-language analytics tools.\n\nBackground in finance, FP&A, or sales operations\n\nExposure to dbt , Fivetran , or modern data stack tools\n\nExperience building a data community or champions program\n\nBachelor’s degree in Finance , Business, IT, Analytics, or a related field (or equivalent experience)\n\nCrossCountry Consulting is required to include an estimate of the compensation range for this role. The following range takes into account a wide range of factors including but not limited to, skills, experience, education, licenses, certifications, business needs, and internal equity. An estimate of the current range is $120,000 - $175,000 per year + annual bonus + additional benefits.\n\n#LI-AJ1\n\nBenefits Summary\n\nThe CrossCountry total rewards package includes comprehensive healthcare options, including medical, dental, and vision coverage; flexible spending accounts; and a 401(k) with company matching. Additionally, employees can take advantage of generous parental and maternity leave policies, technology stipends, and wellness reimbursement programs, all designed to support both professional growth and personal well-being. For detailed information about benefits at CrossCountry, please visit our dedicated benefits site: https://www.crosscountry-consulting.com/careers/benefits/ .\n\nEqual Employment Opportunity (EEO)\n\nCrossCountry provides equal employment opportunities (EEO) to all employees and applicants for employment and believes that respect and fair treatment are critical to creating a productive and inclusive workplace.\n\nAs an equal opportunity employer, CrossCountry is fully committed to comply with all federal, state, and local laws and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability, pregnancy, genetics, sexual orientation, veteran status, gender identity or expression or any other protected characteristic. The company also complies with pay transparency and labor laws applicable to all terms and conditions of employment."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "McLean",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-07T15:19:22.497Z",
+        "curated_at": "2026-11-07T15:20:21.196Z",
+        "job_updated_at": "2026-11-13T17:22:44.337Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12000000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "881ef95462c729f083003beb0154245f4c61776eac1ab6ec58847d3cd2a82bd9",
+            "source": "lever",
+            "source_posting_id": "b043ecd7-c72b-43b3-997e-bd787e7f7930",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "McLean",
+                "state": "VA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "McLean",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "McLean, VA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "Boston",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Boston, MA"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Chicago, IL"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Dallas, TX"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 120000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-05T21:33:29.429Z",
+            "first_seen_at": "2026-11-07T15:19:22.497Z",
+            "last_completed_fetch_at": "2026-11-13T17:21:41.962Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "ce577fdf-bd67-477d-99f5-60995b35815e",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "6b72a6cf-b80b-8d3f-b0eb-dd6f9ab3f309",
+        "employer_name": {
+          "state": "known",
+          "value": "Werfen"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Service Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Introduction Werfen Werfen is a growing, family-owned, innovative company founded in 1966 in Barcelona, Spain. We are a worldwide leader in specialized diagnostics in the areas of Hemostasis, Acute Care Diagnostics, Transfusion, Autoimmunity, and Transplant. Through our Original Equipment Manufacturing (OEM) business line, we research, develop, and manufacture customized assays and biomaterials. We operate directly in 30 countries, and in more than 100 territories through distributors. Our Headquarters and Technology Centers are located in the US and Europe, and our workforce is more than 7,000 strong. Our success comes from a specific focus in these rapidly evolving diagnostic areas, our commitment to customers, and our dedication to innovation and quality. We’re passionate about providing healthcare professionals the most valuable and complete solutions to improve hospital efficiency and enhance patient care. Overview Position Summary: Provides analytics and business intelligence insights to enable the North America Service & Support leadership team to make informed strategic decisions that drive revenue. The role will act as a consultant to Senior Leadership of Service & Support with a focus on reporting, analytics and fostering strong relationships with business partners (eg. Service, Sales, Finance, IT). They will be looked upon to perform ad-hoc analyses for the business, develop insights that drive actions, and to identify new areas for growth or improvement. This person will be a subject matter expert in this field and will help to lead this function. Responsibilities Key Accountabilities Essential Functions: Proactively identifies trends, risks, and opportunities for the business that could impact Service & Support objectives, strategy and tactics. Presents insights to Service & Support leadership. Responsible for continuous improvement related to data reliability and responsiveness to requests from business. Articulates and concisely explains the strategic implications of complex data to key stakeholders using visualization tools such as MS Power BI to curate and display data from multiple sources. Develops reporting, dashboards and analysis that enable business decisions to drive revenue and profitability. Performs other duties as assigned. Reasonable accommodations may be made to enable individuals with disabilities to perform these essential functions. Internal Networking/Key Relationships: North America Commercial Operations Client Services Finance IT Qualifications Minimum Knowledge & Experience for the position: Education: Bachelor’s degree in Business Administration, Finance, Business Analytics or related field required. Master’s degree preferred. Experience: Minimum of 5-7 years of work experience in Sales Operations, Service Operations, Finance or Business Analysis function required. Experience in Medical Device/ IVD industry preferred Additional Skills/Knowledge: Expert skills with MS Excel required. Experience with data visualization tools such as MS Power BI or Tableau required. Strong computer skills, including Microsoft Office, databases, web-based applications, etc. Experience with CRM and ERP systems required. SAP experience preferred. Knowledge of service logistics, field service operations, and customer support systems preferred. Experience leveraging statistical analysis, business intelligence tools, and operational data to identify meaningful trends, uncover root causes, forecast future performance, and deliver actionable insights that drive strategic and operational decision-making. Management has the discretion of substituting relevant work experience for a degree and/or making exceptions to the years of experience requirement. Skills & Capabilities: Customer-first mindset. Excellent aptitude for working with large amounts of data and an eye for details. Highly focused, accurate and thorough in work. Ability to present data to end users in a digestible manner. Proven experience as a collaborative team player. Critical-thinking and problem-solving skills; ability to deal with ambiguity. Excellent verbal and written communications skills. Ability to work independently to organize and prioritize tasks. Able to thrive in a fast-paced, deadline-driven environment. Travel Requirements: Up to 25% of the time. The annual base salary range for this role is currently $130,000 to $160,000 range. Individual employee compensation will ultimately depend on factors including education, relevant experience, skillset, knowledge, and particular business needs. This role is eligible for medical, dental, and vision insurance, 401k plan retirement benefits with an employer match, as well as paid vacation and sick leave. Our sales roles are eligible for participation in a commission plan and our management, and select professional roles, are eligible for a performance-based bonus. Closing If you are interested in constantly learning and being challenged on a daily basis we encourage you to submit your resume or CV. Werfen is an Equal Opportunity employer and is committed to a diverse workplace. Werfen strictly prohibits unlawful discrimination, harassment or retaliation based upon an individual’s race, color, religion, gender, sexual orientation, gender identity/expression, national origin/ancestry, age, mental/physical disability, medical condition, marital status, veteran status, or any other protected characteristic as defined by applicable state or federal law. If you have a disability and need an accommodation in relation to the online application process, please contact NAtalentacquisition@werfen.com for assistance. We operate directly in over 30 countries, and in more than 100 territories through distributors. Annual revenue is approximately $2 billion and more than 7,000 employees around the world comprise our Werfen team. www.werfen.com"
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Bedford",
+              "region": "US-MA",
+              "country": "US",
+              "postal_code": "01730",
+              "street": "180 Hartwell Road",
+              "zip": "01730",
+              "county_fips": "25017",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-03T04:23:35.081Z",
+        "curated_at": "2026-11-10T13:00:41.885Z",
+        "job_updated_at": "2026-11-10T13:00:41.885Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 13000000,
+                "max_cents": 16000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "cc1d1d1487370a3dff9fbced9225df1ca824ce2b998e85a6d24e8a4492f14c8d",
+            "source": "icims",
+            "source_posting_id": "11052",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers-werfen.icims.com/jobs/11052/senior-service-business-intelligence-analyst/job"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://careers-werfen.icims.com/jobs/11052/senior-service-business-intelligence-analyst/job"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Bedford",
+                "state": "MA",
+                "country": "US",
+                "regionCode": "MA",
+                "postalCode": "01730",
+                "streetAddress": "180 Hartwell Road",
+                "remote": false,
+                "zip": "01730"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 130000,
+                "max": 160000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2024-11-10T13:00:00.198Z",
+            "first_seen_at": "2026-10-03T04:23:35.081Z",
+            "last_completed_fetch_at": "2026-11-10T13:00:15.220Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "dc26aa1d-249d-4b9c-9cb0-20593fc180c8",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "2de59920-aaac-8b60-b2c8-23751034bac2",
+        "employer_name": {
+          "state": "known",
+          "value": "CrossCountry Consulting"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "CrossCountry Consulting is the transformation partner for the Office of the CFO. As a trusted advisor to Fortune 500 companies, emerging growth market leaders, and private equity sponsors, we combine deep domain expertise with the power of data, AI, and technology to modernize workflows, drive human-centered change, and maximize transaction value. Grounded in our Core Values, we are committed to solving today's most complex challenges while delivering a better experience for our clients, our people, and our communities. When you join CrossCountry, you become part of a team that believes in collaboration, generosity, and the drive to help our clients work smarter, build resiliency, and prepare for the future.\n\nWe’re building a modern enterprise data warehouse on Snowflake and need a BI Analyst who works directly with the business to turn data into decisions. You’ll partner with stakeholders to scope their reporting needs, build dashboards, and teach teams how to use them. This role is as much about relationships and enablement as it is about building.\n\nWhat You'll Do:\nPartner with stakeholders across finance, sales, and operations to understand their goals and translate them into clear requirements and KPIs\n\nScope dashboard projects: define success criteria, prioritize requests, set timelines, and manage expectations\n\nBuild, publish, and maintain dashboards and reports in Power BI (or Tableau) that are accurate , intuitive, and actionable\n\nWrite SQL against Snowflake to explore data, validate results, and support ad hoc analysis\n\nWork with Data Engineering to shape the semantic layer and data models, define KPI and calculation logic, flag data quality issues, and improve report performance and Snowflake costs\n\nBuild the business definitions and synonyms that help AI tools (like Snowflake Cortex Analyst or Power BI Copilot) answer questions correctly\n\nTest AI-generated reports and text-to-SQL results against known-correct answers before they go live\n\nRun training sessions, workshops, and office hours that build self-service skills across the business\n\nCreate user guides, metric definitions, and walkthroughs so business users can trust and navigate the data\n\nGather feedback after launch, track adoption, and iterate on dashboards\n\nWhat You'll Bring:\n5+ years in business intelligence, analytics, FP&A, or a similar role\n\nStrong dashboarding skills in Power BI, Tableau, or a comparable BI tool\n\nWorking SQL proficiency (joins, aggregations, CTEs, basic window functions)\n\nDemonstrated ability to run requirements-gathering conversations and turn vague asks into scoped deliverables\n\nHands-on use of AI tools in analytical work, with the judgment to evaluate output quality and spot unsupported answers.\n\nExperience facilitating trainings , workshops, or demos for non-technical audiences\n\nExcellent written and verbal communication, with the ability to explain data clearly\n\nStrong attention to detail and a habit of validating numbers before sharing them\n\nPreferred Qualifications:\nExperience with Snowflake or another cloud data warehouse\n\nFamiliarity with DAX and dimensional modeling concepts\n\nExperience writing business definitions, synonyms, or test cases for AI-driven or natural-language analytics tools.\n\nBackground in finance, FP&A, or sales operations\n\nExposure to dbt , Fivetran , or modern data stack tools\n\nExperience building a data community or champions program\n\nBachelor’s degree in Finance , Business, IT, Analytics, or a related field (or equivalent experience)\n\nCrossCountry Consulting is required to include an estimate of the compensation range for this role. The following range takes into account a wide range of factors including but not limited to, skills, experience, education, licenses, certifications, business needs, and internal equity. An estimate of the current range is $120,000 - $175,000 per year + annual bonus + additional benefits.\n\n#LI-AJ1\n\nBenefits Summary\n\nThe CrossCountry total rewards package includes comprehensive healthcare options, including medical, dental, and vision coverage; flexible spending accounts; and a 401(k) with company matching. Additionally, employees can take advantage of generous parental and maternity leave policies, technology stipends, and wellness reimbursement programs, all designed to support both professional growth and personal well-being. For detailed information about benefits at CrossCountry, please visit our dedicated benefits site: https://www.crosscountry-consulting.com/careers/benefits/ .\n\nEqual Employment Opportunity (EEO)\n\nCrossCountry provides equal employment opportunities (EEO) to all employees and applicants for employment and believes that respect and fair treatment are critical to creating a productive and inclusive workplace.\n\nAs an equal opportunity employer, CrossCountry is fully committed to comply with all federal, state, and local laws and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability, pregnancy, genetics, sexual orientation, veteran status, gender identity or expression or any other protected characteristic. The company also complies with pay transparency and labor laws applicable to all terms and conditions of employment."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "McLean",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-09T14:49:44.772Z",
+        "curated_at": "2026-11-09T14:51:44.220Z",
+        "job_updated_at": "2026-11-09T14:51:44.220Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12000000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "881ef95462c729f083003beb0154245f4c61776eac1ab6ec58847d3cd2a82bd9",
+            "source": "lever",
+            "source_posting_id": "b043ecd7-c72b-43b3-997e-bd787e7f7930",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "McLean",
+                "state": "VA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "McLean",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "McLean, VA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "Boston",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Boston, MA"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Chicago, IL"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Dallas, TX"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 120000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-05T21:33:29.429Z",
+            "first_seen_at": "2026-11-09T14:49:44.772Z",
+            "last_completed_fetch_at": "2026-11-09T14:48:50.437Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "72d4c707-5311-4932-a5c7-3fbadefd0f50",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "31bb7764-882e-81b1-973a-a0c801c7ca4a",
+        "employer_name": {
+          "state": "known",
+          "value": "Ascend Learning"
+        },
+        "title": {
+          "state": "known",
+          "value": "Sr Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "We Impact Lives Through Purpose-Driven Work in A People First Culture\n\nAscend Learning, a leading healthcare and learning technology company, is the connection between a powerful portfolio of brands serving students, educators, and employers with outcomes-based, data-driven solutions across the lifecycle of learning. From testing to certification, Ascend Learning products are used by physicians, emergency medical professionals, nurses, allied health professionals, certified personal trainers, financial advisors, skilled trades professionals and insurance brokers.\n\nHeadquartered in Burlington, MA, with additional office locations and hybrid and remote workers in cities across the U.S., Ascend Learning was recognized by Newsweek and Plant-A Insights Group as one of America’s 2025 Greatest Workplaces as well as America’s Best Places to work for Mental Well-Being for 2025.\n\nWe're always looking for talented, passionate professionals to join us in our mission to help change lives. If this sounds like an environment where you'd thrive, read on to learn more.\n\nWHAT YOU'LL DO\n\nAscend Learning is hiring for a senior business intelligence analyst within their healthcare operations center of excellence. The Business Intelligence Analyst role assists organizational decision making by providing and explaining data in an easily consumable format and translates internal and external customers’ business requirements into technical requirements and meaningful solutions.\n\nHOW YOU’LL SPEND YOUR TIME\n\n• Develop advanced, modern Tableau dashboards leveraging best‑practice UI/UX design, interactivity, and performance optimization.\n\n• Work directly with business partners to understand analytical needs and translate them into scalable, actionable BI solutions.\n\n• Use Snowflake, EDW structures, and SSMS to prepare, optimize, and validate datasets used in reporting and analytics.\n\n• Provide clear, consumable data insights to stakeholders at all levels, enabling faster and more informed decision‑making.\n\n• Serve as a visualization thought leader, advising on data storytelling, KPI design, and dashboard usability.\n\n• Independently manage multiple high‑complexity projects, ensuring transparency, accuracy, and on‑time delivery.\n\n• Coach and mentor BI team members in Tableau best practices, data modeling, and analytical methodology.\n\n• Oversee and enhance custom reporting capabilities for quality, scalability, and long‑term value.\n\n• Act as a subject‑matter expert in data ingestion, cleansing, modeling, and visualization techniques.\n\n• Leverage deep product and business knowledge to recommend streamlined, efficient analytical approaches.\n\nWHERE YOU’LL WORK\n\n• This position will work a hybrid schedule from our Leawood, KS or Burlington, MA office preferred. Remote candidates will be considered within the United States.\n\nWHAT YOU’LL NEED\n\n• Bachelor’s degree in Computer Science, Business, Analytics, or related field preferred (or equivalent experience)\n\n• 5+ years of Expert‑level Tableau experience to create:complex LOD calculations and table calculations, Advanced parameters and dynamic interactions, High‑value, modern user‑focused visual designs and Performance‑optimized dashboards.\n\n• Strong SQL skills and hands‑on experience with SSMS.\n\n• Experience working with Snowflake and enterprise data warehouse (EDW) environments.\n\n• Demonstrated ability to analyze data from diverse internal/external sources and ensure data accuracy.\n\n• Experience working in Agile environments and managing multiple priorities effectively.\n\n• Excellent communication skills with the ability to explain complex concepts to technical and non‑technical audiences.\n\n• Self‑starter with strong attention to detail, quality, and data visualization aesthetics.\n\n• Experience with enterprise database technologies (SSMS, SQL Server, DB2, Oracle, etc.).\n\n• Experience with BI tools—Tableau strongly preferred, with experience in Qlik, Power BI, Cognos, or similar tools.\n\n• Experience administering Tableau Server or Tableau Cloud preffered.\n\n• Experience in R, Python, or C# is preferred.\n\nHIRING RANGE\n\nThe current full-time, annualized base pay hiring range for this role is -. In accordance with applicable state laws, we are providing the expected pay range for this position. Individual compensation will be determined by various factors, including relevant experience, qualifications, current business needs and local market factors. Most regular, full-time employees are eligible to participate in an Ascend incentive bonus or sales plan.\n\nBENEFITS\n\n• Health, dental, and vision insurance\n\n• Company paid life Insurance\n\n• 401(k) with company match\n\n• Paid time off and parental leave\n\n• Employee assistance program\n\n• Other wellness programs such as Headspace and Airvet\n\n• Charitable matching program\n\nFostering A Sense of Belonging\n\nOur values-driven culture unifies our teams and inspires a mindset of action, innovation, and collaboration, with a relentless focus on customers. We seek out and celebrate all people and perspectives and cultivate an inclusive culture where everyone can thrive, feel valued, and be authentic. Our culture is firmly rooted in the belief that by embracing our differences and drawing on diverse perspectives, we are a stronger, more innovative, and more successful organization where employees experience a sense of belonging.\n\nAscend Learning, LLC is proud to be an equal opportunity employer (M/F/Vets/Disabled). No agency or search firm submissions will be accepted. Applications for U.S.-based positions with Ascend Learning, LLC must be legally authorized to work in the United States, and verification of employment eligibility will be required at the time of hire."
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-06T13:59:46.092Z",
+        "curated_at": "2026-11-08T12:19:47.183Z",
+        "job_updated_at": "2026-11-08T12:19:47.183Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "12d565f10bc727d3114ef19600d526f0e64a38eee5f2e8955274fc2f154b84c0",
+            "source": "successfactors",
+            "source_posting_id": "1411",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://career8.successfactors.com/career?company=ascendlear&career_ns=job_listing&career_job_req_id=1411"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://career8.successfactors.com/career?company=ascendlear&career_ns=job_listing&career_job_req_id=1411"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "state": "Massachusetts",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-05T00:00:00.000Z",
+            "first_seen_at": "2026-10-06T13:59:46.092Z",
+            "last_completed_fetch_at": "2026-11-19T09:56:37.281Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e0debc1f-ae7c-4bae-91d1-70929362c38e",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "7118a7be-3030-879c-b327-9ca18a0f9768",
+        "employer_name": {
+          "state": "known",
+          "value": "Coastal Heritage Bank"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Type\nFull-time\n\nDescription\nRole Analyzes markets for new or existing products or services for one or more divisions, product lines, or market segments. Generally, uses in-house information systems or external metrics to collect, evaluate, and analyze data on customers, prospective customers, and competitors to determine market penetration. Prepares reports and evaluates potential markets, market conditions and advertising campaigns. Supports roadmap initiatives, existing platform feature enhancement projects, and technical changes to online and mobile banking platforms. Major Duties and Responsibilities 25% POWER BI REPORTING: Meet with keystakeholders about current reports and desired functionality Develop user friendly dashboards leveraging COCCs Datamart and other data inputs Provide knowledge transfer of Microsoft Power BI to TotalVision power users as-needed Document dataflow diagrams and conversion methodology Create a report library of new and converted reports and dashboards 25% TOTAL VISION CONVERSION: Reach out to key stakeholders across departments Catalog existing Total Vision (Crystal) Reports for conversion to PowerBI Create a document library of all converted reports across departments Provide end-user training in COCC Datamart elements and difference between platforms 15% COMMERCIAL/CONSUMER LENDING: Reach out to key stakeholders in loan origination, loan servicing and credit Inquire on non-COCC Insight Applications and reporting requirements Loanwriter, Encompass, LoanVantage Develop knowledge in these applications and reporting / dashboarding options Work with key stakeholders to develop new centralized and user friendly reports and dashboards 15% MARKETING: Assist Director of Marketing with scheduled and ad-hoc reporting across platforms Develop automation of data-feeds and dashboarding for routine and board level reporting Assist with third party datamining and analytics such as Google Analytics, Segmint and MXMoney Include performance metrics from the Haberfeld program and the above to help gauge campaign performance Student survey at Massasoit Community College Collaboration w/ Data Science Department (Professor Brown-Sederberg) Support with identifying cross-sales leads for Cash Management & NII opportunities 15% ARTIFICIAL INTELLIGENCE: Microsoft Co-Pilot 5% Any other duties/projects as assigned.\n\nRequirements\nKnowledge and Skills Experience A minimum of one year up to three years of similar or related experience, including preparatory experience. Education/Certifications/Licenses A high school degree or equivalent. Associate’s degree in Business Intelligence (BI), Data Analytics or industry certification in Business Intelligence or Power BI preferred. Interpersonal Skills A significant level of trust, credibility and diplomacy is required. In-depth dialogue, conversations and explanations with customers, direct and indirect reports and outside vendors can be of a sensitive and/or highly confidential nature. Communications may involve motivating, influencing, educating and/or advising others on matters of significance. ADA Requirements Physical Requirements Is able to bend, sit, and stand in order to perform primarily sedentary work with limited physical exertion and occasional lifting of up to 10 lbs. Must be capable of climbing / descending stairs in an emergency situation. Must be able to operate routine o??ce equipment including computer terminals and keyboards, telephones, copiers, facsimiles, and calculators. Must be able to routinely perform work on computer for an average of 6-8 hours per day, when necessary. Must be able to work extended hours or travel to site whenever required or requested by management. Must be capable of regular, reliable and timely attendance. Working Conditions Must be able to routinely perform work indoors in climate-controlled shared work area with minimal noise. Mental and/or Emotional Requirements Must be able to perform job functions independently or with limited supervision and work effectively either on own or as part of a team. Must be able to read and carry out various written instructions and follow oral instructions. Must be able to complete basic mathematical calculations, spell accurately, and understand computer basics. Must be able to speak clearly and deliver information in a logical and understandable sequence. Must be capable of dealing calmly and professionally with numerous different personalities from diverse cultures at various levels within and outside of the organization and demonstrate highest levels of customer service and discretion when dealing with the public. Must be able to perform responsibilities with composure under the stress of deadlines / requirements for extreme accuracy and quality and/or fast pace. Must be able to effectively handle multiple, simultaneous, and changing priorities. Must be capable of exercising highest level of discretion on both internal and external confidential matters.\n\nSalary Description\n$55,000-$62,000"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Marshfield",
+              "region": "US-MA",
+              "country": "US",
+              "postal_code": "02050",
+              "street": "506 Plain St",
+              "zip": "02050",
+              "county_fips": "25023",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T00:00:22.932Z",
+        "curated_at": "2026-10-17T17:46:29.647Z",
+        "job_updated_at": "2026-11-07T02:36:04.162Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 5500000,
+                "max_cents": 6200000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "8f4272f15fa589027057f7e27a1d7560498b241c7a5e32d1a2c267f4a14d3aca",
+            "source": "paylocity",
+            "source_posting_id": "4408979",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408979"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4408979"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Marshfield",
+                "state": "MA",
+                "country": "US",
+                "regionCode": "MA",
+                "postalCode": "02050-2744",
+                "streetAddress": "506 Plain St",
+                "remote": false,
+                "zip": "02050"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 55000,
+                "max": 62000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-27T17:20:49.000Z",
+            "first_seen_at": "2026-09-21T09:46:40.031Z",
+            "last_completed_fetch_at": "2026-11-05T18:58:11.856Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 5500000,
+                "max_cents": 6200000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "e722d6b0cc7cb290c4acb0f60c5f4660b299966cf8c1c444dd3d8f75c5c0f1ab",
+            "source": "paylocity",
+            "source_posting_id": "4408979",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408979"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4408979"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Marshfield",
+                "state": "MA",
+                "country": "US",
+                "regionCode": "MA",
+                "postalCode": "02050-2744",
+                "streetAddress": "506 Plain St",
+                "remote": false,
+                "zip": "02050"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 55000,
+                "max": 62000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-27T17:20:49.000Z",
+            "first_seen_at": "2026-09-21T00:00:22.932Z",
+            "last_completed_fetch_at": "2026-11-07T11:06:57.129Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "c2cc329a-fd57-4187-a859-2b02cbbc5873",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "0100395d-9d69-8a0c-bcea-058d91ded51b",
+        "employer_name": {
+          "state": "known",
+          "value": "Kelly Services"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst - Boston, MA"
+        },
+        "description": {
+          "state": "known",
+          "value": "$90 - $105\nJob Description\nA respected organization within the insurance and risk services sector is looking to add a Senior Business Intelligence Analyst to its expanding data and reporting team. This position is an excellent fit for a data-driven professional who thrives on solving business challenges, building impactful reporting solutions, and turning complex information into meaningful insights.\nIn this role, you will work closely with leaders and stakeholders across multiple departments to deliver analytics that support operational and strategic initiatives. The ideal candidate combines strong technical capabilities with the ability to communicate findings clearly, influence decision-making, and drive data adoption throughout the organization.\nLocation: Boston, MA\nWork Arrangement: Hybrid, 3-5 days per week in office\nCompensation: Up to $160,000 base salary Required Skills & Experience\n+ 3+ years of experience in business intelligence, analytics, reporting, or a related data-focused discipline\n+ Strong proficiency in SQL for querying, transforming, and analyzing data\n+ Advanced experience developing dashboards and reporting solutions in Power BI\n+ Hands-on experience working with Snowflake environments\n+ Solid understanding of relational database concepts and reporting methodologies\n+ Bachelor's degree or equivalent combination of education and professional experience\n+ Exceptional verbal and written communication skills with the ability to present technical concepts to business audiences\n+ Strong organizational, planning, and project coordination abilities\n+ Demonstrated ability to balance independent work with cross-functional collaboration\n+ Commitment to data integrity, accuracy, and attention to detail\nDesired Skills & Experience\n+ Prior experience within the insurance industry\n+ Exposure to healthcare insurance, medical malpractice, or related specialty insurance sectors\n+ Knowledge of statistical analysis, predictive analytics, or advanced reporting techniques\n+ Experience supporting data governance and data quality programs\n+ Background working across both business and technology organizations\n+ Familiarity with Tableau, Alteryx, SAS, Excel, or similar analytics tools\nWhat You Will Be Doing\nDaily Responsibilities\n+ Collaborate with business partners to gather requirements and develop data-driven solutions for key business objectives\n+ Build, enhance, and support enterprise Power BI dashboards and reporting assets\n+ Leverage SQL and Snowflake to access, prepare, and analyze large volumes of data\n+ Evaluate datasets to uncover trends, performance drivers, potential risks, and growth opportunities\n+ Partner with analytics, technology, and operational teams to establish reporting frameworks and performance metrics\n+ Contribute to initiatives focused on improving data governance, consistency, and overall data quality\n+ Participate in data modeling and advanced analytics projects\n+ Develop compelling visualizations and reporting tools for executive leadership and business users\n+ Provide guidance and training on reporting functionality, data usage standards, and self-service analytics best practices\n+ Deliver actionable recommendations that support business planning and organizational performance improvements\nThe Offer\n+ Base salary up to $160,000\n+ Hybrid work model with approximately 3 days per week in the office\n+ Opportunity to contribute to high-impact enterprise analytics and reporting initiatives\n+ Collaborative environment with significant visibility across business functions\nYou will receive the following benefits\n+ Medical Insurance\n+ Dental Benefits\n+ Vision Benefits\n+ Paid Time Off (PTO)\n+ 401(k)\nApplicants must be currently authorized to work in the US on a full-time basis now and in the future.\nMotion Recruitment Partners (MRP) is an Equal Opportunity Employer. All applicants must be currently authorized to work on a full-time basis in the country for which they are applying, and no sponsorship is currently available. Employment is subject to the successful completion of a pre-employment screening. Accommodation will be provided in all parts of the hiring process as required under MRP’s Employment Accommodation policy. Applicants need to make their needs known in advance."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "postal_code": "02133",
+              "zip": "02133",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-05T23:03:54.570Z",
+        "curated_at": "2026-11-06T14:28:15.384Z",
+        "job_updated_at": "2026-11-06T14:28:15.384Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 9000,
+                "max_cents": 10500,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "aa03b35c233bb56e07763afb56d4569c976566f315c74a17caf4ad964b76b0a2",
+            "source": "directemployers",
+            "source_posting_id": "BD04A73F7CD9401289A08C605C8CD4B7",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://kelly-services.dejobs.org/boston-ma/senior-business-intelligence-analyst-boston-ma/BD04A73F7CD9401289A08C605C8CD4B7/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/BD04A73F7CD9401289A08C605C8CD4B710"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boston",
+                "state": "MA",
+                "country": "US",
+                "regionCode": "MA",
+                "postalCode": "02133",
+                "latitude": 42.354702,
+                "longitude": -71.06527,
+                "remote": false,
+                "zip": "02133"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 90,
+                "max": 105,
+                "currency": "USD",
+                "interval": "hour",
+                "inference": {
+                  "interval": {
+                    "basis": "policy_default",
+                    "sourceInterval": "unknown"
+                  }
+                }
+              }
+            },
+            "source_posted_at": "2026-10-15T05:49:41.000Z",
+            "first_seen_at": "2026-11-05T23:03:54.570Z",
+            "last_completed_fetch_at": "2026-10-15T02:49:54.802Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "74a54a88-ff71-48d0-8319-d992b2b628a2",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "source_omitted"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Our Data & Analytics practice is looking to hire a Business Intelligence Analyst to join our growing team! We engineer data to help our clients overcome their biggest obstacles and exploit their most valuable opportunities by utilizing our deep experience across multiple industries. The successful hire will be an integral part of a collaborative engineering team specializing in building modern data pipelines for our customers. Some responsibilities include but are not limited to the following: Collaborate and partner with customers, data analysts, product managers, data architects and engineers to gather and define requirements for robust data pipeline architectures and business visualizations Demonstrate a logical, rigorous, and analytical problem-solving approach, leading requirements gathering sessions and preparing and delivering client presentations and work products/prototypes Drive understanding and decision making from data, with clients ranging from key executives down to operational staff Profile, analyze and prep data to assess data quality and to support data cataloging, use case definition, visualizations and testing Possess a deep and versatile functional skill set to support end-to-end analytics across a variety of industries Identify and document process improvements: automating manual processes and optimizing data delivery Develop and execute test plans Able to define logical data models and construct data flow diagrams Manage release schedules, prioritize projects, and ensure adequate resources are available Attend and lead meetings; provide project status reporting to management; assist with testing scenarios; and validate results All other duties, as assigned Skills: Strong analytical and interpersonal communication skills, with the ability to work independently Strong written/oral communication and presentation/interpersonal skills Skilled at analyzing complex issues and distilling concepts to clients Able to proactively identify risks, and drive action to mitigate and resolve issues Strong organizational skills and the ability to manage a vast array of information Understanding of relational and dimensional database structures, theories, and practices Adaptability to changing priorities, as needed Maintains a high level of confidentiality, professionalism and a courteous demeanor Broad understanding of the role of data management, information flow, and data governance issues Able to serve as a liaison between both business and technical teams to drive effective, timely solutions that fulfill both strategic and operational needs Skilled at defining and documenting business processes, requirements and data flows for ongoing system enhancement initiatives Education and Experience: Bachelor’s degree 2-5+ years of experience in Business, Systems or Data Analysis 2-5+ years of implementation experience in data warehouse and Business Intelligence environments Experience with Incorta is a plus Experience working with one or more visualization tool, such as Tableau or Power BI Exposure to multiple BI/Data Warehouse platforms: Snowflake, Azure, AWS, Oracle Experience working with structured and semi-structured data Hands-on experience working with SQL or similar database query tools Experience programming in Python Experience building statistical models and working knowledge of Data Science concepts Competencies: Self-motivated and self-directed Active listener with the ability to engage customers to anticipate, identify, and solve critical problems Priority setting to be nimble, responsive, and results-oriented Customer focus with strong interpersonal skills Strong independent problem-solving skills Knowledgeable of best practices, with the ability to convey to non-practitioners Champions modern, disciplined development process (agile, source control, testing, CI/CD) Ability and willingness to give and receive honest, balanced feedback Independently and proactively communicates issues, priorities, and objectives Our Data & Analytics team delivers advanced digital solutions that pull insights from both real-time and historical data. This helps our clients make smarter business decisions to drive competitive advantage using various data analytics capabilities. Come join this dynamic team! We offer competitive compensation and benefits packages, including healthcare, dental, flexible spending accounts, unlimited/flexible vacation policy, 401(k) planning with a company match, and much more."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "postal_code": "02110",
+              "zip": "02110",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-13T21:22:40.501Z",
+        "curated_at": "2026-11-05T16:22:28.059Z",
+        "job_updated_at": "2026-11-05T16:22:28.059Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "cac25fceda11c8284a4f99bf9144faa864d737941ecca90d866b1c41f9d77f70",
+            "source": "adp",
+            "source_posting_id": "9200149472252_1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=297c3e70-448b-4cd1-a487-ad109a53c4f5&ccId=19000101_000001&lang=en_US&jobId=9200149472252_1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=297c3e70-448b-4cd1-a487-ad109a53c4f5&ccId=19000101_000001&lang=en_US&jobId=9200149472252_1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boston",
+                "state": "MA",
+                "country": "US",
+                "regionCode": "MA",
+                "postalCode": "02110",
+                "remote": false,
+                "zip": "02110"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2021-08-13T00:41:00.000Z",
+            "first_seen_at": "2026-10-13T21:22:40.501Z",
+            "last_completed_fetch_at": "2026-11-05T16:22:12.064Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "5716036e-64f7-4e50-a011-53ed37995cc3",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "3ec218e4-9df3-88a7-8ae3-407e95922bd9",
+        "employer_name": {
+          "state": "known",
+          "value": "Leader Bank"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Leader Bank is looking for exceptionally dedicated team members to join one of the region’s fastest growing community banks and mortgage lenders. At the time of its founding in 2002, Leader Bank had one branch office, $6.5 million in assets and 7 team members. Since then, the Bank has become one of the most successful banks in Massachusetts with more than $5 billion in assets, 450+ team members, 7 branch offices, and annual mortgage originations of over $2 billion.\n\nExemplary products and an innovative spirit have driven Leader Bank’s rapid growth over the years, and our team members embrace these values. Our mission is to obsess over our clients, make them feel valued, and maintain long-term relationships with them by constantly enhancing our products and processes to always improve our client experience. For our team members, Leader Bank prioritizes competitive compensation and benefits, a healthy work-life balance, and an environment that fosters diversity and inclusion.\n\nSummary\n\nAt Leader Bank, we recognize that data is an opportunity to create better experiences, smarter decisions, and value for our clients. As a BI Analyst, you enable stakeholders to make data-driven decisions and turn insights into action through automation.\n\nThe BI Analyst is responsible for designing, developing, and maintaining the Bank's enterprise reporting and analytics platform. This role bridges business reporting and data engineering by creating trusted data models, semantic layers, dashboards, and analytics solutions that empower data-driven decision-making across the organization.\n\nThe successful candidate will have deep experience with Snowflake, Retool/Power BI, Python, JavaScript, SQL, and modern data technologies. This individual will partner with business stakeholders, product teams, and technology teams to transform raw data into trusted, actionable insights while establishing scalable reporting and governance practices.\n\nResponsibilities\n\n• Data Modeling & Analytics\n\n• Design, develop, and maintain enterprise data models, semantic layers, and analytics-ready datasets in Snowflake.\n\n• Build and maintain data dictionaries, KPI definitions, and business metrics to ensure consistency across reporting platforms.\n\n• Develop scalable reporting architectures that support operational, analytical, and executive reporting needs.\n\n• Optimize data structures, queries, and warehouse performance for BI workloads.\n\n• Reporting & Visualization\n\n• Create and maintain dashboards, workflows and self-service reporting solutions using Retool, and other BI tools.\n\n• Partner with business stakeholders to understand requirements and translate business questions into actionable analytics.\n\n• Develop executive-level dashboards and operational reporting that provide meaningful business insights.\n\n• Ensure data visualizations are intuitive, accurate, and aligned with organizational goals.\n\n• Data Engineering & Automation\n\n• Develop and maintain ELT/ETL processes for structured and semi-structured data.\n\n• Build automated data validation, quality monitoring, and reconciliation processes.\n\n• Utilize Python, SQL, and JavaScript to automate reporting, data transformations, and analytics workflows.\n\n• Collaborate with Data Engineers to enhance data ingestion, transformation, and governance frameworks.\n\n• Governance & Quality\n\n• Establish and maintain data quality standards, validation rules, and monitoring processes.\n\n• Define and enforce data governance best practices, metadata management, and documentation standards.\n\n• Ensure compliance with security, privacy, and regulatory requirements.\n\n• Promote adoption of trusted data sources and standardized reporting practices.\n\n• Collaboration\n\n• Work closely with business leaders, product managers, analysts, and engineering teams.\n\n• Participate in Agile planning, estimation, and solution design activities.\n\n• Provide guidance on analytics best practices, dashboard design, and data storytelling.\n\nQualifications\n\n• Bachelor's degree in Computer Science, Information Systems, Data Analytics, Engineering, or a related field.\n\n• 3+ years of experience in Business Intelligence, Data Engineering, Analytics Engineering, or related disciplines.\n\n• 3+ years of hands-on experience with Snowflake or other relational databases.\n\n• 3+ years of experience building dashboards and analytics solutions using Power BI/Tableau/Retool or similar BI platforms.\n\n• Strong SQL expertise including performance optimization, dimensional modeling, and data warehouse design.\n\n• Strong Python programming experience for analytics, automation, and data processing.\n\n• Experience with JavaScript for dashboard customization, application development, and automation.\n\n• Experience building and maintaining ETL/ELT pipelines.\n\n• Knowledge of data governance, metadata management, and data quality principles.\n\n• Experience working with Git, CI/CD pipelines, and Agile development practices.\n\n• Preferred Qualifications:\n\n• Experience with dbt, Matillion or similar modern data stack technologies.\n\n• Experience working in banking, financial services, fintech, or regulated industries.\n\n• Familiarity with cloud platforms such as AWS.\n\n• Knowledge of API development and integrations.\n\n• Experience leveraging AI and machine learning tools to improve analytics and reporting.\n\n• Snowflake, Power BI, or cloud certifications.\n\nLeader Bank offers an excellent compensation and benefits package including 401k plan with corporate match, medical and dental insurance, and the opportunity to work for a fast growing, local organization.\n\nLeader Bank, N.A. is an Equal Opportunity and Affirmative Action employer and does not discriminate on the basis of race, color, religion, age, gender, marital status, sexual orientation, national origin, disability, military status, veteran status, or any other protected class.\n\nThe base salary range below represents the low and high end of the Leader Bank salary range for this position. Actual salaries will vary and may be above or below the range based on various factors including but not limited to location, experience, and performance.\n\nSalary Minimum: $85,000.00 - Salary Max: $110,000.00\n\nThe range listed is just one component of Leader Bank’s total compensation package for team members. Other rewards may include annual bonuses, commissions, short- and long-term incentives, and program-specific awards. In addition, Leader Bank provides a variety of benefits to eligible team members, including health insurance coverage, a team member wellness program, life and disability insurance, a retirement savings plan, paid holidays and paid time off and vacation.\n\nLeader Bank, N.A. is an Equal Opportunity and Affirmative Action employer and does not discriminate on the basis of race, color, religion, age, gender, marital status, sexual orientation, national origin, disability, military status, veteran status or any other protected class.\n\nLeader Bank is an E-Verify® participant. * For more information, click on the links below:\n\nhttps://www.everify.gov/sites/default/files/everify/images/manuals/EVParticipationPoster.JPG\n\nhttps://www.e-verify.gov/sites/default/files/everify/images/manuals/IERPoster.jpg\n\nE-Verify® is a registered trademark of U.S. Department of Homeland Security"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Arlington",
+              "region": "US-MA",
+              "country": "US",
+              "postal_code": "02474",
+              "street": "180 Massachusetts Ave",
+              "zip": "02474",
+              "county_fips": "25017",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-22T11:50:12.369Z",
+        "curated_at": "2026-11-05T00:54:55.514Z",
+        "job_updated_at": "2026-11-05T00:54:55.514Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 8500000,
+                "max_cents": 11000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "80c0a530c2fc849a35794982076046d5a3056381911864a39ed09bc324576e60",
+            "source": "paycom",
+            "source_posting_id": "213891",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.paycomonline.net/v4/ats/web.php/portal/2D0660F048D1577553C84DA2E7E542E0/jobs/213891"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.paycomonline.net/v4/ats/web.php/portal/2D0660F048D1577553C84DA2E7E542E0/jobs/213891"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Arlington",
+                "state": "MA",
+                "country": "US",
+                "countryRaw": "USA",
+                "regionCode": "MA",
+                "postalCode": "02474",
+                "streetAddress": "180 Massachusetts Ave",
+                "remote": false,
+                "zip": "02474"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 85000,
+                "max": 110000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 85000,
+                    "max": 110000,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-08-12T00:00:00.000Z",
+            "first_seen_at": "2026-09-22T11:50:12.369Z",
+            "last_completed_fetch_at": "2026-11-05T00:54:51.695Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "b7fdcc7f-1417-4ffa-b47a-62012efb5d1e",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "46170cee-ca3b-8022-b979-04a7d6fad1df",
+        "employer_name": {
+          "state": "known",
+          "value": "Insight Global"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Required Skills & Experience  \n  \n• A minimum of a Bachelor’s Degree is required with preference in Supply Chain, Operations Research, Engineering, Computer Science, Analytics, AI or equivalent  \n• A minimum of five (5) years of relevant experience required.  \n• Experience in Supply Chain Planning is preferred.  \n• Excellent project management skills, with experience managing complex projects from initiation to completion.  \n• Experience implementing change across a multi-regional and multi-functional team in a highly matrix environment is required.  \n• Effective communication and stakeholder management skills, with the ability to influence and build relationships at various levels of the organization.  \n• Advanced SQL skills for data modeling, complex queries, and performance tuning.  \n• Experience integrating Databricks outputs with BI tools (Tableau, Power BI) and analytics workflows (Alteryx preferred).  \n• Expert experience with one or more of the following data (acquisition) platforms is required (CDL/ EDG / EDL, SAP, Alteryx, Tableau, Phyton, R, SQL, Planet 9).  \n  \nNice to Have Skills & Experience  \n  \n• Professional experience in Plan / planning systems (APO and OMP) & ERP systems with a strong understanding of E2E processes preferred.  \n• Experience in using and working with JnJ Anchor App is preferred  \n• Experience working in the Medical Device, Pharmaceutical, or Consumer Products industry preferred.  \n  \nJob Description  \n  \n• Support on design, development, and maintenance of new application  \n• Support development and execution of a comprehensive analytics platform roadmap and strategy to scale BI capabilities across the supply‑chain organization.  \n• Analyze strategic and tactical business needs to design and deliver data‑driven solutions that improve decision making.  \n• Identify, prioritize, and activate cross‑franchise opportunities to standardize and scale key supply‑chain reporting.  \n• Partner with IT and cross‑functional teams to develop visualization and virtualization solutions that support the Plan Transformation Program metrics and processes.  \n• Own data validation, consolidation, and quality checks to assess and improve existing dashboards and reporting.  \n• Maintain and update datasets, Alteryx workflows, and ETL inputs that feed Tableau and Power BI reports.  \n• Contribute to BI projects and programs by owning defined workstreams, deliverables, and documentation.  \n• Collaborate with Supply Chain Planning to gather feedback and iterate on SET Forecast and SET Deployment analytics and visualizations.  \n• Provide day‑to‑day BI support and respond to ad‑hoc analysis requests to meet business needs.  \n• Promote BI governance by documenting metric definitions, access controls, and reporting standards.  \n  \nWe are a company committed to creating inclusive environments where people can bring their full, authentic selves to work every day. We are an equal opportunity employer that believes everyone matters. Qualified candidates will receive consideration for employment opportunities without regard to race, religion, sex, age, marital status, national origin, sexual orientation, citizenship status, disability, or any other status or characteristic protected by applicable laws, regulations, and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send a request to Human Resources Request Form. The EEOC \"Know Your Rights\" Poster is available [here](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "remote"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Raynham",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25005",
+              "msa": {
+                "cbsa_code": "39300",
+                "cbsa_title": "Providence-Warwick, RI-MA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-01T12:27:02.321Z",
+        "curated_at": "2026-11-02T14:43:17.280Z",
+        "job_updated_at": "2026-11-02T14:43:17.280Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 4500,
+                "max_cents": null,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "hour",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "missing",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "e0a05b64b783e51275316014742ff4bc127c5e59dd74991de3774fb43372253e",
+            "source": "employer_site",
+            "source_posting_id": "7a018809-c7ce-498b-b5f7-7a116f6cc74c",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://insightglobal.com/jobs/7a018809-c7ce-498b-b5f7-7a116f6cc74c"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://insightglobal.com/jobs/7a018809-c7ce-498b-b5f7-7a116f6cc74c"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Raynham",
+                "state": "MA",
+                "country": "US",
+                "regionCode": "MA",
+                "remote": true
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 45,
+                "currency": "USD",
+                "interval": "hour"
+              }
+            },
+            "source_posted_at": "2026-10-22T19:04:13.100Z",
+            "first_seen_at": "2026-11-01T12:27:02.321Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 14,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:46:09.325Z"
+  },
+  "response_usage": {
+    "charged": "11",
+    "remaining": "98727",
+    "request_id": "56aaa1d3-5500-47cd-be71-c075ae30eaa6"
+  }
+}

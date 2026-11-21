@@ -1,0 +1,2842 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:45:08.787536+00:00",
+  "state_filter": "CA",
+  "title_filter": "AI research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "CA",
+    "title": "AI research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "5d4fd967-ec6d-43dc-b6b3-0b7f42fc472f",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "10c0372c-e0f4-4bf4-b22a-5d3b0f6ce3bc",
+        "employer_name": {
+          "state": "known",
+          "value": "Cisco"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist II (Full Time) – United States"
+        },
+        "description": {
+          "state": "known",
+          "value": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens. Applications are accepted until further notice. Meet the Team At Foundation AI, we are leading frontier AI research across Cisco. Our mission is to advance the state of AI. We translate that research into purpose-built models, agentic systems, new algorithms, optimization methods, and scalable data processing techniques that solve real-world problems at scale. We explore new model architectures, pre-training and post-training methods, inference optimization, evaluation techniques, and data pipelines. Together, we are advancing AI at Cisco and for the broader AI community! Your Impact As an AI Researcher, you will work on the research, development, and deployment of advanced AI systems. Your focus will span large language models, agentic AI, multimodal learning, and enterprise-scale AI applications. We are looking for researchers who will help translate frontier research into practical systems by designing experiments, developing new methods, and turning research insights into impactful, scalable AI solutions. We are particularly interested in researchers with deep expertise in algorithm design for pre-training and post-training, scalable data curation, and reliable AI infrastructure. You will drive improvements to training algorithms, curate and optimize data at scale, and design infrastructure needed to train purpose-built models that can compete with frontier models on specific tasks aligned with Cisco's business priorities and Foundation AI's research agenda. We place a strong emphasis on publishing research and contributing meaningfully to the AI community. In this role, you will write scientific articles for top-tier machine learning and AI conferences, publish technical blog posts, and contribute to the open-source AI community! In this role, you will: Develop scalable data curation and processing methods that improve model training and task-specific performance. Build production-ready AI systems using strong software engineering practices. Optimize large language models and agentic systems for enterprise and security-focused use cases. Minimum Qualifications Bachelors + 2 years of related experience, or Masters + 0 years of related experience in Computer Science, Artificial Intelligence, Machine Learning, or a related field Strong experience with Python, PyTorch, production-grade software engineering practices, and common AI/ML libraries Experience with large language models, model training, fine-tuning, evaluation, inference, and optimization Strong understanding of data pipelines, model experimentation, and scalable AI system design Strong communication skills, with the ability to explain complex research and engineering concepts to cross-functional partners Preferred Qualifications Experience designing scalable data curation methods and building reliable infrastructure for large-scale model training, evaluation, inference, and deployment Experience deploying high-performance inference engines such as vLLM, NVIDIA Triton, or TorchServe, and working with cloud-native deployment, Docker, Kubernetes, MLOps pipelines, and major cloud platforms such as AWS, GCP, or Azure Demonstrated history of publishing research in top-tier AI/ML conferences such as NeurIPS, ICML, ICLR, or ACL, or contributing to significant open-source AI projects Experience designing and scaling agentic AI workflows, multi-agent frameworks, and autonomous AI systems Familiarity with cybersecurity principles, AI systems for security-focused use cases, safety, and robust machine learning Why Cisco? At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere. We are Cisco, and our power starts with you. Message to applicants applying to work in the U.S. and/or Canada: Individual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process. U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time. U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies: 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations) 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next Additional paid time away may be requested to deal with critical or emergency issues for family members Optional 10 paid days per full calendar year to volunteer For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies. Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows: .75% of incentive target for each 1% of revenue attainment up to 50% of quota; 1.5% of incentive target for each 1% of attainment between 50% and 75%; 1% of incentive target for each 1% of attainment between 75% and 100%; and Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation. For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid. The applicable full salary ranges for this position, by specific state, are listed below: New York City Metro Area: $165,000.00 - $242,800.00 Non-Metro New York state & Washington state: $148,700.00 - $216,100.00 * For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined. ** Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94158",
+              "zip": "94158",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Milpitas",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Jose",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-20T06:36:04.538Z",
+        "curated_at": "2026-11-20T06:37:08.766Z",
+        "job_updated_at": "2026-11-20T06:37:08.766Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16500000,
+                "max_cents": 24280000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "0787ee0875986267fcc5c76dbc1cb632d972ee878e6dff5c57b7ac042ea2c948",
+            "source": "phenom",
+            "source_posting_id": "2032578",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.cisco.com/global/en/job/2032578"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/AI-Research-Scientist-II--Full-Time----United-States_2032578/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "CA",
+                "postalCode": "94158",
+                "latitude": 37.77493,
+                "longitude": -122.41942,
+                "remote": false,
+                "zip": "94158",
+                "alternatives": [
+                  {
+                    "city": "Milpitas",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 37.42827,
+                    "longitude": -121.90662,
+                    "remote": false,
+                    "raw": "Milpitas, California, United States of America"
+                  },
+                  {
+                    "city": "San Jose",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 37.33939,
+                    "longitude": -121.89496,
+                    "remote": false,
+                    "raw": "San Jose, California, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 165000,
+                "max": 242800,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-19T00:00:00.000Z",
+            "first_seen_at": "2026-11-20T06:36:04.538Z",
+            "last_completed_fetch_at": "2026-11-13T23:07:14.745Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "2cde01dc-bad9-4fb0-9363-2821ac6e4b2a",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "10c0372c-e0f4-4bf4-b22a-5d3b0f6ce3bc",
+        "employer_name": {
+          "state": "known",
+          "value": "Cisco"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist III (Full Time) – United States"
+        },
+        "description": {
+          "state": "known",
+          "value": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens. Applications are accepted until further notice. Meet the Team At Foundation AI, we are leading frontier AI research across Cisco. Our mission is to advance the state of AI. We translate that research into purpose-built models, agentic systems, new algorithms, optimization methods, and scalable data processing techniques that solve real-world problems at scale. We explore new model architectures, pre-training and post-training methods, inference optimization, evaluation techniques, and data pipelines. Together, we are advancing AI at Cisco and for the broader AI community! Your Impact As an AI Researcher, you will work on the research, development, and deployment of advanced AI systems. Your focus will span large language models, agentic AI, multimodal learning, and enterprise-scale AI applications. We are looking for researchers who will help translate frontier research into practical systems by designing experiments, developing new methods, and turning research insights into impactful, scalable AI solutions. We are particularly interested in researchers with deep expertise in algorithm design for pre-training and post-training, scalable data curation, and reliable AI infrastructure. You will drive improvements to training algorithms, curate and optimize data at scale, and design infrastructure needed to train purpose-built models that can compete with frontier models on specific tasks aligned with Cisco's business priorities and Foundation AI's research agenda. We place a strong emphasis on publishing research and contributing meaningfully to the AI community. In this role, you will write scientific articles for top-tier machine learning and AI conferences, publish technical blog posts, and contribute to the open-source AI community! In this role, you will: Develop scalable data curation and processing methods that improve model training and task-specific performance. Build production-ready AI systems using strong software engineering practices. Optimize large language models and agentic systems for enterprise and security-focused use cases. Minimum Qualifications Bachelors + 5 years of related experience, or Masters + 3 years of related experience, or PhD + 0 years of related experience in Computer Science, Artificial Intelligence, Machine Learning, or a related field. Strong experience with Python, PyTorch, production-grade software engineering practices, and common AI/ML libraries Experience with large language models, model training, fine-tuning, evaluation, inference, and optimization Strong understanding of data pipelines, model experimentation, and scalable AI system design Strong communication skills, with the ability to explain complex research and engineering concepts to cross-functional partners Preferred Qualifications Experience designing scalable data curation methods and building reliable infrastructure for large-scale model training, evaluation, inference, and deployment Experience deploying high-performance inference engines such as vLLM, NVIDIA Triton, or TorchServe, and working with cloud-native deployment, Docker, Kubernetes, MLOps pipelines, and major cloud platforms such as AWS, GCP, or Azure Demonstrated history of publishing research in top-tier AI/ML conferences such as NeurIPS, ICML, ICLR, or ACL, or contributing to significant open-source AI projects Experience designing and scaling agentic AI workflows, multi-agent frameworks, and autonomous AI systems Familiarity with cybersecurity principles, AI systems for security-focused use cases, safety, and robust machine learning Why Cisco? At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere. We are Cisco, and our power starts with you. Message to applicants applying to work in the U.S. and/or Canada: Individual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process. U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time. U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies: 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations) 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next Additional paid time away may be requested to deal with critical or emergency issues for family members Optional 10 paid days per full calendar year to volunteer For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies. Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows: .75% of incentive target for each 1% of revenue attainment up to 50% of quota; 1.5% of incentive target for each 1% of attainment between 50% and 75%; 1% of incentive target for each 1% of attainment between 75% and 100%; and Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation. For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid. The applicable full salary ranges for this position, by specific state, are listed below: New York City Metro Area: $184,000.00 - $274,600.00 Non-Metro New York state & Washington state: $168,000.00 - $244,300.00 * For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined. ** Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94158",
+              "zip": "94158",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-04T11:21:07.850Z",
+        "curated_at": "2026-11-04T11:22:30.015Z",
+        "job_updated_at": "2026-11-20T06:37:08.553Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 18400000,
+                "max_cents": 27460000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "bcb12d08b60623bc7d965316fb0e44e0c5ed86e2bf9741ec899b113d2ca2019c",
+            "source": "phenom",
+            "source_posting_id": "2025872",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.cisco.com/global/en/job/2025872"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/AI-Research-Scientist-III--Full-Time----United-States_2025872/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "CA",
+                "postalCode": "94158",
+                "latitude": 37.77493,
+                "longitude": -122.41942,
+                "remote": false,
+                "zip": "94158"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 184000,
+                "max": 274600,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-18T00:00:00.000Z",
+            "first_seen_at": "2026-11-04T11:21:07.850Z",
+            "last_completed_fetch_at": "2026-11-13T23:07:14.745Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e5c68473-eb0a-4849-9660-40d37548ec02",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "7cdf19c0-1610-8494-b526-88c3d334c453",
+        "employer_name": {
+          "state": "known",
+          "value": "Tanium"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "**The Basics**\n\nTanium is seeking an AI Research Scientist. This role reports to our Sr. Director AI and Applied Research leading AI design, prototyping, and experimentation across Tanium products and solutions. As an AI Research Scientist, you will collaborate across engineering and product teams to design, develop, and evaluate AI and ML models that power intelligent endpoint management and security solutions. This is an exciting opportunity to work at the intersection of cutting-edge AI research and real-world cybersecurity applications at enterprise scale.\n\n***This position follows the Company’s hybrid schedule which currently requires employees to work in the office at one of the following locations a minimum of three days per week: Addison, TX; Bellevue, WA; Durham, NC; Emeryville, CA; or Reston, VA.***\n\n**What you’ll do**\n\n* Collaborate with data science and engineering teams to design and implement AI and machine learning (ML) algorithms that improve Tanium’s autonomous IT capabilities.\n* Develop and evaluate ML models across a wide variety of use cases, including anomaly detection, threat identification, and performance optimization.\n* Analyze large-scale endpoint data to extract meaningful insights and develop predictive models.\n* Contribute to the design and implementation of data pipelines that efficiently process and analyze endpoint data at scale.\n* Conduct exploratory data analyses and and develop visualizations to communicate findings (to technical and non-technical stakeholders) and inform product development decisions.\n* Document research methodologies, experiments, and results to expand Tanium's internal knowledge base and support reproducibility.\n* Stay up to date with the latest advancements in AI, ML, and endpoint management technologies.\n* Monitor and incorporate the latest advancements in AI, ML, large language models, and endpoint management technologies into ongoing research efforts\n* Partner with cross-functional teams to translate research findings into scalable product features and improvements.\n\n**We’re looking for someone with**\n\n* In accordance with Department of Defense requirements, applicants for this role must be a U.S. citizen, national, or resident pursuant to 8 U.S.C. 1101(a)(20) and 8 U.S.C. 1324b(a)(3)\n* Education\n    * Bachelor's degree in Computer Science, Mathematics, Statistics, Data Science, or a related field, or equivalent experience.\n* Experience\n    * 1+ years of experience in applied machine learning, data science, or AI research, or equivalent demonstrated expertise\n    * Experience developing and deploying ML models for tasks such as classification, regression, or anomaly detection\n    * Experience working with large-scale datasets and the tools and techniques required to process and analyze them efficiently\n    * Experience in one or more of the following areas preferred: statistical modeling, anomaly detection, internals of large language models (LLMs), or agentic AI systems\n* Other\n    * Strong foundation in machine learning, data analysis, and statistics\n    * Proficiency in Python\n    * Familiarity with machine learning frameworks and libraries such as PyTorch, scikit-learn, TensorFlow, NumPy, SciPy, and pandas\n    * Strong problem-solving skills with the ability to work both independently and collaboratively in a team environment\n    * Excellent written and verbal communication skills, including the ability to present complex technical concepts clearly to diverse audiences\n    * Passion for technology, cybersecurity, and autonomous systems preferred\n\n**About Tanium**\n\nTanium is the Autonomous IT company. As Al accelerates both innovation and risk, Tanium Atlas, the company's autonomous operating system, puts the full depth of the Tanium Autonomous IT Platform behind every IT and security operator - human and agentic. Tanium provides the real-time intelligence, agentic decision-making, and autonomous execution operators needed to detect, decide, and remediate at machine speed across their endpoint estate.\n\nThe company is recognized as a Leader in the inaugural 2026 Gartner® Magic Quadrant™ for Endpoint Management Tools, as a Leader in the IDC MarketScape: Worldwide Client Endpoint Management Software for Windows Device Management 2025-2026 Vendor Assessment, and as a Leader in The Forrester Wave™. Endpoint Management Platforms, Q2 2026.\n\nTo learn how Tanium delivers Autonomous IT for unstoppable business, visit [www.tanium.com](http://www.tanium.com/) and follow us on [LinkedIn](https://www.linkedin.com/company/tanium) and [X](https://twitter.com/Tanium).\n\n**On a mission. Together.**\n\nAt Tanium, we are stewards of a culture that emphasizes the importance of collaboration, respect, and diversity. In our pursuit of revolutionizing the way some of the largest enterprises and governments in the world solve their most difficult IT challenges, we are strengthened by our unique perspectives and by our collective actions.\n\nAs a global organization with stakeholders around the world, it’s imperative that the diversity of our customers and communities is reflected internally in our team members. We strive to create a diverse and inclusive environment where everyone feels they have opportunities to succeed and grow because we know that only together can we do great things. \n\nOur commitment to excellence and innovation has earned us a place on the Forbes Cloud 100 list for ten consecutive years, and we continue to be recognized worldwide as a great place to work.\n\nEach of our team members has 5 days set aside as volunteer time off (VTO) to contribute to the communities they live in and give back to the causes they care about most.\n\n**What you’ll get**\n\nThe annual base salary range for this full-time position is $143,000 to $219,000. This range is an estimate for what Tanium will pay a new hire. The actual annual base salary offered may be adjusted based on a variety of factors, including but not limited to, location, education, skills, training, and experience.\n\nIn addition to an annual base salary, team members will receive equity awards and a generous benefits package consisting of medical, dental and vision plan, family planning benefits, health savings account, flexible spending account, transportation savings account, 401(k) retirement savings plan with company match, life, accident and disability coverage, business travel accident insurance, employee assistance programs, disability insurance, and other well-being benefits.\n\nTanium is an Equal Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, gender identity, sexual orientation, disability, protected Veteran status, or other legally protected categories. If you require a reasonable accommodation in searching for a job opening, completing an application, interviewing, or completing any pre-employment testing or requirements, please contact [accommodations@tanium.com](mailto:accommodations@tanium.com). For more information refer to the “Know Your Rights” poster which is available here - [https://www.eeoc.gov/poster](https://www.eeoc.gov/poster).\n\nPlease be aware of job offers coming from people claiming to be Tanium employees. Tanium employees will only use @tanium.com email addresses to communicate with you, will have video interviews with you, and will never ask you for money.\n\n[This link](https://www.cigna.com/legal/compliance/machine-readable-files) leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data.\n\nFor more information on how Tanium processes your personal data, please see our [Privacy Policy](https://www.tanium.com/privacy-policy/).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Addison",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Bellevue",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Durham",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37063",
+              "msa": {
+                "cbsa_code": "20500",
+                "cbsa_title": "Durham-Chapel Hill, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Emeryville",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06001",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Reston",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-21T17:54:31.617Z",
+        "curated_at": "2026-11-20T01:48:46.635Z",
+        "job_updated_at": "2026-11-20T01:48:46.635Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 14300000,
+                "max_cents": 21900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1d9cdc827d4ba246bb23858d370af5e8682ed8d0462d3b85cefcab9df834477b",
+            "source": "greenhouse",
+            "source_posting_id": "8232146",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Addison",
+                "state": "TX",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Bellevue, WA"
+                  },
+                  {
+                    "city": "Durham",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Durham, NC"
+                  },
+                  {
+                    "city": "Emeryville",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Emeryville, CA"
+                  },
+                  {
+                    "city": "Reston",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Reston, VA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 143000,
+                "max": 219000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-21T16:30:12.000Z",
+            "first_seen_at": "2026-10-21T17:54:31.617Z",
+            "last_completed_fetch_at": "2026-11-20T01:47:58.516Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "ba4e7597-ecc1-40e0-b500-63c19355eca1",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "c774cc38-0735-8286-8baf-9effa516cc14",
+        "employer_name": {
+          "state": "known",
+          "value": "Cisco"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist III (Full Time) – United States"
+        },
+        "description": {
+          "state": "known",
+          "value": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\nApplications are accepted until further notice.\nMeet the Team\nAt Foundation AI, we are leading frontier AI research across Cisco. Our mission is to advance the state of AI. We translate that research into purpose-built models, agentic systems, new algorithms, optimization methods, and scalable data processing techniques that solve real-world problems at scale.\nWe explore new model architectures, pre-training and post-training methods, inference optimization, evaluation techniques, and data pipelines. Together, we are advancing AI at Cisco and for the broader AI community!\nYour Impact\nAs an AI Researcher, you will work on the research, development, and deployment of advanced AI systems. Your focus will span large language models, agentic AI, multimodal learning, and enterprise-scale AI applications. We are looking for researchers who will help translate frontier research into practical systems by designing experiments, developing new methods, and turning research insights into impactful, scalable AI solutions.\nWe are particularly interested in researchers with deep expertise in algorithm design for pre-training and post-training, scalable data curation, and reliable AI infrastructure. You will drive improvements to training algorithms, curate and optimize data at scale, and design infrastructure needed to train purpose-built models that can compete with frontier models on specific tasks aligned with Cisco's business priorities and Foundation AI's research agenda.\nWe place a strong emphasis on publishing research and contributing meaningfully to the AI community. In this role, you will write scientific articles for top-tier machine learning and AI conferences, publish technical blog posts, and contribute to the open-source AI community!\nIn this role, you will:\n+ Develop scalable data curation and processing methods that improve model training and task-specific performance.\n+ Build production-ready AI systems using strong software engineering practices.\n+ Optimize large language models and agentic systems for enterprise and security-focused use cases.\nMinimum Qualifications\n+ Bachelors + 5 years of related experience, or Masters + 3 years of related experience, or PhD + 0 years of related experience in Computer Science, Artificial Intelligence, Machine Learning, or a related field.\n+ Strong experience with Python, PyTorch, production-grade software engineering practices, and common AI/ML libraries\n+ Experience with large language models, model training, fine-tuning, evaluation, inference, and optimization\n+ Strong understanding of data pipelines, model experimentation, and scalable AI system design\n+ Strong communication skills, with the ability to explain complex research and engineering concepts to cross-functional partners\nPreferred Qualifications\n+ Experience designing scalable data curation methods and building reliable infrastructure for large-scale model training, evaluation, inference, and deployment\n+ Experience deploying high-performance inference engines such as vLLM, NVIDIA Triton, or TorchServe, and working with cloud-native deployment, Docker, Kubernetes, MLOps pipelines, and major cloud platforms such as AWS, GCP, or Azure\n+ Demonstrated history of publishing research in top-tier AI/ML conferences such as NeurIPS, ICML, ICLR, or ACL, or contributing to significant open-source AI projects\n+ Experience designing and scaling agentic AI workflows, multi-agent frameworks, and autonomous AI systems\n+ Familiarity with cybersecurity principles, AI systems for security-focused use cases, safety, and robust machine learning\nWhy Cisco?\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\nWe are Cisco, and our power starts with you.\nMessage to applicants applying to work in the U.S. and/or Canada:\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n+ 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n+ 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n+ Non-exempt employees receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n+ Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n+ 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n+ Additional paid time away may be requested to deal with critical or emergency issues for family members\n+ Optional 10 paid days per full calendar year to volunteer\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n+ .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n+ 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n+ 1% of incentive target for each 1% of attainment between 75% and 100%; and\n+ Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\nThe applicable full salary ranges for this position, by specific state, are listed below:\nNew York City Metro Area:\n$184,000.00 - $274,600.00\nNon-Metro New York state & Washington state:\n$168,000.00 - $244,300.00\n* For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\nEmployees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.\nCisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.\nCisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94103",
+              "zip": "94103",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-08T05:47:14.397Z",
+        "curated_at": "2026-11-12T16:04:55.382Z",
+        "job_updated_at": "2026-11-20T01:35:37.106Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16800000,
+                "max_cents": 24430000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 18400000,
+                "max_cents": 27460000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "6009af8101f637316ea125d3edb07d042bcd94dbe8b31a3999bdd31524e3343b",
+            "source": "directemployers",
+            "source_posting_id": "4E302C9911464D599BDF8F33B1E06D64",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://ciscocareers.dejobs.org/san-francisco-ca/ai-research-scientist-iii-full-time-united-states/4E302C9911464D599BDF8F33B1E06D64/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/4E302C9911464D599BDF8F33B1E06D6410"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "US",
+                "regionCode": "CA",
+                "postalCode": "94103",
+                "latitude": 37.76958,
+                "longitude": -122.42304,
+                "remote": false,
+                "zip": "94103"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 184000,
+                "max": 274600,
+                "currency": "USD",
+                "interval": "unknown",
+                "ranges": [
+                  {
+                    "min": 168000,
+                    "max": 244300,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 184000,
+                    "max": 274600,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-09-15T23:54:26.000Z",
+            "first_seen_at": "2026-11-08T05:47:14.397Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "10cc5e85-99ad-412f-9739-7a801d3f8275",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, CoreML - Monetization AI"
+        },
+        "description": {
+          "state": "known",
+          "value": "We are the Monetization Ranking AI Research organization, dedicated to delivering personalized ads that maximize both user utility and advertiser value. We focus on advancing AI and ML technologies for all aspects of Monetization, including ranking, retrieval, model architecture, and optimization. By consistently integrating cutting-edge AI/ML advancements, we help Meta’s products achieve long-term goals and have contributed tens of billions in revenue. With our growing impact, we’re seeking AI Research Scientists to join our team and drive SOTA research across the Monetization organization.\n\nResponsibilities\nDevelop and implement large-scale model architectures, leveraging model scaling and transfer learning techniques\nPrioritize training scalability and signal scaling to optimize model performance, efficiency, and reliability\nDevelop and apply NextGen sequence learning techniques to drive advancements in natural language processing and understanding\nDesign and implement generative modeling solutions for data augmentation\nResearch and develop graph-aware large language models\nDevelop and deploy AutoML pipelines\nApply Reinforcement Learning (RL) techniques, including long-term value optimization, RLHF, and RL4Reason\nUse causal learning to identify and understand the cause and effect of relationships across data\nCollaborate with cross-functional teams to design and optimize ML systems, leveraging expertise in hardware-software co-design, including quantization, compression, and resource-efficient AI, to drive performance improvements and efficiency gains\nDevelop and implement innovative solutions for data-related challenges, utilizing knowledge of semi/self-supervised learning, generative techniques, sampling, debiasing, domain adaptation, continual learning, data augmentation, cold-start, content understanding, and large language models\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nHas obtained a PhD in Computer Science, Computer Engineering, Artificial Intelligence, Machine Learning, or relevant technical field\nExperience holding an industry, faculty, or government researcher position\nResearch experience in natural language processing, large language modeling, deep learning, reinforcement learning, recommendations, ranking, search, or related areas\nPublications in machine learning, artificial intelligence, or related field\nProgramming experience in Python and hands-on experience with frameworks such as PyTorch\nMust obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment Experience taking ideas from research to production.\nFirst author publications at peer-reviewed AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL).\nExperience solving complex problems and comparing alternative solutions, tradeoffs, and different perspectives to determine a path forward."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "remote"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Sunnyvale",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Mateo",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Bellevue",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Santa Clara",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Fremont",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06001",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T08:07:59.322Z",
+        "curated_at": "2026-11-20T01:22:04.228Z",
+        "job_updated_at": "2026-11-20T01:22:04.228Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "982c29c933c8e4c1eb32b7a395b30f53a40710582340b65f3b4a7986cbf01230",
+            "source": "employer_site",
+            "source_posting_id": "1380974339703907",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1380974339703907/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1380974339703907/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Sunnyvale",
+                "state": "CA",
+                "country": "US",
+                "remote": true,
+                "alternatives": [
+                  {
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Sunnyvale, CA"
+                  },
+                  {
+                    "city": "San Mateo",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "San Mateo, CA"
+                  },
+                  {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Bellevue, WA"
+                  },
+                  {
+                    "city": "Menlo Park",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Menlo Park, CA"
+                  },
+                  {
+                    "city": "Santa Clara",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Santa Clara, CA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "San Francisco, CA"
+                  },
+                  {
+                    "city": "Fremont",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Fremont, CA"
+                  },
+                  {
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Remote, US"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-04-02T21:49:35.000Z",
+            "first_seen_at": "2026-09-21T08:07:59.322Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8f71d749-66f3-4ca1-88f6-e7d7fda6f0f6",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist - MSL FAIR Foundations"
+        },
+        "description": {
+          "state": "known",
+          "value": "Meta is seeking Research Scientists to join the Evaluations team within Meta Superintelligence Labs (MSL). Evaluations are the core of AI progress at MSL, determining what capabilities get built, which features get prioritized, and how fast our models improve. As a Research Scientist, you will provide the technical capabilities to measure and understand the capabilities of our frontier AI systems. You'll work in tandem with world-class researchers to envision, develop, and validate novel evaluations that shape the future of AI capability measurement.\n\nThis is a technical research role requiring good scientific judgment, creativity, and the ability to drive ambitious research agendas with independence. The evaluations you develop will directly influence research direction and major model lines within MSL, making scientific validity, methodological rigor, and clear communication important. You will collaborate closely with technical leadership to ensure evaluations capture the most important capabilities, translating organizational priorities into measurable benchmarks, and translating evaluation insights back into research direction.\n\nWe are looking for exceptional research talent – researchers who have shaped the field of machine learning, and are ready to do so again at the frontier of AI. If you are passionate about defining how we measure AI progress and want to shape the scientific foundations of frontier AI development, we encourage you to apply for this exciting opportunity at the core of MSL.\n\nResponsibilities\nCurate and integrate publicly available and internal benchmarks to direct the capabilities of frontier model development\nDevelop and implement evaluation environments, including environments for novel model capabilities and modalities\nCollaborate with external data vendors to source and prepare high-quality evaluation datasets\nExecute on the technical vision of research scientists designing new benchmarks and evaluations\nBuild robust, reusable evaluation pipelines that scale across multiple model lines and product areas\nContribute to evaluation tooling that measures the quality and reliability of evaluation suites\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nPhD degree in Computer Science, Machine Learning, or a related technical field\n3+ years of experience in machine learning engineering, machine learning research, or a related technical role\nProficiency in Python and experience with ML frameworks such as PyTorch\nExperience identifying, designing and completing medium to large technical features independently, without guidance\nProven success in software engineering practices including version control, testing, and code review practices\nAbility to work independently and adapt to rapidly changing priorities Publications at peer-reviewed venues (NeurIPS, ICML, ICLR, ACL, EMNLP, or similar) related to language model evaluation, benchmarking, or deep learning\nHands-on experience with language model post-training and deep learning systems, or building reinforcement learning environments\nExperience implementing or developing evaluation benchmarks for large language models and multimodal models (e.g., vision-language, audio, video)\nExperience working with large-scale distributed systems and data pipelines\nFamiliarity with language model evaluation frameworks and metrics\nTrack record of open-source contributions to ML evaluation tools or benchmarks"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T08:07:59.322Z",
+        "curated_at": "2026-11-20T01:22:03.119Z",
+        "job_updated_at": "2026-11-20T01:22:03.119Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "db56d35097af1893bd51254e2312d893c74415741e99beb379002a77062e5f48",
+            "source": "employer_site",
+            "source_posting_id": "2709819839377555",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2709819839377555/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2709819839377555/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-02-13T22:52:46.000Z",
+            "first_seen_at": "2026-09-21T08:07:59.322Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "d7845bd9-efdc-4713-a499-a1a42b80c1ac",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b9929f2e-38bb-813d-8837-fd7347f8afd1",
+        "employer_name": {
+          "state": "known",
+          "value": "Anthrogen"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "source_omitted",
+          "evidence": [
+            "no description published by the source; every description field in the detail response is present and empty (content, user_provided_description)"
+          ]
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T00:26:23.771Z",
+        "curated_at": "2026-11-20T00:14:14.822Z",
+        "job_updated_at": "2026-11-20T00:14:14.822Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ce98888f2bfd85175b7e077a21403886fda8801f447b43d196e1c868e42a67bc",
+            "source": "dover",
+            "source_posting_id": "8776e1b5-306e-4e3b-94d0-f3c8d727f2d9",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-08-30T10:50:59.510Z",
+            "first_seen_at": "2026-11-10T00:26:23.771Z",
+            "last_completed_fetch_at": "2026-11-20T00:14:11.609Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "45a64603-c0fa-476f-b156-904914cd1e46",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "56f7d5cb-1d31-89b1-86c3-4f1bb9857400",
+        "employer_name": {
+          "state": "known",
+          "value": "TikTok"
+        },
+        "title": {
+          "state": "known",
+          "value": "Applied AI Research Scientist - Graduate (TikTok Content Ecology) - 2027 Start (PhD)"
+        },
+        "description": {
+          "state": "known",
+          "value": "The TikTok Content Ecology team builds the core algorithm systems for content understanding and ecosystem governance on TikTok. Drawing on platform-scale video content and interaction signals, we apply multimodal large models, natural language processing, computer vision, and recommendation systems to build a content foundation platform supporting search, local services, product infrastructure, PGC, and UGC across TikTok's global business.\n\nOur work spans three areas:\n1. Unified content understanding. We use multimodal large models for fine-grained semantic parsing of video, building a cross-category, multilingual labeling and event knowledge system that provides reliable foundations for search, recommendation, and safety.\n2. Platform-level content governance. We develop high-precision recognition and review models that handle billions of pieces of content daily, addressing low-quality and non-compliant material and supporting compliance requirements for goods and content in areas such as local services.\n3. Business growth and user experience. Through trending discovery, inspiration recommendations, and intelligent customer service, we serve creators and users worldwide, improving distribution efficiency, the precision of creative recommendations, and the speed of customer service response.\n\nWe work on understanding hundreds of languages and processing multimodal data at hundred-billion scale, in a global business that keeps growing. You will apply NLP, multimodal, and large model technology at real-world scale, seeing your work reach hundreds of millions of users.\n\nThe Content Ecology team builds next-generation AI products and scalable platform capabilities that power how content is created, understood, discovered, and governed across TikTok globally. Leveraging cutting-edge technologies such as LLMs/MLLMs, multimodal learning, and Agentic AI, the team addresses complex, high-impact challenges across Local Services, Search, Short Drama, Creator Assistance, and AIGC. By uniting frontier AI research with product innovation, our team drives scalable solutions that elevate experiences for users, creators, and merchants worldwide.\n\nWe are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth.\nSuccessful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.\n\nResponsibilities:\n- Develop and optimize LLM/MLLM, Agent, NLP, CV, and recommendation models to improve TikTok’s content ecosystem.\n- Design, build, and optimize advanced Agentic AI frameworks, focusing on core components like planning, tool use, skills, and memory.\n- Implement multimodal AI solutions, integrating video, text, and speech understanding.\n- Train and fine-tune deep learning models using TensorFlow, PyTorch, or other ML frameworks.\n- Deploy and scale machine learning solutions in a distributed computing environment.\n- Work closely with AI researchers, software engineers, and business teams to apply AI technologies effectively.\n\nMinimum Qualifications:\n- Individuals who are completing or have recently completed a PhD degree in computer science, computer engineering, electrical engineering, applied mathematics, or a related discipline.\n- Strong programming skills in Python, C++, or similar languages.\n- Hands-on experience with deep learning frameworks such as TensorFlow or PyTorch.\n- Hands-on experience with LLMs/MLLMs, specifically focusing on Post-Training (SFT, RL) and/or Inference optimization.\n- Solid understanding of machine learning fundamentals and the modern AI stack.\n- Strong proficiency in integrating AI tools into knowledge discovery and research workflows.\n- Excellent communication skills to collaborate across teams.\n\nPreferred Qualifications:\n- Experience with distributed computing and optimizing AI models for real-world applications.\n- Experience in applying machine learning techniques to enhance business and user experiences.\n- Deep knowledge of agent architectures, including planning, tool use (e.g., LangChain, LlamaIndex), skills, and memory systems.\n- Strong experience in working with Agentic modeling, workflows, and frameworks.\n- Publications in top AI/ML conferences (NeurIPS, ICML, CVPR, ACL, AAAI, etc.) or strong contributions to open-source AI projects."
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Jose",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-18T21:30:33.235Z",
+        "curated_at": "2026-11-12T18:03:48.944Z",
+        "job_updated_at": "2026-11-19T22:43:18.097Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "2e53e04633a20d8693d131c1735fd87607c4a95993b7b86a0e3bffee8824e4d0",
+            "source": "employer_site",
+            "source_posting_id": "7668838052657678597",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://lifeattiktok.com/search/7668838052657678597"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://lifeattiktok.com/search/7668838052657678597"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Jose",
+                "state": "California",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": null,
+            "first_seen_at": "2026-09-18T21:30:33.235Z",
+            "last_completed_fetch_at": "2026-11-19T22:38:39.544Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "65788c3c-fc1b-452f-8e8b-60700fca4b7d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "1d79181b-bb6c-8678-b7ae-42bea4506920",
+        "employer_name": {
+          "state": "known",
+          "value": "Edison Scientific"
+        },
+        "title": {
+          "state": "known",
+          "value": "Member of Technical Staff, AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "ABOUT US\n\nEdison Scientific builds and deploys AI scientist agents to accelerate science and the development of new medicines. We are an ambitious team run by scientists and engineers from leading institutions across biology, physics, chemistry, and AI.\n\nABOUT THE ROLE\n\nAs a Member of Technical Staff, AI Research Scientist at Edison Scientific, you play a central role in developing the models and algorithms that accelerate scientific research. Your role will encompass both cutting-edge research and applied methods, bringing your work to bear on scientific challenges in laboratories and scientists around the world.\n\nKEY RESPONSIBILITIES\n\n- Interpret challenges in building AI agents for science as well-formulated statistical problems\n\n- Conduct research in post-training of LLMs on challenging scientific reasoning tasks, with the goal of exceeding expert human capacity\n\n- Conduct research in optimal sampling techniques, considering aspects like efficient exploration and quality-diversity\n\n- Own research projects end-to-end, from working with scientists to scope the problem all the way to working with engineers to deploy the outcomes\n\n- Develop and extend our experimentation platform for internal tools and projects.\n\n- Collaborate closely with a multidisciplinary team of AI researchers, engineers, biologists, and chemists, fostering an environment of innovation and discovery.\n\nREQUIRED QUALIFICATIONS\n\n- 5-10+ years of strong track record of ML research on real-world problems in (but not limited to) reinforcement learning, representation learning, and Bayesian methods\n\n- Fluency in PyTorch, Jax, or equivalent framework\n\n- Experience with large-scale training and experimentation technologies (e.g. Ray, verl, Megatron-LM, etc.)\n\n- Experience working with data and ML systems: EDA, feature engineering, model development, model deployment, and validation in production systems.\n\n- Familiarity with modeling in PyTorch, Jax or equivalent framework.\n\n- Demonstrated experience with experimentation in academic or industry settings.\n\n- Strong programming expertise with the capability to adapt to various technical challenges in the data, ML, and LLM software stack.\n\nPREFERRED QUALIFICATIONS\n\n- PhD in Machine Learning, Computer Science, or other quantitative field\n\n- Familiarity with leveraging and managing distributed systems\n\nSALARY\n\n$210,000 - $350,000 • Offers equity\n\nWHY JOIN US?\n\nWe're a fast-moving, mission-driven culture where smart people do their best work and actually enjoy doing it. We also offer full-time employees the following:\n\n- Competitive salary and equity\n\n- Full healthcare coverage; we pay 100% of premiums for you and your dependents\n\n- Support for growing families, including a yearly new parent stipend and fertility coverage through Carrot\n\n- Mental health support through Rula, our in-network therapist and psychiatrist network with fast availability\n\n- 12 weeks of paid parental leave for maternity, paternity, and adoption\n\n- Pet care support with a yearly employer-funded stipend for your animal companions\n\n- Commuter benefits so you can pay for transit and parking with pre-tax dollars\n\n- 401(k) company matching\n\n- $300 health and wellness benefit quarterly\n\n- Lunch is on us every day you're in the office, and dinner is on us when you're working late\n\n- Regular team off-sites and company events\n\nEdison Scientific is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected characteristic under applicable law."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94107",
+              "street": "1405 Minnesota Street",
+              "zip": "94107",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-22T17:05:44.769Z",
+        "curated_at": "2026-11-13T01:21:09.304Z",
+        "job_updated_at": "2026-11-19T19:27:03.708Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 21000000,
+                "max_cents": 35000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "2af48e0a44d7d429eac38e46026a49f3df923da1d4d6df30d4d181235cc2b6cb",
+            "source": "ashby",
+            "source_posting_id": "9296e457-11cb-4ad3-81b0-61c6f96ce6c1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/Edison%20Scientific/9296e457-11cb-4ad3-81b0-61c6f96ce6c1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/Edison%20Scientific/9296e457-11cb-4ad3-81b0-61c6f96ce6c1/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States",
+                "postalCode": "94107",
+                "streetAddress": "1405 Minnesota Street",
+                "remote": false,
+                "zip": "94107"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 210000,
+                "max": 350000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 210000,
+                    "max": 350000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "$210K – $350K • Offers Equity"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-06-25T20:26:28.776Z",
+            "first_seen_at": "2026-09-22T17:05:44.769Z",
+            "last_completed_fetch_at": "2026-11-19T19:26:29.048Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "3725d2de-84a9-4d23-848e-c41205e5774c",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "a82504ae-f7d8-84b7-84b0-3c2bdf28cb98",
+        "employer_name": {
+          "state": "known",
+          "value": "Embedding VC"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "**Why RoboForce**\n\nRoboForce is an AI robotics company developing Physical AI–powered Robo-Labor for dull, dirty, and dangerous work. The company's robots are engineered for demanding industrial environments, with a focus on real-world deployment and scalability.\n\nWe are looking for a Senior / Staff AI Research Scientist, Foundation Models to advance robotic embodied intelligence. In this role, you will develop algorithms that enable robots to understand their environment, interpret and execute tasks, and communicate seamlessly with humans — with a particular focus on building and training world models that allow robots to predict, plan, and generalize across complex physical tasks.\n\n**Responsibilities**\n\n• Design and deploy vision-language(-action) models (VLM/VLA) for contextual understanding and generalized robot action policies.\n\n• Develop and train world models for action-conditioned prediction, long-horizon planning, and environment simulation — enabling robots to reason about the consequences of their actions before execution.\n\n• Research approaches to improve world model fidelity using multi-modal inputs including vision, language, proprioception, and spatial representations.\n\n• Develop foundation models with spatial reasoning capabilities to achieve high-precision robotic actions.\n\n• Integrate multi-modal data sources (vision, language, speech, etc.) to enable natural human-robot communication.\n\n• Optimize and deploy models as production-grade solutions on RoboForce robotic platforms.\n\n**Requirements**\n\n• PhD degree in Machine Learning, Robotics, or related field, or Master's degree with 4+ years of relevant experience.\n\n• Proficiency in Python and deep learning frameworks (e.g., PyTorch, JAX).\n\n• Expertise in large foundation models (VLM, VLA, etc.).\n\n• Strong understanding of world model architectures and action-conditioned generative modeling for robot learning.\n\n• Decent understanding of multimodal models, modern ML architectures (transformers, diffusion models, etc.).\n\n• Requires 5 days/week in-office collaboration with the teams.\n\n**Bonus Qualifications**\n\n• Experience with video generation or prediction models (e.g., diffusion-based video models, autoregressive video transformers) and their application to world modeling or synthetic data generation for robot learning.\n\n• Strong publication record at top conferences (NeurIPS, ICML, CVPR, ICCV, CoRL, ICRA, or equivalent).\n\n• Expertise in neural network deployment (e.g., TensorRT) and GPU programming with CUDA.\n\n• Proven ability to design scalable experimentation and data pipelines.\n\n**Benefits**\n\n• Competitive stock options/equity programs.\n\n• Health, dental, and vision insurance, 401(k) plan.\n\n• Visa sponsorship and green card support for qualified candidates.\n\n• Lunches and dinners, a fully stocked kitchen, and regular team-building events.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Milpitas",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-07T21:39:20.563Z",
+        "curated_at": "2026-11-12T23:35:27.848Z",
+        "job_updated_at": "2026-11-19T17:58:14.255Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "995498b53888af701c8acec103bf446801ff756a76c9d648e09cce2bd297ba97",
+            "source": "ashby",
+            "source_posting_id": "930fea63-4fcb-4b84-96ec-9aa5da111329",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/embedding-vc/930fea63-4fcb-4b84-96ec-9aa5da111329"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/embedding-vc/930fea63-4fcb-4b84-96ec-9aa5da111329/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Milpitas",
+                "state": "CA",
+                "country": "US",
+                "countryRaw": "USA",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-07-28T04:19:26.482Z",
+            "first_seen_at": "2026-09-07T21:39:20.563Z",
+            "last_completed_fetch_at": "2026-11-19T17:57:30.965Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "38c0576c-8205-4f18-bbed-5036f333f3c7",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "0a310e95-7fa9-8f63-8a70-b0ffe9d46e2a",
+        "employer_name": {
+          "state": "known",
+          "value": "ByteDance"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist - Pico - Inter-Perception RD - HCI - Pico - San Jose"
+        },
+        "description": {
+          "state": "known",
+          "value": "The PICO Interactive team is redefining how people connect with virtual worlds, using computer vision, deep learning, SLAM, 3D reconstruction, and multi-sensor fusion to enable bare-hand tracking, eye tracking, and XR accessory interaction in real time. The challenge is making these systems work reliably across every lighting condition, movement speed, and use case, on constrained wearable hardware. When tracking breaks, the whole interaction falls apart.\n\nYou will build the perception stack that shapes what natural, intuitive XR interaction feels like for millions of users.\n\nWe are looking for a Research Scientist to advance these capabilities through algorithms, data, and practical systems.\n\n- Drive research in one or more of the following areas, based on your expertise and project priorities:\n- Develop human motion and multimodal interaction understanding algorithms, including pose estimation, tracking, and intent recognition.\n- Advance hand-object interaction understanding, including contact, grasping, manipulation, and interaction sequences.\n- Build human demonstration data and annotation pipelines for embodied AI, using reconstruction, automated labeling, weak supervision, and synthetic data generation.\n- Explore joint optimization of hand tracking, SLAM, and scene geometry to improve spatial consistency and robustness.\nTranslate research into practical capabilities:\n- Develop rigorous evaluation methods and scalable systems, including real-time XR inference and data pipelines for embodied AI.\n- Collaborate across hardware, engineering, data, product, and UX teams; contribute publications, patents, and reusable tools.\n\nMinimum Qualifications\n- PhD in Computer Science, Electrical Engineering, Robotics, or a related discipline.\n- Research depth in at least one relevant area: 3D vision, human motion, hand-object interaction, SLAM, embodied perception, or multimodal learning.\n- Strong foundations in machine learning and relevant geometry, optimization, or temporal modeling methods.\n- Proficiency in Python and modern deep learning frameworks such as PyTorch.\n- Demonstrated research or technical impact through publications, systems, datasets, or products, with strong experimental and collaboration skills.\n\nPreferred Qualifications\n- Experience with egocentric perception, human interaction understanding, multi-view geometry, or sensor fusion.\n- Experience with human demonstration datasets, automated annotation, synthetic data, or learning from human interactions.\n- Experience with NLP, LLM fine-tuning, or vision-language fusion; experience in intelligent interaction technologies, including gesture recognition, voice interaction, multimodal input, or AI-powered interfaces, is a plus.\n- Experience with lightweight model deployment on XR or embedded devices.\n- Publications at leading vision, ML, HCI, or robotics venues, or experience translating research into practical applications."
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Jose",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T19:17:46.144Z",
+        "curated_at": "2026-11-12T23:58:37.851Z",
+        "job_updated_at": "2026-11-19T16:31:03.452Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "2508df35a7f512dad3d626fd398605a09c7ad5365cd650c549f907437a1e231b",
+            "source": "employer_site",
+            "source_posting_id": "7704391868210137397",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://joinbytedance.com/search/7704391868210137397"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://joinbytedance.com/search/7704391868210137397"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Jose",
+                "state": "California",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": null,
+            "first_seen_at": "2026-11-10T19:17:46.144Z",
+            "last_completed_fetch_at": "2026-11-20T21:12:32.835Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "2bc85c52-3d46-4bcb-a7b7-b158e0f99dc0",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "23e6af10-7ffa-8d40-a04b-e08b6d232c9a",
+        "employer_name": {
+          "state": "known",
+          "value": "RoboForce"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior / Staff AI Research Scientist, Foundation Models"
+        },
+        "description": {
+          "state": "known",
+          "value": "**Why RoboForce**\n\nRoboForce is an AI robotics company developing Physical AI–powered Robo-Labor for dull, dirty, and dangerous work. The company's robots are engineered for demanding industrial environments, with a focus on real-world deployment and scalability.\n\nWe are looking for a **Senior / Staff AI Research Scientist, Foundation Models** to advance robotic embodied intelligence. In this role, you will develop algorithms that enable robots to understand their environment, interpret and execute tasks, and communicate seamlessly with humans — with a particular focus on building and training world models that allow robots to predict, plan, and generalize across complex physical tasks.\n\n**Responsibilities**\n\n* Design and deploy vision-language(-action) models (VLM/VLA) for contextual understanding and generalized robot action policies.\n    \n* Develop and train world models for action-conditioned prediction, long-horizon planning, and environment simulation — enabling robots to reason about the consequences of their actions before execution.\n    \n* Research approaches to improve world model fidelity using multi-modal inputs including vision, language, proprioception, and spatial representations.\n    \n* Develop foundation models with spatial reasoning capabilities to achieve high-precision robotic actions.\n    \n* Integrate multi-modal data sources (vision, language, speech, etc.) to enable natural human-robot communication.\n    \n* Optimize and deploy models as production-grade solutions on RoboForce robotic platforms.\n    \n\n**Requirements**\n\n* PhD degree in Machine Learning, Robotics, or related field, or Master's degree with 4+ years of relevant experience.\n    \n* Proficiency in Python and deep learning frameworks (e.g., PyTorch, JAX).\n    \n* Expertise in large foundation models (VLM, VLA, etc.).\n    \n* Strong understanding of world model architectures and action-conditioned generative modeling for robot learning.\n    \n* Decent understanding of multimodal models, modern ML architectures (transformers, diffusion models, etc.).\n    \n* **Requires 5 days/week in-office collaboration with the teams.**\n    \n\n**Bonus Qualifications**\n\n* Experience with video generation or prediction models (e.g., diffusion-based video models, autoregressive video transformers) and their application to world modeling or synthetic data generation for robot learning.\n    \n* Strong publication record at top conferences (NeurIPS, ICML, CVPR, ICCV, CoRL, ICRA, or equivalent).\n    \n* Expertise in neural network deployment (e.g., TensorRT) and GPU programming with CUDA.\n    \n* Proven ability to design scalable experimentation and data pipelines.\n    \n\n**Benefits**\n\n* Competitive stock options/equity programs.\n    \n* Health, dental, and vision insurance, 401(k) plan.\n    \n* Visa sponsorship and green card support for qualified candidates.\n    \n* Lunches and dinners, a fully stocked kitchen, and regular team-building events.\n    \n\nCompensation: Salary $200,000–$360,000 USD \\+ Bonus + Equity\n\nThe base salary range above represents the expected compensation for this full-time U.S. position. Final compensation will be determined based on role scope, level, location, job-related skills, experience, and relevant education or training, and may fall outside the listed range in exceptional cases.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Milpitas",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-07T21:54:29.310Z",
+        "curated_at": "2026-11-19T01:11:30.504Z",
+        "job_updated_at": "2026-11-19T01:11:30.504Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 20000000,
+                "max_cents": 36000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "f27121bdc6b5a752575ca4003f5784af8d3cbb9ac4405b6cd3b67e0e1701557e",
+            "source": "greenhouse",
+            "source_posting_id": "4981345008",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/roboforce/jobs/4981345008"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/roboforce/jobs/4981345008"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Milpitas",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 200000,
+                "max": 360000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2025-11-10T16:25:24.000Z",
+            "first_seen_at": "2026-09-07T21:54:29.310Z",
+            "last_completed_fetch_at": "2026-11-19T01:11:05.715Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "16c9d516-f6ba-4252-bee7-0aea51586637",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b9929f2e-38bb-813d-8837-fd7347f8afd1",
+        "employer_name": {
+          "state": "known",
+          "value": "Anthrogen"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "source_omitted",
+          "evidence": [
+            "no description published by the source; every description field in the detail response is present and empty (content, user_provided_description)"
+          ]
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T00:26:23.771Z",
+        "curated_at": "2026-11-18T23:17:24.742Z",
+        "job_updated_at": "2026-11-18T23:17:24.742Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ce98888f2bfd85175b7e077a21403886fda8801f447b43d196e1c868e42a67bc",
+            "source": "dover",
+            "source_posting_id": "8776e1b5-306e-4e3b-94d0-f3c8d727f2d9",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-08-30T10:50:59.510Z",
+            "first_seen_at": "2026-11-10T00:26:23.771Z",
+            "last_completed_fetch_at": "2026-11-18T23:17:21.837Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "86992944-fdfa-4604-8fd5-2890dc589aaf",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "c8c256a2-0c83-8844-a434-976ceecdc94a",
+        "employer_name": {
+          "state": "known",
+          "value": "Studyfetch"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Learning & Evaluation"
+        },
+        "description": {
+          "state": "known",
+          "value": "About Studyfetch\nStudyFetch is the #1 AI-native learning platform globally, transforming how millions of students learn through personalized AI-powered education. We’re growing fast with backing from top-tier investors and a mission that’s redefining the future of education and ethical learning.\n\nWhy this role exists\nWe're a technology company building AI-native learning products used by more than seven million students worldwide, alongside Honen, our workforce-learning platform for organizations. Both run on the Learn Engine, the intelligence that moves a learner from initial understanding to demonstrated mastery. We work with partners like NVIDIA to bring responsible, learning-first AI to the students who need it most.\nNobody has settled how to measure whether an AI tutor teaches. Public benchmarks tell you a model can answer a question. They don't tell you whether a fourteen-year-old understood the explanation, whether the model handed over the answer when it should have asked a follow-up, or whether the student could still do the problem a week later. We train and tune our own models for learning outcomes rather than leaderboard scores, and that only works if someone can define what better means and prove when we've hit it.\nThat's this role. You'll build the evaluation and measurement layer that sits under model training, product decisions, and learning science across both StudyFetch and Honen. This is a founding-team role. You'll work directly with the people making the decisions, and the standard you set is the one every model and feature gets held to.\nWhat we believe\nEvery learner deserves the chance to succeed. StudyFetch started with one idea: high-quality, personalized learning should be within reach for anyone, at any stage of life. Honen carries that belief into the workforce.\nAccessible to everyone. Learning should reach every person, whatever their background, role, or resources.\nMeet people where they are. Every course adapts to a person's pace, their level, and the way they learn best.\nLearning never stops. From a first job to a new career, people keep growing at every stage of life.\nWe hire people who share this conviction. The work is demanding and the hours can be long, and what sustains you through it is caring whether a real student finally understands the material.\nWhat you'll own\nEvaluation for the models we train. We fine-tune our own model family for tutoring, and you decide how we know whether a new checkpoint is better than the last one. That covers accuracy and reasoning, and it also covers child safety, resistance to sycophancy, and whether the model teaches Socratically instead of answering outright. You'll design the evals, run them against every candidate model, and hold the release bar.\nAn internal benchmark for multi-turn tutoring. Single-turn Q&A benchmarks miss almost everything we care about. You'll build and maintain our benchmark for real tutoring conversations, decide what it measures, and defend those choices to researchers outside the company. Expect to publish parts of it.\nThe link between product data and model training. The Learn Engine records what worked for past students at the personal, course, topic, and global level. You'll turn that into training signal and into evidence: which interventions moved mastery, which ones only moved engagement, and which model behaviors correlate with a student actually learning.\nData quality for expert-verified content. We build assessment questions with subject-matter experts, starting in nursing licensure and expanding into medical and legal. You'll measure agreement between experts, catch where the official answer key is out of date, and design how those verifications feed back into training.\nAnalytics across both products. Retention, activation, feature adoption, conversion, and how each of those moves when a model changes. You'll build the dashboards and reporting that product and leadership actually use, and you'll say plainly when the data can't answer the question yet.\nInstrumentation we don't have. You'll find the missing events, telemetry, and logging, then work with engineering to add them. Most of the interesting questions here are currently unanswerable because nobody logged the right thing.\nThe measurement bar for the team. How we run experiments, what counts as a result, when a change ships. The patterns you set are the ones the rest of the team follows.\nWhat we're looking for\nYou're a strong fit if either of these is true:\n\n• A PhD in statistics, computer science, machine learning, economics, physics, computational social science, or another quantitative field, plus 5+ years applying it to real products or research, or\n\n• Fewer credentials on paper and a track record of owning evaluation or measurement for an AI product that shipped to real users. Show us the work.\n\nBeyond that:\nYou've evaluated LLMs in production, not just read about it. You can walk us through an eval suite you built, what it caught, what it missed, and what you'd design differently now.\nYou're rigorous about causality. Experimental design, controls, sample size, and knowing when an observational result is all you're going to get. You can tell the difference between a real effect and a dashboard that moved.\nYou write and speak clearly. You'll present to engineers, to the founders, and to external research partners in the same week. You state uncertainty as a number when you can and in plain words when you can't.\nYou use AI every day and have informed opinions about it. Genuine curiosity is the one thing we can't teach.\nThe mission is why you're here. What sustains you through the hard weeks is the learner on the other end, the one who finally understands because of something you built.\nThe stack you'll work in\nYou don't need every item below, but you should be deep in most and able to ramp quickly on the rest:\n\n• Analysis: Python (Pandas, NumPy, SciPy, Jupyter), expert-level SQL, large-scale datasets\n\n• Statistics: experimental design, causal inference, Bayesian and frequentist methods, hypothesis testing\n\n• AI/LLM: eval frameworks, LLM-as-judge and its failure modes, RAG, embeddings, agent workflows, fine-tuning and post-training\n\n• Data: MongoDB and PostgreSQL, vector databases, warehouse and pipeline tooling\n\n• Infra: GCP, and comfort reasoning about inference cost, latency, throughput, and GPU utilization\n\n• Reporting: dashboards people return to, in whatever tool gets there fastest\n\nLearning science, psychometrics, or item response theory is a real plus. So is having worked with children's data and the rules that come with it.\nWhat to expect\nThis is an in-person role at a fast pace, with periods of intense work around major launches.\nYou'll have significant ownership and autonomy with limited oversight. The role suits researchers who do their best work with room to run.\nYou'll be the first person in this seat. Some weeks are model evaluation, some weeks are a retention question from the founders, and you'll have to decide which one matters more that week.\nIt's a strong fit for people who have shipped analysis that changed a decision. If your experience has been mostly reports that nobody acted on, this likely isn't the right match.\nCompensation & benefits\n$180,000–$280,000 base salary, plus equity\n\n• 100% employer-paid Medical, Dental, and Vision; 75% dependent coverage\n\n• 401(k) with employer matching\n\n• Daily team dinner provided in-office\n\n• A small, mission-driven team changing how the world learns\n\n#LI-SF1"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Beverly Hills",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-30T01:15:47.322Z",
+        "curated_at": "2026-10-03T08:15:10.856Z",
+        "job_updated_at": "2026-11-18T19:31:10.151Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "b878337b34da39e9c35f7e7d72887581509343b541e95b03cd0249efe42dfe50",
+            "source": "rippling",
+            "source_posting_id": "f9eb565a-69ee-41cd-a763-00c858efa776",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://ats.rippling.com/studyfetch/jobs/f9eb565a-69ee-41cd-a763-00c858efa776"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://ats.rippling.com/studyfetch/jobs/f9eb565a-69ee-41cd-a763-00c858efa776"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Beverly Hills",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-07-29T03:26:35.472Z",
+            "first_seen_at": "2026-09-30T01:15:47.322Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "7d3b033f-fad3-4884-809b-8d529dd211e5",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "43d29112-9b11-8d1d-b7b1-1fd1904954ba",
+        "employer_name": {
+          "state": "known",
+          "value": "Advanced Micro Devices, Inc"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist — Agentic AI and Foundation Models"
+        },
+        "description": {
+          "state": "known",
+          "value": "**ADVANCE YOUR CAREER. ADVANCE THE WORLD.**\n\nAt AMD, we believe technology has the power to solve the world’s most important challenges. From advancing healthcare and scientific discovery to powering AI and the technologies people rely on every day, innovation at AMD is shaping the future.\n\nWhether you’re designing next-gen processors, enabling AI breakthroughs, or bringing leading edge products to market, every role at AMD contributes to something bigger — technology that moves the world forward. Join us and, together, we’ll advance your career.\n\n  \n  \n  \n\n**THE ROLE:**\n\nWe are seeking an AI Research Scientist to advance language models and intelligent agents for complex technical and research tasks. You will explore how models acquire domain knowledge, reason, use tools, and learn from interaction with real development environments\n\nThe role spans model training, agent design, and rigorous evaluation, with applications in software development, hardware design and verification, performance optimization, and automated technical discovery. Research may include pre-training, domain-adaptive continued pre-training, post-training, and reinforcement learning, alongside inference-time reasoning and search. You will own projects from initial research questions through working systems and demonstrated impact, delivering advances in models and agents that solve increasingly complex technical problems, generalize across projects and domains, and measurably improve the quality and productivity of software and hardware development.\n\n**THE PERSON:**\n\nYou combine research depth with strong engineering skills. You enjoy turning ambiguous problems into experiments that improve model and agent capabilities. You can identify whether limitations stem from model knowledge, reasoning, context, or tools, and develop approaches that address them. You value both original research and measurable results in practical settings.\n\n**KEY RESPONSIBILITIES:**\n\n* Research methods for reasoning, planning, tool use, memory, and reliable execution of multistep tasks.\n* Develop pre-training and post-training approaches that strengthen models’ technical knowledge, coding abilities, and problem-solving capabilities.\n* Build learning pipelines using curated corpora, demonstrations, synthetic data, agent trajectories, and execution feedback.\n* Apply reinforcement learning and other adaptation methods to improve agent performance in executable environments.\n* Investigate inference-time reasoning and search to improve solution quality and computational efficiency.\n* Develop agents for software and hardware workflows, including code generation, RTL optimization, debugging, verification, and performance analysis.\n* Create benchmarks that measure correctness, generalization, and sustained performance across unfamiliar projects.\n* Collaborate with software and hardware teams to translate research into useful capabilities.\n* Publish research and share findings through technical reports, reusable systems, and working demonstrations.\n\n**PREFERRED EXPERIENCE:**\n\n* A strong publication record in language models, AI agents, reinforcement learning, code intelligence, automated reasoning, or related areas, including venues such as NeurIPS, ICML, ICLR, ACL, and EMNLP.\n* Hands-on experience with LLM pre-training, continued pre-training, or post-training, including supervised fine-tuning and reinforcement learning.\n* Experience building agents that interact with tools and executable environments.\n* Experience developing training datasets, generating synthetic data, or learning from agent trajectories and verifiable feedback.\n* Strong Python and deep learning framework skills, with experience running reproducible experiments.\n* Familiarity with distributed training, large-scale evaluation, or efficient inference.\n* Experience applying AI to software development, hardware design, scientific computing, or optimization.\n* Familiarity with RTL, simulation, formal verification, compilers, or GPU kernels is a plus.\n\n**ACADEMIC CREDENTIALS:**\n\n* Master’s or PhD in Computer Science, Machine Learning, Electrical Engineering, or a related field preferred. Candidates with equivalent research experience and demonstrated contributions are also encouraged to apply.\n\n#LI-MM2\n\n  \n  \n  \n\n*Benefits offered are described:*  [AMD benefits at a glance](https://www.amd.com/en/corporate/careers/benefits.html).\n\n*AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law.   We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.*\n\n*AMD may use Artificial Intelligence to help screen, assess or select applicants for this position.  AMD’s “Responsible AI Policy” is available [here.](https://www.amd.com/en/legal/responsible-ai-use-policy.html)*\n\n*This posting is for an existing vacancy.*",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Santa Clara",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "95054",
+              "street": "2485 Augustine Drive",
+              "zip": "95054",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-11T04:40:39.784Z",
+        "curated_at": "2026-11-13T04:58:28.991Z",
+        "job_updated_at": "2026-11-18T00:20:23.664Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "916ef33f3c6835b86f13b73250ea53d01e0cadcee6cc274b585def68bf2150f1",
+            "source": "jibe",
+            "source_posting_id": "93682",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.amd.com/jobs/93682"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://careers-amd.icims.com/jobs/93682/login"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Santa Clara",
+                "state": "California",
+                "country": "US",
+                "postalCode": "95054",
+                "streetAddress": "2485 Augustine Drive",
+                "latitude": 37.3924,
+                "longitude": -121.9623,
+                "remote": false,
+                "zip": "95054",
+                "alternatives": [
+                  {
+                    "city": "Santa Clara",
+                    "state": "California",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US,CA,Santa Clara"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-21T23:38:00.000Z",
+            "first_seen_at": "2026-11-11T04:40:39.784Z",
+            "last_completed_fetch_at": "2026-11-20T02:48:14.614Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "1ff6e4ac-4b67-41f9-a9d4-ab5921216a2d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "43d29112-9b11-8d1d-b7b1-1fd1904954ba",
+        "employer_name": {
+          "state": "known",
+          "value": "Advanced Micro Devices, Inc"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Hardware AI Systems"
+        },
+        "description": {
+          "state": "known",
+          "value": "**WHAT YOU DO AT AMD CHANGES EVERYTHING**\n\nAt AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond.  **Together, we advance your career.**\n\n  \n  \n  \n\n**THE ROLE:**\n\nWe are hiring a **AI Research Scientist, Hardware AI Systems**, to develop AI systems that generalize across hardware engineering contexts, different SoC programs, toolchains, process nodes, and teams, without bespoke retraining for every program. You will work on metareasoning (when to call which tool or simulator), representation learning across flows (RTL, verification, physical design), and learning under high- or mixed-latency rewards typical of silicon signoff. You partner with methodology and silicon teams to turn one-off wins into reusable models, benchmarks, and transfer protocols that compound across AMD’s roadmap.\n\n**THE PERSON:**\n\nYou think in distribution shift, domain adaptation, and structured priors—not only bigger models. You respect domain experts and treat their time and signoff criteria as first-class constraints in problem formulation.\n\n**KEY RESPONSIBILITIES:**\n\n* Research transfer and multi-task learning for engineering agents across IP blocks, tools, and program generations\n* Develop metareasoning policies for budgeting expensive EDA steps, selecting abstractions, and recovering from tool or data failures\n* Build cross-program benchmarks and datasets that expose generalization gaps and track progress over time\n* Collaborate with RL scientists on reward shaping and credit assignment when feedback is slow or heterogeneous\n* Publish at top venues where appropriate; maintain internal technical standards for “generalization claims” backed by evidence\n\n**PREFERRED EXPERIENCE:**\n\n* Deep technical expertise and proven research experience in machine learning (ML), with emphasis on transfer learning, meta-learning, intelligent agents, and long-horizon reinforcement learning (RL).\n    \n* Exposure to hardware development (RTL, verification, PD, or bring-up) or willingness to ramp with embedded experts\n* Experience with Large Language Models (LLM) tool use, planning, or hierarchical control in real toolchains\n\n**ACADEMIC CREDENTIALS:**\n\n* PhD in Computer Science, Machine Learning, or related field strongly preferred.\n\n#LI-MM2\n\n  \n  \n  \n\n*Benefits offered are described:*  [AMD benefits at a glance](https://www.amd.com/en/corporate/careers/benefits.html).\n\n*AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law.   We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.*\n\n*AMD may use Artificial Intelligence to help screen, assess or select applicants for this position.  AMD’s “Responsible AI Policy” is available [here.](https://www.amd.com/en/legal/responsible-ai-use-policy.html)*\n\n*This posting is for an existing vacancy.*",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Santa Clara",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "95054",
+              "street": "2485 Augustine Drive",
+              "zip": "95054",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-18T19:49:19.827Z",
+        "curated_at": "2026-11-13T04:58:29.689Z",
+        "job_updated_at": "2026-11-18T00:20:23.174Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "fd11f6908189c49be8548f31e28a6ed98ce23a6a7ff9ad41e222a8d6ea55029d",
+            "source": "jibe",
+            "source_posting_id": "87703",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.amd.com/jobs/87703"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://careers-amd.icims.com/jobs/87703/login"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Santa Clara",
+                "state": "California",
+                "country": "US",
+                "postalCode": "95054",
+                "streetAddress": "2485 Augustine Drive",
+                "latitude": 37.3924,
+                "longitude": -121.9623,
+                "remote": false,
+                "zip": "95054",
+                "alternatives": [
+                  {
+                    "city": "Santa Clara",
+                    "state": "California",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US,CA,Santa Clara"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-07-02T02:37:00.000Z",
+            "first_seen_at": "2026-09-18T19:49:19.827Z",
+            "last_completed_fetch_at": "2026-11-20T02:48:14.614Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "22a305c5-8ebc-4195-abce-fbbc32d0b011",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b9929f2e-38bb-813d-8837-fd7347f8afd1",
+        "employer_name": {
+          "state": "known",
+          "value": "Anthrogen"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "source_omitted",
+          "evidence": [
+            "no description published by the source; every description field in the detail response is present and empty (content, user_provided_description)"
+          ]
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T00:26:23.771Z",
+        "curated_at": "2026-11-17T22:56:56.549Z",
+        "job_updated_at": "2026-11-17T22:56:56.549Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ce98888f2bfd85175b7e077a21403886fda8801f447b43d196e1c868e42a67bc",
+            "source": "dover",
+            "source_posting_id": "8776e1b5-306e-4e3b-94d0-f3c8d727f2d9",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-08-30T10:50:59.510Z",
+            "first_seen_at": "2026-11-10T00:26:23.771Z",
+            "last_completed_fetch_at": "2026-11-17T22:56:53.420Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "dbb8fd2e-652e-45a4-b5c5-7c52fbc820a5",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b9929f2e-38bb-813d-8837-fd7347f8afd1",
+        "employer_name": {
+          "state": "known",
+          "value": "Anthrogen"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "source_omitted",
+          "evidence": [
+            "no description published by the source; every description field in the detail response is present and empty (content, user_provided_description)"
+          ]
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T00:26:23.771Z",
+        "curated_at": "2026-11-16T00:41:32.956Z",
+        "job_updated_at": "2026-11-16T00:41:32.956Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ce98888f2bfd85175b7e077a21403886fda8801f447b43d196e1c868e42a67bc",
+            "source": "dover",
+            "source_posting_id": "8776e1b5-306e-4e3b-94d0-f3c8d727f2d9",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-08-30T10:50:59.510Z",
+            "first_seen_at": "2026-11-10T00:26:23.771Z",
+            "last_completed_fetch_at": "2026-11-16T00:41:29.961Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e06e1ff6-7f61-4efa-b1df-f1f3a99b0a1c",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "4df62721-2697-833c-9ec5-d39a0bdf297a",
+        "employer_name": {
+          "state": "known",
+          "value": "Goaly"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist - Early Career (PHD/MS)"
+        },
+        "description": {
+          "state": "known",
+          "value": "ABOUT US\n\nWe’re building toward a world where every company can become its own AI lab.\nGoaly is a stealth AI startup founded by ex-Meta MSL engineers and researchers. Our mission is to dramatically lower the cost, time, and talent barriers to building proprietary AI — and make each generation of models faster and cheaper to build than the last.\n\nBacked by leading AI investors and endorsed by frontier AI researchers and builders, we’re looking for exceptional new grads who want to work on hard, foundational AI systems problems with outsized ownership from day one.\n\nABOUT THE ROLE\n\nYou will own research at the intersection of agentic reinforcement learning, post-training, evaluation, environments, and scaling. You will identify high-leverage questions, design and run decisive experiments, and translate results into model improvements and reusable systems.\n\nThis role is designed for researchers completing or recently completing a PhD, as well as candidates with an equivalent record of original research. It is not a purely academic position: strong candidates write excellent code, work closely with systems engineers, and care whether an idea survives realistic evaluation and production constraints.\n\nWHAT YOU'LL DO\n\n- Formulate high-leverage research questions about agentic capability and reliability, RL algorithms, reward and verifier design, exploration, curricula, environment design, task distributions, and scaling behavior.\n\n- Design rigorous experiments, ablations, controls, and evaluations that separate real model improvement from noise, data leakage, reward hacking, or benchmark overfitting.\n\n- Implement new methods in modern deep-learning frameworks and integrate them with production training, rollout, environment, and evaluation systems.\n\n- Build or improve datasets, agent environments, verifiers, and evaluations for domains such as coding, tool use, reasoning, long-horizon tasks, or computer interaction.\n\n- Analyze trajectories and model behavior, develop useful failure taxonomies, and turn observations into testable hypotheses and prioritized experiments.\n\n- Partner closely with Post-Training, RL Systems, Training, and Backend & Product engineers to scale promising ideas and expose them to realistic product constraints.\n\n- Communicate findings in clear internal documents and technical reviews; contribute to papers, technical reports, blog posts, or open-source releases when aligned with company goals.\n\n- Help shape the research roadmap by identifying compounding capabilities, reusable evaluation assets, and experiments that retire the most important uncertainties.\n\nWHY GOALY\n\nWork on frontier AI problems across model training, inference, agentic RL infra, and domain-specialized continual learning.\n\nBuild systems that push research into production — from new mode recipes and post-training methods to infrastructure that runs at serious scale.\n\nPublish and contribute to open source and top AI conferences, used by the broader AI community.\n\nSerious resources to build with: well-capitalized, substantial GPU capacity, and competitive compensation.\n\nLearn directly from a founding team that has trained trillion-parameter models and built frontier-scale AI infrastructure, while developing your own research and technical leadership.\n\nOwn meaningful problems from day one. On a small, highly technical team, you’ll have unusually large scope, research freedom, and direct impact on both the product & technical roadmap.\n\nMove fast and own the full problem, not one tiny component. Work directly with the founding team, make technical decisions quickly, and take ideas from research to production without layers of process.\n\nH-1B sponsorship available; OPT/CPT candidates welcome.\n\nYOU MAY BE A GOOD FIT IF YOU HAVE\n\n- Completing or recently completed a PhD in computer science, machine learning, statistics, mathematics, or a related field—or an equivalent record of original, technically rigorous research.\n\n- A strong research record in machine learning, reinforcement learning, large language models, agents, or ML systems, demonstrated through publications, preprints, open-source work, or substantial independent projects.\n\n- Excellent Python skills and hands-on experience with a modern deep-learning framework such as PyTorch or JAX.\n\n- Experimental rigor: you can define a falsifiable question, build the right measurement, control confounders, interpret noisy results, and communicate uncertainty honestly.\n\n- The engineering ability to navigate an unfamiliar codebase, build reliable research infrastructure, and turn a promising idea into a working system.\n\n- Clear written and verbal communication and the ability to collaborate across research, systems, and product disciplines in a fast-moving environment.\n\nSTRONG PLUSES\n\n- Research experience in agentic reinforcement learning, post-training, preference learning, reward or verifier modeling, evaluation, or environment design.\n\n- Experience with large-model training, distributed inference, high-throughput rollout systems, or performance-sensitive ML infrastructure.\n\n- Notable publications, open-source contributions, datasets, benchmarks, or research artifacts that other people use.\n\n- Domain expertise in coding agents, mathematical reasoning, scientific discovery, tool use, long-horizon planning, or computer interaction.\n\n- Experience transferring a research result into a production model, product, or dependable shared system.\n\nLocation, visa sponsorship & benefits\n\n- Hybrid in Palo Alto: 4+ days/week in office.\n\n- Visa sponsorship: H-1B and OPT/CPT support available, with immigration counsel.\n\n- Meals & perks: Complimentary lunch, dinner, snacks, and drinks.\n\nA note on qualifications. We value exceptional ability over perfect keyword matches. If the work excites you and you can show strong technical ability, learning speed, or ownership, we encourage you to apply.\n\nEQUAL OPPORTUNITY\n\nWe are an equal opportunity employer. We consider qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, genetic information, or any other characteristic protected by applicable law. We provide reasonable accommodations for candidates who need them during the hiring process."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Palo Alto",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94303",
+              "street": "2479 E Bayshore Rd",
+              "zip": "94303",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-25T21:02:06.737Z",
+        "curated_at": "2026-11-12T11:15:25.164Z",
+        "job_updated_at": "2026-11-15T03:00:42.839Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "e189428c8d46fa3dd773ebfcab631d3e64b1e7cef9b9f5c6bb22764de3d04c61",
+            "source": "ashby",
+            "source_posting_id": "ffc80152-df35-45d6-8c2c-36ea8b67eb37",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Palo Alto",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States",
+                "postalCode": "94303",
+                "streetAddress": "2479 E Bayshore Rd",
+                "remote": false,
+                "zip": "94303"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-08-08T23:18:53.828Z",
+            "first_seen_at": "2026-09-25T21:02:06.737Z",
+            "last_completed_fetch_at": "2026-11-15T02:49:18.932Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "4208474d-4161-4cc6-aec3-7f4a756b6698",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b9929f2e-38bb-813d-8837-fd7347f8afd1",
+        "employer_name": {
+          "state": "known",
+          "value": "Anthrogen"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "source_omitted",
+          "evidence": [
+            "no description published by the source; every description field in the detail response is present and empty (content, user_provided_description)"
+          ]
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T00:26:23.771Z",
+        "curated_at": "2026-11-15T00:39:39.868Z",
+        "job_updated_at": "2026-11-15T00:39:39.868Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ce98888f2bfd85175b7e077a21403886fda8801f447b43d196e1c868e42a67bc",
+            "source": "dover",
+            "source_posting_id": "8776e1b5-306e-4e3b-94d0-f3c8d727f2d9",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-08-30T10:50:59.510Z",
+            "first_seen_at": "2026-11-10T00:26:23.771Z",
+            "last_completed_fetch_at": "2026-11-15T00:39:36.411Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "3bda104c-6ae5-4dc5-aa06-3e60d60c02e6",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b9929f2e-38bb-813d-8837-fd7347f8afd1",
+        "employer_name": {
+          "state": "known",
+          "value": "Anthrogen"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "source_omitted",
+          "evidence": [
+            "no description published by the source; every description field in the detail response is present and empty (content, user_provided_description)"
+          ]
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T00:26:23.771Z",
+        "curated_at": "2026-11-14T00:37:43.970Z",
+        "job_updated_at": "2026-11-14T00:37:43.970Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ce98888f2bfd85175b7e077a21403886fda8801f447b43d196e1c868e42a67bc",
+            "source": "dover",
+            "source_posting_id": "8776e1b5-306e-4e3b-94d0-f3c8d727f2d9",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/anthrogen/8776e1b5-306e-4e3b-94d0-f3c8d727f2d9"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-08-30T10:50:59.510Z",
+            "first_seen_at": "2026-11-10T00:26:23.771Z",
+            "last_completed_fetch_at": "2026-11-14T00:37:30.875Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "bcec137c-c7a4-4296-8cb4-8838583d3358",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "8adfb9f0-c01a-84a2-9c81-b64e89338d39",
+        "employer_name": {
+          "state": "known",
+          "value": "WRITER"
+        },
+        "title": {
+          "state": "known",
+          "value": "Staff/Sr. Staff/Principal AI research scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "🚀 ABOUT WRITER\n\nWRITER is the AI platform built for the world’s most ambitious marketing and revenue teams, bringing the frontier of AI to the people who drive enterprise growth. With WRITER, autonomous agents work across the buyer journey, continuously executing on market signals and enterprise intelligence to grow revenue faster. Every agent action and asset is grounded in trust, built on an Enterprise Brain that unites brand, product, and company knowledge with fiduciary-grade governance and compliance.\n\nFortune 500 companies are transforming how they go to market with WRITER, including 3 of the top 5 US banks, 2 of the 5 largest global CPG conglomerates, and 4 of the top 5 US healthcare insurers. Founded in 2020, WRITER is backed by investors including Insight Partners, ICONIQ, Radical Ventures, Premji Invest, Balderton, B Capital, Salesforce Ventures, Adobe Ventures, Accenture, Citi Ventures, IBM Ventures, WndrCo, and others. Learn more at WRITER.com http://WRITER.com.\n\n📐 ABOUT THE ROLE\n\nAI research at WRITER isn't just about publishing papers; it's about building the scientific foundation that powers some of the most ambitious enterprise AI deployments in the world. As an AI research scientist, you'll be at the center of that work. You'll drive a high-impact research agenda focused on large language models, agentic reasoning, and the system-level capabilities that make AI genuinely useful at enterprise scale. This is a rare opportunity to do research that matters twice over: advancing the field and shipping directly into products used by hundreds of thousands of people every day.\n\nWe're at an inflection point. Enterprises are moving from experimenting with AI to deeply embedding it across their operations, and WRITER's models are the engine making that possible. The work you do here—on post-training, planning, multi-step reasoning, and agentic workflows—will directly shape how the next generation of enterprise AI behaves, performs, and scales. You'll have the resources, infrastructure, and cross-functional support to pursue ambitious ideas and bring them to life quickly.\n\nThis role is hybrid, based out of our San Francisco or New York City hub. You’ll report to our VP of AI research.\n\nPlease note: role is open to Staff, and Sr. Staff applicants\nWe are open to hiring for this role at multiple levels, with compensation ranges scaled to match your experience, expertise, and the scope of the role.\n\n🦸🏻‍♀️ WHAT YOU'LL DO\n\n- Lead an independent, high-impact research agenda on large language models and agentic systems, owning projects from early hypothesis through model training, evaluation, and production deployment\n\n- Design and execute large-scale post-training experiments using supervised fine-tuning, reinforcement learning from human feedback (RLHF), RLAIF, DPO, and emerging alignment techniques, with a focus on improving multi-step reasoning, planning, and tool use in enterprise agentic workflows\n\n- Build novel evaluation benchmarks and methodologies that push beyond existing limitations, establishing rigorous measures for how well models perform on complex, real-world enterprise tasks\n\n- Develop scalable data synthesis and curation pipelines that generate the high-quality training signal driving model improvement, including LLM-as-judge frameworks, synthetic data generation, and adversarial dataset construction\n\n- Shape WRITER's model architecture and training roadmap by translating your research insights into concrete improvements to our enterprise-grade LLMs, working hand-in-hand with research engineering and product teams\n\n- Publish and present original research at top-tier venues—NeurIPS, ICLR, ICML, ACL, and others—representing WRITER at the frontier of the field and contributing to the broader scientific community\n\n- Mentor and uplevel fellow researchers and engineers on the team, helping set a high bar for scientific rigor, experimental design, and research culture\n\n⭐️ WHAT YOU NEED\n\n- 7+ years of hands-on ML research experience, with deep expertise in large language model pre-training and post-training — you've trained models at scale, debugged distributed jobs, and shipped improvements that made a measurable difference\n\n- A Ph.D. in Computer Science, Machine Learning, NLP, or a related field, or equivalent demonstrated research experience with a strong portfolio of independent, published work\n\n- Expert-level knowledge of post-training methods including SFT, RLHF, RLAIF, DPO, GRPO, and related alignment and reasoning techniques, with a track record of applying them to real, production-grade systems\n\n- Strong command of Python and PyTorch (or JAX), with the engineering depth to build and scale training pipelines, evaluation infrastructure, and data synthesis workflows yourself — not just direct others to do it\n\n- A meaningful publication record at competitive ML/AI venues (NeurIPS, ICLR, ICML, ACL, EMNLP, or equivalent), evidencing your ability to originate ideas and execute on a multi-month research agenda independently\n\n- Hands-on experience designing or evaluating agentic systems: models that plan, reason through multi-step tasks, use tools, and recover gracefully from errors, with a nuanced understanding of where they break and how to fix them\n\n- The instincts and orientation that match WRITER's values:\n\n- you Connect: you collaborate openly across research, engineering, and product and communicate complex ideas with clarity to both technical and non-technical audiences\n\n- you Challenge: you ask the hard questions, push back on conventional wisdom, and pursue the research directions others haven't tried yet\n\n- you Own: you drive your projects end-to-end with urgency, take accountability for results, and care deeply about the impact your work has on real customers\n\n🍩 Benefits & perks (US Full-time employees)\n\n- Generous PTO, plus company holidays\n\n- Medical, dental, and vision coverage for you and your family\n\n- Paid parental leave for all parents (16 weeks)\n\n- Fertility and family planning support\n\n- Early-detection cancer testing through Galleri https://www.galleri.com/partner/writer\n\n- Flexible spending account and dependent FSA options\n\n- Health savings account for eligible plans with company contribution\n\n- Annual work-life stipends for:\n\n- Wellness stipend for gym, massage/chiropractor, personal training, etc.\n\n- Learning and development stipend\n\n- Company-wide off-sites and team off-sites\n\n- Competitive compensation, company stock options and 401k\n\nWRITER is an equal-opportunity employer and is committed to diversity. We don't make hiring or employment decisions based on race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Under the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nBy submitting your application on the application page, you acknowledge and agree to WRITER's Global Candidate Privacy Notice https://writer.com/legal/candidate-privacy-notice/."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York City",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-12T20:06:15.959Z",
+        "curated_at": "2026-11-12T20:06:45.396Z",
+        "job_updated_at": "2026-11-13T20:15:02.787Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 23400000,
+                "max_cents": 38400000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "6db866032ee34d5c58ae6b6a869ef84e48a6882c2a933726e85d89b50ffcf4f6",
+            "source": "ashby",
+            "source_posting_id": "ecd2d026-b6a8-4f3c-9af0-bc2da1ef0ee2",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/WRITER/ecd2d026-b6a8-4f3c-9af0-bc2da1ef0ee2"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/WRITER/ecd2d026-b6a8-4f3c-9af0-bc2da1ef0ee2/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "New York City",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": false,
+                    "raw": "New York City, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 234000,
+                "max": 384000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 234000,
+                    "max": 384000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "Base Compensation $234K – $384K • Offers Equity"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-11-12T00:51:19.822Z",
+            "first_seen_at": "2026-11-12T20:06:15.959Z",
+            "last_completed_fetch_at": "2026-11-19T14:21:01.211Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "57ecfec3-af5c-4897-9be2-2f4d28c02734",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "8adfb9f0-c01a-84a2-9c81-b64e89338d39",
+        "employer_name": {
+          "state": "known",
+          "value": "WRITER"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI research scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "🚀 ABOUT WRITER\n\nWRITER is the AI platform built for the world’s most ambitious marketing and revenue teams, bringing the frontier of AI to the people who drive enterprise growth. With WRITER, autonomous agents work across the buyer journey, continuously executing on market signals and enterprise intelligence to grow revenue faster. Every agent action and asset is grounded in trust, built on an Enterprise Brain that unites brand, product, and company knowledge with fiduciary-grade governance and compliance.\n\nFortune 500 companies are transforming how they go to market with WRITER, including 3 of the top 5 US banks, 2 of the 5 largest global CPG conglomerates, and 4 of the top 5 US healthcare insurers. Founded in 2020, WRITER is backed by investors including Insight Partners, ICONIQ, Radical Ventures, Premji Invest, Balderton, B Capital, Salesforce Ventures, Adobe Ventures, Accenture, Citi Ventures, IBM Ventures, WndrCo, and others. Learn more at WRITER.com http://WRITER.com.\n\n📐 ABOUT THE ROLE\n\nAI research at WRITER isn't just about publishing papers; it's about building the scientific foundation that powers some of the most ambitious enterprise AI deployments in the world. As an AI research scientist, you'll be at the center of that work. You'll drive a high-impact research agenda focused on large language models, agentic reasoning, and the system-level capabilities that make AI genuinely useful at enterprise scale. This is a rare opportunity to do research that matters twice over: advancing the field and shipping directly into products used by hundreds of thousands of people every day.\n\nWe're at an inflection point. Enterprises are moving from experimenting with AI to deeply embedding it across their operations, and WRITER's models are the engine making that possible. The work you do here—on post-training, planning, multi-step reasoning, and agentic workflows—will directly shape how the next generation of enterprise AI behaves, performs, and scales. You'll have the resources, infrastructure, and cross-functional support to pursue ambitious ideas and bring them to life quickly.\n\nThis role is hybrid, based out of our San Francisco or New York City hub. You’ll report to our VP of AI research.\n\nPlease note: role is open to Senior applicants\nWe are open to hiring for this role at multiple levels, with compensation ranges scaled to match your experience, expertise, and the scope of the role.\n\n🦸🏻‍♀️ WHAT YOU'LL DO\n\n- Work on a high-impact research agenda on large language models and agentic systems, being a core member of a team working on projects involving data synthesis, novel model architectures, model training, evaluation, and production deployment\n\n- Help design and execute post-training experiments using supervised fine-tuning, reinforcement learning from human feedback (RLHF), RLAIF, DPO, etc., and emerging alignment techniques, with a focus on improving multi-step reasoning, planning, and tool use in enterprise agentic workflows\n\n- Build novel evaluation benchmarks and methodologies that push beyond existing limitations, establishing rigorous measures for how well models perform on complex, real-world enterprise tasks\n\n- Develop scalable data synthesis and curation pipelines that generate the high-quality training signal driving model improvement, including LLM-as-judge frameworks, synthetic data generation, and adversarial dataset construction\n\n- Shape WRITER's model architecture and training roadmap by translating your research insights into concrete improvements to our enterprise-grade LLMs, working hand-in-hand with research engineering and product teams\n\n- Publish and present original research at top-tier venues—NeurIPS, ICLR, ICML, ACL, and others—representing WRITER at the frontier of the field and contributing to the broader scientific community\n\n- Work closely with fellow researchers and engineers on the team, helping set a high bar for scientific rigor, experimental design, and research culture\n\n⭐️ WHAT YOU NEED\n\n- 4+ years of hands-on ML research experience (can include years obtaining advanced degree), with deep expertise in large language model pre-training and post-training — you've trained models at scale, debugged distributed jobs, and shipped improvements that made a measurable difference\n\n- A Ph.D. in Computer Science, Machine Learning, NLP, or a related field, or equivalent demonstrated research experience with a strong portfolio of independent, published work\n\n- Expert-level knowledge of post-training methods including SFT, RLHF, RLAIF, DPO, GRPO, and related alignment and reasoning techniques, with a track record of applying them to real, production-grade systems\n\n- Strong command of Python and PyTorch (or JAX), with the engineering depth to build and scale training pipelines, evaluation infrastructure, and data synthesis workflows yourself — not just direct others to do it\n\n- One or more publications at a competitive ML/AI venue (NeurIPS, ICLR, ICML, ACL, EMNLP, or equivalent), evidencing your ability to originate ideas and execute on a multi-month research agenda independently\n\n- Hands-on experience designing or evaluating agentic systems: models that plan, reason through multi-step tasks, use tools, and recover gracefully from errors, with a nuanced understanding of where they break and how to fix them\n\n- The instincts and orientation that match WRITER's values:\n\n- you Connect: you collaborate openly across research, engineering, and product and communicate complex ideas with clarity to both technical and non-technical audiences\n\n- you Challenge: you ask the hard questions, push back on conventional wisdom, and pursue the research directions others haven't tried yet\n\n- you Own: you drive your projects end-to-end with urgency, take accountability for results, and care deeply about the impact your work has on real customers\n\n🍩 Benefits & perks (US Full-time employees)\n\n- Generous PTO, plus company holidays\n\n- Medical, dental, and vision coverage for you and your family\n\n- Paid parental leave for all parents (16 weeks)\n\n- Fertility and family planning support\n\n- Early-detection cancer testing through Galleri https://www.galleri.com/partner/writer\n\n- Flexible spending account and dependent FSA options\n\n- Health savings account for eligible plans with company contribution\n\n- Annual work-life stipends for:\n\n- Wellness stipend for gym, massage/chiropractor, personal training, etc.\n\n- Learning and development stipend\n\n- Company-wide off-sites and team off-sites\n\n- Competitive compensation, company stock options and 401k\n\nWRITER is an equal-opportunity employer and is committed to diversity. We don't make hiring or employment decisions based on race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Under the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nBy submitting your application on the application page, you acknowledge and agree to WRITER's Global Candidate Privacy Notice https://writer.com/legal/candidate-privacy-notice/."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York City",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-12T20:06:15.959Z",
+        "curated_at": "2026-11-12T20:06:43.654Z",
+        "job_updated_at": "2026-11-13T20:15:01.490Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16800000,
+                "max_cents": 23300000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "e4cdee44baeb65180f77bbe87e96059d2f1a8153907d9f2d760be0878f4e68af",
+            "source": "ashby",
+            "source_posting_id": "2934dd8c-cf65-4a2c-a1b4-6693772cc6a1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/WRITER/2934dd8c-cf65-4a2c-a1b4-6693772cc6a1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/WRITER/2934dd8c-cf65-4a2c-a1b4-6693772cc6a1/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "New York City",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": false,
+                    "raw": "New York City, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 168000,
+                "max": 233000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 168000,
+                    "max": 233000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "Base Compensation $168K – $233K • Offers Equity"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-11-12T00:51:04.732Z",
+            "first_seen_at": "2026-11-12T20:06:15.959Z",
+            "last_completed_fetch_at": "2026-11-19T14:21:01.211Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "75f484de-73b6-4457-a9c5-266d3b6faf17",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, FAIR Security, Privacy, and Reliability"
+        },
+        "description": {
+          "state": "known",
+          "value": "The FAIR Security, Privacy, and Reliability team breaks and fixes agents and the foundational models that power them. We conduct fundamental research to discover novel attacks, measure privacy, and find non-intuitive breaks in robustness. We frequently contribute those benchmarks to Meta's model Evaluation Reports and have published many of them in top research venues, earning top-1% recognition at ICLR and ICML. The team also lands novel post-training mitigations for these risks in both the open-source line of models and has multiple opportunities for direct research-to-production.\n\nResponsibilities\nConduct fundamental research to discover novel safety and security failures, robust approaches to measuring memorization risk or reliability failures in AI agents and foundational models,\nDevelop and contribute benchmarks to Meta's foundational model evaluation suite and/or the Evaluation Reports\nDesign and implement novel post-training mitigations for safety, security, privacy, and reliability risks in foundation models\nCollaborate with cross-functional teams to translate research into production systems\n\nQualifications\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\nPhD in Computer Science, Machine Learning, or related field, or equivalent practical experience\nResearch experience in at least one of the following areas: safety, security, privacy, or robustness of AI models; adversarial machine learning; indirect prompt injections or jailbreaks; contextual integrity or memorization; reward hacking or other agent reliability failures; testing or mitigating foundation models for catastrophic risk (CBRNE, cyber, loss of control); or developing mitigations in any of these areas Track record of publications in top-tier research venues"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-13T19:20:47.535Z",
+        "curated_at": "2026-11-13T19:22:14.756Z",
+        "job_updated_at": "2026-11-13T19:22:14.756Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "8769108c730ced7c58f79f3e7b3cb9b270dc2ae029aa8edd53fb80b87dc2dbfc",
+            "source": "employer_site",
+            "source_posting_id": "1482970387066899",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1482970387066899/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1482970387066899/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Menlo Park",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Menlo Park, CA"
+                  },
+                  {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Seattle, WA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "San Francisco, CA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-13T13:13:47.000Z",
+            "first_seen_at": "2026-11-13T19:20:47.535Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "1023e163-c4ba-45ac-954b-b5790dbbe9f3",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "00c53e6e-8177-8bc8-a147-98a98f6b8b10",
+        "employer_name": {
+          "state": "known",
+          "value": "Sprinter Health"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "About Sprinter Health:\n\nAt Sprinter Health, our mission is reimagining how people access care by bringing it directly to their homes. Nearly 30% of patients in the U.S. skip preventive or chronic care simply because they can’t get to a doctor’s office. For many, the ER becomes their first touchpoint with the healthcare system—driving over $300B in avoidable costs every year.\n\nBy using the same technologies that power leading marketplace and last-mile platforms, we deliver care where people are, especially those who need it most. So far, we’ve supported more than 2 million patients across 22 states, completed 130,000+ in-home visits, and maintained a 92 NPS. Our team of clinicians, technologists, and operators have raised over $125M to date investors like a16z, General Catalyst, GV, and Accel and enjoy multi-year runway.\n\nAbout the Role\n\nWe’re looking for an AI Research Scientist to advance the methodological frontier of AI in healthcare. This role is ideal for someone who has demonstrated strong research taste, deep technical foundations, and the ability to turn open-ended problems into rigorous scientific contributions.\n\nYou will develop and own a research agenda aligned with Sprinter’s company strategy. Your work may include novel architectures, new training or evaluation techniques, long-horizon research bets, peer-reviewed validation studies, patents, and methods that ultimately graduate into production systems.\n\nThe ideal candidate is deeply technical, scientifically rigorous, and excited to collaborate closely with clinicians, product leaders, and applied AI teams. You understand that healthcare validation standards are higher than benchmark culture alone, and you are energized by the opportunity to produce research that is both scientifically meaningful and practically impactful.\n\nHybrid & Office Experience\n\nWe operate on a hybrid schedule, working from the office Monday through Thursday, with Fridays designated as work-from-anywhere days.\n\nWe care deeply about work-life balance and are happy to provide flexibility when life happens. We ask that employees be in the office Monday through Thursday to collaborate with their teams while maintaining flexibility where it matters most.\n\nLunch is provided every day, and the entire team takes an hour to eat together. It's one of the ways we stay connected outside of meetings. You'll usually find us playing a board game before getting back to work.\n\nWhat you will do:\n\nRESEARCH AGENDA & SCIENTIFIC CONTRIBUTION\n\n- Develop and own a research agenda aligned with Sprinter’s long-term AI and company strategy.\n\n- Identify open problems, position them against the literature, and design experiments that isolate meaningful contributions.\n\n- Develop novel methods, architectures, training approaches, evaluation techniques, or validation frameworks.\n\n- Produce publications, patents, peer-reviewed validation studies, and other evidence artifacts.\n\n- Translate promising research into methods and tools that applied teams can use in production.\n\nTECHNICAL LEADERSHIP\n\n- Raise the scientific bar across applied AI and engineering teams.\n\n- Review methodologies, evaluation approaches, and experimental designs.\n\n- Advise teams on hard technical decisions, especially around model performance, reliability, evaluation, uncertainty, and validation.\n\n- Help determine whether a result is meaningful, reproducible, or an artifact.\n\n- Mentor applied researchers and engineers on rigorous ML research practices.\n\nEXTERNAL PRESENCE & COLLABORATION\n\n- Maintain an external research presence through publications, talks, academic collaborations, and participation in relevant research communities.\n\n- Collaborate with clinical partners on validation studies, including work that may involve IRB review, data governance, external validation, or prospective evaluation.\n\n- Partner cross-functionally with Product, Clinical, Engineering, and Leadership teams to ensure research priorities map to meaningful company and patient impact.\n\nWhat you have done:\n\n- Demonstrated ability to produce novel research, including identifying open problems, designing rigorous experiments, and writing work to a peer-review standard.\n\n- Deep ML foundations and genuine depth in at least one relevant area, such as LLMs, agents, uncertainty, causality, multimodal learning, clinical AI, or related fields.\n\n- Strong engineering ability, including the ability to run your own experiments at scale.\n\n- Strong research taste and the ability to distinguish incremental work from meaningful methodological contribution.\n\n- Comfort working in open-ended, ambiguous environments where the right research direction may need to be shaped from first principles.\n\n- Interest in clinical collaboration and applied healthcare impact.\n\n- Understanding of healthcare validation standards, including the importance of external validation, prospective evaluation, data governance, and real-world deployment constraints.\n\nWhat gives you an edge:\n\n- First-author publications at top technical venues such as NeurIPS, ICML, ICLR, ACL, or related conferences.\n\n- Publications in leading clinical AI or healthcare venues such as Nature Medicine, NEJM AI, npj Digital Medicine, CHIL, MLHC, or similar.\n\n- Experience in academia, industry research labs, or research-heavy teams at AI-native healthcare companies.\n\n- Experience collaborating with clinicians, clinical researchers, or healthcare operators.\n\n- Familiarity with IRB processes, clinical data governance, or healthcare model validation.\n\n- Dual literacy across machine learning and clinical collaboration.\n\nInterview Process:\n\n- We aim to complete the interview process between 2–3 weeks. It will usually consist of:\n\n- Recruiter Screen (30 minutes)\n\n- Hiring Manager Introduction (30 minutes)\n\n- Hands-on-Keys Technical Assessment (1 hour)\n\n- Onsite Interview: Systems Design / Technical Case Study + Research Presentation + Behavioral Interview + Lunch with the Team (4 hours)\n\n- References\n\nWhat we offer:\n\n- Meaningful pre-IPO equity\n\n- Medical, dental, and vision plans 100% paid for you and your dependents\n\n- Flexible PTO + 10 paid holidays per year\n\n- 401(k) with match\n\n- 16-week parental leave policy for birthing parent, 8 weeks for all other parents\n\n- HSA + FSA contributions\n\n- Life insurance, plus short and long-term disability coverage\n\n- Free daily lunch in-office\n\n- Annual learning stipend\n\nSprinter Health is an equal opportunity employer. We value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status or other protected classes."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94111",
+              "street": "394 Pacific Avenue",
+              "zip": "94111",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94025",
+              "street": "4600 Bohannon Dr, Ste 100",
+              "zip": "94025",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-07T21:52:58.974Z",
+        "curated_at": "2026-11-11T17:24:47.598Z",
+        "job_updated_at": "2026-11-13T19:17:52.722Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16000000,
+                "max_cents": 22000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "360b1411db276219d7077feed8b0e88c3cc0b9cfeae5bc6a58f890a69d9da997",
+            "source": "ashby",
+            "source_posting_id": "707e8513-866d-4ac4-861a-b9c05cc9c00c",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/sprinter-health/707e8513-866d-4ac4-861a-b9c05cc9c00c"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/sprinter-health/707e8513-866d-4ac4-861a-b9c05cc9c00c/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States",
+                "postalCode": "94111",
+                "streetAddress": "394 Pacific Avenue",
+                "remote": false,
+                "zip": "94111",
+                "alternatives": [
+                  {
+                    "city": "Menlo Park",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "postalCode": "94025",
+                    "streetAddress": "4600 Bohannon Dr, Ste 100",
+                    "remote": false,
+                    "raw": "Menlo Park, CA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 160000,
+                "max": 220000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 160000,
+                    "max": 220000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "SF Bay Area"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-07-17T18:50:10.525Z",
+            "first_seen_at": "2026-09-07T21:52:58.974Z",
+            "last_completed_fetch_at": "2026-11-19T13:42:33.202Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo0NTowNi4wODBaIiwiZmlsdGVyRGlnZXN0IjoiMmdoSVlYWlRnUHdIcHJxUDZwejEybDBMcHprb2ZTVlF1d1BKWk1MQVpwcyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEzVDE5OjE3OjUyLjcyMjAwMFoiLCJqb2JJZCI6IjEwMjNlMTYzLWM0YmEtNDVhYy05NTRiLWI1NzkwZGJiZTlmMyJ9fQ.l1ZAGssraS9YdcFaPcg0s2OpduFYaquK40OanloidZU",
+    "total": 82,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:45:06.080Z"
+  },
+  "response_usage": {
+    "charged": "25",
+    "remaining": "99353",
+    "request_id": "56099f96-cab8-4936-9320-8dd4e54efd9e"
+  }
+}

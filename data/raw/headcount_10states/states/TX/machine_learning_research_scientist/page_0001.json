@@ -1,0 +1,25 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:45:31.927494+00:00",
+  "state_filter": "TX",
+  "title_filter": "machine learning research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "TX",
+    "title": "machine learning research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [],
+    "next_cursor": null,
+    "total": 0,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:45:30.859Z"
+  },
+  "response_usage": {
+    "charged": "0",
+    "remaining": "99033",
+    "request_id": "d16e03d5-b643-4293-bb48-dec35b759811"
+  }
+}

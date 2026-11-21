@@ -1,0 +1,6 @@
+posting_status,pay_state,source_postings,invalid_posted_dates
+listed,extraction_failed,1441,0
+listed,known,17605,0
+listed,source_omitted,60,0
+no_longer_listed,extraction_failed,15,0
+no_longer_listed,known,36,0

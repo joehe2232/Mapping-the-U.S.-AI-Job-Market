@@ -1,0 +1,60 @@
+state_us,role,sampled_ad_state_associations,ads_with_state_source_salary,ads_source_omitted_pay,ads_unknown_pay,observed_salary_field_fraction
+CA,ai product manager,33,18,0,15,0.5454545454545454
+CA,ai research scientist,75,18,0,57,0.24
+CA,data / bi analyst,140,84,0,56,0.6
+CA,data engineer,102,79,0,23,0.7745098039215687
+CA,data scientist,151,102,0,49,0.6754966887417219
+CA,ml / ai engineer,278,205,0,73,0.737410071942446
+GA,ai product manager,7,3,0,4,0.42857142857142855
+GA,data / bi analyst,84,33,7,44,0.39285714285714285
+GA,data engineer,59,35,1,23,0.5932203389830508
+GA,data scientist,77,19,0,58,0.24675324675324675
+GA,ml / ai engineer,73,38,0,35,0.5205479452054794
+IL,ai product manager,8,5,0,3,0.625
+IL,ai research scientist,2,1,0,1,0.5
+IL,data / bi analyst,81,46,1,34,0.5679012345679012
+IL,data engineer,55,40,0,15,0.7272727272727273
+IL,data scientist,67,31,0,36,0.4626865671641791
+IL,ml / ai engineer,79,46,0,33,0.5822784810126582
+MA,ai product manager,13,5,0,8,0.38461538461538464
+MA,ai research scientist,10,6,0,4,0.6
+MA,data / bi analyst,77,40,0,37,0.5194805194805194
+MA,data engineer,44,32,0,12,0.7272727272727273
+MA,data scientist,75,57,1,17,0.76
+MA,ml / ai engineer,109,81,0,28,0.7431192660550459
+NC,ai product manager,21,6,2,13,0.2857142857142857
+NC,ai research scientist,1,0,0,1,0.0
+NC,data / bi analyst,87,27,0,60,0.3103448275862069
+NC,data engineer,63,38,0,25,0.6031746031746031
+NC,data scientist,85,32,1,52,0.3764705882352941
+NC,ml / ai engineer,70,27,0,43,0.38571428571428573
+NY,ai product manager,38,21,0,17,0.5526315789473685
+NY,ai research scientist,22,4,0,18,0.18181818181818182
+NY,data / bi analyst,115,70,0,45,0.6086956521739131
+NY,data engineer,92,68,0,24,0.7391304347826086
+NY,data scientist,134,82,0,52,0.6119402985074627
+NY,ml / ai engineer,204,138,0,66,0.6764705882352942
+PA,ai product manager,10,4,0,6,0.4
+PA,ai research scientist,4,0,0,4,0.0
+PA,data / bi analyst,95,27,3,65,0.28421052631578947
+PA,data engineer,55,29,0,26,0.5272727272727272
+PA,data scientist,80,31,0,49,0.3875
+PA,ml / ai engineer,67,42,1,24,0.6268656716417911
+TX,ai product manager,17,5,0,12,0.29411764705882354
+TX,ai research scientist,7,1,0,6,0.14285714285714285
+TX,data / bi analyst,109,43,3,63,0.3944954128440367
+TX,data engineer,100,46,1,53,0.46
+TX,data scientist,108,26,0,82,0.24074074074074073
+TX,ml / ai engineer,140,66,0,74,0.4714285714285714
+VA,ai product manager,4,3,0,1,0.75
+VA,ai research scientist,6,1,0,5,0.16666666666666666
+VA,data / bi analyst,107,77,0,30,0.719626168224299
+VA,data engineer,92,76,1,15,0.8260869565217391
+VA,data scientist,118,75,2,41,0.635593220338983
+VA,ml / ai engineer,120,105,0,15,0.875
+WA,ai product manager,4,1,0,3,0.25
+WA,ai research scientist,28,11,0,17,0.39285714285714285
+WA,data / bi analyst,79,33,0,46,0.4177215189873418
+WA,data engineer,43,31,0,12,0.7209302325581395
+WA,data scientist,84,42,0,42,0.5
+WA,ml / ai engineer,103,53,0,50,0.5145631067961165

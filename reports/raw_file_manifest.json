@@ -1,0 +1,1524 @@
+{
+  "files": [
+    {
+      "path": "data/downloads/bls_2025_metro.zip",
+      "bytes": 39932338,
+      "sha256": "cc3e6fa80edf64ab8fd0e8a6472ef1b513a6bcaef2f5018e9649c485793b0b99"
+    },
+    {
+      "path": "data/downloads/onet_31_0_csv.zip",
+      "bytes": 16237378,
+      "sha256": "55033fc68b4c13ec23e7f74dc6378660f6e854e75d55d6e333ae0a761d3987cd"
+    },
+    {
+      "path": "data/raw/bls_2025_metro/oesm25ma/BOS_M2025_dl.xlsx",
+      "bytes": 9891462,
+      "sha256": "2a06fc23e9c3d487d767b76f0efa749252f4ad55f745640064845aa2c4b1aa1b"
+    },
+    {
+      "path": "data/raw/bls_2025_metro/oesm25ma/file_descriptions.xlsx",
+      "bytes": 11986,
+      "sha256": "66f52b71018add12fd60826769a6ceb34f9d8c7b8f4f9609234854cf4ef91266"
+    },
+    {
+      "path": "data/raw/bls_2025_metro/oesm25ma/MSA_M2025_dl.xlsx",
+      "bytes": 30628700,
+      "sha256": "faf00eee127763c8c082d8fb862717ef2ad3a75f16f8975dc1e70935f27bcbb0"
+    },
+    {
+      "path": "data/raw/headcount_10states/checkpoint.json",
+      "bytes": 37384,
+      "sha256": "35795c1f920224abdcac054f25069b25d28d3a31cebd2b49280ce1cdf6306bc5"
+    },
+    {
+      "path": "data/raw/headcount_10states/manifest.json",
+      "bytes": 1081,
+      "sha256": "af7f122d3e5ceb0291f4f4a2ad9bc1fd24cc50cfa03fead2997cef53a7c1972a"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/ai_engineer/page_0001.json",
+      "bytes": 1122821,
+      "sha256": "128229f309aa93108e7aa5fd13ec70683931051294bfa568c95560e00a0b79e8"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/ai_engineer/page_0002.json",
+      "bytes": 625186,
+      "sha256": "18317c9ddca3e7c5a54092ba12ded2986f20da22a1f2a0a0736d64a7fe016ee8"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/ai_engineer/page_0003.json",
+      "bytes": 699243,
+      "sha256": "d9a010970318442101db1452cfaa2d4068c4c722516559d5ce557c5c96dd27fb"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/ai_engineer/page_0004.json",
+      "bytes": 909307,
+      "sha256": "968a248426e21672ffac65711ec08587e588a1f63a38d349bd78a6fbfacfe1b5"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/ai_product_manager/page_0001.json",
+      "bytes": 320201,
+      "sha256": "79401777573586be79faa750b38957b29fca8bb2920e0a9e11c7a362a63e8693"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/ai_product_manager/page_0002.json",
+      "bytes": 223250,
+      "sha256": "39f9c419bd25b0cbd9eec8134cd91723923a3c72d37badf657540335ff2dd32f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/ai_research_scientist/page_0001.json",
+      "bytes": 198690,
+      "sha256": "bf57ad9d5f8dc3ee2517ae40bbd3e20712450258029ebf9c1c864f1b7e8d4fda"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/ai_research_scientist/page_0002.json",
+      "bytes": 191352,
+      "sha256": "d5f93baf02b2da429fc93bd4a1f33c606f076d231a02c3e1e160ecba5868007f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/ai_research_scientist/page_0003.json",
+      "bytes": 231520,
+      "sha256": "e2566e6ae880b0acbf2dceb399a632a1ef9675b47be05c0bed7dea3755ffd349"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/ai_research_scientist/page_0004.json",
+      "bytes": 39101,
+      "sha256": "6e466f9c399ef2f49e97078297b11e7bfa9c36f09b28ced83559b20e31cf25cc"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/business_intelligence_analyst/page_0001.json",
+      "bytes": 276975,
+      "sha256": "b1b392a3b808fa28072ddd7687cf17faed6604ab6aeb50ac492797f38677a65d"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/business_intelligence_analyst/page_0002.json",
+      "bytes": 96282,
+      "sha256": "331bd9c7b7041917780bfe6c1da7fdfce8ca8db0cbed4a285637688e2d39b898"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_analyst/page_0001.json",
+      "bytes": 721668,
+      "sha256": "f0719b0d2705b91e5e498b24477b55705126e893f881eae32ca79fe807bfb59a"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_analyst/page_0002.json",
+      "bytes": 337978,
+      "sha256": "43e697bca51fe928a6dbc42a2f0909db957481457ddf14ba9f1289b31b1dbb42"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_analyst/page_0003.json",
+      "bytes": 201510,
+      "sha256": "adfdc80b8ee06aaeaaceaff8ecbb52c28491e30d05c8ba568f9462cd557b4c39"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_analyst/page_0004.json",
+      "bytes": 726138,
+      "sha256": "400f36e971e5be84e85108f6bd0db3be344101c07f948e10bb39f0e8e74fc573"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_engineer/page_0001.json",
+      "bytes": 796767,
+      "sha256": "b33a1bbe6ff4df90d90dc53168a87bda79cec1914d73bf20a2450c9fb53ffd90"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_engineer/page_0002.json",
+      "bytes": 690039,
+      "sha256": "c4dd1ba35bea7739e74b0fbaeb027518e48bf2871e1f226a4610e6dbec97abfb"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_engineer/page_0003.json",
+      "bytes": 790956,
+      "sha256": "5304fb5ebb9a0b6e62b3d7d75d26432fb2bd26e53cbf0a755a674777f18ba3cc"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_engineer/page_0004.json",
+      "bytes": 881373,
+      "sha256": "f12f543fa47bf935d17ad9b3cd6bfab563c28592d3cf71345d0d5966ebfa7a27"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_scientist/page_0001.json",
+      "bytes": 363296,
+      "sha256": "b76ee46002a61a797c163c0081bf96b702c80aa71c90e96132a819da60651225"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_scientist/page_0002.json",
+      "bytes": 280319,
+      "sha256": "d44f2545f4c28c30f30fa4c9a19967be827cb6b626107dfbcf9a71cf4978b9f8"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_scientist/page_0003.json",
+      "bytes": 265688,
+      "sha256": "19214560ca55936ff9973f7930f6da5884fcaf46fde944d65cf9e41e77ac36fb"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/data_scientist/page_0004.json",
+      "bytes": 332084,
+      "sha256": "04526e459145d386632f51ff027b68d334b9fb84b13e31b3d1bcdb3458f9bb79"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/machine_learning_engineer/page_0001.json",
+      "bytes": 357959,
+      "sha256": "eeb30947b0d4a878228ac4d9e9857af619be122cd9a1da950d5395650d84ed27"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/machine_learning_engineer/page_0002.json",
+      "bytes": 819675,
+      "sha256": "8109c09afde6d6d622649b9ffd37f3de762f0c24360afda03578eb5f01ed3beb"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/machine_learning_engineer/page_0003.json",
+      "bytes": 277894,
+      "sha256": "e4ad94f433f0a08e6f7bd80347243c9a68053891c28d54655d0b5520afdfa0fd"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/machine_learning_engineer/page_0004.json",
+      "bytes": 201359,
+      "sha256": "d1b09abb3a014192f15881917f3c9ddbdf85afa052d65a253e51921017254b26"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/CA/machine_learning_research_scientist/page_0001.json",
+      "bytes": 110870,
+      "sha256": "e2c1439e9ba4d71a44dca12d513495ee9413bd8cc942fa09f961a693cb78a3ce"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/ai_engineer/page_0001.json",
+      "bytes": 3318419,
+      "sha256": "e9aedff12692a8b890f256950384d276e3474041eb4b47d8f2f4a3f42b35af57"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/ai_engineer/page_0002.json",
+      "bytes": 2989256,
+      "sha256": "054eb45b9a291b3fe2c72b240765a7864e2d5ffca78469dded7491d69b0f381c"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/ai_engineer/page_0003.json",
+      "bytes": 4468879,
+      "sha256": "d9c56dd9443a209951de1841bc213d25dfe2397ff0e57a4897d174e2d93bcdd1"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/ai_engineer/page_0004.json",
+      "bytes": 3022668,
+      "sha256": "205979f2a03c4f8055010b4d95c9cd9a67bea5a26dfa2b1c6d51811d26b79a5f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/ai_product_manager/page_0001.json",
+      "bytes": 249021,
+      "sha256": "8e2e612240cc0d3906e9d06ec988d3f5d75aa96ca9e02482c07db2c1c37b860c"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/ai_research_scientist/page_0001.json",
+      "bytes": 622,
+      "sha256": "2f4aa53ac9aa40e5206fff853b30e4460032917a08923ac0b8a94d87a8fb40b2"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/business_intelligence_analyst/page_0001.json",
+      "bytes": 100298,
+      "sha256": "c116aa19531160986007bfd09163277dd067d4233b7d1715b885a8779efbd868"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_analyst/page_0001.json",
+      "bytes": 1209975,
+      "sha256": "12a139dec5ddcf76117f35c52893e8ac96ee486aeab59d6c4e147a882e4cd088"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_analyst/page_0002.json",
+      "bytes": 795639,
+      "sha256": "d2ada79f7c29f354383d331d21a0a158a5f3cd20b276d10cae8aac55da7bc34d"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_analyst/page_0003.json",
+      "bytes": 488538,
+      "sha256": "ed74e28229eeb731522007031301676c9b0588596d741e061c419bb34d287d36"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_analyst/page_0004.json",
+      "bytes": 655077,
+      "sha256": "9cda137e2f75d3a453e1bb983e48b6575bba61569fe43b47eda5ba4eaf5f20bc"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_engineer/page_0001.json",
+      "bytes": 969896,
+      "sha256": "0bb76be14afdc20058a7548d0611938a18fed70f4bc6b10428d22ff5feedbab1"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_engineer/page_0002.json",
+      "bytes": 1641696,
+      "sha256": "3338d6d9b6a75306c6b39dfad4196515eac018cfd953adf31cecf3886d4e5bfb"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_engineer/page_0003.json",
+      "bytes": 2628172,
+      "sha256": "38f5a60dc00003a47c9e323b44b1ba5f87f12a665dce4f4e200dab04ea3b3739"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_engineer/page_0004.json",
+      "bytes": 2574432,
+      "sha256": "52ef57bef5c02e1d942fa378453e2b8a81b96963c8385573a9b1378146f14b0e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_scientist/page_0001.json",
+      "bytes": 494060,
+      "sha256": "fbc7be039cc46970d1346210e25319baed0066de689e797756e91524bc5032ef"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_scientist/page_0002.json",
+      "bytes": 761720,
+      "sha256": "6b2c72d1744aa0d89d8601475127acf8f2423881113fc657042fde002b1c8b41"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_scientist/page_0003.json",
+      "bytes": 1087345,
+      "sha256": "9212b0649ceeab816d40b8c7aa9a7f43b84c052f8c2c422267b2641e082f674f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/data_scientist/page_0004.json",
+      "bytes": 351213,
+      "sha256": "023d26626c937fbf08db3d90f0a883f356b71ae5ab157ab6b651ea027c958fa6"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/machine_learning_engineer/page_0001.json",
+      "bytes": 2899741,
+      "sha256": "13703c3b784eb4d759824d9d86c96a419239791af64cf1cb69169054455164aa"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/machine_learning_engineer/page_0002.json",
+      "bytes": 3000722,
+      "sha256": "158fc55a2de281da21a57b6b7f8a5226d7efbfc83bdfa76600b709e78129a9a4"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/machine_learning_engineer/page_0003.json",
+      "bytes": 2637170,
+      "sha256": "61ec0d2de1ac6dc88baa4a784cc32ab136e94e470f23c7e69ef4389b582e3131"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/machine_learning_engineer/page_0004.json",
+      "bytes": 2600425,
+      "sha256": "a00942002c315862b59e72d798b9d43ed48ffbb2bffcc757a4db3bb393345c23"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/GA/machine_learning_research_scientist/page_0001.json",
+      "bytes": 650,
+      "sha256": "d363a9c772d067286911d7948aba58866ce2e06b3d255aee6337abe17cd17bcc"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/ai_engineer/page_0001.json",
+      "bytes": 3197259,
+      "sha256": "5cc27f6eefc2fd6e8269a15a38e20479926173d28ca84e506cc42f633ca597df"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/ai_engineer/page_0002.json",
+      "bytes": 2719717,
+      "sha256": "af2770a044299f081883586515f0b71b7b3eb941284a1abd3e57b3d7d1d08897"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/ai_engineer/page_0003.json",
+      "bytes": 4554093,
+      "sha256": "69989b513e930c113f8a715dadde7b8679dd4e0b1782f09b33ce0c86cfdeb0bf"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/ai_engineer/page_0004.json",
+      "bytes": 2383045,
+      "sha256": "d4840e4506e7ce93c8f26b3accb170e409b835218e4fd26b93d9ac3069befd8e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/ai_product_manager/page_0001.json",
+      "bytes": 228000,
+      "sha256": "cdbeff0570015230dc3ae39884d0c35949e240bbe57fa676e98f776b6cf2d53e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/ai_research_scientist/page_0001.json",
+      "bytes": 18248,
+      "sha256": "50c32194b30b3b245e831a0c851e0322bd1b82700a56732c6dc3da3f5a056431"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/business_intelligence_analyst/page_0001.json",
+      "bytes": 321933,
+      "sha256": "9c8e460d98987e5b7ee6f41bacb87aa9c7c810b4b3a4653a73443e3a4d431d39"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_analyst/page_0001.json",
+      "bytes": 814819,
+      "sha256": "2b8694c73afe284b4967f5370f6bb60819dcb8917ba4a83041d4bc25342d86f2"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_analyst/page_0002.json",
+      "bytes": 798179,
+      "sha256": "f9e1e8efd83bd535e9f18d2177407f9ff76f48e9b6f879e7958e5cc11bdf2734"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_analyst/page_0003.json",
+      "bytes": 934485,
+      "sha256": "317b103af1c22a338036d45a18b0dee6c91939879861434faa9a771f6e6fb442"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_analyst/page_0004.json",
+      "bytes": 532118,
+      "sha256": "e11936e96258a72ed15a5f4b23ca17810e73da2c2a7ab688d38db2b9ebffca3e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_engineer/page_0001.json",
+      "bytes": 1270704,
+      "sha256": "789c866257642dc8879c6162029ddfe29ac4f9ee9ee55015145e69f4a81d0c0e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_engineer/page_0002.json",
+      "bytes": 2228997,
+      "sha256": "8f32dbd739707d433d08e48c813fbc7e3db24a730fb2472db10f23023331625c"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_engineer/page_0003.json",
+      "bytes": 1836150,
+      "sha256": "0368672a68e38cb561f4c571a66294ed5378042b02d351ebe3fcef6c003b0eb3"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_engineer/page_0004.json",
+      "bytes": 1858070,
+      "sha256": "3990c04828cc7728631a7f60d8df8d3f53efa46b33cf6aa861d95fe59a03f333"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_scientist/page_0001.json",
+      "bytes": 406167,
+      "sha256": "e9ebb164384c4a84be7aab9bed9e35c51e9eaf1225d291ea255e99bd2d02494c"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_scientist/page_0002.json",
+      "bytes": 397295,
+      "sha256": "d3266026c9857459aaca9323ef0dbba1f6d157a92d8843ba96c582ccf22dc30e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_scientist/page_0003.json",
+      "bytes": 666582,
+      "sha256": "6e40449c6135d320699f6bd50b8968113046c8f739aabebcd2461337267b9a4f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/data_scientist/page_0004.json",
+      "bytes": 789828,
+      "sha256": "780e3f3c0232357593e5cc01630ed415ab4a7345c1482b695ecfecbc400f3da7"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/machine_learning_engineer/page_0001.json",
+      "bytes": 2293048,
+      "sha256": "ba1297fed17a67fed35a7a9340165e878aa7aed514590e2e5f5f332ad1469b32"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/machine_learning_engineer/page_0002.json",
+      "bytes": 3205604,
+      "sha256": "907cf1eb56dbb31fa274ed8a9878a4f3a7e40a971deec1a6e589c479b580bd04"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/machine_learning_engineer/page_0003.json",
+      "bytes": 1989955,
+      "sha256": "a2357fd939fb5bee909a5538242196260b986b51e346ad54e1234d08526e51e5"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/machine_learning_engineer/page_0004.json",
+      "bytes": 2366806,
+      "sha256": "72b8c811b1045a04bd9683ea9ab3b0776809e447dc6cb687a2586d6992fab234"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/IL/machine_learning_research_scientist/page_0001.json",
+      "bytes": 650,
+      "sha256": "f5f99674f7a94bb9ecdbe405e574cd38dc62ebacb95b623c21d6ed23c8ef859e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/ai_engineer/page_0001.json",
+      "bytes": 1349507,
+      "sha256": "11449cf7a46a171d9aedfe121a0918e06bd277928f72e76929ec440a93ff5ded"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/ai_engineer/page_0002.json",
+      "bytes": 1069432,
+      "sha256": "63b97db6dde56765eebae0de6a08188be8773a28eaffeea824c2867b68ffa429"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/ai_engineer/page_0003.json",
+      "bytes": 2172020,
+      "sha256": "f4baea7b8263dce133ad3586604d805acfccb781673b83f8e3d400c7d70b8542"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/ai_engineer/page_0004.json",
+      "bytes": 647211,
+      "sha256": "6f80f7ae175ce6eac44be46625641c7ae633367fcc3e05c0f50ad101b479aa58"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/ai_product_manager/page_0001.json",
+      "bytes": 282297,
+      "sha256": "af603f0e40712150c38df3d111181b2d87212bae95b2ef89851885f9f48fe1c4"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/ai_research_scientist/page_0001.json",
+      "bytes": 152358,
+      "sha256": "207ce7560392279311149251a7e67ebe0473f084099d128555a68e47c4e88386"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/business_intelligence_analyst/page_0001.json",
+      "bytes": 103600,
+      "sha256": "fe0ab8855017760c9b354924dc0dd613d992ebb5da0696055eae9482b527b18d"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_analyst/page_0001.json",
+      "bytes": 1307435,
+      "sha256": "ecee40682e73fd239147797c8bad4c949bad695956ddc9c749a000a9426d1b1f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_analyst/page_0002.json",
+      "bytes": 931649,
+      "sha256": "16da6d893e91e463bffcae99deb8f818c8d1d8357768962b9708fd290d593318"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_analyst/page_0003.json",
+      "bytes": 881687,
+      "sha256": "e72aa009db7014d1b3b67c017d603617a84a8e419e010ccfcf6f1d7f899bd4a0"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_analyst/page_0004.json",
+      "bytes": 1947504,
+      "sha256": "2d70b5c331355101c03ada4593299f4d0da3efb5d340292fa7e7da314e362201"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_engineer/page_0001.json",
+      "bytes": 1826286,
+      "sha256": "e204f43938ba82c7a3c669e50568d039279457d233da50e9a6e406281f892dea"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_engineer/page_0002.json",
+      "bytes": 2130311,
+      "sha256": "3af4556ffb36e49674cbc6b03df3b03d73e88b1290c259e5deffefe058e2f27f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_engineer/page_0003.json",
+      "bytes": 2061294,
+      "sha256": "40abb900f58fe047bef2c7e09e66c7fa0795fe740f6b676923f4e56e146e1c36"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_engineer/page_0004.json",
+      "bytes": 1817689,
+      "sha256": "08bcc551cb072451fdc00391b9d5bb057e7b441488b056d33a4134eb3d92201b"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_scientist/page_0001.json",
+      "bytes": 583154,
+      "sha256": "e7cf05b3ccba42a0829829e196d2df309ef83b8c81a2ed6f071c5eed2da49887"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_scientist/page_0002.json",
+      "bytes": 622717,
+      "sha256": "9f45bd0545548b8d05fa292376ba27d5328908cb8d0a03915be71a2cf5fb9a46"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_scientist/page_0003.json",
+      "bytes": 977494,
+      "sha256": "a92093a775abe9ae263f7ff4eacc19d1564af6145e8a86df02ccd0b87ebfbb6e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/data_scientist/page_0004.json",
+      "bytes": 549444,
+      "sha256": "9f54a7c06f1a55e39187a8958d55bfcc20fb4b0722e7db88f5b6bce60b967322"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/machine_learning_engineer/page_0001.json",
+      "bytes": 1201733,
+      "sha256": "611c5934672f1d287e208bdf441a738202224770973ae39555a5b4b476e44bfb"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/machine_learning_engineer/page_0002.json",
+      "bytes": 1596632,
+      "sha256": "aaaa34953f8ed5c12e80b2ed2709ad12f7b190803d97ca961946b057f606501b"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/machine_learning_engineer/page_0003.json",
+      "bytes": 2070718,
+      "sha256": "3b5d8f9a582179e50add9e4a5fa8b6d18dec289bda6ba5889c515ac38cb0e45e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/machine_learning_engineer/page_0004.json",
+      "bytes": 1353441,
+      "sha256": "c83aa5a2ea7418f35e36ac2429526d2b7f06b81147921161910b5fa50b8cee1b"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/MA/machine_learning_research_scientist/page_0001.json",
+      "bytes": 100225,
+      "sha256": "3ad05b4bf9c3ecbc3a731ea2ca6792a86c9274a1fc9d781115e364561e67af3e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/ai_engineer/page_0001.json",
+      "bytes": 2922668,
+      "sha256": "2ecb2020e0236766dda1fc6ff96f47c929d8b5dc56b83167b35f48e8cde09975"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/ai_engineer/page_0002.json",
+      "bytes": 3007964,
+      "sha256": "8d1bfbe8ef7046a94ce696b5d25ee65fb7a0460ce9315ee80ab1094c06f395e6"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/ai_engineer/page_0003.json",
+      "bytes": 4621219,
+      "sha256": "c1ca9408c95e46823fb90fb54366ef55b713aa0897988f3210aab0b4e1a3e2de"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/ai_engineer/page_0004.json",
+      "bytes": 2750907,
+      "sha256": "75213ecf17d4f59ab0f4e861565495567b0ea2167703eb8bd895240ee337eba8"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/ai_product_manager/page_0001.json",
+      "bytes": 501716,
+      "sha256": "a80b18164107e99dc5275adda04bf00d8c633e5f1f4a17de44e1400b186a44a6"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/ai_product_manager/page_0002.json",
+      "bytes": 135718,
+      "sha256": "5ce9690daac212ec892bcb09576d777d28fcd7693e561a7ae4df61d83080c1ff"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/ai_research_scientist/page_0001.json",
+      "bytes": 28929,
+      "sha256": "28facac2317374407fb36c9f134f8914b459beee528b51690dc00128e21a4774"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/business_intelligence_analyst/page_0001.json",
+      "bytes": 300281,
+      "sha256": "ab66d58df7d96cba2a780648e6be55fc50091e54ac2333d4706a879a045a11b2"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_analyst/page_0001.json",
+      "bytes": 753476,
+      "sha256": "7c92a8e08a53a5e5e9e815bd5b14dfe1a1c826e5737fa27aefbee82d1a464639"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_analyst/page_0002.json",
+      "bytes": 846893,
+      "sha256": "3389f5664b003ad286f901f01fd8c7f3e9ce872b1f6a43f971d255764c440824"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_analyst/page_0003.json",
+      "bytes": 927805,
+      "sha256": "319db52726a88e24d8618fcde16b5cab203749280243f12e22e153bdae5d5c08"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_analyst/page_0004.json",
+      "bytes": 484388,
+      "sha256": "3ebc3d2463bf288b82394d0e22719c6e0dcbcb852ed19481a1bbf60c527922e3"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_engineer/page_0001.json",
+      "bytes": 1035585,
+      "sha256": "fbaa7cd1fc786f92a862e3b2731c13bd646fa000af5411046e35d3b5a3e2b04a"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_engineer/page_0002.json",
+      "bytes": 1515580,
+      "sha256": "268192d6c2a71869981bb98639f0f55995bff38ec68476eedc3546913e7163b8"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_engineer/page_0003.json",
+      "bytes": 2659399,
+      "sha256": "65c5005a6977d845a34ce7b5d9966f976e9164ce8d83cebe0ca065879e03369a"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_engineer/page_0004.json",
+      "bytes": 1350189,
+      "sha256": "f366e92f43f73251e271e53a352cc9efb9e72a11e5715705a33ed88c60a7a77b"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_scientist/page_0001.json",
+      "bytes": 541258,
+      "sha256": "4c4f3efada1a339e6d3851a92bb2b66e096bed82f7b8d99d6fa7c8aa14aa2cc8"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_scientist/page_0002.json",
+      "bytes": 835739,
+      "sha256": "c864227649f6be14b7079a775d002f957f3e11f002dd813a203cc4b5dedeb539"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_scientist/page_0003.json",
+      "bytes": 986658,
+      "sha256": "3bf6579612fce8ca071454f7a12eb8f21b7bce34043c220893b22e34014af4d1"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/data_scientist/page_0004.json",
+      "bytes": 622935,
+      "sha256": "98c77cd21d3d3ab8b24f59d491aa0cba825556bd7c735f1f9a9f1762317f3c8f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/machine_learning_engineer/page_0001.json",
+      "bytes": 2318692,
+      "sha256": "eabcb4966870a6d98d37d3a2fafcd498c08e055fbc8ed2a17a111656d16af017"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/machine_learning_engineer/page_0002.json",
+      "bytes": 3084678,
+      "sha256": "df694ab0155a41fdd453207458e5f3df3a206d15582902d2c13e19e0ee4001d8"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/machine_learning_engineer/page_0003.json",
+      "bytes": 1918673,
+      "sha256": "2374a7ec2118a70ded9cee2506331d7c5e909429c083f1ce29bfa4a5a72e34c6"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/machine_learning_engineer/page_0004.json",
+      "bytes": 2761049,
+      "sha256": "2af570a4d7637524ec08983e6d4c0e31b516a7cfb12be35b314c879a963add30"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NC/machine_learning_research_scientist/page_0001.json",
+      "bytes": 650,
+      "sha256": "fcfb49c6774c10f207ffdacaaa717dadd5c2c6bd78f7f9df9c60d42bdede8905"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/ai_engineer/page_0001.json",
+      "bytes": 1335378,
+      "sha256": "9a5b6e0864e9b1c2f1aaf79d2cce3e94b2787a5d3784e349e7529bd63380031f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/ai_engineer/page_0002.json",
+      "bytes": 694845,
+      "sha256": "e3479d2af7fa422f2669c6a464578c5b53895721c5b7fa58491e069c07ca3f75"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/ai_engineer/page_0003.json",
+      "bytes": 652839,
+      "sha256": "8dfb19478b91bab6670f12b18569e0e6f47cc49cc268dd046b1a145543e46a06"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/ai_engineer/page_0004.json",
+      "bytes": 2036130,
+      "sha256": "1f942b54ca00edbea5dbc0faf4fc3b314e0f909b0b1e77607b878f3f4f3fe604"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/ai_product_manager/page_0001.json",
+      "bytes": 380572,
+      "sha256": "fb063024bbd6b7c4225d81673bed55444adc03bbd1a517d17f7ed64505bf0895"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/ai_product_manager/page_0002.json",
+      "bytes": 430233,
+      "sha256": "7a0193d2a4760bfc387c936ceda91e422807672251abe88ec849bf6cdf7d1bb7"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/ai_product_manager/page_0003.json",
+      "bytes": 180934,
+      "sha256": "9d2dea7434cc5d67e929763c7763964cfa6ce884e0a6ab7420d5cea6e373fc66"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/ai_research_scientist/page_0001.json",
+      "bytes": 118756,
+      "sha256": "f6f561f8d673290003fdf3ed458235095a8f2c8c80b371367bc0c824a3557fff"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/business_intelligence_analyst/page_0001.json",
+      "bytes": 126265,
+      "sha256": "241f8db20e2193c258021e7ca06678071a08fb0eb065bfbc210195fbf5078400"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_analyst/page_0001.json",
+      "bytes": 772469,
+      "sha256": "85e664813f1336a5841c109be4426a1ce760ee8500cef543983cc53c9331edbd"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_analyst/page_0002.json",
+      "bytes": 297634,
+      "sha256": "7b62a50af9a58e8fabca8e79537fcabdd9744fecb580fbe3d021b64b90ba298e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_analyst/page_0003.json",
+      "bytes": 388766,
+      "sha256": "d13d7fcd49bb74df111a335ff6f6c2d7bd5ae77383e7781110a4628df968e7b9"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_analyst/page_0004.json",
+      "bytes": 606935,
+      "sha256": "96118f80fd7d74fc5d610bf059e64b8bf5925474931ba20e87f33c7bdc7ab32c"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_engineer/page_0001.json",
+      "bytes": 784456,
+      "sha256": "9087d748b1689ab60c71477f4b94fb0bc14c69043a5594c684a75a9a0a1551f8"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_engineer/page_0002.json",
+      "bytes": 772313,
+      "sha256": "bc1bacbb4668fa7f108f26b4fd0bc91b53cc3c1ce73b2e6030a3a2bb420bff6e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_engineer/page_0003.json",
+      "bytes": 811604,
+      "sha256": "fc3cacd08514915e335398c443a7fcbe141326b61324c881ee62b7d32698938d"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_engineer/page_0004.json",
+      "bytes": 1558022,
+      "sha256": "762ef2a2b59e8beff8a99f4f1fff4ee44fbfb7f824015b88c6289870e272f053"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_scientist/page_0001.json",
+      "bytes": 453313,
+      "sha256": "7ee56ff47bd6ef8edcc9af1eb0446bc98340a9875effeba68cbf7297aa4839fb"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_scientist/page_0002.json",
+      "bytes": 406849,
+      "sha256": "d55ca0b7135b2256a19e2dfa63e8262a4af6caee8fbdcd2bfcf08d37659edf35"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_scientist/page_0003.json",
+      "bytes": 347104,
+      "sha256": "7943649953b9f6926287fb998764199f71570dd4a483262ff8719a4459403859"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/data_scientist/page_0004.json",
+      "bytes": 370941,
+      "sha256": "d2860c735a61f92ae3cfcdcb7d9ef4db619d11a7afecd06f19725a145f858fce"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/machine_learning_engineer/page_0001.json",
+      "bytes": 951251,
+      "sha256": "d80bc3147e34f48d838f903c7ba5b08bf436d8a331c22dbf1b00820330215bcd"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/machine_learning_engineer/page_0002.json",
+      "bytes": 446081,
+      "sha256": "d4aa1bf175e72eb5b1da2dcc6369e5fa33fdc16fd5c15dc7e2868bbeafbb8ef2"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/machine_learning_engineer/page_0003.json",
+      "bytes": 959375,
+      "sha256": "eedc5159c0e30cc95d4c231723c9f3dc0f86e0f83b8da67cbbe9294660cb19b5"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/machine_learning_engineer/page_0004.json",
+      "bytes": 855336,
+      "sha256": "f560d79b76cfd3140814988585393cf6a9663e7b75db0394d338056cf1c3b292"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/NY/machine_learning_research_scientist/page_0001.json",
+      "bytes": 492127,
+      "sha256": "6457db6425796a6eccf5976ea8021e8caf7cfc4fcf989f6e7cb320a64cbd031d"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/ai_engineer/page_0001.json",
+      "bytes": 3206034,
+      "sha256": "878198ced03bfd8763e4a766d3e787529114f43cf41cbb4850697eb98df8c4e0"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/ai_engineer/page_0002.json",
+      "bytes": 3965309,
+      "sha256": "41364050b960a406b58ad9a7de6c158f34aab2ec4bf9209389345cc93cca9822"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/ai_engineer/page_0003.json",
+      "bytes": 4051060,
+      "sha256": "91eb38a4f790ba1bb58784b4eca9d44e4f27c2d33b379e87ef3923488bf1e534"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/ai_engineer/page_0004.json",
+      "bytes": 3144040,
+      "sha256": "620059e14f6ae807402fb26d5be94f0c3297ca23b64b77a68329cbb91687601b"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/ai_product_manager/page_0001.json",
+      "bytes": 331339,
+      "sha256": "57c939e8861729561e7d04b1d0f3395ede836e3fecd1506d1737ad066afdfa22"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/ai_research_scientist/page_0001.json",
+      "bytes": 23075,
+      "sha256": "4507a4b32f28aef14ce6f308e2c6e1d0376dc07de2df499c603f7fe32476f68e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/business_intelligence_analyst/page_0001.json",
+      "bytes": 185321,
+      "sha256": "f55a86ceaf962d90d1f456472469e389da940da45dc641e5e35e0f3cdfb5ff25"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_analyst/page_0001.json",
+      "bytes": 1018500,
+      "sha256": "3a4d795f45e336118c66fc1a5f9a7aab1b7e15972c8cf44b30a2889d0b73305e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_analyst/page_0002.json",
+      "bytes": 1143305,
+      "sha256": "76674cc3205fcf24db88274ce8ddf5f3645da14545dc33cdfce441fac6e23e31"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_analyst/page_0003.json",
+      "bytes": 575682,
+      "sha256": "c6f01e2bedd15772da86c1bca1a731b484524aef6417d06864eff0953733222e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_analyst/page_0004.json",
+      "bytes": 836338,
+      "sha256": "3b5d6f680811ac8ecad32597597b01ef4d64c5c0a645c94dc5612516ace4f66e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_engineer/page_0001.json",
+      "bytes": 2006918,
+      "sha256": "e3805e8c9683f76effa8c05a3f9b44bdf5751cc652508787068cba9f129b5048"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_engineer/page_0002.json",
+      "bytes": 2108844,
+      "sha256": "b1ba84248924b8909b126aa512137bf1ded7a1dcb139e78b69faadec48ebfdaf"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_engineer/page_0003.json",
+      "bytes": 2320412,
+      "sha256": "890e8ca63bdf0c373365070b9b50b3ea2d5238689b77c4a3095e4d07b3946c8d"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_engineer/page_0004.json",
+      "bytes": 3177621,
+      "sha256": "9bc614278a6c9f6745751f16c9050017671bfca9a77a506737fcec1bf8d8ff57"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_scientist/page_0001.json",
+      "bytes": 488690,
+      "sha256": "8265d42af21123e37b9ea80fa9c49f5e4ede7d20038870571ac48d8ff0785c6f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_scientist/page_0002.json",
+      "bytes": 938392,
+      "sha256": "41fe5f4bcaa30ec73a602c5114f277ec3a1a286185036028e0eaec1eb2e34c89"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_scientist/page_0003.json",
+      "bytes": 805289,
+      "sha256": "8f8779e50f4a7b7e6198f74f270ea73a50d54acfccaa57d741e3e2b70c0b3510"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/data_scientist/page_0004.json",
+      "bytes": 596247,
+      "sha256": "3e017da8eafe3730d98a66962412a2421857cbff519e6442add89afa8608850a"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/machine_learning_engineer/page_0001.json",
+      "bytes": 2205866,
+      "sha256": "9ee4cc33c96ba9882c4471cea085ecf4efbf5269aafec97ea273a94f969f39b0"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/machine_learning_engineer/page_0002.json",
+      "bytes": 2477097,
+      "sha256": "bb22723258d708532ada934a72e46d0b21b90949744a88f990344808a16b4eb5"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/machine_learning_engineer/page_0003.json",
+      "bytes": 2081447,
+      "sha256": "4c59457d529399f7accf50a13a14618cfaa4058eb6a2f455d734cc7bfc7c09c2"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/machine_learning_engineer/page_0004.json",
+      "bytes": 1780686,
+      "sha256": "d03fe57124ffc491e7b490faa35698d6fbc108b0155cfb007333b1d484ccfba3"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/PA/machine_learning_research_scientist/page_0001.json",
+      "bytes": 30074,
+      "sha256": "a767e3cf34106ccec7cd200fe2a27a43e9f7672209d78a3f5e62da3c2a3d58de"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/ai_engineer/page_0001.json",
+      "bytes": 1549173,
+      "sha256": "3edc8f3e1047ce112bc1f2882940dbfad1ee835b4a194a1e25aea4b9a6236643"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/ai_engineer/page_0002.json",
+      "bytes": 1860529,
+      "sha256": "a806f0e7a1df2aee46661000d3af10eada98b0ef020f24423157fcc7d34c2613"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/ai_engineer/page_0003.json",
+      "bytes": 681134,
+      "sha256": "dbb29d192e40cc6c95b2d148d1a9f8820282e5d19104555c89eea10663b2bb1d"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/ai_engineer/page_0004.json",
+      "bytes": 1960517,
+      "sha256": "edf193bf6d072cee157fdd1aac393b4bcc9dfdd27b1bb67422c2fd48fc7e9a62"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/ai_product_manager/page_0001.json",
+      "bytes": 533031,
+      "sha256": "7950e48a31d5f852d0bae06c611cbd30eb020a4f7f8da7073fcdd7699a3291ef"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/ai_product_manager/page_0002.json",
+      "bytes": 16006,
+      "sha256": "821b148381d1aa7a05722d9cbdf108a5d8d3db5af9546d077e08ad48a68a275a"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/ai_research_scientist/page_0001.json",
+      "bytes": 146381,
+      "sha256": "0f617ea4325e1f9403bf1886d199b46bd1a89d618aa11d1e2e7f1cb2e04bf323"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/business_intelligence_analyst/page_0001.json",
+      "bytes": 342158,
+      "sha256": "4ba6cad13228d48777c73347acf36de981973f7add68fa1eeffae121d8a52a92"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/business_intelligence_analyst/page_0002.json",
+      "bytes": 71353,
+      "sha256": "598856b84ce0e52e59cd7cb35d14ec370273346d6cefcef2d72ae031a0e2d56e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_analyst/page_0001.json",
+      "bytes": 762661,
+      "sha256": "55508540b8d4e65395c8e7363f7287ac908059a7bbe9da55037ce859ae159f83"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_analyst/page_0002.json",
+      "bytes": 418313,
+      "sha256": "16368a6d12f7186fdc85048ee8eec473fcd210d118614cd047b573426f049a3a"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_analyst/page_0003.json",
+      "bytes": 777895,
+      "sha256": "aedbc09b5f2f55d224b0c6fdda11ae785d34e9284a6216bb11dcf79e0ddae48f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_analyst/page_0004.json",
+      "bytes": 840679,
+      "sha256": "ec634bf1c75d3ff0f1bfa3d5b58adc8b9f63077c871a59e80487160256b908c1"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_engineer/page_0001.json",
+      "bytes": 583646,
+      "sha256": "25cb2efcfc1d3c42447bbfd4d2c3a8a166ad89a9676c038bb55f3936c2bcd7e6"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_engineer/page_0002.json",
+      "bytes": 869308,
+      "sha256": "085298fe7b564a1c813d102fd07345ea1064ece46d58ee12f6d437579beffa26"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_engineer/page_0003.json",
+      "bytes": 736367,
+      "sha256": "664b454178253073dbecf9d42976bc9325fc6f254794ef2194fd53e5846d1137"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_engineer/page_0004.json",
+      "bytes": 852429,
+      "sha256": "eb5a7c95c0234129a5920a51fcefdf50e1a8fc5e9909b9eb95de2814c0ca4eea"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_scientist/page_0001.json",
+      "bytes": 347356,
+      "sha256": "f51a2824b6ce6b3d983606168009745d5e9c2d2286d6d94d3fa0143c8ff43ec4"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_scientist/page_0002.json",
+      "bytes": 295622,
+      "sha256": "c423a4a223a60782e86d5d094b76ad9feca53fb40a53f6ad2e63ca5becc63918"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_scientist/page_0003.json",
+      "bytes": 239376,
+      "sha256": "893f78206eee79d0a64fb7e10ba1ab9920c5524f74d71bd8cba931b59af83835"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/data_scientist/page_0004.json",
+      "bytes": 459303,
+      "sha256": "07e9d5fae1293679b49b943446528136c3f26709c61d70d9b8b8d0764147625d"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/machine_learning_engineer/page_0001.json",
+      "bytes": 1413353,
+      "sha256": "1a43bd50209323d5f6a5d60380be0f250930f12c10581e3a2d64603ab8e92fdd"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/machine_learning_engineer/page_0002.json",
+      "bytes": 1379798,
+      "sha256": "6b084e02d066d6bd50e3ddf74907202133a47da326451b5bb8618680c2ac08c9"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/machine_learning_engineer/page_0003.json",
+      "bytes": 1717920,
+      "sha256": "e5aa7a8c62e4618e346179806e86a441276b4f5c1ee70ed4ef7295659c9f37c2"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/machine_learning_engineer/page_0004.json",
+      "bytes": 2020597,
+      "sha256": "0daa300e9d854f45b6176c542f91f9c9643e9946c1cae6f43e250b34872ab030"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/TX/machine_learning_research_scientist/page_0001.json",
+      "bytes": 650,
+      "sha256": "4073e0bd62e3ac200e635dfa69640c5e9a5033f4358125deb599137adaf99c06"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/ai_engineer/page_0001.json",
+      "bytes": 1323835,
+      "sha256": "38bb40b16e4899cfffb1482e632aa1cc17b8ad6519f7f72c23c0fc5aee8441d9"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/ai_engineer/page_0002.json",
+      "bytes": 1132777,
+      "sha256": "562acf2e9f9a7240d1cbf13e8f92dfb629ac3270d16344a6b7675eec21bfff78"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/ai_engineer/page_0003.json",
+      "bytes": 2182600,
+      "sha256": "9bd72bc549ff7cf8f1e032782c6863f54c507054d45014a0f196b5d42b53b2e4"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/ai_engineer/page_0004.json",
+      "bytes": 666997,
+      "sha256": "b10039275e0981a2aa404ddb9f9f95e5ab968231127472d08ef8b960bfdd33cf"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/ai_product_manager/page_0001.json",
+      "bytes": 283406,
+      "sha256": "95576fe3251a4e235ce4b2fdc9550c2c27350204be755bad998264b66013d30c"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/ai_research_scientist/page_0001.json",
+      "bytes": 51065,
+      "sha256": "677d8302fb56069e4283042f3466afcc8b4f412ab6dc692a936a9ee275806a4b"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/business_intelligence_analyst/page_0001.json",
+      "bytes": 327282,
+      "sha256": "3d1552a33c5f773aa73f159a0f85cbad9dd4ab6e55fe28d529221f2b12e34221"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/business_intelligence_analyst/page_0002.json",
+      "bytes": 217729,
+      "sha256": "0d5dc77bd4c979f8be4e95a209c49af510ef148fc48f9cccd1f032408d940a41"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_analyst/page_0001.json",
+      "bytes": 395939,
+      "sha256": "02a8b6b5660eab91392b2a66e6b5b497d99bbeb3598ef760ed44934d4941be60"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_analyst/page_0002.json",
+      "bytes": 717271,
+      "sha256": "229d37e8d05387699b0079c49f9d64bdcc2e865b12cb76898062419d5d165d76"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_analyst/page_0003.json",
+      "bytes": 378691,
+      "sha256": "8443548d66f42c5be04b560942b164e7801a91dbfde0334ae53ddaa92035eb25"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_analyst/page_0004.json",
+      "bytes": 784630,
+      "sha256": "32e08fbaa413b38732442c884900ad5b944c81b36da52d72709869c39f2d9193"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_engineer/page_0001.json",
+      "bytes": 569354,
+      "sha256": "aefd1970801648aa54e56b24ef8883428742af1814a0709448d1f7b24486b463"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_engineer/page_0002.json",
+      "bytes": 1004390,
+      "sha256": "8fe444fe80671d4398605f66d96f5eb8ad5b1cae29250e41a1b43e914b6bbba3"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_engineer/page_0003.json",
+      "bytes": 254664,
+      "sha256": "db3506bc7d4ab15dfd8603bc5843561005135a3cc990d0f00751aeead25fa4eb"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_engineer/page_0004.json",
+      "bytes": 722180,
+      "sha256": "0e1814b67387b2204bdcca615c96acbff96393a7769c59aca98e9f10fb362c55"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_scientist/page_0001.json",
+      "bytes": 321617,
+      "sha256": "3b55e8ef39711fa5d1f8279b60383e8b264d658bf76ec1886f2d47c369352281"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_scientist/page_0002.json",
+      "bytes": 317733,
+      "sha256": "33b2b0b9fee22da547e641063a30e9c0d6737425f5f3f577813866d19fd396f1"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_scientist/page_0003.json",
+      "bytes": 354001,
+      "sha256": "11bddc8802a689e45ee84d4cc1412f9c23f76e383345456b57e666f843ced89f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/data_scientist/page_0004.json",
+      "bytes": 411487,
+      "sha256": "ea958e9569a4d3906782a6c8ca0a078a9195a1f00ca175e0088d3e9459ba1f5c"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/machine_learning_engineer/page_0001.json",
+      "bytes": 1007619,
+      "sha256": "f834d553385c616581c0f558bfc38f35fa02e1a22cf1ff1ee441a1a48d9f930f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/machine_learning_engineer/page_0002.json",
+      "bytes": 1120943,
+      "sha256": "80d70c393d6706751aba5effdd32d760a8ba27a8fbe8f5be0dc7edb3e76aa25b"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/machine_learning_engineer/page_0003.json",
+      "bytes": 845178,
+      "sha256": "0e3755b15be68f0583f4dc64eac6a517e686ba9ab8e1505d827fd27aea2aaa4c"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/machine_learning_engineer/page_0004.json",
+      "bytes": 875574,
+      "sha256": "ff648800a2456d1c2bab0d0a8c9185cf3263aff442c9d5c6eec156b89920e249"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/VA/machine_learning_research_scientist/page_0001.json",
+      "bytes": 40402,
+      "sha256": "00b7f7b3d1d1f30e4d39fcced9866d863672dc3c5125d363c6bbcceb1cfdbaa6"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/ai_engineer/page_0001.json",
+      "bytes": 3455836,
+      "sha256": "f921fa2af88938bb64facaca925ed8585573f64e8a01166af5f59a14401c4a49"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/ai_engineer/page_0002.json",
+      "bytes": 3770836,
+      "sha256": "269565d7f99a11a9784734f3bbc78954e98e23055f9a19993ab206ab8ab05076"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/ai_engineer/page_0003.json",
+      "bytes": 4188957,
+      "sha256": "a8c189ff05722d87a213a13f368d70326618f3fd8f3b524c72a6c0a46cace2e8"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/ai_engineer/page_0004.json",
+      "bytes": 1940844,
+      "sha256": "faa522c896ba3be7377ad512556c219ffbc2f221fe28512a0f522e033061a4fb"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/ai_product_manager/page_0001.json",
+      "bytes": 169563,
+      "sha256": "34046f8fc87708e6fa06dd16d2ab1925e612096a3ad5bd44fe81d82a3cde9a65"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/ai_research_scientist/page_0001.json",
+      "bytes": 210356,
+      "sha256": "d3d8c61ce74f980a4841d85e854cb7f9d3e5d38f7fc90ef132de8a4f3db3189c"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/business_intelligence_analyst/page_0001.json",
+      "bytes": 133609,
+      "sha256": "4f6070576c41017a7f37486d289c6f93cd63283982b4977e033a0bdde8fe00ef"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_analyst/page_0001.json",
+      "bytes": 1884983,
+      "sha256": "5b9cb5b65733668da6af579b946ddde7f845847456b0b38bac8a552125c12ebe"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_analyst/page_0002.json",
+      "bytes": 816256,
+      "sha256": "561edeea681f1880085d60a4f3d873f0ee82ce880e280502950e5d61f019613e"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_analyst/page_0003.json",
+      "bytes": 1362828,
+      "sha256": "85fe4973b5ff27bac601c5b633f3610f8a41de47fce45d5e44d79605402256c3"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_analyst/page_0004.json",
+      "bytes": 1229265,
+      "sha256": "9c5f6903bbb157ac37512a440ecbe37f8f75986303b6bb4b89da6bb5cf8fabec"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_engineer/page_0001.json",
+      "bytes": 2039614,
+      "sha256": "5bbfcd303a36c8e52afecd097c2e42342e816c2c0bced2fa778d2d0b870040d2"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_engineer/page_0002.json",
+      "bytes": 2847074,
+      "sha256": "293c807e5bb0cbcd30ed89488d3ab26530516aabb2a18076ce6104fa0daedcb4"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_engineer/page_0003.json",
+      "bytes": 2563093,
+      "sha256": "ed1ee944f5111e41ab1b732a20acd665bc0a0e16bc2a439f21768e5783ce0885"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_engineer/page_0004.json",
+      "bytes": 3006713,
+      "sha256": "e5822c9e059797481e5edd191af7a388ad8d2c6900c996b463e444e0dac909c3"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_scientist/page_0001.json",
+      "bytes": 459552,
+      "sha256": "9b8c4b7bdc125c6abf2300e8b7756838e8dc72554d0f00b2d848a158f510060a"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_scientist/page_0002.json",
+      "bytes": 367797,
+      "sha256": "972d2c8749257635774e6830c4202152369acf201ef3072c3613188033af8e96"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_scientist/page_0003.json",
+      "bytes": 795239,
+      "sha256": "d135630b53b01faa94181ab042a621a46c79cad94a1d439e28f227afdb8c281a"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/data_scientist/page_0004.json",
+      "bytes": 680397,
+      "sha256": "f4a12eb46903ee87a9b8fbce60efe444bad70f8fcd6f307436866f834a6b3085"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/machine_learning_engineer/page_0001.json",
+      "bytes": 851092,
+      "sha256": "476b4077a42716f97d94b5a3fa2a6076eb8c22f0a812fb138a6923fe437be56f"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/machine_learning_engineer/page_0002.json",
+      "bytes": 878659,
+      "sha256": "6ab4110796c2a61c0f7a6b79e813489d229eae3f9141397fb4f9e247b77104f0"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/machine_learning_engineer/page_0003.json",
+      "bytes": 1765963,
+      "sha256": "70781486537d470f2e2496537ed34a35574e29068c4f835ddf3e5ee29f9a5eb3"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/machine_learning_engineer/page_0004.json",
+      "bytes": 2015137,
+      "sha256": "48c329fa8b615a33719ce94cb4247f3dcd05cfc36929d348362698aec8bc7718"
+    },
+    {
+      "path": "data/raw/headcount_10states/states/WA/machine_learning_research_scientist/page_0001.json",
+      "bytes": 102831,
+      "sha256": "012d9b525dcad9ec1429f7de5e263947533fcee890f49e29d7f6e7798b58141e"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/abilities.csv",
+      "bytes": 12667583,
+      "sha256": "7e9cd79791ce6014e1d26d0a449ae5b1e7aa7ef52d39b3934c3bb8d438104b88"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/abilities_to_work_activities.csv",
+      "bytes": 31460,
+      "sha256": "707c6c05f79e92d07dc6e25d40b1de48fb229755529116c518f26d31f076b0f1"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/abilities_to_work_context.csv",
+      "bytes": 11797,
+      "sha256": "282a94b4b4b7dacb4f4dc5d9df9171489846a77d1062c5f82ecc5df8b0380033"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/career_interest_type_keywords.csv",
+      "bytes": 2706,
+      "sha256": "9aa5e9d2a125fc2ff5fadf099365c09d04791c5f70236eb9e1ba3b995bab39a2"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/career_interest_types.csv",
+      "bytes": 1136078,
+      "sha256": "19f452d51b81a4d59389b500f85baf252563858f596124fe446dd436a9f41206"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/content_model_reference.csv",
+      "bytes": 235856,
+      "sha256": "370033744006dbd5df048431d42a402f6741a00a229b6d0f4e4f4249b6399c04"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/education.csv",
+      "bytes": 1985398,
+      "sha256": "e7a34cc44793ab1d56078fe52414e609b7beb9e276f5e2454df6bd41a8ccb68f"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/education_categories.csv",
+      "bytes": 3186,
+      "sha256": "84b259f9e661d81356afd6f6080535dd0047f363887a574e747d612ee4adddac"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/emerging_tasks.csv",
+      "bytes": 54335,
+      "sha256": "7b7f304c456617083150cb7b09eb2be885dc11351fce1dbcc33bf0839d6dbfac"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/essential_skills.csv",
+      "bytes": 2328135,
+      "sha256": "68c4d31d8c55077238395dca40cc4e6d32e6a608b5474bb8264b1f98ae415bd7"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/essential_skills_to_work_activities.csv",
+      "bytes": 8466,
+      "sha256": "0b733f28263c6b2975ecb07641ef9f8f03a1d038dcd15746b1a37463e9d12fb1"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/essential_skills_to_work_context.csv",
+      "bytes": 2891,
+      "sha256": "a6131473197f3ad73512c0cd42b8f79289873356ac21b1864ede0ececa033dc9"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/gwas_to_iwas.csv",
+      "bytes": 35010,
+      "sha256": "22eb4c388a320f49ce527fb288c5fc3e1ad99dc1afa8083bad419d4ae642a91a"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/gwas_to_iwas_to_dwas.csv",
+      "bytes": 351780,
+      "sha256": "ae4e9f166187bfe8e6328a21470689ed188e7ed831090ace2a21c66cebb31a49"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/interests_illustrative_activities.csv",
+      "bytes": 14931,
+      "sha256": "f2602bb57b1dff64fa91b198685ddf66b6dfdbaa3e83d3c3c606e7a5615ff82c"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/interests_illustrative_occupations.csv",
+      "bytes": 15034,
+      "sha256": "7cd40acf015e603e98f30a599532dbcc56bd2666c0c3b9749ad250719ac454c5"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/job_titles.csv",
+      "bytes": 4504432,
+      "sha256": "75a3b46d6edc5996117c10c9ed488c9a06f7495d02969e9d12873ab14a21540c"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/job_zone_reference.csv",
+      "bytes": 3688,
+      "sha256": "75e21c0bbe0ec4d70428863b6930fbff0e279537faba1e630d7f2105ba2b6038"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/job_zones.csv",
+      "bytes": 59908,
+      "sha256": "093f01891ac2e602a8cc6c859ecb619b5bc00eb50cd3f3c1134c05b704481944"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/knowledge.csv",
+      "bytes": 8013560,
+      "sha256": "88092e17d16096cdebe292fee4389deb460edda24ae8b4637212c69c71562f55"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/level_scale_anchors.csv",
+      "bytes": 45629,
+      "sha256": "7205657fb54280827d6902b94e06f95ef0b9ed10f1f9f8ed3f02779d4c7a9573"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/occupation_data.csv",
+      "bytes": 268030,
+      "sha256": "a09eae1d6609686e44e05b7290993a1c8b523d8ca224bc0eedc194c855c3ee02"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/occupation_level_metadata.csv",
+      "bytes": 3780340,
+      "sha256": "91b939ab752663ab727c35ba1aef23923eae0dd54102d50fce215f163e606a60"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/Read Me.txt",
+      "bytes": 511,
+      "sha256": "d00e6ebd9fcd3204efa4d8c01b08eb853e593341b9823b100b6bd2320ba5fb3d"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/related_occupations.csv",
+      "bytes": 2051148,
+      "sha256": "fc2a719a21dbd3805ddfb6d510c013c9e0c366b46273701b88c683a50ef3fe6b"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/sample_of_reported_titles.csv",
+      "bytes": 601127,
+      "sha256": "5d76040b7b0602ea217660648f8363e7980edd1870f96574a2eeaa6a822d2666"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/scales_reference.csv",
+      "bytes": 1006,
+      "sha256": "bcba23858ce21ecaacbde303a8993e35d46724b4afb8c9ec2b10e04f42adcfc9"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/software_skills.csv",
+      "bytes": 3557545,
+      "sha256": "6aabb96b464288db849580e6510530efff3f80e25dde2bb23f1fc36bb526b016"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/specific_interest_areas.csv",
+      "bytes": 8712834,
+      "sha256": "3c59c823f228d4ee5e066560a4fc39676c5cfd956355ad9d19bf8f552f87f0eb"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/specific_interest_areas_to_career_interest_types.csv",
+      "bytes": 2489,
+      "sha256": "a8353fb7aa28042b04be9d75e8456c8a101fb87900107e94d71e67991fa73b79"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/survey_booklet_locations.csv",
+      "bytes": 13365,
+      "sha256": "13e36d83dcab3cc8a43ede45dbb583bfaad5e3f2630896a1798ae9ad4b3fe61a"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/task_categories.csv",
+      "bytes": 446,
+      "sha256": "675ee2007335624ab2df2b292669a690486d942415216fa24a8f523f7ab12bf9"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/task_ratings.csv",
+      "bytes": 39006755,
+      "sha256": "52ee4ad320f1ca3c3865795aefc7393d422a9bfbfea3a5b5d9eaf2928c10eafe"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/task_statements.csv",
+      "bytes": 3461375,
+      "sha256": "4568e14d8db6f05551ad37e056e909b13ebae4a26bcb5ff915bb5f281d582c57"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/tasks_to_dwas.csv",
+      "bytes": 5602660,
+      "sha256": "15624d31acb85627736a87dc7c485edffe30361262571c8242fad4ae9e7678a6"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/training_and_experience.csv",
+      "bytes": 4505025,
+      "sha256": "2d2689f6b53e7570ef0aa5f7b8ea5511b9f0ea6adddf8ce3681d7dd52b941138"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/training_and_experience_categories.csv",
+      "bytes": 3431,
+      "sha256": "fcb51e8552199ae2b6b70eb6f1c14f2323c3d90338ea962eea042694569f59ef"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/transferable_skills.csv",
+      "bytes": 6081245,
+      "sha256": "f17d0419e818a3bf2f55076510c76c4aef01cc8f5aee2670d2f44f6f44ac60f7"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/transferable_skills_to_work_activities.csv",
+      "bytes": 10025,
+      "sha256": "936228f125d4611116bd1f06954e1958538578fdcf000df7468796652c5d03d8"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/transferable_skills_to_work_context.csv",
+      "bytes": 4737,
+      "sha256": "e1741b50d4439026e1e5038e93d0f3dfefc1972777bb212edcecda7bb3dca6a9"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/work_activities.csv",
+      "bytes": 11829015,
+      "sha256": "6c266205b2926c0c854a7a577aae29fe492c71bb0df7e197adca830b58fe4ea1"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/work_context.csv",
+      "bytes": 52928020,
+      "sha256": "599f6bff23cbc3e7d8915e25c0167324b1e00c4117bcbcd9a0c754fe47cb4fd7"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/work_context_categories.csv",
+      "bytes": 30453,
+      "sha256": "1a6ca4b051a94aad61b931c06bc62d16a5527cd4009a94b9effa3d470399ca4a"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/work_styles.csv",
+      "bytes": 4329846,
+      "sha256": "a3e5331df515dbc9ede284667e72189a4f24c8a8af80f61bae908596ea48c926"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/work_styles_to_work_activities.csv",
+      "bytes": 22966,
+      "sha256": "dc15468de34052d8c38b49f8af7dfafd09a1a95196757223da2d3db130205f8c"
+    },
+    {
+      "path": "data/raw/onet_31_0_csv/db_31_0_csv/work_styles_to_work_context.csv",
+      "bytes": 19770,
+      "sha256": "775978c5d3289910af944a6489e089172c3fb0913baf3ad07a16a5c6138d143c"
+    }
+  ]
+}

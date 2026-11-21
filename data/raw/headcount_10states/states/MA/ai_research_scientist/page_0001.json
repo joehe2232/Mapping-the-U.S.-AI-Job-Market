@@ -1,0 +1,2354 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:46:17.399619+00:00",
+  "state_filter": "MA",
+  "title_filter": "AI research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "MA",
+    "title": "AI research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "1fc24996-4af8-4efd-95d6-b2c2f14050bb",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "835cb46a-ae3e-892b-8a8c-5b76e8a79549",
+        "employer_name": {
+          "state": "known",
+          "value": "Absentia Labs"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "ABOUT ABSENTIA LABS\n\nAbsentia Labs is building mechanistic AI models to predict how drug compounds will behave in the human body before costly preclinical and clinical studies.\n\nOur platform integrates molecular properties, exposure, biological context, experimental evidence, and machine learning to identify potential safety liabilities earlier and explain the biological mechanisms driving them. We initially focus on predictive toxicology and drug safety, with the broader goal of building foundational models that can reason across human biology, pharmacology, and translational outcomes.\n\nWe work at the intersection of frontier AI, computational biology, chemistry, toxicology, and drug development.\n\nTHE ROLE\n\nWe are looking for an AI Research Scientist to help advance the modeling approaches at the core of Absentia's platform.\n\nThis is a research role for someone who wants to develop new machine learning methods for difficult scientific problems, not simply apply existing models to biological datasets.\n\nYou will formulate research questions, design and run experiments, develop novel model architectures and learning strategies, and investigate how models can integrate heterogeneous biological and chemical evidence to predict complex human outcomes.\n\nOur research problems span molecular representation, graph learning, transformers, multimodal learning, representation learning, uncertainty, mechanistic reasoning, and biological generalization.\n\nYou will work closely with our CTO, AI/ML engineers, data engineers, and scientists to move promising ideas from research hypotheses into validated modeling capabilities.\n\nThe goal is straightforward but difficult: develop AI systems that can reason about how a drug interacts with human biology well enough to make useful predictions before those outcomes are observed experimentally or clinically.\n\nWHAT YOU’LL DO\n\n- Own ambitious research problems in predictive toxicology, drug safety, and computational biology from hypothesis through experimental validation.\n\n- Develop and evaluate novel deep learning architectures and training methods, including graph neural networks, transformers, multimodal models, generative approaches, and other emerging architectures where scientifically appropriate.\n\n- Investigate representations that connect molecular structure, biological targets, pathways, dose and exposure, pharmacology, toxicology, and clinical outcomes.\n\n- Develop approaches for learning from heterogeneous, sparse, noisy, and partially observed scientific datasets.\n\n- Explore methods for cross-domain and out-of-distribution generalization, including prediction on novel compounds, chemical spaces, biological contexts, and endpoints.\n\n- Design rigorous experiments, benchmarks, ablations, and evaluation frameworks that distinguish genuine biological generalization from memorization or dataset artifacts.\n\n- Develop methods for uncertainty estimation, calibration, applicability-domain assessment, and confidence-aware prediction.\n\n- Investigate approaches for making model predictions more mechanistically interpretable, including identifying biological pathways, targets, systems, and evidence contributing to predicted outcomes.\n\n- Explore multimodal and foundation-model approaches capable of combining chemical, biological, experimental, literature-derived, and clinical evidence.\n\n- Identify limitations and failure modes in existing models and turn those observations into new research directions.\n\n- Work with AI/ML and data engineers to translate successful research into reproducible, scalable modeling systems.\n\n- Contribute to Absentia's scientific strategy, including validation studies, external scientific collaborations, publications, and research supporting regulatory evaluation of our models.\n\nRESEARCH PROBLEMS YOU MIGHT WORK ON\n\nRather than hiring against a single architecture, we're interested in researchers who can attack questions such as:\n\n1. How should a model represent a drug?\n\n2. Can molecular graphs, learned embeddings, biological targets, metabolites, and pharmacological context be represented jointly rather than as independent features?\n\n3. How do we model exposure?\n\n4. Can models reason about how dose, route of administration, metabolism, tissue exposure, and PK/PD change the probability and mechanism of toxicity?\n\n5. How do we predict beyond the training distribution?\n\n6. How can we determine whether a prediction for a novel compound represents genuine biological generalization rather than interpolation over known chemistry?\n\n7. How do we connect mechanisms to outcomes?\n\n8. Can models learn relationships between molecular interactions, pathways, organ systems, adverse events, and clinical outcomes?\n\n9. How should uncertainty propagate through biological predictions?\n\n10. Can we distinguish uncertainty caused by limited chemical similarity, uncertain biological evidence, exposure assumptions, or endpoint ambiguity?\n\n11. Can one model reason across organ systems?\n\n12. How should liver, cardiac, renal, and other biological systems eventually interact within a broader model of human drug response?\n\nWHO YOU ARE\n\nYou are a researcher who is comfortable working where the correct modeling approach is not yet known.\n\nYou care about understanding why a model works, where it fails, and whether it is actually learning something generalizable.\n\nYou are comfortable moving between mathematical ideas, experimental code, scientific literature, and large-scale empirical results. You can pursue a research direction independently, but you also enjoy working closely with engineers and domain scientists to turn research into systems that matter.\n\nMost importantly, you want your research to have consequences beyond a benchmark.\n\nYOU LIKELY HAVE\n\n- A PhD in machine learning, artificial intelligence, computer science, computational biology, computational chemistry, applied mathematics, statistics, or a closely related field, or equivalent demonstrated research experience.\n\n- A strong research track record demonstrated through publications, novel methods, significant open-source research, or technically substantial research projects.\n\n- Deep understanding of modern machine learning and deep learning.\n\n- Hands-on experience developing and evaluating models in PyTorch, JAX, or equivalent frameworks.\n\n- Experience with one or more of: graph neural networks, transformers, representation learning, multimodal learning, generative modeling, self-supervised learning, probabilistic modeling, or foundation models.\n\n- Strong experimental instincts and experience designing controlled evaluations, ablations, and reproducible research.\n\n- Ability to reason carefully about dataset construction, leakage, confounding, generalization, and evaluation methodology.\n\n- Ability to independently identify important research questions and carry projects from initial hypothesis through rigorous experimental results.\n\n- Strong written and verbal communication skills.\n\nBONUS IF YOU HAVE\n\nYou do not need to come from drug development or toxicology. We care more about exceptional research ability and the capacity to learn new scientific domains.\n\n- Computational biology, computational chemistry, cheminformatics, or drug discovery.\n\n- Molecular machine learning or geometric deep learning.\n\n- Biological foundation models.\n\n- Multimodal scientific machine learning.\n\n- Causal inference or mechanistic modeling.\n\n- Uncertainty quantification and model calibration.\n\n- Out-of-distribution/generalization research.\n\n- Active learning or experimental design.\n\n- Pharmacology, toxicology, PK/PD, or translational science.\n\n- Working with large scientific or biomedical datasets.\n\n- Research spanning machine learning and the natural sciences.\n\nWHAT WE OFFER\n\n- Competitive compensation, including meaningful equity participation, allows you to share directly in the long-term success and growth of the company.\n\n- The opportunity to work on foundation-level ML systems applied to real scientific problems.\n\n- Ownership over model design and training strategy, not just implementation.\n\n- Close collaboration with data, AI/ML, infrastructure, and scientific teams.\n\n- High autonomy, low bureaucracy, and a culture that values technical depth.\n\n- Flexible remote or hybrid work arrangements.\n\nHOW TO APPLY\n\nPlease submit your resume and a brief note describing your experience training large-scale models. Links to GitHub repositories, papers, or technical write-ups are encouraged.\n\nOUR COMMITMENT\n\nAbsentia Labs is an equal opportunity employer. We believe diverse teams build better systems and stronger science, and we encourage applicants from all backgrounds to apply."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-20T21:04:23.110Z",
+        "curated_at": "2026-11-12T08:00:06.535Z",
+        "job_updated_at": "2026-11-12T08:00:06.535Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16000000,
+                "max_cents": 20800000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 13000000,
+                "max_cents": 18500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "80ff19f6d3b3adc0d48c8a6584822c551d00e2c7b58678bfac275ae98c2e4423",
+            "source": "ashby",
+            "source_posting_id": "f8cb711d-2f7e-457a-856e-c455fa541ddc",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/absentia-labs/f8cb711d-2f7e-457a-856e-c455fa541ddc"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/absentia-labs/f8cb711d-2f7e-457a-856e-c455fa541ddc/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boston",
+                "state": "Massachusetts",
+                "country": "US",
+                "countryRaw": "United States",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 160000,
+                "max": 208000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 160000,
+                    "max": 208000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "Boston/SF/NYC"
+                  },
+                  {
+                    "min": 130000,
+                    "max": 185000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "Other"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-09-15T20:56:58.799Z",
+            "first_seen_at": "2026-09-20T21:04:23.110Z",
+            "last_completed_fetch_at": "2026-11-14T14:02:50.687Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "3cb8466c-e1e7-4ac7-8c4d-d3b5d37ab0d7",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "909776a1-7d6f-8f93-9a4c-7bd5eda7531f",
+        "employer_name": {
+          "state": "known",
+          "value": "Bose Corporation, U.S.A"
+        },
+        "title": {
+          "state": "known",
+          "value": "Audio AI Research Scientist — Audio Source Separation"
+        },
+        "description": {
+          "state": "known",
+          "value": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.\n\nToday, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation.\n\n# **Job Description**\n\n**Research Scientist — Audio Source Separation**\n\n  \n\n**Description**\n\nThe goal of our team is to develop novel AI-powered audio processing algorithms. The twist is that our algorithms must run in real time, on physical devices, for applications such as dynamic awareness, hearing augmentation, agentic perception, voice pickup, content enhancement, and ones we haven’t even thought of yet. You will work with experts in ML, DSP, software engineering, and psychoacoustics to prototype and implement new algorithms.\n\nYou will develop next-generation algorithms that isolate, extract, or suppress individual sound sources from microphone recordings, sometimes augmented by other sensor signals. Applications include voice pickup, hearing augmentation, and new audio experiences that must ultimately run in real time on physical devices.\n\nBose has a strong history of combining creative thinking with cutting-edge audio technology. We are looking for people passionate about machine learning and audio to help shape what comes next.\n\n  \n\n**Responsibilities**\n\n·       Research, prototype, train, and evaluate novel source separation and extraction algorithms for speech and other real-world sounds.\n\n·       Develop approaches for single- and multi-microphone recordings, including spatial cues and optional auxiliary sensors.\n\n·       Investigate robust separation in challenging conditions such as overlapping talkers, noise, reverberation, and motion.\n\n·       Evaluate perceptual quality, separation performance, generalization, latency, memory, and computational requirements.\n\n·       Collaborate with DSP and embedded software teams to deploy models in real-time demonstrations and product platforms; contribute to patents and conference papers.\n\n  \n\n**Education**\n\nGraduate degree (MS or PhD) in machine learning, electrical engineering, computer science, or a related field, or equivalent research experience.\n\n  \n\n**Skills**\n\n·       Deep hands-on experience in audio source separation, target sound extraction, speech enhancement, or related neural audio processing.\n\n·       Comfortable tackling complex, open-ended problems where you have to experiment with and discard many ideas before finding the right solution.\n\n·       Strong knowledge of audio DSP, time-frequency methods, and microphone array or spatial signal processing.\n\n·       Experience training and evaluating audio models in PyTorch; proficiency in Python and familiarity with C/C++ is a plus.\n\n·       Understanding of objective and perceptual evaluation methods and the tradeoffs involved in real-time low-power inference.\n\n·       Experience with multimodal or sensor-conditioned separation, ONNX/TFLite, or embedded deployment is a plus.\n\n·       Strong communication skills; publications at conferences such as ICASSP, Interspeech, NeurIPS, or similar are welcome but not required.\n\nAt Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $165,400-$227,500.The hiring range for other Bose work locations may vary. In addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.\n\n‎\n\n  \n\n  \n[Candidate Privacy Notice](http://worldwide.bose.com/candidate_privacy_notice)\n\n[Candidate Terms & Conditions](http://worldwide.bose.com/candidate_terms_and_conditions)\n\n[Cookie Notice](http://www.bose.com/en_us/legal/cookie_policy.html)\n\nWe’re a company built on disruptive innovation—having the courage to challenge the status quo, an unwavering commitment to our customers, and the fundamental belief that anything is possible. We never settle; we have a passion for discovering better ways to help people enjoy the things they love. We need people like you, people with better solutions. If you join us, you’ll find the opportunity to do your best work and the freedom to enjoy it.  Here, every employee has the opportunity to build their own success and contribute to ours. It’s an atmosphere of trust, collaboration, high expectations, and great reward.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "remote",
+          "evidence": [
+            "location: Work from Home; Work from Home; Work from Home; Work from Home; Work from Home; Work from Home; Work from Home; Work From Home; Work from Home; Work from Home; Work from Home; Work from Home; location.remote=true"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Framingham",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25017",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "FR",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "PT",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          }
+        ],
+        "job_first_seen_at": "2026-11-05T20:08:11.186Z",
+        "curated_at": "2026-11-11T10:22:26.436Z",
+        "job_updated_at": "2026-11-11T10:22:26.436Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16540000,
+                "max_cents": 22750000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1568a4c5c8e7137904fd87d3f43f44d8f71e8af17a0be6f63927b9985bd81fc7",
+            "source": "workday",
+            "source_posting_id": "/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Source-Separation_R29335",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Source-Separation_R29335"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Source-Separation_R29335"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Framingham",
+                "state": "MA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "MA",
+                "remote": true,
+                "alternatives": [
+                  {
+                    "remote": true,
+                    "raw": "Australia, Work from Home - NSW"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Australia, Work from Home - QLD"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Denmark, Work from Home"
+                  },
+                  {
+                    "country": "FR",
+                    "countryRaw": "France",
+                    "remote": true,
+                    "raw": "France - Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Germany, Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Italy, Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Norway, Work from Home"
+                  },
+                  {
+                    "country": "PT",
+                    "countryRaw": "Portugal",
+                    "remote": true,
+                    "raw": "Portugal - Work From Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Sweden, Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Switzerland, Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "UK, Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "United States, Work from Home"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 165400,
+                "max": 227500,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-05T00:00:00.000Z",
+            "first_seen_at": "2026-11-05T20:08:11.186Z",
+            "last_completed_fetch_at": "2026-11-11T11:27:05.406Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "211ad472-2814-4f68-b8cd-49ff01452873",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "909776a1-7d6f-8f93-9a4c-7bd5eda7531f",
+        "employer_name": {
+          "state": "known",
+          "value": "Bose Corporation, U.S.A"
+        },
+        "title": {
+          "state": "known",
+          "value": "Audio AI Research Scientist — Audio Understanding"
+        },
+        "description": {
+          "state": "known",
+          "value": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.\n\nToday, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation.\n\n# **Job Description**\n\n**Description**\n\nThe goal of our team is to develop novel AI-powered audio processing algorithms. The twist is that our algorithms must run in real time, on physical devices for applications such as context understanding, dynamic awareness, augmented hearing and ones we haven’t yet imagined. You will work with experts in ML, DSP, software engineering, and psychoacoustics to prototype and implement new algorithms.\n\nYou will develop audio understanding algorithms that enable devices to recognize what is happening in the world around them. Areas of interest include sound event detection and localization (SELD), acoustic scene understanding, unusual or anomalous sound detection, and multimodal context understanding from audio, video, and motion sensors.\n\nBose has a strong history of combining creative thinking with cutting-edge audio technology. We are looking for people passionate about machine learning and audio to help shape what comes next.\n\n  \n\n**Responsibilities**\n\n·       Research, prototype, train, and evaluate novel audio understanding models, from early experiments through real-time deployment on devices.\n\n·       Develop robust methods for sound event detection/localization, acoustic anomaly detection, and context-aware audio interpretation.\n\n·       Explore multimodal approaches that combine microphone signals with video, IMU, or other sensor data when useful.\n\n·       Build and curate datasets and data piplines, evaluation protocols, and demonstrations that measure accuracy, robustness, latency, and compute cost.\n\n·       Work with DSP and software engineers to integrate models into proof-of-concept systems and product platforms; communicate results and contribute to patents or conference papers.\n\n  \n\n**Education**\n\nGraduate degree (MS or PhD) in machine learning, computer science, electrical engineering, or a related field, or equivalent research experience.\n\n  \n\n**Skills**\n\n·       Strong hands-on experience with modern audio understanding models, including sound event detection, SELD, acoustic scene analysis, or anomaly detection.\n\n·       Comfortable tackling complex, open-ended problems where you have to experiment with and discard many ideas before finding the right solution.\n\n·       Experience developing and evaluating deep learning models in PyTorch; strong Python skills.\n\n·       Understanding of audio representations, DSP, and evaluation metrics for detection, localization, and generalization.\n\n·       Experience with multimodal fusion (video, IMU, or other sensors) for context understanding is a plus.\n\n·       Experience with efficient inference, causal ML, ONNX/TFLite, embedded ML, or C/C++ is a plus.\n\n·       Strong communication skills; publications at conferences such as ICASSP, Interspeech, NeurIPS, or similar are welcome but not required.\n\nAt Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $165,400-$227,500.The hiring range for other Bose work locations may vary. In addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.\n\n‎\n\n  \n\n  \n[Candidate Privacy Notice](http://worldwide.bose.com/candidate_privacy_notice)\n\n[Candidate Terms & Conditions](http://worldwide.bose.com/candidate_terms_and_conditions)\n\n[Cookie Notice](http://www.bose.com/en_us/legal/cookie_policy.html)\n\nWe’re a company built on disruptive innovation—having the courage to challenge the status quo, an unwavering commitment to our customers, and the fundamental belief that anything is possible. We never settle; we have a passion for discovering better ways to help people enjoy the things they love. We need people like you, people with better solutions. If you join us, you’ll find the opportunity to do your best work and the freedom to enjoy it.  Here, every employee has the opportunity to build their own success and contribute to ours. It’s an atmosphere of trust, collaboration, high expectations, and great reward.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "remote",
+          "evidence": [
+            "location: Work from Home; Work from Home; Work from Home; Work from Home; Work from Home; Work from Home; Work from Home; Work from Home; Work From Home; Work from Home; Work from Home; Work from Home; location.remote=true"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Framingham",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25017",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "FR",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "PT",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          },
+          {
+            "state": "extraction_failed"
+          }
+        ],
+        "job_first_seen_at": "2026-11-04T07:31:26.958Z",
+        "curated_at": "2026-11-11T10:22:26.306Z",
+        "job_updated_at": "2026-11-11T10:22:26.306Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16540000,
+                "max_cents": 22750000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "a8cffb4854ea1f215dd640c55f2b88f4ca253137410947d3083816a5c77ca55b",
+            "source": "workday",
+            "source_posting_id": "/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Understanding_R29333",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Understanding_R29333"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Understanding_R29333"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Framingham",
+                "state": "MA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "MA",
+                "remote": true,
+                "alternatives": [
+                  {
+                    "remote": true,
+                    "raw": "Australia, Work from Home - NSW"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Australia, Work from Home - QLD"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Denmark, Work from Home"
+                  },
+                  {
+                    "country": "FR",
+                    "countryRaw": "France",
+                    "remote": true,
+                    "raw": "France - Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Germany, Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Italy, Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Japan,  Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Norway, Work from Home"
+                  },
+                  {
+                    "country": "PT",
+                    "countryRaw": "Portugal",
+                    "remote": true,
+                    "raw": "Portugal - Work From Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Sweden, Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "Switzerland, Work from Home"
+                  },
+                  {
+                    "remote": true,
+                    "raw": "UK, Work from Home"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 165400,
+                "max": 227500,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-03T00:00:00.000Z",
+            "first_seen_at": "2026-11-04T07:31:26.958Z",
+            "last_completed_fetch_at": "2026-11-11T11:27:05.406Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8227173e-68c6-49cd-944e-8e619b022142",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "bd3da6e0-54d4-47e3-988c-652429470772",
+        "employer_name": {
+          "state": "known",
+          "value": "Hewlett Packard Enterprise"
+        },
+        "title": {
+          "state": "known",
+          "value": "Principal AI Research Scientist (HPE Labs)"
+        },
+        "description": {
+          "state": "known",
+          "value": "Principal AI Research Scientist (HPE Labs)\n\nThis role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n\n**Who We Are:**\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n**Job Description:**\n\nHPE Labs is seeking a Principal AI Research Scientist for the HPE Quantum team within Emergent Machine Intelligence, a senior individual-contributor role focused on original, publication-driven research in areas including foundation model reasoning, representation learning, physics-inspired machine learning, mechanistic interpretability, and interdisciplinary work at the intersection of AI, quantum computing, and physical science. The ideal candidate is intellectually broad, experimentally strong, and highly autonomous, with strong research judgment, a track record of publishing at leading AI venues, and the ability to identify impactful problems, develop original ideas collaboratively, and mentor junior researchers. .\n\n**Key Responsibilities:**\n\n* Independently lead research projects from initial brainstorming and problem formulation through mathematical development, implementation, experimentation, analysis, and publication.\n    \n* Translate early-stage ideas into concrete hypotheses and design rapid, decisive experiments to determine whether a direction should be expanded, revised, or discontinued.\n    \n* Produce original research suitable for publication at leading venues such as NeurIPS, ICML, ICLR, and comparable conferences and journals.\n    \n* Maintain broad and current knowledge of modern AI research and use that knowledge to identify emerging opportunities, relevant prior work, and meaningful open problems.\n    \n* Collaborate with researchers, engineers, interns, and external partners across AI, physics, quantum computing, and advanced computing systems.\n    \n* Develop and release reusable research assets, including open-source software, models, experimental infrastructure, benchmarks, or datasets, when appropriate.\n    \n\n**Requirements:**\n\n* PhD in Computer Science, Artificial Intelligence, Machine Learning, Physics, Mathematics, or other related fields.\n    \n* Typically, 5+ years' experience Post PhD graduate studies.  Strong and sustained record of original research in modern artificial intelligence or machine learning. Or equivalent.\n    \n* Demonstrated ability to convert research ideas into rigorous, complete, and publishable outcomes, with a strong publication record at leading machine-learning venues such as NeurIPS, ICML, and ICLR, or comparable peer-reviewed venues.\n    \n* Broad and current command of the AI and machine-learning literature, extending beyond a single model family, technique, or application area.\n    \n* Deep mathematical understanding of modern machine-learning methods, including their objectives, assumptions, optimization behavior, learning dynamics, and limitations.\n    \n* Excellent experimental skills, including hypothesis formulation, rapid prototyping, controlled evaluation, analysis of failure modes, and interpretation of results.\n    \n* Advanced proficiency in Python and PyTorch, with experience using common AI/ML packages, libraries, and research tooling.\n    \n* Experience working with research codebases, open-source libraries, HPC and distributed systems, and collaborative software-development practices.\n    \n* Strong software-engineering and algorithm implementation skills for research, including code design, version control, testing, debugging, profiling, performance optimization, and reproducible experimentation.\n    \n* Strong knowledge of state-of-the-art AI/ML algorithms and the engineering skills to adapt, implement, and apply them to real-world problems when needed.\n    \n* Strong written and verbal communication skills, with the ability to explain complex technical ideas, present research findings, and write high-quality scientific papers.\n    \n* Demonstrated ability to work autonomously and collaborate effectively in an interdisciplinary research environment.\n    \n\n**Desired Knowledge and Skills:**\n\n* Substantial research background in theoretical physics, statistical physics, quantum physics, condensed-matter physics, or another mathematically intensive area of physics, together with a proven research record in AI and machine learning.\n    \n* Research experience combining machine learning with physics, applied mathematics, dynamical systems, optimization, or scientific computing.\n    \n* Experience moving fluidly between mathematical formulation, algorithm development, implementation, and empirical validation.\n    \n* Working proficiency in C++.\n    \n* Record of releasing high-quality open-source research software, models, benchmarks, datasets, or evaluation frameworks.\n    \n* Experience developing reusable experimental infrastructure or tools that accelerate research across multiple projects.\n    \n* Familiarity with neural quantum states, quantum many-body systems, quantum simulation, scientific machine learning, or other applications of AI to quantum science.\n    \n* Experience with advanced computational physics or chemistry methods, such as Monte Carlo simulations, density functional theory (DFT), molecular dynamics (MD), or related numerical methods.\n    \n\n**What We Can Offer You:**\n\n**Health & Wellbeing**\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n**Personal & Professional Development**\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n**Unconditional Inclusion**\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n**Let's Stay Connected:**\n\nFollow [@HPECareers](http://instagram.com/hpecareers) on Instagram to see the latest on people, culture and tech at HPE.\n\n#unitedstates\n\n#Hplabs\n\n**Job:**\n\nEngineering\n\n**Job Level:**\n\nTCP\\_05\n\n\"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.  \n– United States of America: Annual Salary USD 172,000 - 328,000 in Massachusetts // 172,000 - 349,000 in California // 152,000 - 349,000 in Texas  \nThe listed salary range reflects base salary. Variable incentives may also be offered.\"\n\nInformation about employee benefits offered in the US can be found at [https://myhperewards.com/main/new-hire-enrollment.html](https://myhperewards.com/main/new-hire-enrollment.html)\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: [Equal Employment Opportunity](https://hr.ext.hpe.com/Equal-employment-opportunity-policy.pdf).\n\n**Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.**\n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n**Recruitment Fraud Alert**\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.\n\n  \n\n**Hewlett Packard Enterprise**\n\nTechnology innovation that fosters business transformation.\n\n[We Are In the Acceleration Business](https://www.hpe.com/us/en/about.html)\n\nWe help customers use technology to slash the time it takes to turn ideas into value. In turn, they transform industries, markets and lives.\n\nSome of our customers run traditional IT environments. Most are transitioning to a secure, cloud-enabled, mobile-friendly infrastructure. Many rely on a combination of both. Wherever they are in that journey, we provide the technology and solutions to help them succeed.\n\n**Standards of Business Conduct (SBC)**\n\nThe Hewlett Packard Enterprise Standards of Business Conduct (SBC) embody the fundamental principles that govern our ethical and legal obligations to Hewlett Packard Enterprise. They pertain not only to our conduct within the company but also to conduct involving our customers, channel partners, suppliers and competitors.\n\nRead more about how we [**win the right way.**](http://investors.hpe.com/governance/sbc)\n\n**Equal Opportunity Employer (EEO)**\n\nHewlett Packard Enterprise provides equal employment opportunity to any employee or applicant without regard to sex, gender, color, race, ethnicity, religion, creed, national origin, ancestry, citizenship, age, marital status, sexual orientation, gender identity and expression, physical or mental disability, medical condition, pregnancy, protected veteran status, uniformed service status, familial status, genetic information, political affiliation, or any other characteristic protected by federal, state, or local law.\n\nIf you’d like more information about your EEO right as an applicant under the law, please click here: Know Your Rights.\n\n**[Equal Employment Opportunity is the Law](https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf)**\n\n**[Equal Employment Opportunity is the Law - Supplement](https://www.eeoc.gov/employers/upload/eeoc_gina_supplement.pdf)**\n\n**E-Verify** **(US & PR only)**\n\nHPE is an E-Verify employer. E-Verify is an Internet-based system that compares information from an employee's Form I-9, Employment Eligibility Verification, to data from U.S. Department of Homeland Security and Social Security Administration records to confirm the employment eligibility of all newly hired employees. For more information [click here](https://www.e-verify.gov/about-e-verify/what-is-e-verify).\n\n**Accessibility**\n\nHPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities.  If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked [here](https://people.hpe.com/s/externalcase/candidate-support).\n\nNote: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.\n\n**Disclosure of Sensitive Personal Data**\n\nPlease ensure the resume you submit to us does not include any sensitive personal data.  Sensitive personal data includes data revealing information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, sex life or sexual orientation.  To the extent the resume you submit does contain this type of personal data, you consent to the storing and processing of this data by HPE for the purpose of reviewing and managing your application.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "hybrid",
+          "evidence": [
+            "jobPostingInfo.jobDescription: role has been designed as 'Hybrid'"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Milpitas",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Andover",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25009",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Spring",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48201",
+              "msa": {
+                "cbsa_code": "26420",
+                "cbsa_title": "Houston-Pasadena-The Woodlands, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Westford",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25017",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T08:00:02.886Z",
+        "curated_at": "2026-11-10T08:04:33.792Z",
+        "job_updated_at": "2026-11-10T08:04:33.792Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 15200000,
+                "max_cents": 34900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 17200000,
+                "max_cents": 32800000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 17200000,
+                "max_cents": 34900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "410b75112e62c9ba73a809f4b81202c610b54e0c1cd56a7246a492e9c01eae7d",
+            "source": "workday",
+            "source_posting_id": "/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Milpitas",
+                "state": "CA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Andover",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Andover, Massachusetts, United States of America"
+                  },
+                  {
+                    "city": "Spring",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Spring, Texas, United States of America"
+                  },
+                  {
+                    "city": "Westford",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Westford, Massachusetts, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 172000,
+                "max": 328000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 152000,
+                    "max": 349000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 172000,
+                    "max": 328000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 172000,
+                    "max": 349000,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-08-16T00:00:00.000Z",
+            "first_seen_at": "2026-11-10T08:00:02.886Z",
+            "last_completed_fetch_at": "2026-11-10T08:02:06.885Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "89e41d38-edb9-49ae-828e-a4045190262d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "6a61d8e7-3041-807f-a2f6-9b0ea22cae5c",
+        "employer_name": {
+          "state": "known",
+          "value": "Bose Corporation"
+        },
+        "title": {
+          "state": "known",
+          "value": "Audio AI Research Scientist — Audio Source Separation"
+        },
+        "description": {
+          "state": "known",
+          "value": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound. Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation. Job Description Research Scientist — Audio Source Separation Description The goal of our team is to develop novel AI-powered audio processing algorithms. The twist is that our algorithms must run in real time, on physical devices, for applications such as dynamic awareness, hearing augmentation, agentic perception, voice pickup, content enhancement, and ones we haven’t even thought of yet. You will work with experts in ML, DSP, software engineering, and psychoacoustics to prototype and implement new algorithms. You will develop next-generation algorithms that isolate, extract, or suppress individual sound sources from microphone recordings, sometimes augmented by other sensor signals. Applications include voice pickup, hearing augmentation, and new audio experiences that must ultimately run in real time on physical devices. Bose has a strong history of combining creative thinking with cutting-edge audio technology. We are looking for people passionate about machine learning and audio to help shape what comes next. Responsibilities · Research, prototype, train, and evaluate novel source separation and extraction algorithms for speech and other real-world sounds. · Develop approaches for single- and multi-microphone recordings, including spatial cues and optional auxiliary sensors. · Investigate robust separation in challenging conditions such as overlapping talkers, noise, reverberation, and motion. · Evaluate perceptual quality, separation performance, generalization, latency, memory, and computational requirements. · Collaborate with DSP and embedded software teams to deploy models in real-time demonstrations and product platforms; contribute to patents and conference papers. Education Graduate degree (MS or PhD) in machine learning, electrical engineering, computer science, or a related field, or equivalent research experience. Skills · Deep hands-on experience in audio source separation, target sound extraction, speech enhancement, or related neural audio processing. · Comfortable tackling complex, open-ended problems where you have to experiment with and discard many ideas before finding the right solution. · Strong knowledge of audio DSP, time-frequency methods, and microphone array or spatial signal processing. · Experience training and evaluating audio models in PyTorch; proficiency in Python and familiarity with C/C++ is a plus. · Understanding of objective and perceptual evaluation methods and the tradeoffs involved in real-time low-power inference. · Experience with multimodal or sensor-conditioned separation, ONNX/TFLite, or embedded deployment is a plus. · Strong communication skills; publications at conferences such as ICASSP, Interspeech, NeurIPS, or similar are welcome but not required. At Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $165,400-$227,500.The hiring range for other Bose work locations may vary.\n\nIn addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves. ‎"
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "remote",
+          "evidence": [
+            "location: Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Framingham",
+              "region": "US-MA",
+              "country": "US",
+              "postal_code": "01701",
+              "county_fips": "25017",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "New South Wales",
+              "country": "AU",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Capital",
+              "country": "DK",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "FR",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Berlin",
+              "country": "DE",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Milano",
+              "country": "IT",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "NO",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Lisbon",
+              "country": "PT",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Stockholm County",
+              "country": "SE",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "CH",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "London",
+              "country": "GB",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-07T11:21:15.582Z",
+        "curated_at": "2026-11-09T10:54:11.128Z",
+        "job_updated_at": "2026-11-09T10:54:11.128Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16540000,
+                "max_cents": 22750000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "934ebef0674f1f6a352d2fed5a89a50a3aaaaf5c3e7b458a0bc95eacdf280fe3",
+            "source": "phenom",
+            "source_posting_id": "R29335",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.bose.com/us/en/job/R29335"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Source-Separation_R29335/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Framingham",
+                "state": "Massachusetts",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "MA",
+                "postalCode": "01701",
+                "latitude": 42.27926,
+                "longitude": -71.41617,
+                "remote": false,
+                "alternatives": [
+                  {
+                    "state": "New South Wales",
+                    "country": "AU",
+                    "countryRaw": "Australia",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, New South Wales, Australia"
+                  },
+                  {
+                    "state": "Capital",
+                    "country": "DK",
+                    "countryRaw": "Denmark",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Capital, Denmark"
+                  },
+                  {
+                    "country": "FR",
+                    "countryRaw": "France",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, France"
+                  },
+                  {
+                    "state": "Berlin",
+                    "country": "DE",
+                    "countryRaw": "Germany",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Berlin, Germany"
+                  },
+                  {
+                    "state": "Milano",
+                    "country": "IT",
+                    "countryRaw": "Italy",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Milano, Italy"
+                  },
+                  {
+                    "country": "NO",
+                    "countryRaw": "Norway",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Norway"
+                  },
+                  {
+                    "state": "Lisbon",
+                    "country": "PT",
+                    "countryRaw": "Portugal",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Lisbon, Portugal"
+                  },
+                  {
+                    "state": "Stockholm County",
+                    "country": "SE",
+                    "countryRaw": "Sweden",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Stockholm County, Sweden"
+                  },
+                  {
+                    "country": "CH",
+                    "countryRaw": "Switzerland",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Switzerland"
+                  },
+                  {
+                    "state": "London",
+                    "country": "GB",
+                    "countryRaw": "United Kingdom",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, London, City of, United Kingdom"
+                  },
+                  {
+                    "state": "Massachusetts",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Massachusetts, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 165400,
+                "max": 227500,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-05T00:00:00.000Z",
+            "first_seen_at": "2026-11-07T11:21:15.582Z",
+            "last_completed_fetch_at": "2026-11-07T11:21:15.577Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "12edfff8-ed2b-4b7f-8cea-c75b16b3ee2f",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "bd3da6e0-54d4-47e3-988c-652429470772",
+        "employer_name": {
+          "state": "known",
+          "value": "Hewlett Packard Enterprise"
+        },
+        "title": {
+          "state": "known",
+          "value": "Principal AI Research Scientist (HPE Labs)"
+        },
+        "description": {
+          "state": "known",
+          "value": "Principal AI Research Scientist (HPE Labs)\n\nThis role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n\n**Who We Are:**\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n**Job Description:**\n\nHPE Labs is seeking a Principal AI Research Scientist for the HPE Quantum team within Emergent Machine Intelligence, a senior individual-contributor role focused on original, publication-driven research in areas including foundation model reasoning, representation learning, physics-inspired machine learning, mechanistic interpretability, and interdisciplinary work at the intersection of AI, quantum computing, and physical science. The ideal candidate is intellectually broad, experimentally strong, and highly autonomous, with strong research judgment, a track record of publishing at leading AI venues, and the ability to identify impactful problems, develop original ideas collaboratively, and mentor junior researchers. .\n\n**Key Responsibilities:**\n\n* Independently lead research projects from initial brainstorming and problem formulation through mathematical development, implementation, experimentation, analysis, and publication.\n    \n* Translate early-stage ideas into concrete hypotheses and design rapid, decisive experiments to determine whether a direction should be expanded, revised, or discontinued.\n    \n* Produce original research suitable for publication at leading venues such as NeurIPS, ICML, ICLR, and comparable conferences and journals.\n    \n* Maintain broad and current knowledge of modern AI research and use that knowledge to identify emerging opportunities, relevant prior work, and meaningful open problems.\n    \n* Collaborate with researchers, engineers, interns, and external partners across AI, physics, quantum computing, and advanced computing systems.\n    \n* Develop and release reusable research assets, including open-source software, models, experimental infrastructure, benchmarks, or datasets, when appropriate.\n    \n\n**Requirements:**\n\n* PhD in Computer Science, Artificial Intelligence, Machine Learning, Physics, Mathematics, or other related fields.\n    \n* Typically, 5+ years' experience Post PhD graduate studies.  Strong and sustained record of original research in modern artificial intelligence or machine learning. Or equivalent.\n    \n* Demonstrated ability to convert research ideas into rigorous, complete, and publishable outcomes, with a strong publication record at leading machine-learning venues such as NeurIPS, ICML, and ICLR, or comparable peer-reviewed venues.\n    \n* Broad and current command of the AI and machine-learning literature, extending beyond a single model family, technique, or application area.\n    \n* Deep mathematical understanding of modern machine-learning methods, including their objectives, assumptions, optimization behavior, learning dynamics, and limitations.\n    \n* Excellent experimental skills, including hypothesis formulation, rapid prototyping, controlled evaluation, analysis of failure modes, and interpretation of results.\n    \n* Advanced proficiency in Python and PyTorch, with experience using common AI/ML packages, libraries, and research tooling.\n    \n* Experience working with research codebases, open-source libraries, HPC and distributed systems, and collaborative software-development practices.\n    \n* Strong software-engineering and algorithm implementation skills for research, including code design, version control, testing, debugging, profiling, performance optimization, and reproducible experimentation.\n    \n* Strong knowledge of state-of-the-art AI/ML algorithms and the engineering skills to adapt, implement, and apply them to real-world problems when needed.\n    \n* Strong written and verbal communication skills, with the ability to explain complex technical ideas, present research findings, and write high-quality scientific papers.\n    \n* Demonstrated ability to work autonomously and collaborate effectively in an interdisciplinary research environment.\n    \n\n**Desired Knowledge and Skills:**\n\n* Substantial research background in theoretical physics, statistical physics, quantum physics, condensed-matter physics, or another mathematically intensive area of physics, together with a proven research record in AI and machine learning.\n    \n* Research experience combining machine learning with physics, applied mathematics, dynamical systems, optimization, or scientific computing.\n    \n* Experience moving fluidly between mathematical formulation, algorithm development, implementation, and empirical validation.\n    \n* Working proficiency in C++.\n    \n* Record of releasing high-quality open-source research software, models, benchmarks, datasets, or evaluation frameworks.\n    \n* Experience developing reusable experimental infrastructure or tools that accelerate research across multiple projects.\n    \n* Familiarity with neural quantum states, quantum many-body systems, quantum simulation, scientific machine learning, or other applications of AI to quantum science.\n    \n* Experience with advanced computational physics or chemistry methods, such as Monte Carlo simulations, density functional theory (DFT), molecular dynamics (MD), or related numerical methods.\n    \n\n**What We Can Offer You:**\n\n**Health & Wellbeing**\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n**Personal & Professional Development**\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n**Unconditional Inclusion**\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n**Let's Stay Connected:**\n\nFollow [@HPECareers](http://instagram.com/hpecareers) on Instagram to see the latest on people, culture and tech at HPE.\n\n#unitedstates\n\n#Hplabs\n\n**Job:**\n\nEngineering\n\n**Job Level:**\n\nTCP\\_05\n\n\"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.  \n– United States of America: Annual Salary USD 172,000 - 328,000 in Massachusetts // 172,000 - 349,000 in California // 152,000 - 349,000 in Texas  \nThe listed salary range reflects base salary. Variable incentives may also be offered.\"\n\nInformation about employee benefits offered in the US can be found at [https://myhperewards.com/main/new-hire-enrollment.html](https://myhperewards.com/main/new-hire-enrollment.html)\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: [Equal Employment Opportunity](https://hr.ext.hpe.com/Equal-employment-opportunity-policy.pdf).\n\n**Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.**\n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n**Recruitment Fraud Alert**\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.\n\n  \n\n**Hewlett Packard Enterprise**\n\nTechnology innovation that fosters business transformation.\n\n[We Are In the Acceleration Business](https://www.hpe.com/us/en/about.html)\n\nWe help customers use technology to slash the time it takes to turn ideas into value. In turn, they transform industries, markets and lives.\n\nSome of our customers run traditional IT environments. Most are transitioning to a secure, cloud-enabled, mobile-friendly infrastructure. Many rely on a combination of both. Wherever they are in that journey, we provide the technology and solutions to help them succeed.\n\n**Standards of Business Conduct (SBC)**\n\nThe Hewlett Packard Enterprise Standards of Business Conduct (SBC) embody the fundamental principles that govern our ethical and legal obligations to Hewlett Packard Enterprise. They pertain not only to our conduct within the company but also to conduct involving our customers, channel partners, suppliers and competitors.\n\nRead more about how we [**win the right way.**](http://investors.hpe.com/governance/sbc)\n\n**Equal Opportunity Employer (EEO)**\n\nHewlett Packard Enterprise provides equal employment opportunity to any employee or applicant without regard to sex, gender, color, race, ethnicity, religion, creed, national origin, ancestry, citizenship, age, marital status, sexual orientation, gender identity and expression, physical or mental disability, medical condition, pregnancy, protected veteran status, uniformed service status, familial status, genetic information, political affiliation, or any other characteristic protected by federal, state, or local law.  **[](https://hr.ext.hpe.com/Equal-employment-opportunity-policy.pdf)**\n\nIf you’d like more information about your EEO right as an applicant under the law, please click here: Know Your Rights.\n\n**[Equal Employment Opportunity is the Law](https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf)**\n\n**[Equal Employment Opportunity is the Law - Supplement](https://www.eeoc.gov/employers/upload/eeoc_gina_supplement.pdf)**\n\n**E-Verify** **(US & PR only)**\n\nHPE is an E-Verify employer. E-Verify is an Internet-based system that compares information from an employee's Form I-9, Employment Eligibility Verification, to data from U.S. Department of Homeland Security and Social Security Administration records to confirm the employment eligibility of all newly hired employees. For more information [click here](https://www.e-verify.gov/about-e-verify/what-is-e-verify).\n\n**Accessibility**\n\nHPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities.  If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked [here](https://people.hpe.com/s/externalcase/candidate-support).\n\nNote: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.\n\n**Disclosure of Sensitive Personal Data**\n\nPlease ensure the resume you submit to us does not include any sensitive personal data.  Sensitive personal data includes data revealing information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, sex life or sexual orientation.  To the extent the resume you submit does contain this type of personal data, you consent to the storing and processing of this data by HPE for the purpose of reviewing and managing your application.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "hybrid",
+          "evidence": [
+            "jobPostingInfo.jobDescription: role has been designed as 'Hybrid'",
+            "jobPostingInfo.jobDescription: role has been designed as 'Hybrid'",
+            "description: Hybrid"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Andover",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25009",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Spring",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48201",
+              "msa": {
+                "cbsa_code": "26420",
+                "cbsa_title": "Houston-Pasadena-The Woodlands, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Westford",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25017",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Milpitas",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "95035",
+              "street": "820 N. McCarthy Blvd, Suite 100",
+              "zip": "95035",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-18T20:46:52.742Z",
+        "curated_at": "2026-09-24T07:48:46.390Z",
+        "job_updated_at": "2026-11-06T21:53:50.196Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 15200000,
+                "max_cents": 34900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 17200000,
+                "max_cents": 32800000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 17200000,
+                "max_cents": 34900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "410b75112e62c9ba73a809f4b81202c610b54e0c1cd56a7246a492e9c01eae7d",
+            "source": "workday",
+            "source_posting_id": "/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Milpitas",
+                "state": "CA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Andover",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Andover, Massachusetts, United States of America"
+                  },
+                  {
+                    "city": "Spring",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Spring, Texas, United States of America"
+                  },
+                  {
+                    "city": "Westford",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Westford, Massachusetts, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 172000,
+                "max": 328000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 152000,
+                    "max": 349000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 172000,
+                    "max": 328000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 172000,
+                    "max": 349000,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-08-16T00:00:00.000Z",
+            "first_seen_at": "2026-09-21T04:22:50.274Z",
+            "last_completed_fetch_at": "2026-11-06T22:46:40.575Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 15200000,
+                "max_cents": 34900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 17200000,
+                "max_cents": 32800000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 17200000,
+                "max_cents": 34900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "9424c0b6d9924db7b80e89245eeeaf0fa84cff6d26081511f0bdbd08defcd373",
+            "source": "workday",
+            "source_posting_id": "/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Milpitas",
+                "state": "CA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Andover",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Andover, Massachusetts, United States of America"
+                  },
+                  {
+                    "city": "Spring",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Spring, Texas, United States of America"
+                  },
+                  {
+                    "city": "Westford",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Westford, Massachusetts, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 172000,
+                "max": 328000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 152000,
+                    "max": 349000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 172000,
+                    "max": 328000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 172000,
+                    "max": 349000,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-08-16T00:00:00.000Z",
+            "first_seen_at": "2026-09-30T05:02:43.870Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "9ea60e9d781ac95330b9ae7687371fe3f699e262fdfd6c6a891f43c00201b181",
+            "source": "phenom",
+            "source_posting_id": "1210921",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.hpe.com/us/en/job/1210921"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-2/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Milpitas",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "CA",
+                "postalCode": "95035",
+                "streetAddress": "820 N. McCarthy Blvd, Suite 100",
+                "latitude": 37.42827,
+                "longitude": -121.90662,
+                "remote": false,
+                "zip": "95035",
+                "alternatives": [
+                  {
+                    "city": "Andover",
+                    "state": "Massachusetts",
+                    "latitude": 42.65843,
+                    "longitude": -71.137,
+                    "remote": false,
+                    "raw": "Andover, Massachusetts, 01810-5897"
+                  },
+                  {
+                    "city": "Spring",
+                    "state": "Texas",
+                    "latitude": 30.07994,
+                    "longitude": -95.41716,
+                    "remote": false,
+                    "raw": "Spring, Texas, 77389-1767"
+                  },
+                  {
+                    "city": "Westford",
+                    "state": "Massachusetts",
+                    "latitude": 42.57926,
+                    "longitude": -71.43784,
+                    "remote": false,
+                    "raw": "Westford, Massachusetts, 01886"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-08-16T00:00:00.000Z",
+            "first_seen_at": "2026-09-18T20:46:52.742Z",
+            "last_completed_fetch_at": "2026-11-06T00:01:19.869Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e9b87a11-f714-445d-8e5f-6474b18c2457",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "6a61d8e7-3041-807f-a2f6-9b0ea22cae5c",
+        "employer_name": {
+          "state": "known",
+          "value": "Bose Corporation"
+        },
+        "title": {
+          "state": "known",
+          "value": "Audio AI Research Scientist — Audio Understanding"
+        },
+        "description": {
+          "state": "known",
+          "value": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound. Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation. Job Description Description The goal of our team is to develop novel AI-powered audio processing algorithms. The twist is that our algorithms must run in real time, on physical devices for applications such as context understanding, dynamic awareness, augmented hearing and ones we haven’t yet imagined. You will work with experts in ML, DSP, software engineering, and psychoacoustics to prototype and implement new algorithms. You will develop audio understanding algorithms that enable devices to recognize what is happening in the world around them. Areas of interest include sound event detection and localization (SELD), acoustic scene understanding, unusual or anomalous sound detection, and multimodal context understanding from audio, video, and motion sensors. Bose has a strong history of combining creative thinking with cutting-edge audio technology. We are looking for people passionate about machine learning and audio to help shape what comes next. Responsibilities · Research, prototype, train, and evaluate novel audio understanding models, from early experiments through real-time deployment on devices. · Develop robust methods for sound event detection/localization, acoustic anomaly detection, and context-aware audio interpretation. · Explore multimodal approaches that combine microphone signals with video, IMU, or other sensor data when useful. · Build and curate datasets and data piplines, evaluation protocols, and demonstrations that measure accuracy, robustness, latency, and compute cost. · Work with DSP and software engineers to integrate models into proof-of-concept systems and product platforms; communicate results and contribute to patents or conference papers. Education Graduate degree (MS or PhD) in machine learning, computer science, electrical engineering, or a related field, or equivalent research experience. Skills · Strong hands-on experience with modern audio understanding models, including sound event detection, SELD, acoustic scene analysis, or anomaly detection. · Comfortable tackling complex, open-ended problems where you have to experiment with and discard many ideas before finding the right solution. · Experience developing and evaluating deep learning models in PyTorch; strong Python skills. · Understanding of audio representations, DSP, and evaluation metrics for detection, localization, and generalization. · Experience with multimodal fusion (video, IMU, or other sensors) for context understanding is a plus. · Experience with efficient inference, causal ML, ONNX/TFLite, embedded ML, or C/C++ is a plus. · Strong communication skills; publications at conferences such as ICASSP, Interspeech, NeurIPS, or similar are welcome but not required. At Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $165,400-$227,500.The hiring range for other Bose work locations may vary.\n\nIn addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves. ‎"
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "remote",
+          "evidence": [
+            "location: Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Framingham",
+              "region": "US-MA",
+              "country": "US",
+              "postal_code": "01701",
+              "county_fips": "25017",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "New South Wales",
+              "country": "AU",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Capital",
+              "country": "DK",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "FR",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Berlin",
+              "country": "DE",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Milano",
+              "country": "IT",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "JP",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "NO",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Lisbon",
+              "country": "PT",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Stockholm County",
+              "country": "SE",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "CH",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "London",
+              "country": "GB",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-05T13:12:43.771Z",
+        "curated_at": "2026-11-05T15:24:34.832Z",
+        "job_updated_at": "2026-11-05T15:24:34.832Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16540000,
+                "max_cents": 22750000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1e69f34d917a4ea6cb108c452f1682592b65bb57ae325191b1288d50dcce9365",
+            "source": "phenom",
+            "source_posting_id": "R29333",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.bose.com/us/en/job/R29333"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Understanding_R29333/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Framingham",
+                "state": "Massachusetts",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "MA",
+                "postalCode": "01701",
+                "latitude": 42.27926,
+                "longitude": -71.41617,
+                "remote": false,
+                "alternatives": [
+                  {
+                    "state": "New South Wales",
+                    "country": "AU",
+                    "countryRaw": "Australia",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, New South Wales, Australia"
+                  },
+                  {
+                    "state": "Capital",
+                    "country": "DK",
+                    "countryRaw": "Denmark",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Capital, Denmark"
+                  },
+                  {
+                    "country": "FR",
+                    "countryRaw": "France",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, France"
+                  },
+                  {
+                    "state": "Berlin",
+                    "country": "DE",
+                    "countryRaw": "Germany",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Berlin, Germany"
+                  },
+                  {
+                    "state": "Milano",
+                    "country": "IT",
+                    "countryRaw": "Italy",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Milano, Italy"
+                  },
+                  {
+                    "country": "JP",
+                    "countryRaw": "Japan",
+                    "latitude": 35.68536,
+                    "longitude": 139.75309,
+                    "remote": false,
+                    "raw": "Japan"
+                  },
+                  {
+                    "country": "NO",
+                    "countryRaw": "Norway",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Norway"
+                  },
+                  {
+                    "state": "Lisbon",
+                    "country": "PT",
+                    "countryRaw": "Portugal",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Lisbon, Portugal"
+                  },
+                  {
+                    "state": "Stockholm County",
+                    "country": "SE",
+                    "countryRaw": "Sweden",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Stockholm County, Sweden"
+                  },
+                  {
+                    "country": "CH",
+                    "countryRaw": "Switzerland",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Switzerland"
+                  },
+                  {
+                    "state": "London",
+                    "country": "GB",
+                    "countryRaw": "United Kingdom",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, London, City of, United Kingdom"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 165400,
+                "max": 227500,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-03T00:00:00.000Z",
+            "first_seen_at": "2026-11-05T13:12:43.771Z",
+            "last_completed_fetch_at": "2026-11-07T11:21:15.582Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "4462a40a-354a-4eaa-9420-1185dc33e58d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "602184f3-b057-8e11-98f4-2da12d2fee70",
+        "employer_name": {
+          "state": "known",
+          "value": "Bose Corporation"
+        },
+        "title": {
+          "state": "known",
+          "value": "Audio AI Research Scientist — Audio Understanding"
+        },
+        "description": {
+          "state": "known",
+          "value": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound. Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation. Job Description Description The goal of our team is to develop novel AI-powered audio processing algorithms. The twist is that our algorithms must run in real time, on physical devices for applications such as context understanding, dynamic awareness, augmented hearing and ones we haven’t yet imagined. You will work with experts in ML, DSP, software engineering, and psychoacoustics to prototype and implement new algorithms. You will develop audio understanding algorithms that enable devices to recognize what is happening in the world around them. Areas of interest include sound event detection and localization (SELD), acoustic scene understanding, unusual or anomalous sound detection, and multimodal context understanding from audio, video, and motion sensors. Bose has a strong history of combining creative thinking with cutting-edge audio technology. We are looking for people passionate about machine learning and audio to help shape what comes next. Responsibilities · Research, prototype, train, and evaluate novel audio understanding models, from early experiments through real-time deployment on devices. · Develop robust methods for sound event detection/localization, acoustic anomaly detection, and context-aware audio interpretation. · Explore multimodal approaches that combine microphone signals with video, IMU, or other sensor data when useful. · Build and curate datasets and data piplines, evaluation protocols, and demonstrations that measure accuracy, robustness, latency, and compute cost. · Work with DSP and software engineers to integrate models into proof-of-concept systems and product platforms; communicate results and contribute to patents or conference papers. Education Graduate degree (MS or PhD) in machine learning, computer science, electrical engineering, or a related field, or equivalent research experience. Skills · Strong hands-on experience with modern audio understanding models, including sound event detection, SELD, acoustic scene analysis, or anomaly detection. · Comfortable tackling complex, open-ended problems where you have to experiment with and discard many ideas before finding the right solution. · Experience developing and evaluating deep learning models in PyTorch; strong Python skills. · Understanding of audio representations, DSP, and evaluation metrics for detection, localization, and generalization. · Experience with multimodal fusion (video, IMU, or other sensors) for context understanding is a plus. · Experience with efficient inference, causal ML, ONNX/TFLite, embedded ML, or C/C++ is a plus. · Strong communication skills; publications at conferences such as ICASSP, Interspeech, NeurIPS, or similar are welcome but not required. At Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $165,400-$227,500.The hiring range for other Bose work locations may vary.\n\nIn addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves. ‎"
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "remote",
+          "evidence": [
+            "location: Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote; Remote"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Framingham",
+              "region": "US-MA",
+              "country": "US",
+              "postal_code": "01701",
+              "county_fips": "25017",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "New South Wales",
+              "country": "AU",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Capital",
+              "country": "DK",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "FR",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Berlin",
+              "country": "DE",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Milano",
+              "country": "IT",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "JP",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "NO",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Lisbon",
+              "country": "PT",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "Stockholm County",
+              "country": "SE",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "CH",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "London",
+              "country": "GB",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-04T11:38:41.622Z",
+        "curated_at": "2026-11-04T11:38:45.722Z",
+        "job_updated_at": "2026-11-04T11:38:45.722Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16540000,
+                "max_cents": 22750000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1e69f34d917a4ea6cb108c452f1682592b65bb57ae325191b1288d50dcce9365",
+            "source": "phenom",
+            "source_posting_id": "R29333",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.bose.com/us/en/job/R29333"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Understanding_R29333/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Framingham",
+                "state": "Massachusetts",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "MA",
+                "postalCode": "01701",
+                "latitude": 42.27926,
+                "longitude": -71.41617,
+                "remote": false,
+                "alternatives": [
+                  {
+                    "state": "New South Wales",
+                    "country": "AU",
+                    "countryRaw": "Australia",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, New South Wales, Australia"
+                  },
+                  {
+                    "state": "Capital",
+                    "country": "DK",
+                    "countryRaw": "Denmark",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Capital, Denmark"
+                  },
+                  {
+                    "country": "FR",
+                    "countryRaw": "France",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, France"
+                  },
+                  {
+                    "state": "Berlin",
+                    "country": "DE",
+                    "countryRaw": "Germany",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Berlin, Germany"
+                  },
+                  {
+                    "state": "Milano",
+                    "country": "IT",
+                    "countryRaw": "Italy",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Milano, Italy"
+                  },
+                  {
+                    "country": "JP",
+                    "countryRaw": "Japan",
+                    "latitude": 35.68536,
+                    "longitude": 139.75309,
+                    "remote": false,
+                    "raw": "Japan"
+                  },
+                  {
+                    "country": "NO",
+                    "countryRaw": "Norway",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Norway"
+                  },
+                  {
+                    "state": "Lisbon",
+                    "country": "PT",
+                    "countryRaw": "Portugal",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Lisbon, Portugal"
+                  },
+                  {
+                    "state": "Stockholm County",
+                    "country": "SE",
+                    "countryRaw": "Sweden",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Stockholm County, Sweden"
+                  },
+                  {
+                    "country": "CH",
+                    "countryRaw": "Switzerland",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, Switzerland"
+                  },
+                  {
+                    "state": "London",
+                    "country": "GB",
+                    "countryRaw": "United Kingdom",
+                    "latitude": 5e-324,
+                    "longitude": 5e-324,
+                    "remote": false,
+                    "raw": "Remote, London, City of, United Kingdom"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 165400,
+                "max": 227500,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-03T00:00:00.000Z",
+            "first_seen_at": "2026-11-04T11:38:41.622Z",
+            "last_completed_fetch_at": "2026-11-04T11:38:41.550Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "16881f3e-939c-4f79-99f7-b3f5adb9a525",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "0faf6a9f-7b69-8949-887b-eb27a2f33725",
+        "employer_name": {
+          "state": "known",
+          "value": "Hewlett Packard Enterprise"
+        },
+        "title": {
+          "state": "known",
+          "value": "Principal AI Research Scientist (HPE Labs)"
+        },
+        "description": {
+          "state": "known",
+          "value": "Principal AI Research Scientist (HPE Labs)\n\nThis role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n\n**Who We Are:**\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n**Job Description:**\n\nHPE Labs is seeking a Principal AI Research Scientist for the HPE Quantum team within Emergent Machine Intelligence, a senior individual-contributor role focused on original, publication-driven research in areas including foundation model reasoning, representation learning, physics-inspired machine learning, mechanistic interpretability, and interdisciplinary work at the intersection of AI, quantum computing, and physical science. The ideal candidate is intellectually broad, experimentally strong, and highly autonomous, with strong research judgment, a track record of publishing at leading AI venues, and the ability to identify impactful problems, develop original ideas collaboratively, and mentor junior researchers. .\n\n**Key Responsibilities:**\n\n* Independently lead research projects from initial brainstorming and problem formulation through mathematical development, implementation, experimentation, analysis, and publication.\n    \n* Translate early-stage ideas into concrete hypotheses and design rapid, decisive experiments to determine whether a direction should be expanded, revised, or discontinued.\n    \n* Produce original research suitable for publication at leading venues such as NeurIPS, ICML, ICLR, and comparable conferences and journals.\n    \n* Maintain broad and current knowledge of modern AI research and use that knowledge to identify emerging opportunities, relevant prior work, and meaningful open problems.\n    \n* Collaborate with researchers, engineers, interns, and external partners across AI, physics, quantum computing, and advanced computing systems.\n    \n* Develop and release reusable research assets, including open-source software, models, experimental infrastructure, benchmarks, or datasets, when appropriate.\n    \n\n**Requirements:**\n\n* PhD in Computer Science, Artificial Intelligence, Machine Learning, Physics, Mathematics, or other related fields.\n    \n* Typically, 5+ years' experience Post PhD graduate studies.  Strong and sustained record of original research in modern artificial intelligence or machine learning. Or equivalent.\n    \n* Demonstrated ability to convert research ideas into rigorous, complete, and publishable outcomes, with a strong publication record at leading machine-learning venues such as NeurIPS, ICML, and ICLR, or comparable peer-reviewed venues.\n    \n* Broad and current command of the AI and machine-learning literature, extending beyond a single model family, technique, or application area.\n    \n* Deep mathematical understanding of modern machine-learning methods, including their objectives, assumptions, optimization behavior, learning dynamics, and limitations.\n    \n* Excellent experimental skills, including hypothesis formulation, rapid prototyping, controlled evaluation, analysis of failure modes, and interpretation of results.\n    \n* Advanced proficiency in Python and PyTorch, with experience using common AI/ML packages, libraries, and research tooling.\n    \n* Experience working with research codebases, open-source libraries, HPC and distributed systems, and collaborative software-development practices.\n    \n* Strong software-engineering and algorithm implementation skills for research, including code design, version control, testing, debugging, profiling, performance optimization, and reproducible experimentation.\n    \n* Strong knowledge of state-of-the-art AI/ML algorithms and the engineering skills to adapt, implement, and apply them to real-world problems when needed.\n    \n* Strong written and verbal communication skills, with the ability to explain complex technical ideas, present research findings, and write high-quality scientific papers.\n    \n* Demonstrated ability to work autonomously and collaborate effectively in an interdisciplinary research environment.\n    \n\n**Desired Knowledge and Skills:**\n\n* Substantial research background in theoretical physics, statistical physics, quantum physics, condensed-matter physics, or another mathematically intensive area of physics, together with a proven research record in AI and machine learning.\n    \n* Research experience combining machine learning with physics, applied mathematics, dynamical systems, optimization, or scientific computing.\n    \n* Experience moving fluidly between mathematical formulation, algorithm development, implementation, and empirical validation.\n    \n* Working proficiency in C++.\n    \n* Record of releasing high-quality open-source research software, models, benchmarks, datasets, or evaluation frameworks.\n    \n* Experience developing reusable experimental infrastructure or tools that accelerate research across multiple projects.\n    \n* Familiarity with neural quantum states, quantum many-body systems, quantum simulation, scientific machine learning, or other applications of AI to quantum science.\n    \n* Experience with advanced computational physics or chemistry methods, such as Monte Carlo simulations, density functional theory (DFT), molecular dynamics (MD), or related numerical methods.\n    \n\n**What We Can Offer You:**\n\n**Health & Wellbeing**\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n**Personal & Professional Development**\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n**Unconditional Inclusion**\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n**Let's Stay Connected:**\n\nFollow [@HPECareers](http://instagram.com/hpecareers) on Instagram to see the latest on people, culture and tech at HPE.\n\n#unitedstates\n\n#Hplabs\n\n**Job:**\n\nEngineering\n\n**Job Level:**\n\nTCP\\_05\n\n\"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.  \n– United States of America: Annual Salary USD 172,000 - 328,000 in Massachusetts // 172,000 - 349,000 in California // 152,000 - 349,000 in Texas  \nThe listed salary range reflects base salary. Variable incentives may also be offered.\"\n\nInformation about employee benefits offered in the US can be found at [https://myhperewards.com/main/new-hire-enrollment.html](https://myhperewards.com/main/new-hire-enrollment.html)\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: [Equal Employment Opportunity](https://hr.ext.hpe.com/Equal-employment-opportunity-policy.pdf).\n\n**Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.**\n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n**Recruitment Fraud Alert**\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.\n\n  \n\n**Hewlett Packard Enterprise**\n\nTechnology innovation that fosters business transformation.\n\n[We Are In the Acceleration Business](https://www.hpe.com/us/en/about.html)\n\nWe help customers use technology to slash the time it takes to turn ideas into value. In turn, they transform industries, markets and lives.\n\nSome of our customers run traditional IT environments. Most are transitioning to a secure, cloud-enabled, mobile-friendly infrastructure. Many rely on a combination of both. Wherever they are in that journey, we provide the technology and solutions to help them succeed.\n\n**Standards of Business Conduct (SBC)**\n\nThe Hewlett Packard Enterprise Standards of Business Conduct (SBC) embody the fundamental principles that govern our ethical and legal obligations to Hewlett Packard Enterprise. They pertain not only to our conduct within the company but also to conduct involving our customers, channel partners, suppliers and competitors.\n\nRead more about how we [**win the right way.**](http://investors.hpe.com/governance/sbc)\n\n**Equal Opportunity Employer (EEO)**\n\nHewlett Packard Enterprise provides equal employment opportunity to any employee or applicant without regard to sex, gender, color, race, ethnicity, religion, creed, national origin, ancestry, citizenship, age, marital status, sexual orientation, gender identity and expression, physical or mental disability, medical condition, pregnancy, protected veteran status, uniformed service status, familial status, genetic information, political affiliation, or any other characteristic protected by federal, state, or local law.\n\nIf you’d like more information about your EEO right as an applicant under the law, please click here: Know Your Rights.\n\n**[Equal Employment Opportunity is the Law](https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf)**\n\n**[Equal Employment Opportunity is the Law - Supplement](https://www.eeoc.gov/employers/upload/eeoc_gina_supplement.pdf)**\n\n**E-Verify** **(US & PR only)**  \nHPE is an E-Verify employer. E-Verify is an Internet-based system that compares information from an employee's Form I-9, Employment Eligibility Verification, to data from U.S. Department of Homeland Security and Social Security Administration records to confirm the employment eligibility of all newly hired employees. For more information [click here](https://www.e-verify.gov/about-e-verify/what-is-e-verify).\n\n**Accessibility**\n\nHPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities.  If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked [here](https://people.hpe.com/s/externalcase/candidate-support).\n\nNote: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.\n\n**Disclosure of Sensitive Personal Data**\n\nPlease ensure the resume you submit to us does not include any sensitive personal data.  Sensitive personal data includes data revealing information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, sex life or sexual orientation.  To the extent the resume you submit does contain this type of personal data, you consent to the storing and processing of this data by HPE for the purpose of reviewing and managing your application.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "hybrid",
+          "evidence": [
+            "jobPostingInfo.jobDescription: role has been designed as 'Hybrid'"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Milpitas",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Andover",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25009",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Spring",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48201",
+              "msa": {
+                "cbsa_code": "26420",
+                "cbsa_title": "Houston-Pasadena-The Woodlands, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Westford",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25017",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-24T12:04:35.152Z",
+        "curated_at": "2026-09-26T02:53:43.422Z",
+        "job_updated_at": "2026-11-02T18:13:17.395Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 15200000,
+                "max_cents": 34900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 17200000,
+                "max_cents": 32800000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 17200000,
+                "max_cents": 34900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "4c737fd7619bdf87a53d128c16965575faaa76cd1b0176249ab306cc205c79ce",
+            "source": "workday",
+            "source_posting_id": "/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-2",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-2"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-2"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Milpitas",
+                "state": "CA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Andover",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Andover, Massachusetts, United States of America"
+                  },
+                  {
+                    "city": "Spring",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Spring, Texas, United States of America"
+                  },
+                  {
+                    "city": "Westford",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Westford, Massachusetts, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 172000,
+                "max": 328000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 152000,
+                    "max": 349000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 172000,
+                    "max": 328000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 172000,
+                    "max": 349000,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-08-16T00:00:00.000Z",
+            "first_seen_at": "2026-09-24T12:04:35.152Z",
+            "last_completed_fetch_at": "2026-11-02T18:51:01.711Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 9,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:46:12.867Z"
+  },
+  "response_usage": {
+    "charged": "9",
+    "remaining": "98618",
+    "request_id": "0bd4b9cf-9569-4c69-bfa5-bc924c8aeabb"
+  }
+}

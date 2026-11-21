@@ -1,0 +1,25 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:47:46.914727+00:00",
+  "state_filter": "NC",
+  "title_filter": "machine learning research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "NC",
+    "title": "machine learning research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [],
+    "next_cursor": null,
+    "total": 0,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:47:42.124Z"
+  },
+  "response_usage": {
+    "charged": "0",
+    "remaining": "98056",
+    "request_id": "5fc77259-e015-435f-8797-a47293a8e6d4"
+  }
+}

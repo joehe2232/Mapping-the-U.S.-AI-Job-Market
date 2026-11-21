@@ -1,0 +1,14 @@
+table_name,rows
+raw.oews_metro,198712
+raw.onet_occupation,1016
+raw.onet_software_skills,31821
+raw.onet_essential_skills,18200
+clean.postings,3705
+clean.excluded_postings,0
+clean.posting_locations,21335
+clean.source_postings,19157
+clean.pay_ranges,27771
+clean.posting_skills,15817
+serving.postings_with_bls,3705
+serving.analysis_jobs,2815
+serving.salary_comparisons,1072

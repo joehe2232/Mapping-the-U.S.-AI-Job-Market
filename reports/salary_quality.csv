@@ -1,0 +1,14 @@
+salary_quality,currency,period,ranges,jobs
+annual_usd_valid,USD,year,23388,1810
+nonannual_or_unknown_period,USD,unknown,3169,601
+incomplete_or_invalid_range,USD,year,898,17
+nonannual_or_unknown_period,USD,hour,130,105
+incomplete_or_invalid_range,USD,unknown,81,19
+incomplete_or_invalid_range,USD,hour,60,60
+non_usd_or_unknown_currency,,unknown,22,16
+nonannual_or_unknown_period,USD,month,12,12
+non_usd_or_unknown_currency,,year,4,4
+unverified_pay_state,USD,hour,3,3
+non_usd_or_unknown_currency,EUR,year,2,2
+outlier_review,USD,year,1,1
+unverified_pay_state,USD,year,1,1

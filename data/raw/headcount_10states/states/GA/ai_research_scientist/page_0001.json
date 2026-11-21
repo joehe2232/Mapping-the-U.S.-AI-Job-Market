@@ -1,0 +1,25 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:47:23.945872+00:00",
+  "state_filter": "GA",
+  "title_filter": "AI research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "GA",
+    "title": "AI research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [],
+    "next_cursor": null,
+    "total": 0,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:47:17.160Z"
+  },
+  "response_usage": {
+    "charged": "0",
+    "remaining": "98211",
+    "request_id": "c0a201a1-868e-4f3f-874a-40a76af59322"
+  }
+}

@@ -1,0 +1,2132 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:44:20.538161+00:00",
+  "state_filter": "PA",
+  "title_filter": "business intelligence analyst",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "PA",
+    "title": "business intelligence analyst",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "d0cb3b12-332a-4bc5-ba1e-34fba1d13548",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "a6bce915-5bb2-8e32-ac4a-1ff4fccf001a",
+        "employer_name": {
+          "state": "known",
+          "value": "Hershey Entertainment & Resorts"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Hershey Entertainment & Resorts Company (HE&R) is an award-winning entertainment & hospitality organization with properties including: Hersheypark, The Hotel Hershey, Hershey Lodge, Giant Center, Restaurants, and more. Our team members share a common goal of upholding the legacy of our founder, Milton S. Hershey, while striving to live by our company's Core Values: Devoted to the Legacy, Selfless Spirit of Service, Team Focused, and Respectful of Others. Hershey Entertainment & Resorts is committed to cultivating diversity, equity, and inclusion in our workforce, marketplace, and community, and is proud to help fulfill the dream of our founder by providing value to Milton Hershey School.\n\nThis position is responsible for the end-to-end building of data visualization tools by gathering and documenting business requirements; building data sets, tools, dashboards, and reports in partnership with technical team members; and presenting, supporting, and gaining adoption of these tools throughout the enterprise. The BI Analyst will collaborate with business stakeholders, Finance peers, and the technology team to develop visualization tools to transform data into actionable insights.\n\nAs a Full-Time Team Member, you will enjoy sweet perks like FREE admission to Hersheypark, discounts, and more as soon as you receive your Employee ID! Your total compensation consists not only of the wage that you are paid, but also includes Medical, Dental, and Vision coverage beginning the first day of the next month after you begin working, 401K Contribution, paid time off, and so much more!\n\n**Job Functions:**\n\n* Work closely with business users and stakeholders to gather, clarify, and document business intelligence and reporting requirements. \\*\n* Translate business questions into clear, actionable technical specifications for reporting and analysis. \\*\n* Partner closely with various cross-functional teams to gather data sources, evaluate inputs and outcomes, and define logic and definition. \\*\n* Document business purpose, data sources, definitions, methodology, and description of the reports. \\*\n* Build, design, and maintain visually compelling dashboards and reports in BI tools (e.g., Looker, Tableau, Power BI). \\*\n* Conduct data exploration to validate data accuracy, completeness, and consistency. \\*\n* Leverage data warehouse structures and cloud-based data platforms to source and organize data efficiently. \\*\n* Present analysis results and key findings clearly and concisely to business teams and leadership. \\*\n* Continuously refine and optimize reporting and analysis processes for better performance and usability. \\*\n* Serve as a trusted advisor to business users, helping them interpret reports and analytics to support decision-making. \\*\n* Provide ad hoc analysis and respond to urgent data requests when needed. \\*\n* Train and support users on BI tools and best practices for self-service analytics. \\*\n* Troubleshoot reporting or data issues and work with technical teams to resolve them promptly. \\*\n* Perform other duties as assigned\n\n**Qualifications:**\n\n* Must be 18 years of age or older.\n* Minimum of 3 year(s) of Hospitality/Tourism, Retail, Food & Beverage, Sports/Entertainment, or Amusement Park experience.\n* Bachelor's Degree - Data Visualization / Data Science\n    * 7 years of experience in lieu of education.\n\n**Knowledge, Skills, and Abilities**\n\n* Skilled in the use of Google Suite and Microsoft Office applications, including Excel and Word.\n* Proficient working with details on a daily basis for prolonged periods of time.\n* Must have the ability to safeguard confidential information.\n* Must have strong written and verbal communication skills.\n\n**Job Demands**\n\n* Walking: occasional (<33%)\n* Standing: occasional (<33%)\n* Sitting: frequent (34-66%)\n* Bending: occasional (<33%)\n* Stooping: occasional (<33%)\n* Hand-Eye Coordination: constant (>67%)\n* Finger Dexterity: constant (>67%)\n* Reaching Over: occasional (<33%)\n* Reaching Forward: frequent (34-66%)\n* Lifting: occasional (<33%) Weight: 25 lbs\n* Climb Stairs: occasional (<33%) Height: 25 ft\n* Pushing: occasional (<33%) Weight: 25 lbs\n* Pulling: occasional (<33%) Weight: 25 lbs\n* This job requires the visual ability to view work at distances of approximately 5 feet (operation and adjustment of machinery).\n* This job requires the visual ability to perform detailed work at close distances (computer screens, accounting ledgers, using measurement devices).\n* This job regularly requires verbal communication of detailed information to others either by phone or in person.\n* Substantial movements of the wrists, hands, and/or fingers (Repetitive motion).\n\n**Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time.**\n\n**Hershey Entertainment and Resorts is an Equal Opportunity Employer**",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Hershey",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "17033",
+              "zip": "17033",
+              "county_fips": "42043",
+              "msa": {
+                "cbsa_code": "25420",
+                "cbsa_title": "Harrisburg-Carlisle, PA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-13T08:10:46.560Z",
+        "curated_at": "2026-10-14T23:04:44.241Z",
+        "job_updated_at": "2026-11-19T08:48:16.886Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "b252cf228fe261f05fb2498a4ba261d395b44f15b8c806b072855b44bef6c192",
+            "source": "ukg",
+            "source_posting_id": "092242c8-1c2b-4d2d-887e-7720ec09916f",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hersheypa.rec.pro.ukg.net/her1020hers/JobBoard/035cdc57-c54b-48c9-8c4d-f30e022675e5/OpportunityDetail?opportunityId=092242c8-1c2b-4d2d-887e-7720ec09916f"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hersheypa.rec.pro.ukg.net/her1020hers/JobBoard/035cdc57-c54b-48c9-8c4d-f30e022675e5/OpportunityDetail?opportunityId=092242c8-1c2b-4d2d-887e-7720ec09916f"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Hershey",
+                "state": "PA",
+                "country": "US",
+                "regionCode": "PA",
+                "postalCode": "17033",
+                "remote": false,
+                "zip": "17033"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-12T14:31:42.965Z",
+            "first_seen_at": "2026-10-13T08:10:46.560Z",
+            "last_completed_fetch_at": "2026-11-19T08:47:58.750Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "272ba0d2-1f49-4f43-8fdc-400266495c6a",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "e15e72dd-52b4-82b4-8bea-e401d4320523",
+        "employer_name": {
+          "state": "known",
+          "value": "Quantum Health, Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead Business Intelligence Analyst (CirrusMD)"
+        },
+        "description": {
+          "state": "known",
+          "value": "About CirrusMD:\n\nCirrusMD is redefining virtual care by delivering a Physician-first Care & Guidance solution that meets patients at their moment of need. Our text-based (or web) app connects patients with licensed physicians in under a minute, allowing them to engage in care at their own pace and convenience. Available 24/7/365, CirrusMD’s integrated care spans multiple specialties—from acute and chronic care to behavioral health. Our platform serves 10 million users across all 50 states and is offered exclusively through employers and health plans. Learn more at cirrusmd.com .\n\nAbout the role\n\nThere’s data everywhere. The real value comes from knowing what it means, what matters, and what we should do next.\n\nThat’s where you come in.\n\nAs a Lead Business Intelligence Analyst at CirrusMD, you’ll sit at the intersection of data, technology, healthcare, and business strategy. You’ll partner with teams across Product, Clinical, Client Success, Finance, and Engineering to turn complex questions into trusted data, meaningful insights, and better decisions.\n\nThis isn’t a role where you’ll simply take requests and build dashboards.\n\nYou’ll help shape how CirrusMD measures success, demonstrates the value of our solutions, and builds a stronger data-informed culture. You’ll be comfortable talking strategy with business leaders one minute and getting into SQL, LookML, data models, or reporting logic the next.\n\nIf you love digging into complex data, connecting dots others might miss, and turning analysis into action, we’d love to meet you.\n\nLocation: This position can work remotely from anywhere within the U.S.\n\nWhat you'll do (Essential Responsibilities)\n\nConnect data to the business. Serve as a trusted data partner across Product, Clinical, Client Success, Finance, and Engineering, helping teams connect business goals with technical execution.\n\nShow the value. Build measurement frameworks that translate our product, clinical, and commercial work into meaningful performance metrics and help demonstrate the value and ROI of CirrusMD’s solutions.\n\nOwn the data journey. Lead analytics projects from the first question and feasibility assessment through modeling, analysis, reporting, and client-facing delivery.\n\nBuild data people can trust. Partner with Engineering to define data structures and strengthen our Looker semantic layer, creating scalable, reusable, high-confidence data.\n\nTurn complexity into clarity. Dig into complex datasets and uncover insights that help teams understand what’s happening, why it matters, and where we should go next.\n\nBring performance to life. Build thoughtful dashboards, visualizations, and reporting frameworks that make important metrics understandable and actionable.\n\nProtect the integrity of the data. Balance client and stakeholder needs with strong governance, privacy standards, and organizational data practices.\n\nGet into the weeds when it matters. Investigate anomalies, challenge assumptions, validate results, and make sure the story the data tells is actually true.\n\nHelp us get smarter. Identify opportunities to evolve our analytics capabilities, improve existing data models, reduce technical debt, and make trusted insights easier to access across the organization.\n\nTake on other responsibilities as needed to support our clients, teams, and business.\n\nWhat you'll bring (Qualifications)\n\nExperience: 5+ years of relevant analytics or business intelligence experience.\n\nStrong to advanced SQL skills and experience working with cloud data platforms such as Snowflake.\n\nHands-on experience with business intelligence platforms such as Looker.\n\nExperience building and maintaining semantic layers using LookML.\n\nExperience using GitHub or similar version-control practices within a modern analytics environment.\n\nA track record of translating complex or ambiguous business questions into well-defined technical and analytical solutions.\n\nExperience owning analytics work from initial idea through feasibility, modeling, validation, visualization, and delivery.\n\nThe ability to build new data solutions while also improving, refactoring, and simplifying existing ones.\n\nStrong two-way communication skills that allow you to explain technical concepts to business partners and translate business needs for technical teams.\n\nExperience balancing complex, client-facing data requests with established data governance standards.\n\nExperience working with high-integrity data processes where accuracy is non-negotiable, such as billing, invoicing, financial, or clinical reporting.\n\nKnowledge and application of analytical and statistical concepts such as confidence intervals, hypothesis testing, sentiment analysis, and anomaly detection.\n\nThe ability to manage competing priorities and know when a problem requires a deep dive and when it’s time to zoom back out.\n\nPreferred Qualifications\n\nExperience with modern data transformation and orchestration tools such as dbt or Airflow.\n\nExperience using Python or R when the analysis needs to go beyond SQL.\n\nKnowledge of healthcare data and standards, including HIPAA, FedRAMP, PII/PHI, or clinical quality measures such as HEDIS, NCQA, or NQF.\n\nExperience with event-based product analytics or Customer Data Platforms such as Segment.\n\nA strong understanding of modern data architecture and how upstream engineering decisions affect downstream analytics.\n\nExperience working within digital health or the broader U.S. healthcare ecosystem.\n\nExperience using AI to make data easier to access and understand, including natural-language querying, conversational analytics, or AI-enabled self-service BI.\n\nWhat's in it for you:\n\nCirrusMD is paving the way to a better healthcare future and our work truly matters! Our solution is exceptionally accessible, instantly available, and simply scalable. If you are looking to make a lasting impact where your voice matters, consider joining our team and help us deliver care without barriers. We take the health and happiness of our employees seriously and offer great benefits including:\n\nCompetitive compensation\n\nDeeply subsidized medical, dental & vision insurance for you and your family\n\nUnlimited PTO / Vacation\n\n401(K) + match\n\nPaid maternity & paternity leave\n\nRemote friendly\n\nGrowth opportunity\n\nA positive, collaborative and diverse culture\n\nSocial events onsite & remote\n\nFree, unlimited access to our text-first platform\n\nReasonable Accommodation:\n\nShould you require reasonable accommodation(s) to participate in the application/interview/selection process, or in order to complete the essential duties of the position upon acceptance of a job offer, click here to submit a recruitment accommodation request.\n\nRecruiting Scams:\n\nUnfortunately, scams targeting job seekers are common. To protect our candidates, we want to remind you that authorized representatives of Quantum Health will only contact you from an email address ending in @quantum-health.com. Quantum Health will never ask for personally identifiable information such as Date of Birth (DOB), Social Security Number (SSN), banking/direct/tax details, etc. via email or any other non-secure system, nor will we instruct you to make any purchases related to your employment. If you believe you’ve encountered a recruiting scam, report it to the Federal Trade Commission and your state’s Attorney General .\n\nCalifornia Employee and Job Applicant Notice of Collection of Personal Information:\n\nIf you are a California resident, Quantum Health may collect personal information in connection with your application for employment and, if hired, during the course of your employment. The categories of personal information collected and the purposes for which that information is used are described in our California Employee and Job Applicant Notice of Collection of Personal Information.\n\nPlease review the notice here:\n\nCalifornia Employee and Job Applicant Notice\n\nUse of Technology Notice:\n\nQuantum Health and its authorized service providers may contact applicants by email, phone, and text message about their application and related employment opportunities. Text messages may cover application status, interview invitations, and reminders, and applicants will have the option to opt out at any time. Message frequency varies. Message and data rates may apply.\n\nQuantum Health uses AI-assisted recruiting technology to support communication, scheduling, and candidate evaluation, including tools that may review application materials and analyze recorded interviews. These tools assist our recruiting team; final employment decisions are made by human reviewers. Applicants who will be interviewed using these tools receive advance notice describing the technology and what it evaluates, are asked for permission before the interview is recorded or analyzed, and may request deletion of their recording."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "remote"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Atlanta",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": "13121",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Raleigh",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37183",
+              "msa": {
+                "cbsa_code": "39580",
+                "cbsa_title": "Raleigh-Cary, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Austin",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48453",
+              "msa": {
+                "cbsa_code": "12420",
+                "cbsa_title": "Austin-Round Rock-San Marcos, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Minneapolis",
+              "region": "US-MN",
+              "country": "US",
+              "county_fips": "27053",
+              "msa": {
+                "cbsa_code": "33460",
+                "cbsa_title": "Minneapolis-St. Paul-Bloomington, MN-WI",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Columbus",
+              "region": "US-OH",
+              "country": "US",
+              "county_fips": "39049",
+              "msa": {
+                "cbsa_code": "18140",
+                "cbsa_title": "Columbus, OH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Nashville",
+              "region": "US-TN",
+              "country": "US",
+              "county_fips": "47037",
+              "msa": {
+                "cbsa_code": "34980",
+                "cbsa_title": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Charlotte",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37119",
+              "msa": {
+                "cbsa_code": "16740",
+                "cbsa_title": "Charlotte-Concord-Gastonia, NC-SC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Phoenix",
+              "region": "US-AZ",
+              "country": "US",
+              "county_fips": "04013",
+              "msa": {
+                "cbsa_code": "38060",
+                "cbsa_title": "Phoenix-Mesa-Chandler, AZ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Tampa",
+              "region": "US-FL",
+              "country": "US",
+              "county_fips": "12057",
+              "msa": {
+                "cbsa_code": "45300",
+                "cbsa_title": "Tampa-St. Petersburg-Clearwater, FL",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Philadelphia",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42101",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Salt Lake City",
+              "region": "US-UT",
+              "country": "US",
+              "county_fips": "49035",
+              "msa": {
+                "cbsa_code": "41620",
+                "cbsa_title": "Salt Lake City-Murray, UT",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Indianapolis",
+              "region": "US-IN",
+              "country": "US",
+              "county_fips": "18097",
+              "msa": {
+                "cbsa_code": "26900",
+                "cbsa_title": "Indianapolis-Carmel-Greenwood, IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Pittsburgh",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42003",
+              "msa": {
+                "cbsa_code": "38300",
+                "cbsa_title": "Pittsburgh, PA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Kansas City",
+              "region": "US-MO",
+              "country": "US",
+              "county_fips": "29095",
+              "msa": {
+                "cbsa_code": "28140",
+                "cbsa_title": "Kansas City, MO-KS",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-02T11:31:13.743Z",
+        "curated_at": "2026-11-12T15:03:51.619Z",
+        "job_updated_at": "2026-11-18T19:02:08.949Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "a20aabcacff6e25b2d60eed29a02f8ce9f51c5b4b977105ec720e5989dfc8d9b",
+            "source": "lever",
+            "source_posting_id": "d6611a30-59e9-41c8-8926-9a4d3e60bd2f",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/quantum-health/d6611a30-59e9-41c8-8926-9a4d3e60bd2f"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.lever.co/quantum-health/d6611a30-59e9-41c8-8926-9a4d3e60bd2f/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Dallas",
+                "state": "TX",
+                "country": "US",
+                "remote": true,
+                "alternatives": [
+                  {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Dallas, TX"
+                  },
+                  {
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Atlanta, GA"
+                  },
+                  {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Raleigh, NC"
+                  },
+                  {
+                    "city": "Austin",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Austin, TX"
+                  },
+                  {
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Minneapolis, MN"
+                  },
+                  {
+                    "city": "Columbus",
+                    "state": "OH",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Columbus, OH"
+                  },
+                  {
+                    "city": "Nashville",
+                    "state": "TN",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Nashville, TN"
+                  },
+                  {
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Charlotte, NC"
+                  },
+                  {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Phoenix, AZ"
+                  },
+                  {
+                    "city": "Tampa",
+                    "state": "FL",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Tampa, FL"
+                  },
+                  {
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Philadelphia, PA"
+                  },
+                  {
+                    "city": "Salt Lake City",
+                    "state": "UT",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Salt Lake City, UT"
+                  },
+                  {
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Indianapolis, IN"
+                  },
+                  {
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Pittsburgh, PA"
+                  },
+                  {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Kansas City, MO"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-13T18:50:19.149Z",
+            "first_seen_at": "2026-10-02T11:31:13.743Z",
+            "last_completed_fetch_at": "2026-11-18T19:01:55.933Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8c33c498-7294-493c-94f4-24e1da29ef18",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "279732cd-77bb-8ee9-9201-99f520e3055a",
+        "employer_name": {
+          "state": "known",
+          "value": "TeleSolv Consulting"
+        },
+        "title": {
+          "state": "known",
+          "value": "Junior Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "TeleSolv is seeking a Junior Business Intelligence Analyst to support Government operations through business intelligence, data analysis and continuous process improvement. The analyst will help evaluate the effectiveness and suitability of programs, divisions and systems by identifying defects, gaps and areas of risk; measuring the adequacy of operational outputs; and assessing operational reliability. The successful candidate will turn operational data into actionable insights, support senior personnel, and help Government leadership improve decision-making, performance and operational effectiveness. This junior-level role requires up to three years of relevant professional experience and performs functional duties under the oversight of more senior positions.\n\n* Evaluate programs, divisions and systems to identify defects, operational gaps and areas of risk and assess their effectiveness and reliability. Develop recommendations to mitigate risks, close gaps, and improve operational effectiveness and efficiency.\n* Support implementation of new processes, programs, systems and national coordination initiatives.\n* Identify and collect key performance indicators used to monitor operational effectiveness.\n* Use performance indicators and operational data to help drive process changes and efficiencies supporting strategic goals.\n* Review available data, including its frequency and method of collection, and recommend improved collection methodologies that expand or consolidate analysis capabilities.\n* Prepare briefings, white papers, decision papers and memoranda related to business-process improvements and operational activities.\n* Research and analyze data quality and develop actionable recommendations for improvement.\n* Identify systemic problems, recommend corrective actions and monitor corrective-action progress in coordination with Government leadership.\n* Create standard and ad hoc reports using databases and reporting tools for Government and external organizations.\n\n* Strong written and verbal communication skills, including the ability to translate data into visual charts that provide leadership with actionable performance insights. Proficiency with Microsoft Excel, including PivotTables, formulas, data cleaning and charting. Experience developing dashboards and reports with Microsoft Power BI, Tableau or comparable data-visualization tools.\n* Basic SQL skills for querying structured data sets.\n* Ability to interpret, analyze and summarize large data sets from multiple reports to identify trends and KPIs supporting operational decision-making.\n* Understanding of business-process analysis, operational workflows and performance metrics.\n* Ability to support continuous-improvement initiatives with data-driven insights.\n\n* Up to three years of relevant professional experience.\n* Ability to assist senior personnel and perform functional responsibilities under appropriate senior-level oversight.\n* Demonstrated analytical, communication, reporting and data-visualization capabilities appropriate for the responsibilities described above.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Philadelphia",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42101",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-18T14:56:24.800Z",
+        "curated_at": "2026-11-18T14:56:47.788Z",
+        "job_updated_at": "2026-11-18T14:56:47.788Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 6000000,
+                "max_cents": 7400000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "8c229ecba666c60080b033bdca0c87624af869a583e42b3ef376435c0e709103",
+            "source": "pinpoint",
+            "source_posting_id": "620647",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://telesolvconsulting.pinpointhq.com/en/postings/a5f6b52e-3fa4-4715-9795-97821e14250e"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://telesolvconsulting.pinpointhq.com/en/postings/a5f6b52e-3fa4-4715-9795-97821e14250e"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Philadelphia",
+                "state": "Pennsylvania",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 60000,
+                "max": 74000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-16T21:06:46.000Z",
+            "first_seen_at": "2026-11-18T14:56:24.800Z",
+            "last_completed_fetch_at": "2026-11-18T14:56:24.798Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "a523a5f5-23c0-4fb6-864e-3f80552a3d64",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "04c8904b-ec15-8045-8409-28c309dda94e",
+        "employer_name": {
+          "state": "known",
+          "value": "Geisinger"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst Senior, AI"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Summary\nWhy Geisinger: Geisinger is operationalizing AI at scale across one of the nation's most integrated health systems, moving beyond pilots and proof of concepts to build capabilities that change how care is delivered and how operations run. This role works across clinical, operational, health plan, and pharmacy functions alongside AI product development and organizational leadership to identify and advance the AI opportunities that matter most. This role provides the analytical foundation that makes good AI investment decisions possible, from measuring what is working in production to sizing what is worth building next. Position Summary: This is a role for someone who wants their analytical work to directly shape what gets built and what gets prioritized. Embedded within Geisinger AI product function, you will turn complex clinical and operational data into the evidence that drives portfolio decisions, validates AI performance in production, and informs how the organization communicates value to leadership. You will work closely with product managers, data scientists, and clinical partners across a broad range of AI initiatives spanning care delivery, revenue cycle, operations, and more.\nJob Duties\nKey Responsibilities:\n+ + Partner with product managers during problem sizing to quantify opportunity areas, establish baselines, and define what success looks like before any solution is built\n+ Conduct exploratory data analysis during model development, profiling data quality, understanding distributions, identifying anomalies, and helping data scientists understand what the data is actually telling them\n+ Build and maintain the feature datasets and data definitions that model development depends on, ensuring the analytical foundation is sound before anyone builds on it\n+ Design and own the measurement frameworks that track AI performance in production, going beyond adoption to capture clinical and operational impact\n+ Dig into Epic, Clarity, Caboodle, and other enterprise data sources to answer hard questions about how AI initiatives are performing and where they need to improve\n+ Identify and resolve data quality issues at the source, working with clinical and operational teams to address problems that would otherwise degrade model performance silently\n+ Turn complex analytical findings into clear narratives and visualizations that help product and strategy leaders make faster, better decisions\n+ Establish and maintain data standards and documentation that make analytical work reusable and trustworthy across the portfolio\nWork is typically performed in an office environment. Accountable for satisfying all job specific obligations and complying with all organization policies and procedures. The specific statements in this profile are not intended to be all-inclusive. They represent typical elements considered necessary to successfully perform the job.\n*Relevant experience may be a combination of related work experience and degree obtained (Associate’s Degree = 2 years; Bachelor’s Degree = 4 years, Master's Degree = 6 years).\nPosition Details\nRequired Qualifications\n+ 5 or more years of experience in business intelligence, data analytics, or healthcare informatics\n+ Deep proficiency in SQL and experience querying Epic Clarity or Caboodle databases\n+ Demonstrated ability to build production grade dashboards in tools such as Tableau, Power BI, or Qlik\n+ Experience working in healthcare settings with familiarity in clinical workflows, revenue cycle metrics, or quality reporting\n+ Strong communication skills with the ability to translate analytical findings for nontechnical audiences\n+ Comfort operating in ambiguous, fast moving environments with multiple competing priorities\n+ Bachelors degree in data science, informatics, health administration, or a related field; advanced degree preferred\nPreferred Qualifications\n+ Experience supporting AI or machine learning product teams in a healthcare context\n+ Familiarity with Epic reporting workbench, SlicerDicer, or Radar dashboards\n+ Exposure to clinical quality metrics, coding capture, or patient throughput analytics\n+ Experience contributing to vendor RFI or RFP evaluation processes\nEducation\nHigh School Diploma or Equivalent (GED)- (Required)\nExperience\nMinimum of 8 years-Relevant experience* (Required)\nCertification(s) and License(s)\nOUR PURPOSE & VALUES: Everything we do is about caring for our patients, our members, our students, our Geisinger family and our communities. KINDNESS: We strive to treat everyone as we would hope to be treated ourselves. EXCELLENCE: We treasure colleagues who humbly strive for excellence. LEARNING: We share our knowledge with the best and brightest to better prepare the caregivers for tomorrow. INNOVATION: We constantly seek new and better ways to care for our patients, our members, our community, and the nation. SAFETY: We provide a safe environment for our patients and members and the Geisinger family We offer healthcare benefits for full time and part time positions from day one, including vision, dental and domestic partners. Perhaps just as important, from senior management on down, we encourage an atmosphere of collaboration, cooperation and collegiality. We know that a diverse workforce with unique experiences and backgrounds makes our team stronger. Our patients, members and community come from a wide variety of backgrounds, and it takes a diverse workforce to make better health easier for all. We are proud to be an affirmative action, equal opportunity employer and all qualified applicants will receive consideration for employment regardless to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or status as a protected veteran.\nWe are an Affirmative Action, Equal Opportunity Employer Women and Minorities are Encouraged to Apply. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of disability or their protected veteran status."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Danville",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "17822",
+              "zip": "17822",
+              "county_fips": "42093",
+              "msa": {
+                "cbsa_code": "44980",
+                "cbsa_title": "Sunbury, PA",
+                "type": "micro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-13T17:13:57.983Z",
+        "curated_at": "2026-10-13T17:18:50.494Z",
+        "job_updated_at": "2026-11-18T08:08:22.460Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "d1f7560050342c24e0a4a5b1df269839cba61bb7281dd070053b75c6945cc55a",
+            "source": "directemployers",
+            "source_posting_id": "EC53916B35234D259C38D15369DAF7F8",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://geisinger.dejobs.org/danville-pa/business-intelligence-analyst-senior-ai/EC53916B35234D259C38D15369DAF7F8/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/EC53916B35234D259C38D15369DAF7F810"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Danville",
+                "state": "PA",
+                "country": "US",
+                "regionCode": "PA",
+                "postalCode": "17822",
+                "latitude": 40.966324,
+                "longitude": -76.61145,
+                "remote": false,
+                "zip": "17822"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-07T10:06:37.000Z",
+            "first_seen_at": "2026-10-13T17:13:57.983Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "03d3c928-eda7-45f4-9196-94014eb7b34d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "04c8904b-ec15-8045-8409-28c309dda94e",
+        "employer_name": {
+          "state": "known",
+          "value": "Geisinger"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst Lead (Medicare)"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Summary\nGeisinger is looking for candidates with Medicare 5-star methodology experience to join our team and be a subject matter expert partnering directly with their stakeholders. The Lead BI Analyst serves as a partner to the business or clinical area supported and will use analytic expertise including knowledge of data structures, programming, and statistics along with critical thinking and an understanding of their assigned subject area/business to help the organization make data-driven decisions. The Lead BI Analyst makes significant contributions to the organization by collecting, cleaning, and interpreting data sets to answer a questions or solve a problem including identifying and effectively communicating improvement opportunities and supporting the evaluation of existing processes and strategic improvement efforts. Lead BI Analysts consistently act, independently, as the analytics expert in meetings and discussions with their stakeholders while also provide guidance and strategic vision during the full analysis. Must be highly articulate in both oral and written communications, including presentations with the ability to translate analyses and opportunity insights to non-technical stakeholders. Lead BI Analysts must exhibit diplomacy, tact, initiative, and organizational skills, as well as possess the ability to inspire trust and confidence to maintain outstanding customer relationships. Lead Bi Analysts mentor junior BI developers by offering project feedback, participating in code reviews, and providing training in areas of expertise.\nJob Duties\n+ Independently consults with stakeholders to gather project requirements and define scope on projects of all sizes including those that are system-wide, highly visible, and of strategic importance.\n+ Collaborates with stakeholders in the design and development of analytic studies and reporting solutions to support business needs.\n+ Plans projects and request completion tasks.\n+ Provides time and effort estimates based on requirements gathering. Strong experience independently managing multiple projects is also required.\n+ Demonstrates working knowledge of relevant source systems needed to support primary stakeholders and proficiency with related databases/data marts within first year in role. Must stay abreast of current industry trends and become facile with the various business intelligence software systems used at Geisinger.\n+ Leads the development of analysis approach and reporting needed based on business questions, requirements, and initial analysis findings.\n+ Develops, validates, and executes complex queries to complete sophisticated data analysis resulting in reports that answers very challenging business questions. Interprets results and makes recommendations to business areas based on findings. Leads efforts when multiple analysts involved.\n+ Cleary presents analysis and reports to internal customers and stakeholders. Mentors junior analysts by demonstrating how to create engaging presentations and presenting in front of various audiences.\n+ Routinely uses statistical methods during analyses and considers how best to visualize data that accurately reflects the intended message including the limitations.\n+ Reports and helps troubleshoot data quality issues when performing data profiling, testing, or validation.\n+ Collaborative and eager to share knowledge with team members.\n+ Responsible for participating in and advising strategic departmental initiatives.\n+ Actively seeks out opportunities to mentor more junior analysts and aid in the development of training.\n+ May participate in and/or lead industry advisory and/or user groups.\n+ Strong attention to detail and the ability to be precise and clear when describing results of data analyses.\n+ Shares important and relevant information with the team. Proactively offers suggestions, provides resources, volunteers for assignments, and removes barriers to help the team accomplish its goals.\n+ Follows all department's policies and procedures including request intake/fulfillment, change management, and data governance practices.\nWork is typically performed in an office environment. Accountable for satisfying all job specific obligations and complying with all organization policies and procedures. The specific statements in this profile are not intended to be all-inclusive. They represent typical elements considered necessary to successfully perform the job. *Relevant experience may be a combination of related work experience and degree obtained (Associate’s Degree = 2 years; Bachelor’s Degree = 4 years, Master's Degree = 6 years).\nPosition Details\nPreferred experience/skills:\n+ Medicare 5 star methodology experience\n+ Will be department subject matter expert and will work directly with stakeholders\n+ SQL\n+ Tableau\nEducation\nHigh School Diploma or Equivalent (GED)- (Required)\nExperience\nMinimum of 10 years-Relevant experience* (Required)\nCertification(s) and License(s)\nOUR PURPOSE & VALUES: Everything we do is about caring for our patients, our members, our students, our Geisinger family and our communities. KINDNESS: We strive to treat everyone as we would hope to be treated ourselves. EXCELLENCE: We treasure colleagues who humbly strive for excellence. LEARNING: We share our knowledge with the best and brightest to better prepare the caregivers for tomorrow. INNOVATION: We constantly seek new and better ways to care for our patients, our members, our community, and the nation. SAFETY: We provide a safe environment for our patients and members and the Geisinger family We offer healthcare benefits for full time and part time positions from day one, including vision, dental and domestic partners. Perhaps just as important, from senior management on down, we encourage an atmosphere of collaboration, cooperation and collegiality. We know that a diverse workforce with unique experiences and backgrounds makes our team stronger. Our patients, members and community come from a wide variety of backgrounds, and it takes a diverse workforce to make better health easier for all. We are proud to be an affirmative action, equal opportunity employer and all qualified applicants will receive consideration for employment regardless to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or status as a protected veteran.\nWe are an Affirmative Action, Equal Opportunity Employer Women and Minorities are Encouraged to Apply. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of disability or their protected veteran status."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Danville",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "17822",
+              "zip": "17822",
+              "county_fips": "42093",
+              "msa": {
+                "cbsa_code": "44980",
+                "cbsa_title": "Sunbury, PA",
+                "type": "micro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-22T19:16:38.105Z",
+        "curated_at": "2026-11-11T01:07:03.477Z",
+        "job_updated_at": "2026-11-15T21:56:16.352Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "1378114641a4c190ce97063f67fb28af5d182620171d31800cbb4683490c7aa8",
+            "source": "radancy",
+            "source_posting_id": "100945120304",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.geisinger.org/job/danville/business-intelligence-analyst-lead-medicare/12064/100945120304"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Work-from-Home/Business-Intelligence-Analyst-Lead--Medicare-_R-07236/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Danville",
+                "state": "Pennsylvania",
+                "country": "US",
+                "streetAddress": "Work from Home",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-21T00:00:00.000Z",
+            "first_seen_at": "2026-09-22T19:16:38.105Z",
+            "last_completed_fetch_at": "2026-11-11T01:06:18.046Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "194ddc70267528eef1c2223eeb2f92ae040e127d11348e0599fb9e79a7175e4f",
+            "source": "directemployers",
+            "source_posting_id": "9FB5A6D75624499CAC308341097A6519",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://geisinger.dejobs.org/danville-pa/business-intelligence-analyst-lead-medicare/9FB5A6D75624499CAC308341097A6519/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/9FB5A6D75624499CAC308341097A651910"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Danville",
+                "state": "PA",
+                "country": "US",
+                "regionCode": "PA",
+                "postalCode": "17822",
+                "latitude": 40.966324,
+                "longitude": -76.61145,
+                "remote": false,
+                "zip": "17822"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-22T09:10:26.000Z",
+            "first_seen_at": "2026-09-30T14:51:54.044Z",
+            "last_completed_fetch_at": "2026-11-15T21:55:44.259Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "d1d6cd30-7de8-4f0b-b4c4-5d065874ddc6",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "04c8904b-ec15-8045-8409-28c309dda94e",
+        "employer_name": {
+          "state": "known",
+          "value": "Geisinger"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst Senior (AI Evaluation & Monitoring)"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Summary\nThe Senior BI Analyst serves as a partner to the business or clinical area supported (AI Evaluation & Monitoring) and will use analytic expertise including knowledge of data structures, programming, and statistics with critical thinking and an understanding of their assigned subject area/business to help the organization make data-driven decisions. The Senior BI Analyst makes contributions to the organization by collecting, cleaning, and interpreting data sets to answer a question or solve a problem including identifying and effectively communicating improvement opportunities and supporting the evaluation of existing AI/ML projects. Senior BI Analysts consistently act as the analytics expert in meetings and discussions with their stakeholders and can operate independently. Must be articulate in both oral and written communications, including presentations with the ability to translate analyses and opportunity insights to non-technical stakeholders. Senior BI Analysts must exhibit initiative and organizational skills, as well as possess the ability to inspire trust and confidence to maintain outstanding customer relationships. Senior BI Analysts mentor junior BI developers by offering project feedback, participating in code reviews, and providing training in areas of expertise.\nJob Duties\n+ Independently consults with AI stakeholders to gather evaluation and data requirements and define scope on projects of all sizes.\n+ Execute the evaluation work that keeps Geisinger's AI portfolio safe, performant, and accountable — running validation studies, instrumenting production monitoring, analyzing results, and turning findings into clear written work product that governance and program teams can act on.\n+ Collaborates with internal partners and organizations in the design and development of reporting solutions and analytic studies to support business needs\n+ Plans projects and request completion tasks.\n+ Provides time and effort estimates based on requirements gathering. Strong experience independently managing multiple projects is also required.\n+ Demonstrates working knowledge of relevant source systems needed to support primary stakeholders and proficiency with related databases/data marts within first year in role. Must stay abreast of current industry trends and become familiar with the various business intelligence software systems used at Geisinger.\n+ Recommends analysis approach and additional analyses or reporting needed based on business questions, requirements, and initial analysis findings.\n+ Develops, validates, and executes complex queries. Develops complex reports and performs complex data analysis that answers business questions for internal customers. Interprets results and makes recommendations to business areas based on findings.\n+ Presents analysis and reports to internal customers and stakeholders.\n+ Routinely uses statistical methods during analyses and considers how best to visualize data that accurately reflects the intended message including the limitations.\n+ Reports and helps troubleshoot data quality issues when performing data profiling, testing, or validation.\n+ Collaborative and eager to share knowledge with team members\n+ Responsible for participating in strategic departmental initiatives.\n+ Acts as a mentor to other analysts\n+ May participate in industry advisory and/or user groups.\n+ Strong attention to detail and the ability to be precise and clear when describing results of data analyses.\n+ Shares important and relevant information with the team. Proactively offers suggestions, provides resources, volunteers for assignments, and removes barriers to help the team accomplish its goals.\n+ Follows all department's policies and procedures including request intake/fulfillment, change management, and data governance practices.\nWork is typically performed in an office or remote environment. Accountable for satisfying all job specific obligations and complying with all organization policies and procedures. The specific statements in this profile are not intended to be all-inclusive. They represent typical elements considered necessary to successfully perform the job.\n*Relevant experience may be a combination of related work experience and degree obtained (Associate’s Degree = 2 years; Bachelor’s Degree = 4 years, Master's Degree = 6 years).\nPosition Details\nPreferred Skills:\n+ Healthcare, clinical, or regulated-industry data experience strongly preferred\n+ Applied statistics: hypothesis testing, confidence intervals, power and sample size, regression, and non-parametric methods.\n+ SQL with large, messy clinical data warehouses, including window functions, CTEs, debugging query plans, and performance tuning\n+ Python for analysis: pandas, numpy, scikit-learn, statsmodels, common evaluation libraries\n+ Production monitoring design and execution: drift detection, performance decay tracking, adoption and outcome metrics\n+ LLM and generative AI evaluation execution: golden sets, judge-based scoring, hallucination and grounding checks\nEducation\nHigh School Diploma or Equivalent (GED)- (Required)\nExperience\nMinimum of 8 years-Relevant experience* (Required)\nCertification(s) and License(s)\nOUR PURPOSE & VALUES: Everything we do is about caring for our patients, our members, our students, our Geisinger family and our communities. KINDNESS: We strive to treat everyone as we would hope to be treated ourselves. EXCELLENCE: We treasure colleagues who humbly strive for excellence. LEARNING: We share our knowledge with the best and brightest to better prepare the caregivers for tomorrow. INNOVATION: We constantly seek new and better ways to care for our patients, our members, our community, and the nation. SAFETY: We provide a safe environment for our patients and members and the Geisinger family We offer healthcare benefits for full time and part time positions from day one, including vision, dental and domestic partners. Perhaps just as important, from senior management on down, we encourage an atmosphere of collaboration, cooperation and collegiality. We know that a diverse workforce with unique experiences and backgrounds makes our team stronger. Our patients, members and community come from a wide variety of backgrounds, and it takes a diverse workforce to make better health easier for all. We are proud to be an affirmative action, equal opportunity employer and all qualified applicants will receive consideration for employment regardless to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or status as a protected veteran.\nWe are an Affirmative Action, Equal Opportunity Employer Women and Minorities are Encouraged to Apply. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of disability or their protected veteran status."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Danville",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "17822",
+              "zip": "17822",
+              "county_fips": "42093",
+              "msa": {
+                "cbsa_code": "44980",
+                "cbsa_title": "Sunbury, PA",
+                "type": "micro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-22T19:16:38.105Z",
+        "curated_at": "2026-11-11T01:07:06.835Z",
+        "job_updated_at": "2026-11-13T16:36:13.096Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "16e99b559ff220f481b68d64f91f13f5038fa484eb3a0aa82e002269822c8cab",
+            "source": "radancy",
+            "source_posting_id": "94739823168",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.geisinger.org/job/danville/business-intelligence-analyst-senior-ai-evaluation-and-monitoring/12064/94739823168"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Work-from-Home/Business-Intelligence-Analyst-Senior--AI-Evaluation---Monitoring-_R-95861/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Danville",
+                "state": "Pennsylvania",
+                "country": "US",
+                "streetAddress": "Work from Home",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-05-05T00:00:00.000Z",
+            "first_seen_at": "2026-09-22T19:16:38.105Z",
+            "last_completed_fetch_at": "2026-11-11T01:06:18.046Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "4ca5cbc389f215b5dcb0901e77702b43e7fefadead429ef62a18ad0518efb74a",
+            "source": "directemployers",
+            "source_posting_id": "E322DD73FBDD4308A18A0E69792318CA",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://geisinger.dejobs.org/danville-pa/business-intelligence-analyst-senior-ai-evaluation-monitoring/E322DD73FBDD4308A18A0E69792318CA/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/E322DD73FBDD4308A18A0E69792318CA10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Danville",
+                "state": "PA",
+                "country": "US",
+                "regionCode": "PA",
+                "postalCode": "17822",
+                "latitude": 40.966324,
+                "longitude": -76.61145,
+                "remote": false,
+                "zip": "17822"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-05-07T06:34:14.000Z",
+            "first_seen_at": "2026-09-30T14:51:54.044Z",
+            "last_completed_fetch_at": "2026-11-13T16:36:00.811Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "2b41fc1d-a634-4030-8ed0-975bca060382",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "a5ae54a9-dfdf-8f4a-848c-5cd8b29bfc18",
+        "employer_name": {
+          "state": "known",
+          "value": "STV Incorporated"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "**STV** is seeking a **Business Intelligence Analyst**, reporting to the IT Director of Business Systems. This position is designated as **hybrid (3 days per week in office) and can be located within a commutable distance of any of our main office locations, preferably within the central or east co.**\n\n  \n\nThis is a critical role in supporting business growth by delivering accurate, actionable reporting and analysis across all business units and for executive leadership. This position supports the development of reports, dashboards, KPIs, and performance insights that guide strategic decision‑making and ensure healthy project performance.\n\n  \n\n**Key Responsibilities**\n\n**Reporting & Visualization**\n\n* Develop, maintain, and optimize enterprise reporting dashboards supporting project performance, financial management, and business development initiatives\n* Create standardized reporting packages and deliver ongoing monthly, quarterly, and annual performance reports\n* Design and maintain semantic models, relationships, measures, and calculated columns using DAX\n* Optimize Power BI models for performance, scalability, and reusability\n* Collaborate with technical staff on deployment pipelines, data refresh strategies, and lifecycle management\n\n  \n\n**Data Management & Analysis**\n\n* Extract, clean, validate, and analyze data from our ERP and related business systems to assess pipeline activity, win rates, sales cycle trends, and client behavior\n* Perform financial and operational performance analysis, including KPI tracking, revenue and margin variance analysis, backlog and WIP reporting, forecasting support, and project health assessments\n* Ensure data integrity by identifying inconsistencies, correcting gaps, and recommending process improvements across our ERP and reporting systems\n\n  \n\n**Strategic Insights & Cross**‑**Functional Partnership**\n\n* Translate complex data findings into clear, concise insights for both technical and non‑technical audiences\n* Partner closely with business development, operations, finance, and support teams to understand reporting needs and deliver timely analysis\n* Support strategic planning through ad‑hoc analyses, scenario modeling, and client insights that inform leadership decisions\n\n  \n\n**Required Qualifications**\n\n* Bachelor’s degree in Business Analytics, Data Science, Information Systems, or a related field\n* 5+ years of experience in advanced reporting, business analytics, or financial analysis; AEC industry experience preferred\n* Experience supporting financial reporting for professional services or project-based organizations\n* Strong understanding of project accounting concepts (e.g., revenue, backlog, utilization, margin, WIP)\n* Strong proficiency with data visualization tools (e.g., Power BI)\n* Proven experience with Power BI data modeling and DAX\n* Experience working with ERP systems (e.g., Deltek Vantagepoint)\n* Advanced Excel skills, including pivot tables, advanced formulas, and Power Query\n* Strong analytical and quantitative abilities, with the capacity to interpret and clearly communicate complex data\n* High attention to detail and proven ability to manage multiple priorities in a fast‑paced environment\n* Excellent communication and collaboration skills\n\n  \n\n**Preferred Qualifications**\n\n* Experience integrating ERP and large data sets into automated reporting workflows\n* Familiarity with AEC project processes, reporting structures, and performance metrics\n* Ability to develop and maintain data workflow technologies including SSIS, Data Factory (or equivalent)\n* Knowledge of statistical analysis techniques or SQL is a plus\n\n  \n\n**Outside agencies, or unsolicited applicants will not be considered**\n\n  \n\n**THIS POSITION DOES NOT QUALIFY FOR SPONSORSHIP**\n\n  \n\n**#LI-AW1 #LI-HYBRID**\n\nCompensation Range:\n\n$88,777.71 - $101,460.24\n\n  \n  \n\n**STV offers the following benefits** • Health insurance, including an option with a Health Savings Account • Dental insurance • Vision insurance • Flexible Spending Accounts (Healthcare, Dependent Care and Transit and Parking where applicable) • Disability insurance • Life Insurance and Accidental Death & Dismemberment • 401(k) Plan • Retirement Counseling • Employee Assistance Program • Paid Time Off • Paid Holidays • Back-Up Dependent Care • Parental Leave • Continuing Education Program • Professional Licensure and Society Memberships\n\n  \n\nSTV is committed to paying all of its employees in a fair, equitable, and transparent manner. The listed pay range is STV’s good-faith salary estimate for this position. Please note that the final salary offered for this position may be outside of this published range based on many factors, including but not limited to geography, education, experience, and/or certifications.\n\n  \n\n**Not sure this role is the perfect match?** We encourage you to apply if STV’s work and values resonate with you. We know great candidates don’t always meet every qualification, and research shows women and people of color are less likely to apply unless they do. At STV, we believe strong talent comes from a wide range of backgrounds, and your skills and experience may align with this or another opportunity as we continue to grow.\n\n  \n\nSTV is one of the top infrastructure-focused professional services firms in North America. Founded in 1912, STV advises, plans, designs, engineers and delivers the infrastructure that powers local economies, including transportation systems, buildings, water and other facilities. Headquartered in New York City, the company has more than 65 offices and 3,400 employees who reimagine the solutions and structures that connect our communities. The firm is ranked 32nd in Engineering News-Record’s Top 500 Design Firms survey and is 10th in its transportation category.\n\n  \n\nSTV is deeply committed to investing in its people and creating a world-class employee experience. We are passionate about mentoring, coaching and cultivating our talent because we know they are destined to become the next generation of industry leaders. We’re also committed to delivering formative career experiences – and we do that by providing challenging and unique work experiences, by mapping multiple ways to advance (beyond the traditional career ladder!) and by recognizing those who successfully chart new and exciting paths for the firm.\n\n  \n\nWe value a wide range of perspectives and experiences, without regard to any factor or characteristic, regardless of whether it is a category protected by federal, state and/or local law, making them an integral part of how we work. Our approach ensures that every individual is respected, heard, and given opportunities to contribute meaningfully. We remove barriers and create pathways for growth, embedding fairness into our daily operations.\n\n  \n\nLearn more at [stvinc.com](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstvinc.com%2F&data=05%7C02%7CAnthony.Scioli%40stvinc.com%7C08724f4ebd69449e127c08dc818f9a6c%7C7e24c8b1662f487d82acbbeb898cc172%7C0%7C0%7C638527700991287846%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=xzboA1AJQbXrkUbp6%2Be02jdizKYJaoBRBtLM0APQKWc%3D&reserved=0).\n\n  \n\nSTV exists to make communities better through innovative solutions that connect people, places and the present to the future. Our local teams throughout the country deeply understand the needs of their communities and have the expertise to provide solutions. We are also committed to giving back to our communities and our neighbors through volunteering and philanthropic activities; fundraising events; scholarships, internships, and mentoring; and sustainability and community improvement projects. [Learn more](https://stvpages.com/).\n\n  \n\nSTV provides equal employment opportunities to all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "hybrid",
+          "evidence": [
+            "jobPostingInfo.jobDescription: #LI-HYBRID"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Douglassville",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Atlanta",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": "13121",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Charlotte",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37119",
+              "msa": {
+                "cbsa_code": "16740",
+                "cbsa_title": "Charlotte-Concord-Gastonia, NC-SC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Newark",
+              "region": "US-NJ",
+              "country": "US",
+              "county_fips": "34013",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Philadelphia",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42101",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-13T08:15:01.225Z",
+        "curated_at": "2026-11-13T08:23:23.847Z",
+        "job_updated_at": "2026-11-13T09:11:49.819Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 8877771,
+                "max_cents": 10146024,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "53f2b168fc349e9d6e809652b5cd6fbc3bcb69c240ef3c05faca930d779c4bfa",
+            "source": "workday",
+            "source_posting_id": "/job/Douglassville-Pennsylvania/Business-Intelligence-Analyst_JR5589",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Douglassville-Pennsylvania/Business-Intelligence-Analyst_JR5589"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Douglassville-Pennsylvania/Business-Intelligence-Analyst_JR5589"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Douglassville",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Atlanta, Georgia"
+                  },
+                  {
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Charlotte, North Carolina"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Chicago, Illinois"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Dallas, Texas"
+                  },
+                  {
+                    "city": "Newark",
+                    "state": "NJ",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Newark, New Jersey"
+                  },
+                  {
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Philadelphia, Pennsylvania"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 88777.71,
+                "max": 101460.24,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-11T00:00:00.000Z",
+            "first_seen_at": "2026-11-13T08:15:01.225Z",
+            "last_completed_fetch_at": "2026-11-13T09:09:02.380Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8a00eba5-a656-4aa6-971a-91a458914e16",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "98f637bb-1fe1-8928-9b38-23139017f419",
+        "employer_name": {
+          "state": "known",
+          "value": "Thomas Jefferson University"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "**Number of Positions In Requisition**\n\n1\n\n**Job Details**\n\nResponsible for turning data into actionable information and insights to drive business and operational decisions in assigned support areas. This role will work closely with operational and business leadership to understand their analytics and business needs and function as a trusted analytics delivery partner to answer pertinent business questions using all available data assets. Enables successful adoption of analytics tools and requires advanced knowledge healthcare operations and the key performance indicators used to support the business.\n\n**Job Description**\n\n  \n**Summary**  \nResponsible for turning data into actionable information and insights to drive business and operational decisions in assigned support areas. This role will work closely with operational and business leadership to understand their analytics and business needs and function as a trusted analytics delivery partner to answer pertinent business questions using all available data assets. Enables successful adoption of analytics tools and requires advanced knowledge healthcare operations and the key performance indicators used to support the business.  \n  \n**Job Duties**\n\n* Designs, builds, tests and implements BI solutions. Responsible for creating solutions within the existing BI environment including: designing, coding, testing and documenting all new or modified BI services, applications, programs, semantic layers, metadata, reports, dashboards and portal interfaces.\n* Develops; Stored Procedures, Reporting Design, Report Modeling, Database Development, Administration and automation of BI solutions.\n* Troubleshoots BI tools, systems and software; performance-tune these applications as necessary. Potential for periodic on-call duty supporting these applications and services.\n\n  \n**Minimum Qualifications**\n\n* Bachelor’s Degree in related field\n* 5 years related work experience\n\n  \n**Physical Demands**  \nLift and carry 25 lbs. frequent sitting/standing, frequent keyboard use, \\*patient care providers may be required to perform activities specific to their role including kneeling, bending, squatting and performing CPR.  \n  \nJob Description Disclaimer: This position description provides the major duties/responsibilities, requirements and working conditions for the position. It is intended to be an accurate reflection of the current position, however management reserves the right to revise or change as necessary to meet organizational needs. Other responsibilities may be assigned when circumstances require.\n\n**Work Shift**\n\nWorkday Day (United States of America)\n\n**Worker Sub Type**\n\nRegular\n\n**Employee Entity**\n\nThomas Jefferson University\n\n**Primary Location Address**\n\n1100 Virginia Drive, Fort Washington, Pennsylvania, United States of America\n\nNationally ranked, Jefferson, which is principally located in the greater Philadelphia region, Lehigh Valley and Northeastern Pennsylvania and southern New Jersey, is reimagining health care and higher education to create unparalleled value. Jefferson is more than 65,000 people strong, dedicated to providing the highest-quality, compassionate clinical care for patients; making our communities healthier and stronger; preparing tomorrow's professional leaders for 21st-century careers; and creating new knowledge through basic/programmatic, clinical and applied research. [Thomas Jefferson University](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3950520-1%26h%3D3512320939%26u%3Dhttps%253A%252F%252Fnam10.safelinks.protection.outlook.com%252F%253Furl%253Dhttps%25253A%25252F%25252Fwww.jefferson.edu%25252F%2526data%253D05%25257C01%25257CAngela.Showell%252540jefferson.edu%25257C673e1607452d4029553308db62bc903f%25257C55a89906c710436bbc444c590cb67c4a%25257C0%25257C0%25257C638212334228975351%25257CUnknown%25257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%25253D%25257C3000%25257C%25257C%25257C%2526sdata%253D7iMQ6V6sMcJ3yBHG%25252FSt9Jpd4bGY9m0%25252BAco9WP9U5oWw%25253D%2526reserved%253D0%26a%3DThomas%2BJefferson%2BUniversity&data=05%7C02%7CTierra.Seay%40jefferson.edu%7C672a5210d4be4bfe567808dcb655f166%7C55a89906c710436bbc444c590cb67c4a%7C0%7C0%7C638585727507457915%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=vXxEj%2FR2%2FfziVQHEU4SduSvGsRFXj2TZXon2vkMNnW0%3D&reserved=0), home of Sidney Kimmel Medical College, Jefferson College of Nursing, and the Kanbar College of Design, Engineering and Commerce, dates back to 1824 and today comprises 10 colleges and three schools offering 200+ undergraduate and graduate programs to more than 8,300 students. [Jefferson Health](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3950520-1%26h%3D2726107320%26u%3Dhttps%253A%252F%252Fnam10.safelinks.protection.outlook.com%252F%253Furl%253Dhttps%25253A%25252F%25252Fwww.jeffersonhealth.org%25252Fhome%2526data%253D05%25257C01%25257CAngela.Showell%252540jefferson.edu%25257C673e1607452d4029553308db62bc903f%25257C55a89906c710436bbc444c590cb67c4a%25257C0%25257C0%25257C638212334228975351%25257CUnknown%25257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%25253D%25257C3000%25257C%25257C%25257C%2526sdata%253DrTZbBgF7vJThPl2AyZ0URiy2vzK%25252FMGBCK9oCfnCIjEI%25253D%2526reserved%253D0%26a%3DJefferson%2BHealth&data=05%7C02%7CTierra.Seay%40jefferson.edu%7C672a5210d4be4bfe567808dcb655f166%7C55a89906c710436bbc444c590cb67c4a%7C0%7C0%7C638585727507473088%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YZ6u4myrPH1%2BjuR8ULkA%2F8nctXWMuUOr7tihDCYZs%2F8%3D&reserved=0), nationally ranked as one of the top 15 not-for-profit health care systems in the country and the largest provider in the Philadelphia and Lehigh Valley areas, serves patients through millions of encounters each year at 32 hospitals campuses and more than 700 outpatient and urgent care locations throughout the region. [Jefferson Health Plans](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3950520-1%26h%3D757118008%26u%3Dhttps%253A%252F%252Fnam10.safelinks.protection.outlook.com%252F%253Furl%253Dhttps%25253A%25252F%25252Fwww.healthpartnersplans.com%25252F%2526data%253D05%25257C01%25257CAngela.Showell%252540jefferson.edu%25257C673e1607452d4029553308db62bc903f%25257C55a89906c710436bbc444c590cb67c4a%25257C0%25257C0%25257C638212334228975351%25257CUnknown%25257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%25253D%25257C3000%25257C%25257C%25257C%2526sdata%253DOPutlxWHBD0yUuQAAIXqbjs9AEK4%25252B0xOE2JwFSR4rcE%25253D%2526reserved%253D0%26a%3DJefferson%2BHealth%2BPlans&data=05%7C02%7CTierra.Seay%40jefferson.edu%7C672a5210d4be4bfe567808dcb655f166%7C55a89906c710436bbc444c590cb67c4a%7C0%7C0%7C638585727507482313%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=d%2Br%2BnkNOl%2Fnb%2Ffx5Fm7JP9tN0ggO%2FYjNNWPIq7Yu9v8%3D&reserved=0) is a not-for-profit managed health care organization providing a broad range of health coverage options in Pennsylvania and New Jersey for more than 35 years.\n\nJefferson is committed to providing equal educa­tional and employment opportunities for all persons without regard to age, race, color, religion, creed, sexual orientation, gender, gender identity, marital status, pregnancy, national origin, ancestry, citizenship, military status, veteran status, handicap or disability or any other protected group or status.\n\n**Benefits**\n\nJefferson offers a comprehensive package of benefits for full-time and part-time colleagues, including medical (including prescription), supplemental insurance, dental, vision, life and AD&D insurance, short- and long-term disability, flexible spending accounts, retirement plans, tuition assistance, as well as voluntary benefits, which provide colleagues with access to group rates on insurance and discounts. Colleagues have access to tuition discounts at Thomas Jefferson University after one year of full time service or two years of part time service. All colleagues, including those who work less than part-time (including per diem colleagues, adjunct faculty, and Jeff Temps), have access to medical (including prescription) insurance.\n\nFor more benefits information, please click [here](https://www.wearejefferson.org/content/dam/enterprise/documents/restricted/guidebook.pdf)\n\n  \n\nIn keeping with Jefferson's Mission, We Improve Lives, it is our goal to recruit, retain, develop and reward highly-qualified employees. If you are enthusiastic, caring and dedicated to service excellence, we invite you to consider joining Jefferson. Jefferson encourages its employees to expand their knowledge and develop their careers through growth opportunities and continuing education.\n\n  \n\nWith a long standing history, Jefferson has been advancing the medical field from the heart of Center City Philadelphia for nearly 200 years. Our Mission, *We Improve Lives*, expands to every corner of the organization. From our weekly farmer’s market, to our new Jefferson Accelerator Zone for innovation, our employees’ passion for the community is evident by the daily gestures towards our patients, students and each other.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Montgomery County",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42091",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-11T17:37:50.650Z",
+        "curated_at": "2026-11-11T17:39:02.613Z",
+        "job_updated_at": "2026-11-11T17:39:02.613Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "e65d3af3f76070af344b1abc5a221414bf80fc7906f2083b623690cb52ec31ad",
+            "source": "workday",
+            "source_posting_id": "/job/Montgomery-County-PA/Senior-Business-Intelligence-Analyst_REQ-0040405-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Montgomery-County-PA/Senior-Business-Intelligence-Analyst_REQ-0040405-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Montgomery-County-PA/Senior-Business-Intelligence-Analyst_REQ-0040405-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Montgomery County",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "PA",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-06T00:00:00.000Z",
+            "first_seen_at": "2026-11-11T17:37:50.650Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "25e03cf4-a6a8-4d08-bae9-8d174b62bff6",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "5ef13438-fa75-81c4-afa8-03f4302ee2aa",
+        "employer_name": {
+          "state": "known",
+          "value": "Indeed"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst III"
+        },
+        "description": {
+          "state": "known",
+          "value": "Our Mission\nAs the world’s number 1 job site*, our mission is to help people get jobs. We strive to cultivate an inclusive and accessible workplace where all people feel comfortable being themselves. We're looking to grow our teams with more people who share our enthusiasm for innovation and creating the best experience for job seekers.\n(*Comscore, Total Visits, March 2026)\nDay to Day\nAs a Business Intelligence Analyst III, you will leverage data to generate insights that inform business decisions and improve performance. You will work with teams across the organization to understand priorities, analyze trends, and deliver clear, actionable recommendations.\nIn this role, you will design and build reporting solutions, support data-driven initiatives, and contribute to the development of scalable analytics practices. You are comfortable working with large datasets, translating complex findings into meaningful insights, and communicating results to both technical and non-technical audiences. This role combines demonstrated analytical and technical expertise with strategic thinking, business partnership, autonomous decision-making, and the ability to influence outcomes across teams. The ideal candidate is a self-directed, hands-on analytics leader who can take an ambiguous business objective, determine what needs to be understood, identify the right data and approach, and autonomously drive the work from problem definition through analysis, solution design, delivery, and business impact. The role also has a key focus on AI-enabled analytics and modern development practices. We expect the successful candidate to use AI tools, automation, and emerging technologies as part of their normal workflow and to continually identify opportunities to make BI more efficient, scalable, and impactful.\nResponsibilities\n+ Develop dashboards, reports, and data visualizations to support business decision-making.\n+ Analyze large datasets to identify trends, opportunities, and areas for improvement.\n+ Translate business questions into analytical approaches and technical requirements.\n+ Apply testing and measurement methodologies, including A/B testing, to evaluate outcomes.\n+ Identify and validate data sources, ensuring accuracy and reliability of insights.\n+ Present findings and recommendations to a range of audiences.\n+ Contribute to improving data processes, tools, and documentation.\nSkills/Competencies\n+ Requires a Master’s degree in Computer Science, Mathematics, Statistics, or related field and a minimum of 6 years of related experience; or a PhD with 3 years experience\n+ Ability to combine strategic thinking with tactical execution and effectively leverage AI-assisted development tools, agents, automation, and emerging technologies across coding, SQL, analysis, testing, and research\n+ Ability to autonomously navigate ambiguity, set strategy and priorities, and translate complex data into clear, actionable insights and compelling narratives for senior leaders and product teams, with a key focus on business and customer impact.\n+ Experience writing and optimizing SQL queries across large datasets.\n+ Experience using programming languages (e.g., Python) for data analysis and transformation.\n+ Experience with data visualization tools (e.g., Tableau, Power BI).\n+ Understanding of data warehousing and data pipeline concepts.\n+ Ability to communicate complex data insights clearly to varied audiences.\n+ Analytical mindset with attention to detail and problem-solving skills.\nSalary Range Transparency\nTier 1 - United States of America 110,000 - 166,000 USD per year\nTier 2 - United States of America 124,000 - 186,000 USD per year\nTier 3 - United States of America 136,000 - 204,000 USD per year\nTier 4 – N/A\nTier 5 - United States of America 155,000 - 233,000 USD per year\nSalary Range Disclaimer\nThe salary range for this role reflects the minimum and maximum compensation for the role. Offers are typically made between the range minimum and the range midpoint. Actual compensation will be determined based on job-related skills, experience, and expertise, as evaluated during the interview process. The range(s) listed is just one component of Indeed's total compensation package for employees. Other rewards may include quarterly bonuses, Restricted Stock Units (RSUs), a Paid Time Off policy, and many region-specific benefits. Compensation may also vary based on where a role is performed, as work locations are grouped into geographic pay tiers to reflect cost of labor differences in different geographic markets. Candidates can view geographic pay tiers by location on our career site ( https://www.indeed.com/careers/paytiers ), and recruiters can confirm how location is considered for a specific role.\nBenefits - Health, Work/Life Harmony, & Wellbeing\nWe care about what you care about. We have a multitude of benefits to support Indeedians, as well as their pets, kids, and partners including medical, dental, vision, disability and life insurance. Indeedians are able to enroll in our company’s 401k plan, as well as an equity-based incentive program. Indeedians will also receive open paid time off, 11 paid holidays a year and up to 26 weeks of paid parental leave. For more information, select your country and learn more about our employee benefits, program, & perks at https://www.indeed.com/careers/benefits !\nEqual Opportunities and Accommodations Statement\nIndeed is deeply committed to building a workplace and global community where inclusion is not only valued, but prioritized. We’re proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, family status, marital status, sexual orientation, national origin, genetics, neuro-diversity, disability, age, or veteran status, or any other non-merit based or legally protected grounds.\nIndeed provides reasonable accommodations to qualified individuals with disabilities in the employment application process. To request an accommodation, please visit https://www.indeed.com/careers/accommodations . If you are requesting accommodation for an interview, please reach out at least one week in advance of your interview.\nFor more information about our commitment to equal opportunity/affirmative action, please visit our Careers page ( https://www.indeed.com/careers ).\nInclusion & Belonging\nInclusion and belonging are fundamental to our hiring practices and company culture, forming an integral part of our vision for a better world of work. At Indeed, we’re committed to the wellbeing of our employees and on a mission to make this the best place to work and thrive. We believe that fostering an inclusive environment where every employee feels respected and accepted benefits everyone, fueling innovation and creativity.\nWe value diverse experiences, including those who have had prior contact with the criminal legal system. We are committed to providing individuals with criminal records, including formerly incarcerated individuals, a fair chance at employment.\nThose with military experience are encouraged to apply. Equivalent expertise demonstrated through a combination of work experience, training, military experience, or education is welcome.\nIndeed’s Employee Recruiting Privacy Policy\nLike other employers Indeed uses our own technologies to help us find and attract top talent from around the world. In addition to our site’s user and privacy policy found at https://www.indeed.com/legal , we also want to make you aware of our recruitment specific privacy policy found at https://www.indeed.com/legal/indeed-jobs .\nAgency Disclaimer\nIndeed does not pay placement fees for unsolicited resumes or referrals from non-candidates, including search firms, staffing agencies, professional recruiters, fee-based referral services, and recruiting agencies (each individually, an \"Agency\"), subject to local laws. An Agency seeking a placement fee must obtain advance written approval from Indeed's internal Talent Acquisition team and execute a fee agreement with Indeed for each job opening before making a referral or submitting a resume for that opening.\nAI Notice\nIndeed is committed to ensuring fairness and transparency throughout our hiring process. We use artificial intelligence (AI) tools to assist in the screening, assessment, and selection of applicants for this position by analyzing information provided in resumes and applications. Our use of AI does not replace human decision-making.\nUnless otherwise notified, Indeed does not use AI constituting an AEDT or an ADMT as those tools are defined in applicable laws.\nReference ID: <47669>\nU.S. Remote Only - Posting Duration:\nThe deadline to apply to this position is 10/10/2026. Job postings may be extended at the hiring team’s discretion based on applicant volume.\nU.S. Remote & Massachusetts Roles\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\nReference ID: 47669"
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Philadelphia",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "19133",
+              "zip": "19133",
+              "county_fips": "42101",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-09T01:48:03.571Z",
+        "curated_at": "2026-11-11T09:38:11.909Z",
+        "job_updated_at": "2026-11-11T09:38:11.909Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 11000000,
+                "max_cents": 16600000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 12400000,
+                "max_cents": 18600000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 13600000,
+                "max_cents": 20400000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 15500000,
+                "max_cents": 23300000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[3]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "04d07bbab57943488ef7f8f40d9f113dbd71b6e4ffe40f43f1036f91dd2c976e",
+            "source": "directemployers",
+            "source_posting_id": "1A690886B41D498AAFDD77834204DE2E",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://newstartcareernetwork.dejobs.org/philadelphia-pa/business-intelligence-analyst-iii/1A690886B41D498AAFDD77834204DE2E/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/1A690886B41D498AAFDD77834204DE2E10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Philadelphia",
+                "state": "PA",
+                "country": "US",
+                "regionCode": "PA",
+                "postalCode": "19133",
+                "latitude": 39.98553,
+                "longitude": -75.152695,
+                "remote": false,
+                "zip": "19133"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 110000,
+                "max": 166000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 110000,
+                    "max": 166000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "United States of America"
+                  },
+                  {
+                    "min": 124000,
+                    "max": 186000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "United States of America"
+                  },
+                  {
+                    "min": 136000,
+                    "max": 204000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "United States of America"
+                  },
+                  {
+                    "min": 155000,
+                    "max": 233000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "United States of America"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-09-03T03:58:45.000Z",
+            "first_seen_at": "2026-11-09T01:48:03.571Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "a31722d9-8c23-4751-832b-340201a1e43a",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "4ab59700-af17-83ac-aeaa-772428df208a",
+        "employer_name": {
+          "state": "known",
+          "value": "Geisinger"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst Senior, AI"
+        },
+        "description": {
+          "state": "known",
+          "value": "Key Responsibilities:\n\nPartner with product managers during problem sizing to quantify opportunity areas, establish baselines, and define what success looks like before any solution is built Conduct exploratory data analysis during model development, profiling data quality, understanding distributions, identifying anomalies, and helping data scientists understand what the data is actually telling them Build and maintain the feature datasets and data definitions that model development depends on, ensuring the analytical foundation is sound before anyone builds on it Design and own the measurement frameworks that track AI performance in production, going beyond adoption to capture clinical and operational impact Dig into Epic, Clarity, Caboodle, and other enterprise data sources to answer hard questions about how AI initiatives are performing and where they need to improve Identify and resolve data quality issues at the source, working with clinical and operational teams to address problems that would otherwise degrade model performance silently Turn complex analytical findings into clear narratives and visualizations that help product and strategy leaders make faster, better decisions Establish and maintain data standards and documentation that make analytical work reusable and trustworthy across the portfolio\nWork is typically performed in an office environment. Accountable for satisfying all job specific obligations and complying with all organization policies and procedures. The specific statements in this profile are not intended to be all-inclusive. They represent typical elements considered necessary to successfully perform the job.\n\n*Relevant experience may be a combination of related work experience and degree obtained (Associate’s Degree = 2 years; Bachelor’s Degree = 4 years, Master's Degree = 6 years)."
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "remote",
+          "evidence": [
+            "location: Work from Home"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Danville",
+              "region": "US-PA",
+              "country": "US",
+              "street": "Work from Home",
+              "county_fips": "42093",
+              "msa": {
+                "cbsa_code": "44980",
+                "cbsa_title": "Sunbury, PA",
+                "type": "micro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-10T12:25:19.713Z",
+        "curated_at": "2026-11-11T01:07:07.206Z",
+        "job_updated_at": "2026-11-11T01:07:07.206Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "6e1237fa611b29f9d6abd2503eeb748b503e004f47c6cb253de1e6bac490eb5e",
+            "source": "radancy",
+            "source_posting_id": "101625069200",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.geisinger.org/job/danville/business-intelligence-analyst-senior-ai/12064/101625069200"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Work-from-Home/Business-Intelligence-Analyst-Senior--AI_R-08295/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Danville",
+                "state": "Pennsylvania",
+                "country": "US",
+                "streetAddress": "Work from Home",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-06T00:00:00.000Z",
+            "first_seen_at": "2026-10-10T12:25:19.713Z",
+            "last_completed_fetch_at": "2026-11-11T01:06:18.046Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "386a3825-0c8a-4946-b8b1-b994f9d4d54a",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "02fd2cc8-d6b9-4bd2-b21a-ec8d8437e51e",
+        "employer_name": {
+          "state": "known",
+          "value": "Toll Brothers, Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Overview Join an award-winning company! Who are we? Since 1967, Toll Brothers has been building luxury homes and communities in the best locations in the U.S. Today, we’re a Fortune 500 company operating in over 60 markets. We’re the country’s premier luxury builder with the widest range of product offerings and price points in the industry, serving first-time, move-up, active-adult, and second-home buyers. From the homes we build to the talent we recruit, we know that to be the best, we have to work with the best. Toll Brothers is a place where diverse perspectives and experiences are welcomed and where employees of all backgrounds are treated with fairness, dignity and respect. We believe every employee should feel safe to be their true and authentic self at work. Our employees are our family, and we strive to uphold the values that our founders instilled in us, creating an exceptional place to work that is inclusive to all. Toll Brothers , America's leading builder of luxury homes, seeks an experienced Senior Business Intelligence Analyst to join our team located in Fort Washington, Pennsylvania. What is the opportunity? We are looking for a detail-oriented and proactive Senior Business Intelligence Analyst to join our Enterprise Reporting & Data Analytics Team. In this role, you will help lead the continued evolution and adoption of the company’s enterprise business intelligence platform, delivering trusted reporting, scalable analytics solutions, and actionable insights that improve business performance across the organization. What are the primary responsibilities? Partner with stakeholders across Finance, Sales, Operations, Production and other business functions to understand reporting needs and deliver meaningful insights. Translate business questions into analytical solutions, dashboards, and reports that support operational and strategic decision-making. Design, develop, and maintain Power BI reports, dashboards, and semantic models that provide accurate, scalable, and user-friendly analytics. Manage and prioritize reporting and analytics requests while communicating timelines, status updates, and recommendations to stakeholders. Ensure the accuracy, consistency, and integrity of enterprise reporting assets and key performance metrics. Automate recurring reporting and data processes to improve efficiency and reduce manual effort. Collaborate with Data Engineering and Data Governance teams to support data quality standards, documentation, and reporting best practices. Participate in testing, validation, troubleshooting, and user acceptance activities to ensure solutions meet business requirements. Support self-service analytics initiatives and help drive enterprise adoption of business intelligence capabilities. Continuously evaluate and enhance reporting solutions while exploring emerging technologies, analytics techniques and artificial intelligence. Perform other duties as assigned. This is an excellent opportunity to join one of the nation's most respected Fortune 500 companies! Qualifications Does this describe you? Excellent communication skills and experience working cross-functionally with multiple areas of the business Strong analytical and creative problem-solving skills Logical and efficient with exceptional attention to detail Strong organizational, prioritization, and time-management skills Ability to manage multiple initiatives in a fast-paced environment Curious, adaptable, and willing to learn new technologies and applications Do you have these qualifications? Essential: Bachelor’s degree in Business Analytics, Data Analytics, Finance, Information Systems, Data Science, or a related field; or equivalent experience. 3+ years of experience in business intelligence, analytics, reporting, or related disciplines. Experience developing reports, dashboards, and data models using Power BI or comparable BI platforms. Strong analytical and problem-solving skills, including experience working with large and complex datasets. Ability to gather requirements, manage stakeholder expectations, and communicate technical concepts to business audiences and leadership. Demonstrated ability to create compelling visualizations and communicate actionable insights. Experience with work management tools such as Azure DevOps, Jira, Asana, or similar platforms. Ability to work in the office three days per week. Preferred: Experience with Power BI semantic models, DAX, Power Query, and data modeling best practices. Experience with SQL and relational databases for data exploration, validation, and analysis. Experience with data warehousing, ETL processes, or modern cloud data platforms. Experience with Microsoft Fabric or comparable analytics technologies. Familiarity with Git and Azure DevOps repositories. Knowledge of Python, R, JavaScript, or other analytical programming languages. Exposure to advanced analytics concepts such as AI, predictive modeling, or machine learning. Experience supporting enterprise-scale reporting and self-service analytics initiatives. This position offers great career growth opportunities as well as an excellent benefits package, including comprehensive medical/dental, 401(k) with a company match, discounted stock purchase, discounts on mortgages, homes, appliances, and much more! APPLY ONLINE TODAY! No walk-ins or phone calls, please. C ome and see why Toll Brothers has been attracting and retaining some of the best professionals in the industry! APPLY ONLINE TODAY! Toll Brothers is committed to ensuring equal employment opportunity. All employment decisions, policies, and practices are in accordance with applicable federal, state, and local anti-discrimination laws. Toll Brothers will not engage in or tolerate unlawful discrimination (including any form of unlawful harassment) on account of a person's sex (including pregnancy), age, race, color, religion, national origin, ancestry, citizenship, physical or mental disability, sexual orientation, gender nonconformity, status as a transgender individual, gender identity, genetic information, marital status, family responsibility, armed services, or any other status protected by law."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Fort Washington",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "19034",
+              "zip": "19034",
+              "county_fips": "42091",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-04T14:52:25.889Z",
+        "curated_at": "2026-11-10T13:04:11.069Z",
+        "job_updated_at": "2026-11-10T13:04:11.069Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "5edd0086b34697efdea87e5268039350fe7e748af69138999ea4411ad10de463",
+            "source": "icims",
+            "source_posting_id": "25687",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs-tollbrothers.icims.com/jobs/25687/senior-business-intelligence-analyst/job"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs-tollbrothers.icims.com/jobs/25687/senior-business-intelligence-analyst/job"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Fort Washington",
+                "state": "PA",
+                "country": "US",
+                "regionCode": "PA",
+                "postalCode": "19034",
+                "remote": false,
+                "zip": "19034"
+              }
+            },
+            "pay": {
+              "state": "source_omitted"
+            },
+            "source_posted_at": "2026-11-03T05:00:00.000Z",
+            "first_seen_at": "2026-11-04T14:52:25.889Z",
+            "last_completed_fetch_at": "2026-11-10T13:03:39.019Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "eab4c165-3d83-42e6-8f89-4b79c975ae72",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "293fd924-ac1b-88b9-a501-b944a4bea37c",
+        "employer_name": {
+          "state": "known",
+          "value": "Hershey Entertainment & Resorts"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Hershey Entertainment & Resorts Company (HE&R) is an award-winning entertainment & hospitality organization with properties including: Hersheypark, The Hotel Hershey, Hershey Lodge, Giant Center, Restaurants, and more. Our team members share a common goal of upholding the legacy of our founder, Milton S. Hershey, while striving to live by our company's Core Values: Devoted to the Legacy, Selfless Spirit of Service, Team Focused, and Respectful of Others. Hershey Entertainment & Resorts is committed to cultivating diversity, equity, and inclusion in our workforce, marketplace, and community, and is proud to help fulfill the dream of our founder by providing value to Milton Hershey School.\n\nThis position is responsible for the end-to-end building of data visualization tools by gathering and documenting business requirements; building data sets, tools, dashboards, and reports in partnership with technical team members; and presenting, supporting, and gaining adoption of these tools throughout the enterprise. The BI Analyst will collaborate with business stakeholders, Finance peers, and the technology team to develop visualization tools to transform data into actionable insights.\n\nAs a Full-Time Team Member, you will enjoy sweet perks like FREE admission to Hersheypark, discounts, and more as soon as you receive your Employee ID! Your total compensation consists not only of the wage that you are paid, but also includes Medical, Dental, and Vision coverage beginning the first day of the next month after you begin working, 401K Contribution, paid time off, and so much more!\n\n**Job Functions:**\n\n* Work closely with business users and stakeholders to gather, clarify, and document business intelligence and reporting requirements. \\*\n* Translate business questions into clear, actionable technical specifications for reporting and analysis. \\*\n* Partner closely with various cross-functional teams to gather data sources, evaluate inputs and outcomes, and define logic and definition. \\*\n* Document business purpose, data sources, definitions, methodology, and description of the reports. \\*\n* Build, design, and maintain visually compelling dashboards and reports in BI tools (e.g., Looker, Tableau, Power BI). \\*\n* Conduct data exploration to validate data accuracy, completeness, and consistency. \\*\n* Leverage data warehouse structures and cloud-based data platforms to source and organize data efficiently. \\*\n* Present analysis results and key findings clearly and concisely to business teams and leadership. \\*\n* Continuously refine and optimize reporting and analysis processes for better performance and usability. \\*\n* Serve as a trusted advisor to business users, helping them interpret reports and analytics to support decision-making. \\*\n* Provide ad hoc analysis and respond to urgent data requests when needed. \\*\n* Train and support users on BI tools and best practices for self-service analytics. \\*\n* Troubleshoot reporting or data issues and work with technical teams to resolve them promptly. \\*\n* Perform other duties as assigned\n\n**Qualifications:**\n\n* Must be 18 years of age or older.\n* Minimum of 3 year(s) of Hospitality/Tourism, Retail, Food & Beverage, Sports/Entertainment, or Amusement Park experience.\n* Bachelor's Degree - Data Visualization / Data Science\n    * 7 years of experience in lieu of education.\n\n**Knowledge, Skills, and Abilities**\n\n* Skilled in the use of Google Suite and Microsoft Office applications, including Excel and Word.\n* Proficient working with details on a daily basis for prolonged periods of time.\n* Must have the ability to safeguard confidential information.\n* Must have strong written and verbal communication skills.\n\n**Job Demands**\n\n* Walking: occasional (<33%)\n* Standing: occasional (<33%)\n* Sitting: frequent (34-66%)\n* Bending: occasional (<33%)\n* Stooping: occasional (<33%)\n* Hand-Eye Coordination: constant (>67%)\n* Finger Dexterity: constant (>67%)\n* Reaching Over: occasional (<33%)\n* Reaching Forward: frequent (34-66%)\n* Lifting: occasional (<33%) Weight: 25 lbs\n* Climb Stairs: occasional (<33%) Height: 25 ft\n* Pushing: occasional (<33%) Weight: 25 lbs\n* Pulling: occasional (<33%) Weight: 25 lbs\n* This job requires the visual ability to view work at distances of approximately 5 feet (operation and adjustment of machinery).\n* This job requires the visual ability to perform detailed work at close distances (computer screens, accounting ledgers, using measurement devices).\n* This job regularly requires verbal communication of detailed information to others either by phone or in person.\n* Substantial movements of the wrists, hands, and/or fingers (Repetitive motion).\n\n**Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time.**\n\n**Hershey Entertainment and Resorts is an Equal Opportunity Employer**",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Hershey",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "17033",
+              "zip": "17033",
+              "county_fips": "42043",
+              "msa": {
+                "cbsa_code": "25420",
+                "cbsa_title": "Harrisburg-Carlisle, PA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T08:23:19.746Z",
+        "curated_at": "2026-11-10T08:24:08.024Z",
+        "job_updated_at": "2026-11-10T08:24:08.024Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "b252cf228fe261f05fb2498a4ba261d395b44f15b8c806b072855b44bef6c192",
+            "source": "ukg",
+            "source_posting_id": "092242c8-1c2b-4d2d-887e-7720ec09916f",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hersheypa.rec.pro.ukg.net/her1020hers/JobBoard/035cdc57-c54b-48c9-8c4d-f30e022675e5/OpportunityDetail?opportunityId=092242c8-1c2b-4d2d-887e-7720ec09916f"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hersheypa.rec.pro.ukg.net/her1020hers/JobBoard/035cdc57-c54b-48c9-8c4d-f30e022675e5/OpportunityDetail?opportunityId=092242c8-1c2b-4d2d-887e-7720ec09916f"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Hershey",
+                "state": "PA",
+                "country": "US",
+                "regionCode": "PA",
+                "postalCode": "17033",
+                "remote": false,
+                "zip": "17033"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-12T14:31:42.965Z",
+            "first_seen_at": "2026-11-10T08:23:19.746Z",
+            "last_completed_fetch_at": "2026-11-10T08:23:19.704Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "6fd52d7d-78f3-412c-85c3-7656e948eac3",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "5ef13438-fa75-81c4-afa8-03f4302ee2aa",
+        "employer_name": {
+          "state": "known",
+          "value": "Indeed"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst III"
+        },
+        "description": {
+          "state": "known",
+          "value": "Our Mission\nAs the world’s number 1 job site*, our mission is to help people get jobs. We strive to cultivate an inclusive and accessible workplace where all people feel comfortable being themselves. We're looking to grow our teams with more people who share our enthusiasm for innovation and creating the best experience for job seekers.\n(*Comscore, Total Visits, March 2026)\nDay to Day\nAs a Business Intelligence Analyst III, you will leverage data to generate insights that inform business decisions and improve performance. You will work with teams across the organization to understand priorities, analyze trends, and deliver clear, actionable recommendations.\nIn this role, you will design and build reporting solutions, support data-driven initiatives, and contribute to the development of scalable analytics practices. You are comfortable working with large datasets, translating complex findings into meaningful insights, and communicating results to both technical and non-technical audiences. This role combines demonstrated analytical and technical expertise with strategic thinking, business partnership, autonomous decision-making, and the ability to influence outcomes across teams. The ideal candidate is a self-directed, hands-on analytics leader who can take an ambiguous business objective, determine what needs to be understood, identify the right data and approach, and autonomously drive the work from problem definition through analysis, solution design, delivery, and business impact. The role also has a key focus on AI-enabled analytics and modern development practices. We expect the successful candidate to use AI tools, automation, and emerging technologies as part of their normal workflow and to continually identify opportunities to make BI more efficient, scalable, and impactful.\nResponsibilities\n+ Develop dashboards, reports, and data visualizations to support business decision-making.\n+ Analyze large datasets to identify trends, opportunities, and areas for improvement.\n+ Translate business questions into analytical approaches and technical requirements.\n+ Apply testing and measurement methodologies, including A/B testing, to evaluate outcomes.\n+ Identify and validate data sources, ensuring accuracy and reliability of insights.\n+ Present findings and recommendations to a range of audiences.\n+ Contribute to improving data processes, tools, and documentation.\nSkills/Competencies\n+ Requires a Master’s degree in Computer Science, Mathematics, Statistics, or related field and a minimum of 6 years of related experience; or a PhD with 3 years experience\n+ Ability to combine strategic thinking with tactical execution and effectively leverage AI-assisted development tools, agents, automation, and emerging technologies across coding, SQL, analysis, testing, and research\n+ Ability to autonomously navigate ambiguity, set strategy and priorities, and translate complex data into clear, actionable insights and compelling narratives for senior leaders and product teams, with a key focus on business and customer impact.\n+ Experience writing and optimizing SQL queries across large datasets.\n+ Experience using programming languages (e.g., Python) for data analysis and transformation.\n+ Experience with data visualization tools (e.g., Tableau, Power BI).\n+ Understanding of data warehousing and data pipeline concepts.\n+ Ability to communicate complex data insights clearly to varied audiences.\n+ Analytical mindset with attention to detail and problem-solving skills.\nSalary Range Transparency\nTier 1 - United States of America 110,000 - 166,000 USD per year\nTier 2 - United States of America 124,000 - 186,000 USD per year\nTier 3 - United States of America 136,000 - 204,000 USD per year\nTier 4 – N/A\nTier 5 - United States of America 155,000 - 233,000 USD per year\nSalary Range Disclaimer\nThe salary range for this role reflects the minimum and maximum compensation for the role. Offers are typically made between the range minimum and the range midpoint. Actual compensation will be determined based on job-related skills, experience, and expertise, as evaluated during the interview process. The range(s) listed is just one component of Indeed's total compensation package for employees. Other rewards may include quarterly bonuses, Restricted Stock Units (RSUs), a Paid Time Off policy, and many region-specific benefits. Compensation may also vary based on where a role is performed, as work locations are grouped into geographic pay tiers to reflect cost of labor differences in different geographic markets. Candidates can view geographic pay tiers by location on our career site ( https://www.indeed.com/careers/paytiers ), and recruiters can confirm how location is considered for a specific role.\nBenefits - Health, Work/Life Harmony, & Wellbeing\nWe care about what you care about. We have a multitude of benefits to support Indeedians, as well as their pets, kids, and partners including medical, dental, vision, disability and life insurance. Indeedians are able to enroll in our company’s 401k plan, as well as an equity-based incentive program. Indeedians will also receive open paid time off, 11 paid holidays a year and up to 26 weeks of paid parental leave. For more information, select your country and learn more about our employee benefits, program, & perks at https://www.indeed.com/careers/benefits !\nEqual Opportunities and Accommodations Statement\nIndeed is deeply committed to building a workplace and global community where inclusion is not only valued, but prioritized. We’re proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, family status, marital status, sexual orientation, national origin, genetics, neuro-diversity, disability, age, or veteran status, or any other non-merit based or legally protected grounds.\nIndeed provides reasonable accommodations to qualified individuals with disabilities in the employment application process. To request an accommodation, please visit https://www.indeed.com/careers/accommodations . If you are requesting accommodation for an interview, please reach out at least one week in advance of your interview.\nFor more information about our commitment to equal opportunity/affirmative action, please visit our Careers page ( https://www.indeed.com/careers ).\nInclusion & Belonging\nInclusion and belonging are fundamental to our hiring practices and company culture, forming an integral part of our vision for a better world of work. At Indeed, we’re committed to the wellbeing of our employees and on a mission to make this the best place to work and thrive. We believe that fostering an inclusive environment where every employee feels respected and accepted benefits everyone, fueling innovation and creativity.\nWe value diverse experiences, including those who have had prior contact with the criminal legal system. We are committed to providing individuals with criminal records, including formerly incarcerated individuals, a fair chance at employment.\nThose with military experience are encouraged to apply. Equivalent expertise demonstrated through a combination of work experience, training, military experience, or education is welcome.\nIndeed’s Employee Recruiting Privacy Policy\nLike other employers Indeed uses our own technologies to help us find and attract top talent from around the world. In addition to our site’s user and privacy policy found at https://www.indeed.com/legal , we also want to make you aware of our recruitment specific privacy policy found at https://www.indeed.com/legal/indeed-jobs .\nAgency Disclaimer\nIndeed does not pay placement fees for unsolicited resumes or referrals from non-candidates, including search firms, staffing agencies, professional recruiters, fee-based referral services, and recruiting agencies (each individually, an \"Agency\"), subject to local laws. An Agency seeking a placement fee must obtain advance written approval from Indeed's internal Talent Acquisition team and execute a fee agreement with Indeed for each job opening before making a referral or submitting a resume for that opening.\nAI Notice\nIndeed is committed to ensuring fairness and transparency throughout our hiring process. We use artificial intelligence (AI) tools to assist in the screening, assessment, and selection of applicants for this position by analyzing information provided in resumes and applications. Our use of AI does not replace human decision-making.\nUnless otherwise notified, Indeed does not use AI constituting an AEDT or an ADMT as those tools are defined in applicable laws.\nReference ID: <47669>\nU.S. Remote Only - Posting Duration:\nThe deadline to apply to this position is 10/10/2026. Job postings may be extended at the hiring team’s discretion based on applicant volume.\nU.S. Remote & Massachusetts Roles\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\nReference ID: 47669"
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Philadelphia",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "19133",
+              "zip": "19133",
+              "county_fips": "42101",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-09T01:38:18.247Z",
+        "curated_at": "2026-11-09T01:40:54.720Z",
+        "job_updated_at": "2026-11-09T01:40:54.720Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 11000000,
+                "max_cents": 16600000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 12400000,
+                "max_cents": 18600000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 13600000,
+                "max_cents": 20400000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 15500000,
+                "max_cents": 23300000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[3]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "04d07bbab57943488ef7f8f40d9f113dbd71b6e4ffe40f43f1036f91dd2c976e",
+            "source": "directemployers",
+            "source_posting_id": "1A690886B41D498AAFDD77834204DE2E",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://newstartcareernetwork.dejobs.org/philadelphia-pa/business-intelligence-analyst-iii/1A690886B41D498AAFDD77834204DE2E/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/1A690886B41D498AAFDD77834204DE2E10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Philadelphia",
+                "state": "PA",
+                "country": "US",
+                "regionCode": "PA",
+                "postalCode": "19133",
+                "latitude": 39.98553,
+                "longitude": -75.152695,
+                "remote": false,
+                "zip": "19133"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 110000,
+                "max": 166000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 110000,
+                    "max": 166000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "United States of America"
+                  },
+                  {
+                    "min": 124000,
+                    "max": 186000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "United States of America"
+                  },
+                  {
+                    "min": 136000,
+                    "max": 204000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "United States of America"
+                  },
+                  {
+                    "min": 155000,
+                    "max": 233000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "United States of America"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-09-03T03:58:45.000Z",
+            "first_seen_at": "2026-11-09T01:38:18.247Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "76b1a3ef-e619-4be3-b064-00e67c45139e",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "98f637bb-1fe1-8928-9b38-23139017f419",
+        "employer_name": {
+          "state": "known",
+          "value": "Thomas Jefferson University"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "**Number of Positions In Requisition**\n\n1\n\n**Job Details**\n\nResponsible for turning data into actionable information and insights to drive business and operational decisions in assigned support areas. This role will work closely with operational and business leadership to understand their analytics and business needs and function as a trusted analytics delivery partner to answer pertinent business questions using all available data assets. Enables successful adoption of analytics tools and requires advanced knowledge healthcare operations and the key performance indicators used to support the business.\n\n**Job Description**\n\n  \n**Summary**  \nResponsible for turning data into actionable information and insights to drive business and operational decisions in assigned support areas. This role will work closely with operational and business leadership to understand their analytics and business needs and function as a trusted analytics delivery partner to answer pertinent business questions using all available data assets. Enables successful adoption of analytics tools and requires advanced knowledge healthcare operations and the key performance indicators used to support the business.  \n  \n**Job Duties**\n\n* Designs, builds, tests and implements BI solutions. Responsible for creating solutions within the existing BI environment including: designing, coding, testing and documenting all new or modified BI services, applications, programs, semantic layers, metadata, reports, dashboards and portal interfaces.\n* Develops; Stored Procedures, Reporting Design, Report Modeling, Database Development, Administration and automation of BI solutions.\n* Troubleshoots BI tools, systems and software; performance-tune these applications as necessary. Potential for periodic on-call duty supporting these applications and services.\n\n  \n**Minimum Qualifications**\n\n* Bachelor’s Degree in related field\n* 5 years related work experience\n\n  \n**Physical Demands**  \nLift and carry 25 lbs. frequent sitting/standing, frequent keyboard use, \\*patient care providers may be required to perform activities specific to their role including kneeling, bending, squatting and performing CPR.  \n  \nJob Description Disclaimer: This position description provides the major duties/responsibilities, requirements and working conditions for the position. It is intended to be an accurate reflection of the current position, however management reserves the right to revise or change as necessary to meet organizational needs. Other responsibilities may be assigned when circumstances require.\n\n**Work Shift**\n\nWorkday Day (United States of America)\n\n**Worker Sub Type**\n\nRegular\n\n**Employee Entity**\n\nThomas Jefferson University\n\n**Primary Location Address**\n\n1100 Virginia Drive, Fort Washington, Pennsylvania, United States of America\n\nNationally ranked, Jefferson, which is principally located in the greater Philadelphia region, Lehigh Valley and Northeastern Pennsylvania and southern New Jersey, is reimagining health care and higher education to create unparalleled value. Jefferson is more than 65,000 people strong, dedicated to providing the highest-quality, compassionate clinical care for patients; making our communities healthier and stronger; preparing tomorrow's professional leaders for 21st-century careers; and creating new knowledge through basic/programmatic, clinical and applied research. [Thomas Jefferson University](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3950520-1%26h%3D3512320939%26u%3Dhttps%253A%252F%252Fnam10.safelinks.protection.outlook.com%252F%253Furl%253Dhttps%25253A%25252F%25252Fwww.jefferson.edu%25252F%2526data%253D05%25257C01%25257CAngela.Showell%252540jefferson.edu%25257C673e1607452d4029553308db62bc903f%25257C55a89906c710436bbc444c590cb67c4a%25257C0%25257C0%25257C638212334228975351%25257CUnknown%25257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%25253D%25257C3000%25257C%25257C%25257C%2526sdata%253D7iMQ6V6sMcJ3yBHG%25252FSt9Jpd4bGY9m0%25252BAco9WP9U5oWw%25253D%2526reserved%253D0%26a%3DThomas%2BJefferson%2BUniversity&data=05%7C02%7CTierra.Seay%40jefferson.edu%7C672a5210d4be4bfe567808dcb655f166%7C55a89906c710436bbc444c590cb67c4a%7C0%7C0%7C638585727507457915%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=vXxEj%2FR2%2FfziVQHEU4SduSvGsRFXj2TZXon2vkMNnW0%3D&reserved=0), home of Sidney Kimmel Medical College, Jefferson College of Nursing, and the Kanbar College of Design, Engineering and Commerce, dates back to 1824 and today comprises 10 colleges and three schools offering 200+ undergraduate and graduate programs to more than 8,300 students. [Jefferson Health](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3950520-1%26h%3D2726107320%26u%3Dhttps%253A%252F%252Fnam10.safelinks.protection.outlook.com%252F%253Furl%253Dhttps%25253A%25252F%25252Fwww.jeffersonhealth.org%25252Fhome%2526data%253D05%25257C01%25257CAngela.Showell%252540jefferson.edu%25257C673e1607452d4029553308db62bc903f%25257C55a89906c710436bbc444c590cb67c4a%25257C0%25257C0%25257C638212334228975351%25257CUnknown%25257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%25253D%25257C3000%25257C%25257C%25257C%2526sdata%253DrTZbBgF7vJThPl2AyZ0URiy2vzK%25252FMGBCK9oCfnCIjEI%25253D%2526reserved%253D0%26a%3DJefferson%2BHealth&data=05%7C02%7CTierra.Seay%40jefferson.edu%7C672a5210d4be4bfe567808dcb655f166%7C55a89906c710436bbc444c590cb67c4a%7C0%7C0%7C638585727507473088%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YZ6u4myrPH1%2BjuR8ULkA%2F8nctXWMuUOr7tihDCYZs%2F8%3D&reserved=0), nationally ranked as one of the top 15 not-for-profit health care systems in the country and the largest provider in the Philadelphia and Lehigh Valley areas, serves patients through millions of encounters each year at 32 hospitals campuses and more than 700 outpatient and urgent care locations throughout the region. [Jefferson Health Plans](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3950520-1%26h%3D757118008%26u%3Dhttps%253A%252F%252Fnam10.safelinks.protection.outlook.com%252F%253Furl%253Dhttps%25253A%25252F%25252Fwww.healthpartnersplans.com%25252F%2526data%253D05%25257C01%25257CAngela.Showell%252540jefferson.edu%25257C673e1607452d4029553308db62bc903f%25257C55a89906c710436bbc444c590cb67c4a%25257C0%25257C0%25257C638212334228975351%25257CUnknown%25257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%25253D%25257C3000%25257C%25257C%25257C%2526sdata%253DOPutlxWHBD0yUuQAAIXqbjs9AEK4%25252B0xOE2JwFSR4rcE%25253D%2526reserved%253D0%26a%3DJefferson%2BHealth%2BPlans&data=05%7C02%7CTierra.Seay%40jefferson.edu%7C672a5210d4be4bfe567808dcb655f166%7C55a89906c710436bbc444c590cb67c4a%7C0%7C0%7C638585727507482313%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=d%2Br%2BnkNOl%2Fnb%2Ffx5Fm7JP9tN0ggO%2FYjNNWPIq7Yu9v8%3D&reserved=0) is a not-for-profit managed health care organization providing a broad range of health coverage options in Pennsylvania and New Jersey for more than 35 years.\n\nJefferson is committed to providing equal educa­tional and employment opportunities for all persons without regard to age, race, color, religion, creed, sexual orientation, gender, gender identity, marital status, pregnancy, national origin, ancestry, citizenship, military status, veteran status, handicap or disability or any other protected group or status.\n\n**Benefits**\n\nJefferson offers a comprehensive package of benefits for full-time and part-time colleagues, including medical (including prescription), supplemental insurance, dental, vision, life and AD&D insurance, short- and long-term disability, flexible spending accounts, retirement plans, tuition assistance, as well as voluntary benefits, which provide colleagues with access to group rates on insurance and discounts. Colleagues have access to tuition discounts at Thomas Jefferson University after one year of full time service or two years of part time service. All colleagues, including those who work less than part-time (including per diem colleagues, adjunct faculty, and Jeff Temps), have access to medical (including prescription) insurance.\n\nFor more benefits information, please click [here](https://www.wearejefferson.org/content/dam/enterprise/documents/restricted/guidebook.pdf)\n\n  \n\nIn keeping with Jefferson's Mission, We Improve Lives, it is our goal to recruit, retain, develop and reward highly-qualified employees. If you are enthusiastic, caring and dedicated to service excellence, we invite you to consider joining Jefferson. Jefferson encourages its employees to expand their knowledge and develop their careers through growth opportunities and continuing education.\n\n  \n\nWith a long standing history, Jefferson has been advancing the medical field from the heart of Center City Philadelphia for nearly 200 years. Our Mission, *We Improve Lives*, expands to every corner of the organization. From our weekly farmer’s market, to our new Jefferson Accelerator Zone for innovation, our employees’ passion for the community is evident by the daily gestures towards our patients, students and each other.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Montgomery County",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42091",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-07T01:58:44.431Z",
+        "curated_at": "2026-11-07T02:20:56.935Z",
+        "job_updated_at": "2026-11-07T02:20:56.935Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "e65d3af3f76070af344b1abc5a221414bf80fc7906f2083b623690cb52ec31ad",
+            "source": "workday",
+            "source_posting_id": "/job/Montgomery-County-PA/Senior-Business-Intelligence-Analyst_REQ-0040405-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Montgomery-County-PA/Senior-Business-Intelligence-Analyst_REQ-0040405-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Montgomery-County-PA/Senior-Business-Intelligence-Analyst_REQ-0040405-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Montgomery County",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "PA",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-06T00:00:00.000Z",
+            "first_seen_at": "2026-11-07T01:58:44.431Z",
+            "last_completed_fetch_at": "2026-11-07T02:01:15.339Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "c85b9526-b950-4104-b948-e0c61f679b46",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "ecf2c75c-4cd2-8d66-a380-bc80dd9e062a",
+        "employer_name": {
+          "state": "known",
+          "value": "Thomas Jefferson University"
+        },
+        "title": {
+          "state": "known",
+          "value": "Sr Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "**Number of Positions In Requisition**\n\n1\n\n**Job Details**\n\nResponsible for turning data into actionable information and insights to drive business and operational decisions in assigned support areas. This role will work closely with operational and business leadership to understand their analytics and business needs and function as a trusted analytics delivery partner to answer pertinent business questions using all available data assets. Enables successful adoption of analytics tools and requires advanced knowledge healthcare operations and the key performance indicators used to support the business.\n\n**Job Description**\n\n  \n**Summary**  \nResponsible for turning data into actionable information and insights to drive business and operational decisions in assigned support areas. This role will work closely with operational and business leadership to understand their analytics and business needs and function as a trusted analytics delivery partner to answer pertinent business questions using all available data assets. Enables successful adoption of analytics tools and requires advanced knowledge healthcare operations and the key performance indicators used to support the business.  \n  \n**Job Duties**\n\n* Designs, builds, tests and implements BI solutions. Responsible for creating solutions within the existing BI environment including: designing, coding, testing and documenting all new or modified BI services, applications, programs, semantic layers, metadata, reports, dashboards and portal interfaces.\n* Develops; Stored Procedures, Reporting Design, Report Modeling, Database Development, Administration and automation of BI solutions.\n* Troubleshoots BI tools, systems and software; performance-tune these applications as necessary. Potential for periodic on-call duty supporting these applications and services.\n\n  \n**Minimum Qualifications**\n\n* Bachelor’s Degree in related field\n* 5 years related work experience\n\n  \n**Physical Demands**  \nLift and carry 25 lbs. frequent sitting/standing, frequent keyboard use, \\*patient care providers may be required to perform activities specific to their role including kneeling, bending, squatting and performing CPR.  \n  \nJob Description Disclaimer: This position description provides the major duties/responsibilities, requirements and working conditions for the position. It is intended to be an accurate reflection of the current position, however management reserves the right to revise or change as necessary to meet organizational needs. Other responsibilities may be assigned when circumstances require.\n\n**Work Shift**\n\nWorkday Day (United States of America)\n\n**Worker Sub Type**\n\nRegular\n\n**Employee Entity**\n\nThomas Jefferson University\n\n**Primary Location Address**\n\n1100 Virginia Drive, Fort Washington, Pennsylvania, United States of America\n\nNationally ranked, Jefferson, which is principally located in the greater Philadelphia region, Lehigh Valley and Northeastern Pennsylvania and southern New Jersey, is reimagining health care and higher education to create unparalleled value. Jefferson is more than 65,000 people strong, dedicated to providing the highest-quality, compassionate clinical care for patients; making our communities healthier and stronger; preparing tomorrow's professional leaders for 21st-century careers; and creating new knowledge through basic/programmatic, clinical and applied research. [Thomas Jefferson University](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3950520-1%26h%3D3512320939%26u%3Dhttps%253A%252F%252Fnam10.safelinks.protection.outlook.com%252F%253Furl%253Dhttps%25253A%25252F%25252Fwww.jefferson.edu%25252F%2526data%253D05%25257C01%25257CAngela.Showell%252540jefferson.edu%25257C673e1607452d4029553308db62bc903f%25257C55a89906c710436bbc444c590cb67c4a%25257C0%25257C0%25257C638212334228975351%25257CUnknown%25257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%25253D%25257C3000%25257C%25257C%25257C%2526sdata%253D7iMQ6V6sMcJ3yBHG%25252FSt9Jpd4bGY9m0%25252BAco9WP9U5oWw%25253D%2526reserved%253D0%26a%3DThomas%2BJefferson%2BUniversity&data=05%7C02%7CTierra.Seay%40jefferson.edu%7C672a5210d4be4bfe567808dcb655f166%7C55a89906c710436bbc444c590cb67c4a%7C0%7C0%7C638585727507457915%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=vXxEj%2FR2%2FfziVQHEU4SduSvGsRFXj2TZXon2vkMNnW0%3D&reserved=0), home of Sidney Kimmel Medical College, Jefferson College of Nursing, and the Kanbar College of Design, Engineering and Commerce, dates back to 1824 and today comprises 10 colleges and three schools offering 200+ undergraduate and graduate programs to more than 8,300 students. [Jefferson Health](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3950520-1%26h%3D2726107320%26u%3Dhttps%253A%252F%252Fnam10.safelinks.protection.outlook.com%252F%253Furl%253Dhttps%25253A%25252F%25252Fwww.jeffersonhealth.org%25252Fhome%2526data%253D05%25257C01%25257CAngela.Showell%252540jefferson.edu%25257C673e1607452d4029553308db62bc903f%25257C55a89906c710436bbc444c590cb67c4a%25257C0%25257C0%25257C638212334228975351%25257CUnknown%25257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%25253D%25257C3000%25257C%25257C%25257C%2526sdata%253DrTZbBgF7vJThPl2AyZ0URiy2vzK%25252FMGBCK9oCfnCIjEI%25253D%2526reserved%253D0%26a%3DJefferson%2BHealth&data=05%7C02%7CTierra.Seay%40jefferson.edu%7C672a5210d4be4bfe567808dcb655f166%7C55a89906c710436bbc444c590cb67c4a%7C0%7C0%7C638585727507473088%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YZ6u4myrPH1%2BjuR8ULkA%2F8nctXWMuUOr7tihDCYZs%2F8%3D&reserved=0), nationally ranked as one of the top 15 not-for-profit health care systems in the country and the largest provider in the Philadelphia and Lehigh Valley areas, serves patients through millions of encounters each year at 32 hospitals campuses and more than 700 outpatient and urgent care locations throughout the region. [Jefferson Health Plans](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3950520-1%26h%3D757118008%26u%3Dhttps%253A%252F%252Fnam10.safelinks.protection.outlook.com%252F%253Furl%253Dhttps%25253A%25252F%25252Fwww.healthpartnersplans.com%25252F%2526data%253D05%25257C01%25257CAngela.Showell%252540jefferson.edu%25257C673e1607452d4029553308db62bc903f%25257C55a89906c710436bbc444c590cb67c4a%25257C0%25257C0%25257C638212334228975351%25257CUnknown%25257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%25253D%25257C3000%25257C%25257C%25257C%2526sdata%253DOPutlxWHBD0yUuQAAIXqbjs9AEK4%25252B0xOE2JwFSR4rcE%25253D%2526reserved%253D0%26a%3DJefferson%2BHealth%2BPlans&data=05%7C02%7CTierra.Seay%40jefferson.edu%7C672a5210d4be4bfe567808dcb655f166%7C55a89906c710436bbc444c590cb67c4a%7C0%7C0%7C638585727507482313%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=d%2Br%2BnkNOl%2Fnb%2Ffx5Fm7JP9tN0ggO%2FYjNNWPIq7Yu9v8%3D&reserved=0) is a not-for-profit managed health care organization providing a broad range of health coverage options in Pennsylvania and New Jersey for more than 35 years.\n\nJefferson is committed to providing equal educa­tional and employment opportunities for all persons without regard to age, race, color, religion, creed, sexual orientation, gender, gender identity, marital status, pregnancy, national origin, ancestry, citizenship, military status, veteran status, handicap or disability or any other protected group or status.\n\n**Benefits**\n\nJefferson offers a comprehensive package of benefits for full-time and part-time colleagues, including medical (including prescription), supplemental insurance, dental, vision, life and AD&D insurance, short- and long-term disability, flexible spending accounts, retirement plans, tuition assistance, as well as voluntary benefits, which provide colleagues with access to group rates on insurance and discounts. Colleagues have access to tuition discounts at Thomas Jefferson University after one year of full time service or two years of part time service. All colleagues, including those who work less than part-time (including per diem colleagues, adjunct faculty, and Jeff Temps), have access to medical (including prescription) insurance.\n\nFor more benefits information, please click [here](https://www.wearejefferson.org/content/dam/enterprise/documents/restricted/guidebook.pdf)\n\n  \n\nIn keeping with Jefferson's Mission, We Improve Lives, it is our goal to recruit, retain, develop and reward highly-qualified employees. If you are enthusiastic, caring and dedicated to service excellence, we invite you to consider joining Jefferson. Jefferson encourages its employees to expand their knowledge and develop their careers through growth opportunities and continuing education.\n\n  \n\nWith a long standing history, Jefferson has been advancing the medical field from the heart of Center City Philadelphia for nearly 200 years. Our Mission, *We Improve Lives*, expands to every corner of the organization. From our weekly farmer’s market, to our new Jefferson Accelerator Zone for innovation, our employees’ passion for the community is evident by the daily gestures towards our patients, students and each other.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Montgomery County",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42091",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Philadelphia",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42101",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-31T23:32:58.567Z",
+        "curated_at": "2026-11-06T20:59:03.846Z",
+        "job_updated_at": "2026-11-06T20:59:03.846Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "1a2ab00ace788abeb0da06212b19c00da7b3f588ed6769ce8c9bbbac9f5a91dd",
+            "source": "workday",
+            "source_posting_id": "/job/Montgomery-County-PA/Sr-Business-Intelligence-Analyst_REQ-0038517-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Montgomery-County-PA/Sr-Business-Intelligence-Analyst_REQ-0038517-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Montgomery-County-PA/Sr-Business-Intelligence-Analyst_REQ-0038517-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Montgomery County",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "PA",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Philadelphia, PA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-19T00:00:00.000Z",
+            "first_seen_at": "2026-10-31T23:32:58.567Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "1a6fdf4e-6dd4-4bd4-ba30-8b897732a502",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "a231cc9d-6164-4f7f-a561-10d5cd89e85c",
+        "employer_name": {
+          "state": "known",
+          "value": "Planet Fitness"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Full-time, salaried position based in Phliadelphia, PA (on-site only).\n\nApplicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.\n\nAt National Fitness Partners, we don’t just work in fitness— we TRANSFORM LIVES through affordable fitness. As the largest Planet Fitness franchise, we serve over one million members across 200+ clubs nationwide, creating a Judgement Free fitness experience.\n\n• We Are Accountable – Self-starters who pursue excellence.\n\n• We Are Driven – Problem solvers who deliver results.\n\n• We Are Passionate – Positive energy with a real desire to help others.\n\n• We Are Ambitious – Always learning and growing toward success.\n\nWe believe in the power of our people to make a difference. If you’re looking for a career where your passion meets purpose, we want YOU on our team!\n\nBenefits :\n\n• Growth Opportunities over 90% of our management team started as an entry level team member!\n\n• PTO for all employees\n\n• 401K Retirement Fund (Employer match up to 4%!)\n\n• Health Insurance Options including Health, Dental, Vision, family life insurance, and more\n\n• Basic Life Insurance & Short-Term Disability I00% Company Paid!\n\n• Employee Assistance Program\n\n• Free employee Black Card Membership\n\nJob Summary\n\nThe Business Intelligence Analyst plays a critical role in transforming data into meaningful, accurate, and actionable insights that support strategic decision-making, operational performance, and financial discipline across the organization. This role is responsible for designing and delivering scalable business intelligence solutions, including interactive dashboards, reporting tools, data models, and analytical frameworks that help leaders better understand trends, measure performance, identify opportunities, and make informed decisions.\n\nThis position serves as both a technical analytics resource and a cross-functional business partner, working closely with Finance, Operations, HR, Marketing, IT, and senior leadership to translate complex business questions into reliable data solutions. The BI Analyst will gather requirements, define and standardize key performance indicators, build and maintain data pipelines and reporting structures, validate data accuracy, and present insights in a clear, practical, and business-oriented manner. Success in this role requires strong technical capability in SQL, Python, BI tools, and cloud-based data platforms, combined with curiosity, sound business judgment, and the ability to communicate effectively with both technical and non-technical audiences.\n\nEssential Job Functions\n\nBusiness Intelligence, Reporting & Dashboard Development\n\n• Design, build, and maintain interactive dashboards, visualizations, and self-service reporting tools using Sigma, Power BI, , or similar platforms.\n\n• Translate raw data from accounting, financial systems, operations, HR, marketing, and other business areas into clear, accurate, and actionable reporting outputs.\n\n• Develop recurring and ad hoc reports that communicate KPIs, trends, variance analysis, performance drivers, and business implications.\n\nData Engineering, Modeling & Integration\n\n• Design, build, and maintain scalable ETL/ELT data pipelines using SQL, Python, PySpark, cloud-based orchestration tools, APIs, databases, flat files, and third-party platforms.\n\n• Build and maintain data models, schemas, semantic layers, and warehouse structures, including dimensional models, to support consistent and scalable reporting and analytics.\n\n• Write and optimize complex SQL queries, tune data workflows, and improve data storage, retrieval, processing performance, and reliability across reporting environments.\n\nAdvanced Analytics & Emerging Technology Support\n\n• Support forecasting, segmentation, optimization, experimentation, and data science initiatives by preparing reliable datasets, curated inputs, and scalable data assets.\n\n• Evaluate and apply AI-enabled analytics tools, including generative AI and large language models, to improve reporting automation, data exploration, insight generation, and business productivity.\n\n• Use AI and LLM-enabled tools responsibly by following appropriate data privacy, security, governance, validation, and documentation standards.\n\nBusiness Partnership & Performance Insights\n\n• Partner with leaders and stakeholders across Finance, Operations, HR, Marketing, IT, analytics, and senior leadership to understand business needs, define reporting requirements, and align data initiatives with organizational priorities.\n\n• Define and standardize key performance indicators, support budgeting, forecasting, and financial performance analysis, and identify opportunities for cost optimization, revenue growth, and operational efficiency.\n\nData Governance, Quality & Process Improvement\n\n• Ensure data integrity, consistency, security, and compliance by implementing validation checks, access controls, monitoring, documentation, and governance standards.\n\n• Perform data validation, cleansing, reconciliation, and root-cause analysis to resolve data discrepancies, reporting issues, and process gaps.\n\n• Automate manual reporting processes, improve data workflows, document business logic and reporting standards, and stay current with BI, analytics, AI, and data engineering technologies.\nQualifications\n\n• Bachelor’s degree in Data Science, Computer Science, Information Systems, Statistics, Engineering, Finance, Business Analytics, or a related field; equivalent relevant experience may be considered.\n\n• 3–7+ years of experience in business intelligence, data analytics, data engineering, or a related role supporting both technical data solutions and business decision-making.\n\n• Strong SQL skills, including data extraction, transformation, query optimization, and work within relational database or data warehouse environments.\n\n• Proficiency with Python for data preparation, automation, analysis, and pipeline support; experience with PySpark or distributed data processing is a plus.\n\n• Hands-on experience building or supporting ETL/ELT pipelines, data models, semantic layers, and scalable reporting datasets using cloud-based or modern data platforms, specifically Databricks & Snowflake.\n\n• Experience with business intelligence and visualization tools such as Sigma, Power BI, Tableau, or similar platforms, including dashboard development and KPI reporting.\n\n• Experience with Azure Synapse Analytics or related Azure data services, including pipelines, notebooks, linked services, and integration components, is a plus.\n\n• Relevant certification in data engineering, cloud platforms, business intelligence, analytics, or AI-enabled analytics is a plus.\n\n• Demonstrated experience using AI/LLM tools to materially improve analytics workflows, automation, or efficiencies — with specific examples of what you built, used, or automated. Experience in a multi-site or operations-driven environment such as retail, fitness, healthcare, hospitality, or QSR is a plus.\n\n• Ability to translate business questions into analytical requirements and communicate insights clearly to both technical and non-technical stakeholders.\n\nKey Competencies\n\n• Analytical problem-solving, critical thinking, and intellectual curiosity.\n\n• Strong attention to detail, data accuracy, documentation, and quality control.\n\n• Clear communication and storytelling skills with the ability to influence technical and non-technical stakeholders.\n\n• Ability to manage multiple priorities, work independently, and adapt in a fast-paced, evolving environment."
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Springfield",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "19064",
+              "street": "400 S State Rd Ste 200",
+              "zip": "19064",
+              "county_fips": "42045",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-05T16:48:46.698Z",
+        "curated_at": "2026-11-05T16:48:55.006Z",
+        "job_updated_at": "2026-11-05T16:48:55.006Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "6fa26a9db90cf783ab4d31c1926a10a74d0b0ac0b3f62f1b0bfac7ccde1626dd",
+            "source": "paycom",
+            "source_posting_id": "305132",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.paycomonline.net/v4/ats/web.php/portal/70F627DB75965D0CECE738406E2BCBD7/jobs/305132"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.paycomonline.net/v4/ats/web.php/portal/70F627DB75965D0CECE738406E2BCBD7/jobs/305132"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Springfield",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "USA",
+                "regionCode": "PA",
+                "postalCode": "19064",
+                "streetAddress": "400 S State Rd Ste 200",
+                "remote": false,
+                "zip": "19064"
+              }
+            },
+            "pay": {
+              "state": "source_omitted"
+            },
+            "source_posted_at": "2026-11-04T00:00:00.000Z",
+            "first_seen_at": "2026-11-05T16:48:46.698Z",
+            "last_completed_fetch_at": "2026-11-05T16:48:46.627Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 16,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:44:14.631Z"
+  },
+  "response_usage": {
+    "charged": "16",
+    "remaining": "99879",
+    "request_id": "72576d89-b93a-4695-a094-6f9d91e7bbc2"
+  }
+}

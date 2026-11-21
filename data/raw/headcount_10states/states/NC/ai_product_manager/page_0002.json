@@ -1,0 +1,1739 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:50:35.152755+00:00",
+  "state_filter": "NC",
+  "title_filter": "AI product manager",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "NC",
+    "title": "AI product manager",
+    "sort": "updated",
+    "limit": 25,
+    "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo0Nzo0Mi4xMjRaIiwiZmlsdGVyRGlnZXN0IjoiNlIxdkRxQmlhS2JkUS1xOFR5Ri13SHZQUU5EaDJiSFE3VGJtNl9WS3J5cyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEwVDA3OjU5OjE4Ljg0NTAwMFoiLCJqb2JJZCI6IjI2MDM4NjdhLTJmMDUtNGIxNy05ZDU0LWVlYTRjYWE5YThkZiJ9fQ.-Z7IID3KZp4QiaALomXsQ6bCB4d-s75HJnhtnAMJHuc"
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "045e0931-c3ac-419f-ad2e-ad074e499ec1",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "7ca20571-4a38-8543-984d-0195898b45ca",
+        "employer_name": {
+          "state": "known",
+          "value": "SAS"
+        },
+        "title": {
+          "state": "known",
+          "value": "CI360 AI & Agentic AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "**CI360 AI & Agentic AI Product Manager - Hybrid | Cary, North Carolina**\n\nWe’re a leader in data and AI. Through our software and services, we inspire customers around the world to transform data into intelligence - and questions into answers.\n\nIf you're looking for a dynamic, fulfilling career with flexibility and a world-class employee experience, you'll find it here. We're recognized around the world for our inclusive, meaningful culture and innovative technologies by organizations like Fast Company, Forbes, Newsweek and more.\n\n**About the job**\n\nWe are seeking a CI360 AI & Agentic AI Product Manager to define and lead the agentic AI strategy for CI360, with a focus on making marketers more efficient and effective across the full marketing lifecycle. This role will shape how AI agents, multi-agent workflows, and MCP-enabled capabilities can support marketers from audience creation and customer journey design through to insight generation, campaign execution, and performance optimization.\n\nThe successful candidate will identify high-value AI and agentic use cases within CI360, translate customer and market needs into product strategy, and work closely with other product managers, engineering, data science, UX, architecture, and go-to-market teams to deliver differentiated capabilities that improve marketer productivity, decision quality, and campaign outcomes.\n\nThis role is critical to evolving CI360 into an AI-enabled marketing platform that helps customers reduce manual effort, accelerate campaign creation, improve personalization, and continuously optimize marketing performance.\n\n**As an AI & Agentic AI Product Manager, you will:**\n\n* Define the CI360 agentic AI product strategy across MCP, AI assistants, autonomous workflows, and multi-agent concepts that support the end-to-end marketing lifecycle.\n    \n\n* Develop product requirements and roadmap priorities for agentic AI capabilities grounded in customer needs, market trends, business impact, and technical feasibility.\n    \n\n* Lead product discovery with customers, marketers, sales, customer advisory teams, and internal stakeholders to understand pain points, use cases, adoption barriers, and measurable outcomes. Utilize rapid prototyping techniques to validate ideas and drive adoption of AI and Agentic AI solutions that improve marketer productivity and business outcomes.\n    \n\n* Ensure AI capabilities are trustworthy, explainable, governed, and aligned with enterprise expectations, including transparency, human-in-the-loop controls, auditability, and responsible AI principles.\n    \n\n* Define success measures for AI and agentic features, including marketer productivity gains, campaign cycle-time reduction, recommendation adoption, customer satisfaction, usage, and business impact.\n    \n\n**Required Qualifications**\n\n* 5+ years of experience in product management experience in a SaaS, marketing technology, customer intelligence, analytics, AI, or enterprise software environment. \n    \n\n* Experience with AI, generative AI, agentic AI, AI assistants, orchestration patterns, or multi-agent concepts.\n    \n\n* Strong customer discovery skills, with the ability to validate customer pain points and prioritize capabilities based on value, feasibility, and strategic fit.\n    \n\n* Ability to translate ambiguous AI and agentic concepts into clear product requirements, user experiences, and delivery priorities.\n    \n\n* You’re curious, passionate, authentic and accountable. These are our values and influence everything we do.\n    \n\n**Preferred Qualifications**\n\n* Strong understanding of marketing workflows, including audience management, segmentation, journey orchestration, campaign execution decisioning, insight generation, and performance optimization. \n    \n\n* Familiarity with MCP, AI agents, tool-calling architectures, multi-agent orchestration, or enterprise AI integration patterns. \n    \n\n* Understanding of responsible AI, model governance, explainability, privacy, and enterprise trust requirements. \n    \n\n* Experience bringing early-stage or emerging technology concepts from discovery through productization.\n    \n\n* Strong presentation skills, particularly to external audiences \n    \n\n**World-class benefits** \n\nHighlights include...\n\n* Comprehensive medical, prescription, dental and vision plans.\n* Medical plan options include:\n    * PPO with low annual deductible and copays.\n    * HDHP combined with a health savings account with a contribution from SAS (no access to on-site health care center).\n* Onsite Health Care Center (HQ) that’s free to employees and family members enrolled in the PPO plan. There's a pharmacy too! Not local to HQ? The pharmacy will ship prescriptions for no additional charge!\n* An industry-leading 401k plan.\n* Tuition Assistance Program and programs and resources to support your development\n* Generous time away including vacation time, a variety of paid holidays, and our much-loved U.S. Winter Wellness Break between December 25 and January 1.\n* Volunteer Time Off, parental leave and unlimited paid sick days.\n* Generous childcare benefits for all full-time employees.\n\n**You are welcome here.**\n\nAt SAS, it’s not about fitting into our culture – it’s about adding to it. We believe our people make the difference. Our inclusive workforce brings together unique talents and inspires teams to create amazing software that reflects the diversity of our users and customers.\n\n**Additional Information:**\n\nTo qualify, applicants must be legally authorized to work in the United States, and should not require, now or in the future, sponsorship for employment visa status. SAS is an equal opportunity employer. All qualified applicants are considered for employment without regard to any characteristic protected by law. Read more: Know Your Rights.\n\nResumes may be considered in the order they are received. SAS employees performing certain job functions may require access to technology or software subject to export or import regulations. To comply with these regulations, SAS may obtain nationality or citizenship information from applicants for employment. SAS collects this information solely for trade law compliance purposes and does not use it to discriminate unfairly in the hiring process.\n\n*SAS only sends emails from verified “sas.com” email addresses and never asks for sensitive, personal information or money. If you have any doubts about the authenticity of any type of communication from, or on behalf of SAS, please contact* *Recruitingsupport@sas.com.*\n\nLet's stay in touch! Join our Talent Community to stay up to date on company news, job updates and more.\n\n#SAS",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Cary HQ",
+              "region": "US-NC",
+              "country": "US",
+              "postal_code": "27513",
+              "street": "100 SAS Campus Drive",
+              "zip": "27513",
+              "county_fips": "37183",
+              "msa": {
+                "cbsa_code": "39580",
+                "cbsa_title": "Raleigh-Cary, NC",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-10T02:59:56.708Z",
+        "curated_at": "2026-11-10T03:03:17.458Z",
+        "job_updated_at": "2026-11-10T03:03:17.458Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "7b49e11ff33b3485114dfe74dc2f9797d27ffd57295db843390a8449ff86787e",
+            "source": "icims",
+            "source_posting_id": "42279",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://erp-sas.icims.com/jobs/42279/ci360-ai-%26-agentic-ai-product-manager/job"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://erp-sas.icims.com/jobs/42279/ci360-ai-%26-agentic-ai-product-manager/job"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Cary HQ",
+                "state": "NC",
+                "country": "US",
+                "regionCode": "NC",
+                "postalCode": "27513",
+                "streetAddress": "100 SAS Campus Drive",
+                "remote": false,
+                "zip": "27513"
+              }
+            },
+            "pay": {
+              "state": "source_omitted"
+            },
+            "source_posted_at": "2026-10-21T04:00:00.000Z",
+            "first_seen_at": "2026-11-10T02:59:56.708Z",
+            "last_completed_fetch_at": "2026-11-10T02:59:56.641Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "0f676c33-7351-452a-b839-e48dfb1320e6",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "88845f62-9e07-436b-92f9-17f69664bc44",
+        "employer_name": {
+          "state": "known",
+          "value": "S&P Global"
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead AI Product Manager, Private Markets"
+        },
+        "description": {
+          "state": "known",
+          "value": "About the Role:\nGrade Level (for internal use):\n12\nAbout the Role:\nThe Team: The Enterprise Solutions business within S&P Global Market Intelligence provides industry-leading data, software, and services that support investment management, enterprise data management, regulatory compliance, and private markets solutions. The Private Markets product team is responsible for products that support the entire investment lifecycle across Private Equity, Venture Capital, Real Estate, Infrastructure, and Private Credit markets. As part of the flagship iLEVEL product organization, you will work with a highly collaborative team of product leaders, technology professionals, and market experts focused on delivering innovative solutions for investment professionals. The team values customer-centricity, innovation, execution excellence, and continuous learning.\nResponsibilities and Impact:\n+ We are seeking a Lead Product Manager to drive our MCP & AI Agents Platform initiatives. This leader will own the vision, strategy, and execution for both the MCP connector ecosystem, enabling seamless integration of private markets data and content sources, and the AI Analyst capabilities being developed within our flagship iLEVEL platform.\n+ As a Lead Product Manager, you’ll lead zero-to-one product efforts, building and scaling net new product offerings in a high growth, fast moving environment - leveraging the latest and greatest in agents, agentic workflows, and LLMs to build transformative new products that deliver value to clients. This role will require working closely with engineering, design, product, data science, marketing, go-to-market to drive new AI products to success.\n+ This is a highly cross-functional and visible role suited for a hands-on builder who thrives at the intersection of AI, customer-centric product development, and financial technology.\nCompensation/Benefits Information:\nS&P Global states that the anticipated base salary range for this position is $101,000 to $175,000. Final base salary for this role will be based on the individual's geographic location, experience level, skill set, training, licenses, and certifications. In addition to base compensation, this role is eligible for an annual incentive plan. This role is eligible to receive additional S&P Global benefits. For more information on the benefits we provide to our employees, please click here (https://spgbenefits.com/benefit-summaries/us) .\nWhat We're Looking For:\nBasic Required Qualifications:\n+ Experience in FinTech, AI, or other technology-driven environments, with a track record of launching and scaling products.\n+ Hands-on AI product builder with experience applying new AI technologies, including LLMs, agents, retrieval systems, and modern AI development tools.\n+ Strategic and customer-focused thinker who can develop deep domain expertise, simplify complex problems, and translate insights into impactful product strategies.\n+ Strong product operator skilled in agile delivery, product requirements, data-driven decision-making, KPI management, and cross-functional execution.\nAdditional Preferred Qualifications:\n+ Exceptional communicator and collaborator who thrives in fast-paced, ambiguous environments and can align Product, Engineering, Design, and Go-to-Market teams around a shared vision.\n+ Experience working in a Private Markets product team.\nRight to Work Requirements:\nThis role is limited to persons with indefinite right to work in the United States.\nAbout S&P Global Market Intelligence\nAt S&P Global Market Intelligence, a division of S&P Global we understand the importance of accurate, deep and insightful information. Our team of experts delivers unrivaled insights and leading data and technology solutions, partnering with customers to expand their perspective, operate with confidence, and make decisions with conviction.\nFor more information, visit www.spglobal.com/marketintelligence .\nWhat’s In It For You?\nOur Mission:\nAdvancing Essential Intelligence.\nOur People:\nWe're more than 35,000 strong worldwide—so we're able to understand nuances while having a broad perspective. Our team is driven by curiosity and a shared belief that Essential Intelligence can help build a more prosperous future for us all.From finding new ways to measure sustainability to analyzing energy transition across the supply chain to building workflow solutions that make it easy to tap into insight and apply it. We are changing the way people see things and empowering them to make an impact on the world we live in. We’re committed to a more equitable future and to helping our customers find new, sustainable ways of doing business. Join us and help create the critical insights that truly make a difference.\nOur Values:\nIntegrity, Discovery, Partnership\nThroughout our history, the world's leading organizations have relied on us for the Essential Intelligence they need to make confident decisions about the road ahead. We start with a foundation of integrity in all we do, bring a spirit of discovery to our work, and collaborate in close partnership with each other and our customers to achieve shared goals.\nBenefits:\nWe take care of you, so you can take care of business. We care about our people. That’s why we provide everything you—and your career—need to thrive at S&P Global.\nOur benefits include:\n+ Health & Wellness: Health care coverage designed for the mind and body.\n+ Flexible Downtime: Generous time off helps keep you energized for your time on.\n+ Continuous Learning: Access a wealth of resources to grow your career and learn valuable new skills.\n+ Invest in Your Future: Secure your financial future through competitive pay, retirement planning, a continuing education program with a company-matched student loan contribution, and financial wellness programs.\n+ Family Friendly Perks: It’s not just about you. S&P Global has perks for your partners and little ones, too, with some best-in class benefits for families.\n+ Beyond the Basics: From retail discounts to referral incentive awards—small perks can make a big difference.\nFor more information on benefits by country visit: https://spgbenefits.com/benefit-summaries\nGlobal Hiring and Opportunity at S&P Global:\nAt S&P Global, we are committed to fostering a connected and engaged workplace where all individuals have access to opportunities based on their skills, experience, and contributions. Our hiring practices emphasize fairness, transparency, and merit, ensuring that we attract and retain top talent. By valuing different perspectives and promoting a culture of respect and collaboration, we drive innovation and power global markets.\nRecruitment Fraud Alert:\nIf you receive an email from a spglobalind.com domain or any other regionally based domains, it is a scam and should be reported to reportfraud@spglobal.com . S&P Global never requires any candidate to pay money for job applications, interviews, offer letters, “pre-employment training” or for equipment/delivery of equipment. Stay informed and protect yourself from recruitment fraud by reviewing our guidelines, fraudulent domains, and how to report suspicious activity here (https://www.spglobal.com/content/dam/spglobal/corporate/en/documents/careers/Corp_0525-Recruitment-Fraud-Alert.pdf) .\nEqual Opportunity Employer\nS&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.\nIf you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person.\nUS Candidates Only: Know Your Rights: Workplace discrimination is illegal (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)\n20 - Professional (EEO-2 Job Categories-United States of America), PDMGDV202.2 - Middle Professional Tier II (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)\nJob ID: 329647\nPosted On: 2026-11-05\nLocation: New York, New York, United States"
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Raleigh",
+              "region": "US-NC",
+              "country": "US",
+              "postal_code": "27608",
+              "zip": "27608",
+              "county_fips": "37183",
+              "msa": {
+                "cbsa_code": "39580",
+                "cbsa_title": "Raleigh-Cary, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "postal_code": "10176",
+              "zip": "10176",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "postal_code": "75219",
+              "zip": "75219",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Charlottesville",
+              "region": "US-VA",
+              "country": "US",
+              "postal_code": "22905",
+              "zip": "22905",
+              "county_fips": "51540",
+              "msa": {
+                "cbsa_code": "16820",
+                "cbsa_title": "Charlottesville, VA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-26T12:07:33.872Z",
+        "curated_at": "2026-09-27T01:42:44.434Z",
+        "job_updated_at": "2026-11-07T11:33:18.820Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "16ef1811d82007d0da17c9cd830b3004ae9e19e208a872e0dcd07ac039200652",
+            "source": "directemployers",
+            "source_posting_id": "9133818402CB4F5DAEEDDE95A6DAE469",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spglobalcareers.dejobs.org/raleigh-nc/lead-ai-product-manager-private-markets/9133818402CB4F5DAEEDDE95A6DAE469/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/9133818402CB4F5DAEEDDE95A6DAE46910"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Raleigh",
+                "state": "NC",
+                "country": "US",
+                "regionCode": "NC",
+                "postalCode": "27608",
+                "latitude": 35.813522,
+                "longitude": -78.64896,
+                "remote": false,
+                "zip": "27608"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-05T07:15:55.000Z",
+            "first_seen_at": "2026-11-07T10:15:55.142Z",
+            "last_completed_fetch_at": "2026-11-07T10:16:19.263Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1a4889310bbe3fbdfe845d5f25c907311af2be8495c3fa3a954c5eff1df676cc",
+            "source": "directemployers",
+            "source_posting_id": "5313888662D747F287B0DAECB3D1EC5C",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spglobalcareers.dejobs.org/new-york-ny/lead-ai-product-manager-private-markets/5313888662D747F287B0DAECB3D1EC5C/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/5313888662D747F287B0DAECB3D1EC5C10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "NY",
+                "country": "US",
+                "regionCode": "NY",
+                "postalCode": "10176",
+                "latitude": 40.750896,
+                "longitude": -73.98415,
+                "remote": false,
+                "zip": "10176"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-05T07:15:55.000Z",
+            "first_seen_at": "2026-11-07T10:15:55.142Z",
+            "last_completed_fetch_at": "2026-11-07T10:16:19.263Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "50b9d600c93bc0e0ac4dee48383d026484dbfb0f86980fa63ab0ed783ff43acc",
+            "source": "directemployers",
+            "source_posting_id": "B69D987D897C4D1493A649E5F9EEFBCE",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spglobalcareers.dejobs.org/dallas-tx/lead-ai-product-manager-private-markets/B69D987D897C4D1493A649E5F9EEFBCE/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/B69D987D897C4D1493A649E5F9EEFBCE10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Dallas",
+                "state": "TX",
+                "country": "US",
+                "regionCode": "TX",
+                "postalCode": "75219",
+                "latitude": 32.81039,
+                "longitude": -96.8067,
+                "remote": false,
+                "zip": "75219"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-05T07:15:56.000Z",
+            "first_seen_at": "2026-11-07T10:15:55.142Z",
+            "last_completed_fetch_at": "2026-11-07T10:16:19.263Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "805d12f33b77f926a346224da069a20d29a6c93325804faebeef04c740ca6b3a",
+            "source": "jibe",
+            "source_posting_id": "329647",
+            "posting_status": "no_longer_listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.spglobal.com/jobs/329647"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/en-us/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "New York",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Raleigh",
+                    "state": "North Carolina",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Raleigh, North Carolina"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "Texas",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Dallas, Texas"
+                  },
+                  {
+                    "city": "Charlottesville",
+                    "state": "Virginia",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Charlottesville, Virginia"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-13T00:00:00.000Z",
+            "first_seen_at": "2026-09-26T12:07:33.872Z",
+            "last_completed_fetch_at": "2026-11-05T15:01:00.266Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "8b3f9fa790141961777d22a64de9199b7c29b06584066d2f51ed21bd6377b2d7",
+            "source": "directemployers",
+            "source_posting_id": "1CF6D59888D44D89A74F79CBBCE175B6",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spglobalcareers.dejobs.org/charlottesville-va/lead-ai-product-manager-private-markets/1CF6D59888D44D89A74F79CBBCE175B6/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/1CF6D59888D44D89A74F79CBBCE175B610"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Charlottesville",
+                "state": "VA",
+                "country": "US",
+                "regionCode": "VA",
+                "postalCode": "22905",
+                "latitude": 38.024895,
+                "longitude": -78.49321,
+                "remote": false,
+                "zip": "22905"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-14T03:26:35.000Z",
+            "first_seen_at": "2026-11-07T10:15:55.142Z",
+            "last_completed_fetch_at": "2026-11-07T10:16:19.263Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "32a891dd-5ed8-42e9-98d2-3a4cc4ac6db6",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "7882c50e-6bba-81db-9e7b-d8ba6aa3239c",
+        "employer_name": {
+          "state": "known",
+          "value": "Markit North America"
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead AI Product Manager, Private Markets"
+        },
+        "description": {
+          "state": "known",
+          "value": "# **About the Role:**\n\n**Grade Level (for internal use):**\n\n12\n\n**About the Role:**\n\n  \n**The Team:** The Enterprise Solutions business within S&P Global Market Intelligence provides industry-leading data, software, and services that support investment management, enterprise data management, regulatory compliance, and private markets solutions. The Private Markets product team is responsible for products that support the entire investment lifecycle across Private Equity, Venture Capital, Real Estate, Infrastructure, and Private Credit markets. As part of the flagship iLEVEL product organization, you will work with a highly collaborative team of product leaders, technology professionals, and market experts focused on delivering innovative solutions for investment professionals. The team values customer-centricity, innovation, execution excellence, and continuous learning.  \n\n\n**Responsibilities and Impact:**\n\n* We are seeking a Lead Product Manager to drive our MCP & AI Agents Platform initiatives. This leader will own the vision, strategy, and execution for both the MCP connector ecosystem, enabling seamless integration of private markets data and content sources, and the AI Analyst capabilities being developed within our flagship iLEVEL platform.\n* As a Lead Product Manager, you’ll lead zero-to-one product efforts, building and scaling net new product offerings in a high growth, fast moving environment - leveraging the latest and greatest in agents, agentic workflows, and LLMs to build transformative new products that deliver value to clients. This role will require working closely with engineering, design, product, data science, marketing, go-to-market to drive new AI products to success.\n* This is a highly cross-functional and visible role suited for a hands-on builder who thrives at the intersection of AI, customer-centric product development, and financial technology.\n\n  \n\n​​​**Compensation/Benefits Information:**\n\nS&P Global states that the anticipated base salary range for this position is $101,000 to $175,000. Final base salary for this role will be based on the individual's geographic location, experience level, skill set, training, licenses, and certifications. In addition to base compensation, this role is eligible for an annual incentive plan. This role is eligible to receive additional S&P Global benefits. For more information on the benefits we provide to our employees, please click [here](https://spgbenefits.com/benefit-summaries/us).\n\n  \n\n**What We're Looking For:**  \n**Basic Required Qualifications:**\n\n* Experience in FinTech, AI, or other technology-driven environments, with a track record of launching and scaling products.\n* Hands-on AI product builder with experience applying new AI technologies, including LLMs, agents, retrieval systems, and modern AI development tools.\n* Strategic and customer-focused thinker who can develop deep domain expertise, simplify complex problems, and translate insights into impactful product strategies.\n* Strong product operator skilled in agile delivery, product requirements, data-driven decision-making, KPI management, and cross-functional execution.\n\n  \n\n**Additional Preferred Qualifications:**\n\n* Exceptional communicator and collaborator who thrives in fast-paced, ambiguous environments and can align Product, Engineering, Design, and Go-to-Market teams around a shared vision.\n* Experience working in a Private Markets product team.\n\n  \n\n**Right to Work Requirements:**\n\nThis role is limited to persons with indefinite right to work in the United States.  \n\n\n**About S&P Global Market Intelligence**  \n  \nAt S&P Global Market Intelligence, a division of S&P Global we understand the importance of accurate, deep and insightful information. Our team of experts delivers unrivaled insights and leading data and technology solutions, partnering with customers to expand their perspective, operate with confidence, and make decisions with conviction.  \n  \nFor more information, visit [www.spglobal.com/marketintelligence](http://www.spglobal.com/marketintelligence).\n\n**What’s In It For** **You?**\n\n**Our Mission:**\n\nAdvancing Essential Intelligence.\n\n**Our People:**\n\nWe're more than 35,000 strong worldwide—so we're able to understand nuances while having a broad perspective. Our team is driven by curiosity and a shared belief that Essential Intelligence can help build a more prosperous future for us all.From finding new ways to measure sustainability to analyzing energy transition across the supply chain to building workflow solutions that make it easy to tap into insight and apply it. We are changing the way people see things and empowering them to make an impact on the world we live in. We’re committed to a more equitable future and to helping our customers find new, sustainable ways of doing business. Join us and help create the critical insights that truly make a difference.\n\n**Our Values:**\n\n**Integrity, Discovery, Partnership**\n\n  \nThroughout our history, the world's leading organizations have relied on us for the Essential Intelligence they need to make confident decisions about the road ahead. We start with a foundation of integrity in all we do, bring a spirit of discovery to our work, and collaborate in close partnership with each other and our customers to achieve shared goals.  \n  \n**Benefits:**\n\nWe take care of you, so you can take care of business. We care about our people. That’s why we provide everything you—and your career—need to thrive at S&P Global.  \n  \nOur benefits include:\n\n* Health & Wellness: Health care coverage designed for the mind and body.\n    \n* Flexible Downtime: Generous time off helps keep you energized for your time on.\n    \n* Continuous Learning: Access a wealth of resources to grow your career and learn valuable new skills.\n    \n* Invest in Your Future: Secure your financial future through competitive pay, retirement planning, a continuing education program with a company-matched student loan contribution, and financial wellness programs.\n    \n* Family Friendly Perks: It’s not just about you. S&P Global has perks for your partners and little ones, too, with some best-in class benefits for families.\n    \n* Beyond the Basics: From retail discounts to referral incentive awards—small perks can make a big difference.\n    \n\nFor more information on benefits by country visit: [https://spgbenefits.com/benefit-summaries](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspgbenefits.com%2Fbenefit-summaries&data=05%7C02%7Clauren.washington%40spglobal.com%7C2110bb7975e647763da908dc57fae79d%7C8f3e36ea80394b4081a77dc0599e8645%7C1%7C0%7C638481982335774379%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=MLyuUlul44KSiQWXG3isvYhaT7f6JLL5jLpgtgOcHyE%3D&reserved=0)\n\n**Global Hiring and Opportunity at S&P Global:**\n\nAt S&P Global, we are committed to fostering a connected and engaged workplace where all individuals have access to opportunities based on their skills, experience, and contributions. Our hiring practices emphasize fairness, transparency, and merit, ensuring that we attract and retain top talent. By valuing different perspectives and promoting a culture of respect and collaboration, we drive innovation and power global markets.\n\n**Recruitment Fraud Alert:**\n\nIf you receive an email from a spglobalind.com domain or any other regionally based domains, it is a scam and should be reported to [reportfraud@spglobal.com](mailto:reportfraud@spglobal.com). S&P Global never requires any candidate to pay money for job applications, interviews, offer letters, “pre-employment training” or for equipment/delivery of equipment. Stay informed and protect yourself from recruitment fraud by reviewing our guidelines, fraudulent domains, and how to report suspicious activity [here](https://www.spglobal.com/content/dam/spglobal/corporate/en/documents/careers/Corp_0525-Recruitment-Fraud-Alert.pdf).\n\n\\-----------------------------------------------------------\n\n**Equal Opportunity Employer**\n\nS&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law.  Only electronic job submissions will be considered for employment.\n\nIf you need an accommodation during the application process due to a disability, please send an email to: [EEO.Compliance@spglobal.com](mailto:EEO.Compliance@spglobal.com) and your request will be forwarded to the appropriate person.    \n   \n**US Candidates Only:** [Know Your Rights: Workplace discrimination is illegal](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)\n\n\\-----------------------------------------------------------\n\n20 - Professional (EEO-2 Job Categories-United States of America), PDMGDV202.2 - Middle Professional Tier II (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)  \n\nS&P Global enables businesses, governments, and individuals with trusted data, expertise and technology to make decisions with conviction. We are Advancing Essential Intelligence through world-leading benchmarks, data, and insights that customers need in order to plan confidently, act decisively, and thrive in a rapidly changing global landscape.  \n\nFrom helping our customers assess new investments across the capital and commodities markets to navigating the energy expansion, acceleration of artificial intelligence, and evolution of public and private markets, we enable the world’s leading organizations to unlock opportunities, solve challenges, and plan for tomorrow – today.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Ny Nyc",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Raleigh",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37183",
+              "msa": {
+                "cbsa_code": "39580",
+                "cbsa_title": "Raleigh-Cary, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "US"
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-19T01:15:05.321Z",
+        "curated_at": "2026-09-26T03:24:08.468Z",
+        "job_updated_at": "2026-11-07T01:47:56.686Z",
+        "normalized": [
+          {
+            "field": "location",
+            "rule_id": "NRM-PLACE"
+          },
+          {
+            "field": "location",
+            "rule_id": "NRM-TOWN"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "262259aaf83464f90ef140b57a50f8797a338881857b617dd38e0bbacfe32b60",
+            "source": "workday",
+            "source_posting_id": "/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Ny Nyc",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Raleigh, NC"
+                  },
+                  {
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US - TX - DALLAS 5430 LBJ FREEWAY"
+                  },
+                  {
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US - VA - CHARLOTTESVILLE 212 7TH STREET"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-05T00:00:00.000Z",
+            "first_seen_at": "2026-09-20T20:55:43.059Z",
+            "last_completed_fetch_at": "2026-11-07T00:59:48.272Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "8e0df1109736cca5e9ce647767f729a1a518614eb34f4a5cacfcadde76c5cc7a",
+            "source": "workday",
+            "source_posting_id": "/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1",
+            "posting_status": "no_longer_listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "US - NY NYC - 55 WATER ST",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Raleigh, NC",
+                    "remote": false,
+                    "raw": "Raleigh, NC"
+                  },
+                  {
+                    "city": "US - TX - DALLAS 5430 LBJ FREEWAY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US - TX - DALLAS 5430 LBJ FREEWAY"
+                  },
+                  {
+                    "city": "US - VA - CHARLOTTESVILLE 212 7TH STREET",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US - VA - CHARLOTTESVILLE 212 7TH STREET"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-13T00:00:00.000Z",
+            "first_seen_at": "2026-09-19T01:15:05.321Z",
+            "last_completed_fetch_at": "2026-09-23T20:34:49.954Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "77c65bc9-92ce-4512-b89e-30232cf70ac2",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "bd3da6e0-54d4-47e3-988c-652429470772",
+        "employer_name": {
+          "state": "known",
+          "value": "Hewlett Packard Enterprise"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "AI Product Manager\n\nThis role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office.\n\n**Who We Are:**\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n**Job Description:**\n\n***Job Family Definition:***\n\nDesigns, plans, develops and manages a product or portfolio of products throughout the solution portfolio lifecycle: from new product definition or enhancements to existing products; planning, design, forecasting, and production; to end of life.\n\n***Management Level Definition:***\n\nContributions include applying developed subject matter expertise to solve common and sometimes complex technical problems and recommending alternatives where necessary. Might act as project lead and provide assistance to lower level professionals. Exercises independent judgment and consults with others to determine best method for accomplishing work and achieving objectives.\n\n***This is a remote position within the United States.*** Candidates maybe required to work a hybrid schedule if within close proximity to an HPE Office.\n\n***Responsibilities:***\n\n* Leads and drives the end to end strategy and operational product roadmap for a product\n* Defines the value proposition, target customer segments, and business case for platform capabilities and innovations, balancing customer outcomes with company-wide portfolio priorities, revenue impact, margins, and financial targets.\n* Translate market requirements into clear product requirements through having intimate customer knowledge and business, financial and industry market acumen\n* Advises and influences key stakeholders on platform and portfolio strategy across all phases of the lifecycle (e.g., planning, development, launch, management, exit)\n* Creates goal alignment and collaborates across value chain partners to drive successful delivery, adoption, and lifecycle management of platform capabilities, enabling effective go-to-market execution and optimized business outcomes.\n\n***Education and Experience Required:***\n\n* Bachelor's degree or equivalent in computer science, engineering or related field of study. MBA or advanced degree in computer science or engineering preferred.\n* 4+ years of work experience in related field.\n* Technical understanding and knowledge of the relevant industry.\n\n***Knowledge and Skills:***\n\n* Demonstrated ability to develop product strategy, including the application of AI driven capabilities, and lead teams to achieve results.\n* Strong business acumen with the ability to use data, analytics, and AI-enabled insights to uncover systemic issues, guide root cause analysis, and enable proactive improvements across support platforms and portals.\n* Demonstrated skills in cost efficient solution building, financial performance metric creation and analysis.\n* Technical understanding and knowledge of networking support industry and ability to translate AI and cloud-based solutions into product-specific guidance and technical enablement for teams.\n\n**Accessibility**\n\n  \n\nHPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities. If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked [here](https://people.hpe.com/s/externalcase/candidate-support).\n\n  \n\nNote: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.\n\n**What We Can Offer You:**\n\n**Health & Wellbeing**\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n**Personal & Professional Development**\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n**Unconditional Inclusion**\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n**Let's Stay Connected:**\n\nFollow [@HPECareers](http://instagram.com/hpecareers) on Instagram to see the latest on people, culture and tech at HPE.\n\n**Job:**\n\nEngineering\n\n**Job Level:**\n\nTCP\\_04\n\n\"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.  \n– United States of America: Annual Salary USD 136,500 - 276,500 in California // 120,500 - 276,500 in Georgia & North Carolina & Texas  \nThe listed salary range reflects base salary. Variable incentives may also be offered.\"\n\nInformation about employee benefits offered in the US can be found at [https://myhperewards.com/main/new-hire-enrollment.html](https://myhperewards.com/main/new-hire-enrollment.html)\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: [Equal Employment Opportunity](https://hr.ext.hpe.com/Equal-employment-opportunity-policy.pdf).\n\n**Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.**\n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n**Recruitment Fraud Alert**\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.\n\n  \n\n**Hewlett Packard Enterprise**\n\nTechnology innovation that fosters business transformation.\n\n[We Are In the Acceleration Business](https://www.hpe.com/us/en/about.html)\n\nWe help customers use technology to slash the time it takes to turn ideas into value. In turn, they transform industries, markets and lives.\n\nSome of our customers run traditional IT environments. Most are transitioning to a secure, cloud-enabled, mobile-friendly infrastructure. Many rely on a combination of both. Wherever they are in that journey, we provide the technology and solutions to help them succeed.\n\n**Standards of Business Conduct (SBC)**\n\nThe Hewlett Packard Enterprise Standards of Business Conduct (SBC) embody the fundamental principles that govern our ethical and legal obligations to Hewlett Packard Enterprise. They pertain not only to our conduct within the company but also to conduct involving our customers, channel partners, suppliers and competitors.\n\nRead more about how we [**win the right way.**](http://investors.hpe.com/governance/sbc)\n\n**Equal Opportunity Employer (EEO)**\n\nHewlett Packard Enterprise provides equal employment opportunity to any employee or applicant without regard to sex, gender, color, race, ethnicity, religion, creed, national origin, ancestry, citizenship, age, marital status, sexual orientation, gender identity and expression, physical or mental disability, medical condition, pregnancy, protected veteran status, uniformed service status, familial status, genetic information, political affiliation, or any other characteristic protected by federal, state, or local law.  **[](https://hr.ext.hpe.com/Equal-employment-opportunity-policy.pdf)**\n\nIf you’d like more information about your EEO right as an applicant under the law, please click here: Know Your Rights.\n\n**[Equal Employment Opportunity is the Law](https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf)**\n\n**[Equal Employment Opportunity is the Law - Supplement](https://www.eeoc.gov/employers/upload/eeoc_gina_supplement.pdf)**\n\n**E-Verify** **(US & PR only)**\n\nHPE is an E-Verify employer. E-Verify is an Internet-based system that compares information from an employee's Form I-9, Employment Eligibility Verification, to data from U.S. Department of Homeland Security and Social Security Administration records to confirm the employment eligibility of all newly hired employees. For more information [click here](https://www.e-verify.gov/about-e-verify/what-is-e-verify).\n\n**Accessibility**\n\nHPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities.  If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked [here](https://people.hpe.com/s/externalcase/candidate-support).\n\nNote: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.\n\n**Disclosure of Sensitive Personal Data**\n\nPlease ensure the resume you submit to us does not include any sensitive personal data.  Sensitive personal data includes data revealing information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, sex life or sexual orientation.  To the extent the resume you submit does contain this type of personal data, you consent to the storing and processing of this data by HPE for the purpose of reviewing and managing your application.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "remote"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Roseville",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06061",
+              "msa": {
+                "cbsa_code": "40900",
+                "cbsa_title": "Sacramento-Roseville-Folsom, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "All",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "All",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "All",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-20T00:49:45.502Z",
+        "curated_at": "2026-09-24T07:56:41.036Z",
+        "job_updated_at": "2026-11-06T21:53:55.111Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "06b988edd2bf20ba9afc59a32cda3baee5eda9c461633fa2c01fe2a617809ddb",
+            "source": "phenom",
+            "source_posting_id": "1202960",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.hpe.com/us/en/job/1202960"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California/AI-Product-Manager_1202960-2/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Roseville",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "CA",
+                "latitude": 38.75212,
+                "longitude": -121.28801,
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "All",
+                    "state": "Georgia",
+                    "latitude": 32.75042,
+                    "longitude": -83.50018,
+                    "remote": false,
+                    "raw": "All, Georgia, 00000"
+                  },
+                  {
+                    "city": "All",
+                    "state": "North Carolina",
+                    "latitude": 35.50069,
+                    "longitude": -80.00032,
+                    "remote": false,
+                    "raw": "All, North Carolina, 00000"
+                  },
+                  {
+                    "city": "All",
+                    "state": "Texas",
+                    "latitude": 31.25044,
+                    "longitude": -99.25061,
+                    "remote": false,
+                    "raw": "All, Texas, 00000"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-17T00:00:00.000Z",
+            "first_seen_at": "2026-09-20T00:49:45.502Z",
+            "last_completed_fetch_at": "2026-11-06T00:01:20.142Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12050000,
+                "max_cents": 27650000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 13650000,
+                "max_cents": 27650000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "463fac18618e6eb48513d356fd0d6605e514529c51996fe5913e275c8bd3b343",
+            "source": "workday",
+            "source_posting_id": "/job/Roseville-California/AI-Product-Manager_1202960-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Roseville-California/AI-Product-Manager_1202960-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Roseville-California/AI-Product-Manager_1202960-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Roseville",
+                "state": "CA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "All",
+                    "state": "GA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "All, Georgia, United States of America"
+                  },
+                  {
+                    "city": "All",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "All, North Carolina, United States of America"
+                  },
+                  {
+                    "city": "All",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "All, Texas, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 136500,
+                "max": 276500,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 120500,
+                    "max": 276500,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 136500,
+                    "max": 276500,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-09-17T00:00:00.000Z",
+            "first_seen_at": "2026-09-20T21:00:47.408Z",
+            "last_completed_fetch_at": "2026-11-06T22:46:40.575Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12050000,
+                "max_cents": 27650000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 13650000,
+                "max_cents": 27650000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "a7183df09e31779b7f1c8c8e68b0a2d852df9da3e7c5a5930503eded41f435bf",
+            "source": "workday",
+            "source_posting_id": "/job/Roseville-California/AI-Product-Manager_1202960",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Roseville-California/AI-Product-Manager_1202960"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Roseville-California/AI-Product-Manager_1202960"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Roseville",
+                "state": "CA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "All",
+                    "state": "GA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "All, Georgia, United States of America"
+                  },
+                  {
+                    "city": "All",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "All, North Carolina, United States of America"
+                  },
+                  {
+                    "city": "All",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "All, Texas, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 136500,
+                "max": 276500,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 120500,
+                    "max": 276500,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 136500,
+                    "max": 276500,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-09-17T00:00:00.000Z",
+            "first_seen_at": "2026-09-30T05:02:43.870Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "ea88390aff7ebc2ece696600bf6866677879a487ebc14220088eb4d1601b7f5c",
+            "source": "unknown",
+            "source_posting_id": "/job/Roseville-California/AI-Product-Manager_1202960-1",
+            "posting_status": "no_longer_listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Roseville-California/AI-Product-Manager_1202960-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Roseville-California/AI-Product-Manager_1202960-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Roseville, California",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "All, Georgia, United States of America",
+                    "remote": false,
+                    "raw": "All, Georgia, United States of America"
+                  },
+                  {
+                    "city": "All, North Carolina, United States of America",
+                    "remote": false,
+                    "raw": "All, North Carolina, United States of America"
+                  },
+                  {
+                    "city": "All, Texas, United States of America",
+                    "remote": false,
+                    "raw": "All, Texas, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-17T00:00:00.000Z",
+            "first_seen_at": "2026-09-21T22:44:34.309Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "dae29894-a51e-4571-bf92-238b80ad32dc",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b49b7d1c-79ba-49de-8c60-b2e8cd1c22c1",
+        "employer_name": {
+          "state": "known",
+          "value": "GSK"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Ai Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "GSK is one of the world’s foremost pharmaceutical and healthcare companies and we are proud to be leading a healthcare revolution. By disrupting our approaches to R&D and commercial business processes, AI and agents are allowing us to integrate, simplify and unlock all our data to drive innovation, decision making and enable our transformation in servicing our patients, healthcare professionals and consumers. You will set multi-year product direction, shape platform strategy alongside the Director and Principal Engineers, lead a team of PMs, and serve as the senior product voice to Director and VP-level stakeholders. This is a high-influence, high-accountability role at the convergence of enterprise data and cutting-edge AI. KEY RESPONSIBILITIES Product Vision & Portfolio Strategy Own and drive a compelling multi-year product vision and roadmap spanning data platform products (lakehouse, pipelines, governance, BI) and AI/ML products (model lifecycle, RAG, GenAI, multi-agent systems). Partner with the Director, Enterprise AI Platform and Principal Engineers to align product strategy with enterprise data architecture and GSK’s business priorities. Lead portfolio prioritisation across concurrent workstreams, balancing new capability development, technical debt, and regulatory compliance needs. Assess emerging technologies (data mesh, GenAI, advanced RAG, multi-agent orchestration) to inform platform investment decisions. Stakeholder Leadership Engage Director and VP-level stakeholders across R&D, Supply Chain, Commercial, and IT to shape demand, align priorities, and communicate platform value and ROI. Lead executive-level roadmap reviews, investment proposals, and architecture governance forums representing the product organisation. Build strategic relationships with data domain leads, AI engineering leaders, and data scientists to understand long-term needs. AI/ML Product Management Own end-to-end AI/ML product lifecycle: model development tooling, MLOps and LLMOps pipelines, GenAI applications, RAG systems, and multi-agent orchestration frameworks. Define AI-ready data product requirements: embeddings, feature stores, versioned training data, and evaluation frameworks (hallucination benchmarks, responsible AI checkpoints). Champion Responsible AI (RAI) practices: ethical model development, bias mitigation, explainability, and compliance with NIST, GxP, and EU AI Act guidance. Data & Analytics Product Management Own data platform products: ingestion pipelines, lakehouse layers (Delta Lake, Iceberg), data cataloguing and lineage (Purview, Unity Catalog), data quality, and self-service analytics foundations. Lead analytics and BI product development: semantic layers, metrics catalogues, and data marts powering Tableau, Power BI, and programmatic analytics at scale. Drive data governance product strategy: metadata management, data classification, access control, and compliance tooling (GDPR, GxP, DPDP Act India). Delivery & Team Leadership Lead, mentor, and develop a team of Product Managers and Business Analysts within the platform product organisation. Own backlog health across multiple engineering squads; write high-quality epics, user stories, and acceptance criteria; drive agile ceremonies with engineering leadership. Define and report on platform KPIs covering adoption, AI quality, pipeline reliability, time-to-insight, delivery velocity, and stakeholder satisfaction. Why You? Basic Qualification We are seeking professionals with the following required skills and qualifications to help us achieve our goals: Bachelor’s or Master’s in Computer Science, Data Engineering, Business Analytics, Information Systems, or a related field. 8+ years of product management experience, with at least 4 years on data platforms, AI/ML products, or enterprise analytics infrastructure. Experience owning a multi-product portfolio and leading other PMs or BAs Exceptional product sense: portfolio-level prioritisation, high-stakes trade-off decisions, and OKR-driven roadmapping across multiple engineering squads. Mastery of agile delivery and tooling (Jira, Confluence, Productboard, Miro); produces executive-grade artefacts: strategy docs, business cases, roadmaps, and PRDs Experience with lakehouse architecture, data mesh, batch and streaming pipelines, data cataloguing, lineage, data quality, and self-service analytics. Experience with Azure Synapse, Databricks, Delta Lake, and dbt, including technical architecture conversations with Principal Engineers. · Experience with BI tooling (Tableau, Power BI, semantic layers) and with reading and reasoning about SQL and Python Experience with the end-to-end ML lifecycle, MLOps, LLMOps, RAG architectures, vector databases, and multi-agent systems. Experience managing GenAI or LLM-powered products in production: prompt engineering, model evaluation, hallucination mitigation, and responsible AI integration. Experience with executive communication, including board-ready decks, investment proposals, and compelling narratives for technical and business audiences. Experience influencing at Director/VP level and working across distributed, matrixed organisations Preferred Qualification If you have the following characteristics, it would be a plus: Advanced AI product experience: fine-tuning pipelines, synthetic data, RLHF-powered products Data mesh: domain data product ownership, data contracts, federated governance GxP, EU AI Act, FDA AI guidance, GDPR, or DPDP Act India regulatory experience Pharma, life sciences, or regulated healthcare industry background Open-source AI/ML or data community involvement Formal PM certifications: CSPO, AIPMM, SAFe, or equivalent Experience working with SAP landscapes, including SAP Business Data Cloud (BDC) and SAP data sources feeding enterprise data platforms Exposure to ECC-to-S/4HANA transformation programmes, ideally having used AI or GenAI to augment and accelerate migration, data readiness, or process transformation Work Arrangement This role is offered as a hybrid position in the United States. You will be on-site part of the week and work remotely the remainder. Strong collaboration across teams and time zones will be required. #LI-GSK #AGTech Skills AI Platforms, Change Management, Data Analysis, Feature Prioritization, Machine Learning Model Management, ML Platforms, Model Evaluation, Performance Analysis, Product Delivery, Product Design, Product Lifecycle Management (PLM), Product Roadmapping, Roadmap Development, Statistical Analysis, User Needs Analysis Please visit GSK US Benefits Summary to learn more about the comprehensive benefits program GSK offers US employees. Why GSK? Uniting science, technology and talent to get ahead of disease together. GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale. People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people. If you require an accommodation or other assistance to apply for a job at GSK, please contact the appropriate Recruitment Staff by emailing us at - usrecruitment.adjustments@gsk.com GSK is an Equal Opportunity Employer. This ensures that all qualified applicants will receive equal consideration for employment without regard to race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic information (including family medical history), military service or any basis prohibited under federal, state or local law. Important notice to Employment businesses/ Agencies GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site. Please note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSK’s compliance to all federal and state US Transparency requirements. For more information, please visit the Centers for Medicare and Medicaid Services (CMS) website at https://openpaymentsdata.cms.gov/"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Philadelphia",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "19104",
+              "street": "470 USA Posting Location",
+              "zip": "19104",
+              "county_fips": "42101",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Durham",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37063",
+              "msa": {
+                "cbsa_code": "20500",
+                "cbsa_title": "Durham-Chapel Hill, NC",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-05T17:28:19.618Z",
+        "curated_at": "2026-11-06T10:01:09.886Z",
+        "job_updated_at": "2026-11-06T10:01:09.886Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "a4de1651e129dd052c7b62fe5c0cfb974e818def06cdc69df97dc5d3aff0207c",
+            "source": "phenom",
+            "source_posting_id": "450873",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.gsk.com/us/en/job/450873"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Philadelphia/Senior-Ai--Product-Manager_450873/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Philadelphia",
+                "state": "Pennsylvania",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "PA",
+                "postalCode": "19104",
+                "streetAddress": "470 USA Posting Location",
+                "latitude": 39.95238,
+                "longitude": -75.16362,
+                "remote": false,
+                "zip": "19104",
+                "alternatives": [
+                  {
+                    "city": "Durham",
+                    "state": "North Carolina",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 35.99403,
+                    "longitude": -78.89862,
+                    "remote": false,
+                    "raw": "Durham, North Carolina, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-03T00:00:00.000Z",
+            "first_seen_at": "2026-11-05T17:28:19.618Z",
+            "last_completed_fetch_at": "2026-11-06T09:01:19.237Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "7544d7c2-e214-442e-b30b-e0a49abf5013",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "c40c6df3-7d64-8592-9521-13a829973b48",
+        "employer_name": {
+          "state": "known",
+          "value": "GSK"
+        },
+        "title": {
+          "state": "known",
+          "value": "Sr. AI Product Manager – Market Access"
+        },
+        "description": {
+          "state": "known",
+          "value": "Business Introduction GSK remains committed to achieving bold commercial ambitions for the future. By 2031, we aim to deliver £40 billion in annual sales, leveraging our existing strong performance momentum to significantly increase our positive impact on the health of billions of patients globally. Our Ahead Together strategy is centred on early intervention to prevent and alter the course of disease, thereby protecting people and supporting healthcare systems. Our diverse portfolio consists of vaccines, specialty medicines, and general medicines. Through continuous innovation and a dedicated focus on scientific and technical excellence, we strive to develop and launch new, groundbreaking treatments that address critical health challenges. You will lead how GSK uses AI to deliver measurable commercial outcomes across Market Access - spanning account management, pricing, contracting, channel management, trade operations, and payer engagement. You will sit with business leaders, understand how their work actually gets done, and decide where AI and agentic technology can make the biggest difference. Then you will own delivery end to end - discovery, build, evaluation, production deployment, and ongoing performance management - working hands-on with agentic frameworks, LLM-based workflows, and commercial data pipelines. This role sits at the intersection of product, engineering, and commercial strategy. You will make your own feasibility and build-vs-buy calls, define what “good” looks like for non-deterministic AI systems, and move solutions from proof-of-concept into governed, monitored production use. Success is measured by adopted capabilities and quantified commercial impact. We're looking for clear thinkers who combine commercial awareness with practical delivery skills - someone business leaders trust and technologists respect. This is a chance to shape where GSK invests in AI across market access, in support of our mission to unite science, technology, and talent to get ahead of disease together. Key Responsibilities Partner with Market Access, Commercial Operations, Finance, Tech, and Data teams to turn pain points into clear, specific problem statements. Identify where AI and agentic technology can create the most value across pricing, contracting, channel management, trade operations, and payer engagement — weighing impact, feasibility, and risk to prioritize investment. Build business cases with clear expected benefits, costs, and success measures; shape the AI roadmap, balancing quick wins with long-term capability, and assess build, buy, and partner options. Own delivery end to end - leading data scientists, engineers, UX designers, and vendors through design, build, evaluation, and production deployment, making key build and release decisions tied back to the business case. Partner with Data Engineering and commercial data owners to secure the data foundation these products depend on - contract, pricing, rebate, claims, and channel data quality, lineage, and master data alignment. Set the quality bar for AI solutions - validate before release, then own them after go-live: monitor model, prompt, and agent performance in production, manage versioning and change control, triage failure cases and drift, and run continuous improvement loops from user feedback. Ensure responsible AI use, with human oversight, documentation, compliance, and governance built in from the start. Manage budgets, timelines, vendor performance, and delivery risk, flagging issues early. Prototype and validate solutions in the real world, then drive adoption - enablement, training, documentation, and SOP updates - and convert proven solutions into reusable patterns other Commercial and D&T teams can adopt. Why You? Why You? Basic Qualification We are seeking professionals with the following required skills and qualifications to help us achieve our goals: 10+ years in life sciences or healthcare, with experience in market access commercial operations - account management, pricing, contracting, channel management, trade operations, or payer engagement. Bachelor's degree in business, economics, data science, computer science, public health, or life sciences. Experience translating complex business problems into programs that deliver measurable results. Experience setting priorities and building roadmaps or investment cases that senior leaders acted on. Experience overseeing technology delivery from design through production deployment, ideally including AI or advanced analytics Experience managing delivery teams and vendors - budgets, timelines, quality - on complex programs. Hands-on experience building and operating agentic AI or LLM-based workflows in production - not just pilots - from idea to measured outcome. Experience with agile delivery and testing/validation in regulated environments. Technical knowledge to engage data scientists and vendors on model and agentic workflow evaluation, monitoring, and governance. Experience building trusted relationships with senior stakeholders and explaining complex ideas clearly Preferred Qualification If you have the following characteristics, it would be a plus Advanced degree (MBA, MSc, MPH, PhD) in a relevant discipline. Direct experience building AI solutions for market access operations, real-world evidence, or health technology assessment. Experience designing or operating agentic AI/automation platforms (e.g., LLM orchestration frameworks, workflow or agent builders) in a regulated enterprise setting. Familiarity with cloud AI platforms (Azure AI, Google Cloud, AWS) and MLOps/LLMOps concepts. Experience with human-in-the-loop systems, prompt engineering, or deploying generative AI in regulated environments. Experience assessing AI vendors or platforms. Experience leading transformation, merger integration, or operating model change. #LI-GSK #AGTech Skills AI Platforms, Change Management, Data Analysis, Feature Prioritization, Machine Learning Model Management, ML Platforms, Model Evaluation, Performance Analysis, Product Delivery, Product Design, Product Lifecycle Management (PLM), Product Roadmapping, Roadmap Development, Statistical Analysis, User Needs Analysis Please visit GSK US Benefits Summary to learn more about the comprehensive benefits program GSK offers US employees. Why GSK? Uniting science, technology and talent to get ahead of disease together. GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale. People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people. If you require an accommodation or other assistance to apply for a job at GSK, please contact the appropriate Recruitment Staff by emailing us at - usrecruitment.adjustments@gsk.com GSK is an Equal Opportunity Employer. This ensures that all qualified applicants will receive equal consideration for employment without regard to race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic information (including family medical history), military service or any basis prohibited under federal, state or local law. Important notice to Employment businesses/ Agencies GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site. Please note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSK’s compliance to all federal and state US Transparency requirements. For more information, please visit the Centers for Medicare and Medicaid Services (CMS) website at https://openpaymentsdata.cms.gov/"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Philadelphia",
+              "region": "US-PA",
+              "country": "US",
+              "postal_code": "19104",
+              "street": "470 USA Posting Location",
+              "zip": "19104",
+              "county_fips": "42101",
+              "msa": {
+                "cbsa_code": "37980",
+                "cbsa_title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Durham",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37063",
+              "msa": {
+                "cbsa_code": "20500",
+                "cbsa_title": "Durham-Chapel Hill, NC",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-04T11:00:55.061Z",
+        "curated_at": "2026-11-04T11:02:32.104Z",
+        "job_updated_at": "2026-11-04T11:02:32.104Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "d6fea2894574c32355024a281c419962898089076ed9d057e17ddf63920f6120",
+            "source": "phenom",
+            "source_posting_id": "448764",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.gsk.com/gb/en/job/448764"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Philadelphia/Sr-AI-Product-Manager---Market-Access_448764/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Philadelphia",
+                "state": "Pennsylvania",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "PA",
+                "postalCode": "19104",
+                "streetAddress": "470 USA Posting Location",
+                "latitude": 39.95238,
+                "longitude": -75.16362,
+                "remote": false,
+                "zip": "19104",
+                "alternatives": [
+                  {
+                    "city": "Durham",
+                    "state": "North Carolina",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 35.99403,
+                    "longitude": -78.89862,
+                    "remote": false,
+                    "raw": "Durham, North Carolina, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-23T00:00:00.000Z",
+            "first_seen_at": "2026-11-04T11:00:55.061Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "67fa9b42-ce55-4a45-abaa-8ebcb9687134",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "83592c3c-acf7-452f-b77a-36bf0e3f8790",
+        "employer_name": {
+          "state": "known",
+          "value": "Xylem Services USA LLC"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "Xylem is a Fortune 500 global water solutions company dedicated to advancing sustainable impact and empowering the people who make water work every day. As a leading water technology company with 23,000 employees operating in over 150 countries, Xylem is at the forefront of addressing the world's most critical water challenges. We invite passionate individuals to join our team, dedicated to exceeding customer expectations through innovative and sustainable solutions.\n\nSenior AI Product Manager\n\nJob Summary\n\nThe **Senior AI Product Manager** will lead product strategy, roadmap, and delivery for foundational AI platform solutions, including xylem.ai, Xylem’s secure internal platform for generative and enterprise AI capabilities. This role translates enterprise AI strategy into reusable, governed, scalable platform capabilities that accelerate adoption, reduce duplicative work, improve productivity, and enable responsible AI use across Xylem.\n\nThe role partners closely with AI leadership, IT, Enterprise Architecture, Cybersecurity, Data Governance, Legal, Procurement, business stakeholders, and development teams to prioritize high-value capabilities, make sound platform decisions, and deliver secure, reusable AI products and services.\n\nThe successful candidate will combine strong product management discipline, technical depth, enterprise platform experience, and business acumen, with the ability to engage deeply with engineers and architects and contribute to prototyping, solution design, or architecture decisions when needed.\n\nEssential Duties/Principal Responsibilities\n\nKey Experiences\n\nThe successful candidate will typically have **10–15 years of relevant experience** across product management, enterprise platforms, software engineering, AI/ML, data, digital transformation, or related technical leadership roles.\n\n* Senior product management experience for enterprise platforms, AI/ML platforms, data platforms, SaaS products, or internal technology platforms.\n    \n\n* Demonstrated ownership of roadmaps, prioritization, backlog management, product requirements, release planning, adoption, and value realization.\n    \n\n* Hands-on technical depth with the ability to partner with engineers and architects and contribute to design, prototyping, architecture, and implementation tradeoffs.\n    \n\n* Experience delivering AI, generative AI, automation, or data-enabled products from concept through scalable deployment.\n    \n\n* Working knowledge of LLMs, RAG, AI agents, AI workflows, prompt orchestration, evaluation, telemetry, observability, APIs, cloud platforms, identity/access, and secure software practices.\n    \n\n* Experience applying governance, privacy, security, compliance, responsible AI, and risk-management requirements to product and platform decisions.\n    \n\n* Experience operating in complex, global, matrixed, or regulated environments preferred.\n    \n\nQualifications: Education\n\n* Bachelor’s degree in Computer Science, Engineering, Data Science, Information Systems, Product Management, Business, or related field preferred.\n    \n\n* Advanced degree preferred but not required.\n    \n\n* Equivalent combination of education, technical depth, product experience, and enterprise platform leadership experience may be considered.\n    \n\nQualifications: Leadership and Business Competencies\n\n* Strong business acumen with the ability to connect platform investments to productivity, operational efficiency, customer impact, risk reduction, growth enablement, and measurable value.\n    \n\n* Strategic thinker who can translate enterprise AI priorities into clear product decisions and execution plans.\n    \n\n* Strong prioritization, product judgment, and scope discipline, balancing value, feasibility, risk, security, compliance, user experience, and delivery capacity.\n    \n\n* Ability to translate technical concepts into business decisions and business needs into actionable requirements.\n    \n\n* Strong communication, stakeholder influence, and cross-functional leadership skills across technical teams, business teams, governance bodies, and senior leaders.\n    \n\n* Passion for responsible innovation, ethical AI, user-centered product development, and enterprise change leadership.\n    \n\nThe salary range for this position is $165,000 to $180,000 plus bonus. Starting pay is dependent on multiple factors, such as skills, experience, and work location, and is not typically at the top of the range. At Xylem, we offer a competitive compensation package with a generous benefit package, including Medical, Dental, and Vision plans, 401(k) with company contribution, paid time off, paid parental leave, and tuition reimbursement.\n\n#LI-SUTTONMOORE\n\nJoin the global Xylem team to be a part of innovative technology solutions transforming water usage, conservation, and re-use. Our products impact public utilities, industrial sectors, residential areas, and commercial buildings, with a commitment to providing smart metering, network technologies, and advanced analytics for water, electric, and gas utilities. Partner with us in creating a world where water challenges are met with ingenuity and dedication; where we recognize the power of inclusion and belonging in driving innovation and allowing us to compete more effectively around the world.\n\nAt Xylem, you'll not only contribute to solving water issues but also have the chance to make a difference through our paid Volunteer Program, Xylem Watermark. We prioritize our employees' well-being through inclusion and belonging as well as our Employee Resource Groups (ERG). Proud to be an Equal Employment Opportunity (including disability and veterans) and Affirmative Action workplace, Xylem fosters an inclusive environment free from discrimination or harassment.\n\nPlease note that the information in this job description outlines the general nature of the position and is not an exhaustive list of duties. Xylem is dedicated to providing reasonable accommodations to enable all employees to perform their essential job functions. We reserve the right to modify this job description and assign additional duties as needed. Embrace the opportunity to be part of Xylem's transformative journey in shaping the future of water technology! #XylemCareers #GlobalImpact #WaterInnovation\n\n  \n\nOur Talent Community is a great way to stay connected to learn\n\nmore about our high impact culture initiatives and latest career\n\nopportunities!\n\n  \n\nTell us more about yourself and help recruiters find you if there’s an opportunity that aligns with your\n\nbackground, skills and interests.\n\n  \n\nJoin our Talent Community Today!\n\n  \n\n# ****Want to know what kind of Impact you can make?****\n\n  \n\nOur goal is to optimize water access and quality, and promote responsible consumption, so that communities across the globe\n\ncan thrive. Through Xylem Watermark, our Corporate Citizenship Program, we provide and protect safe water resources for\n\ncommunities around the world by engaging all stakeholders and  educating about water issues.\n\nLearn more by clicking here – Working at Xylem  \n\n([https://www.xylem.com/en-us/careers/working-at-xylem/](https://www.xylem.com/en-us/careers/working-at-xylem/))\n\n  \n\n# ****Inclusion and Belonging at Xylem****\n\n  \n\nInclusion and Belonging are fundamental to how we enable our customers to tackle global water challenges. \n\nLearn more about our commitment to Inclusion and Belonging.\n\n([https://www.xylem.com/en-us/careers/inclusion-and-belonging/](https://www.xylem.com/en-us/careers/inclusion-and-belonging/))",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Charlotte",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37119",
+              "msa": {
+                "cbsa_code": "16740",
+                "cbsa_title": "Charlotte-Concord-Gastonia, NC-SC",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-09T20:15:05.729Z",
+        "curated_at": "2026-09-24T07:54:52.434Z",
+        "job_updated_at": "2026-11-03T19:08:00.855Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "a92d4ad8f1f44f0812ed670bcc5e8069d277523f0a59a068b243d631ef2523c0",
+            "source": "unknown",
+            "source_posting_id": "16cc8dc49e2e1001ef6d267a916f0000",
+            "posting_status": "no_longer_listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Charlotte-North-Carolina/Senior-AI-Product-Manager_R49957"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Charlotte-North-Carolina/Senior-AI-Product-Manager_R49957"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Charlotte, North Carolina",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-08-07T00:00:00.000Z",
+            "first_seen_at": "2026-09-09T20:15:05.729Z",
+            "last_completed_fetch_at": "2026-11-03T19:06:49.521Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16500000,
+                "max_cents": 18000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "f4266b27c3547b7c2de442eb9c57bdbe0905d29f5ac73dec756a563d29aeab6d",
+            "source": "workday",
+            "source_posting_id": "/job/Charlotte-North-Carolina/Senior-AI-Product-Manager_R49957",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Charlotte-North-Carolina/Senior-AI-Product-Manager_R49957"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Charlotte-North-Carolina/Senior-AI-Product-Manager_R49957"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Charlotte",
+                "state": "NC",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 165000,
+                "max": 180000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-02T00:00:00.000Z",
+            "first_seen_at": "2026-09-20T21:39:52.960Z",
+            "last_completed_fetch_at": "2026-11-03T19:06:49.521Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8e9deb1a-4237-4cfa-b2ad-dce06f816751",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "0faf6a9f-7b69-8949-887b-eb27a2f33725",
+        "employer_name": {
+          "state": "known",
+          "value": "Hewlett Packard Enterprise"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "AI Product Manager\n\nThis role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office.\n\n**Who We Are:**\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n**Job Description:**\n\n***Job Family Definition:***\n\nDesigns, plans, develops and manages a product or portfolio of products throughout the solution portfolio lifecycle: from new product definition or enhancements to existing products; planning, design, forecasting, and production; to end of life.\n\n***Management Level Definition:***\n\nContributions include applying developed subject matter expertise to solve common and sometimes complex technical problems and recommending alternatives where necessary. Might act as project lead and provide assistance to lower level professionals. Exercises independent judgment and consults with others to determine best method for accomplishing work and achieving objectives.\n\n***This is a remote position within the United States.*** Candidates maybe required to work a hybrid schedule if within close proximity to an HPE Office.\n\n***Responsibilities:***\n\n* Leads and drives the end to end strategy and operational product roadmap for a product\n* Defines the value proposition, target customer segments, and business case for platform capabilities and innovations, balancing customer outcomes with company-wide portfolio priorities, revenue impact, margins, and financial targets.\n* Translate market requirements into clear product requirements through having intimate customer knowledge and business, financial and industry market acumen\n* Advises and influences key stakeholders on platform and portfolio strategy across all phases of the lifecycle (e.g., planning, development, launch, management, exit)\n* Creates goal alignment and collaborates across value chain partners to drive successful delivery, adoption, and lifecycle management of platform capabilities, enabling effective go-to-market execution and optimized business outcomes.\n\n***Education and Experience Required:***\n\n* Bachelor's degree or equivalent in computer science, engineering or related field of study. MBA or advanced degree in computer science or engineering preferred.\n* 4+ years of work experience in related field.\n* Technical understanding and knowledge of the relevant industry.\n\n***Knowledge and Skills:***\n\n* Demonstrated ability to develop product strategy, including the application of AI driven capabilities, and lead teams to achieve results.\n* Strong business acumen with the ability to use data, analytics, and AI-enabled insights to uncover systemic issues, guide root cause analysis, and enable proactive improvements across support platforms and portals.\n* Demonstrated skills in cost efficient solution building, financial performance metric creation and analysis.\n* Technical understanding and knowledge of networking support industry and ability to translate AI and cloud-based solutions into product-specific guidance and technical enablement for teams.\n\n**Accessibility**\n\n  \n\nHPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities. If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked [here](https://people.hpe.com/s/externalcase/candidate-support).\n\n  \n\nNote: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.\n\n**What We Can Offer You:**\n\n**Health & Wellbeing**\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n**Personal & Professional Development**\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n**Unconditional Inclusion**\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n**Let's Stay Connected:**\n\nFollow [@HPECareers](http://instagram.com/hpecareers) on Instagram to see the latest on people, culture and tech at HPE.\n\n**Job:**\n\nEngineering\n\n**Job Level:**\n\nTCP\\_04\n\n\"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.  \n– United States of America: Annual Salary USD 136,500 - 276,500 in California // 120,500 - 276,500 in Georgia & North Carolina & Texas  \nThe listed salary range reflects base salary. Variable incentives may also be offered.\"\n\nInformation about employee benefits offered in the US can be found at [https://myhperewards.com/main/new-hire-enrollment.html](https://myhperewards.com/main/new-hire-enrollment.html)\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: [Equal Employment Opportunity](https://hr.ext.hpe.com/Equal-employment-opportunity-policy.pdf).\n\n**Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.**\n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n**Recruitment Fraud Alert**\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.\n\n  \n\n**Hewlett Packard Enterprise**\n\nTechnology innovation that fosters business transformation.\n\n[We Are In the Acceleration Business](https://www.hpe.com/us/en/about.html)\n\nWe help customers use technology to slash the time it takes to turn ideas into value. In turn, they transform industries, markets and lives.\n\nSome of our customers run traditional IT environments. Most are transitioning to a secure, cloud-enabled, mobile-friendly infrastructure. Many rely on a combination of both. Wherever they are in that journey, we provide the technology and solutions to help them succeed.\n\n**Standards of Business Conduct (SBC)**\n\nThe Hewlett Packard Enterprise Standards of Business Conduct (SBC) embody the fundamental principles that govern our ethical and legal obligations to Hewlett Packard Enterprise. They pertain not only to our conduct within the company but also to conduct involving our customers, channel partners, suppliers and competitors.\n\nRead more about how we [**win the right way.**](http://investors.hpe.com/governance/sbc)\n\n**Equal Opportunity Employer (EEO)**\n\nHewlett Packard Enterprise provides equal employment opportunity to any employee or applicant without regard to sex, gender, color, race, ethnicity, religion, creed, national origin, ancestry, citizenship, age, marital status, sexual orientation, gender identity and expression, physical or mental disability, medical condition, pregnancy, protected veteran status, uniformed service status, familial status, genetic information, political affiliation, or any other characteristic protected by federal, state, or local law.\n\nIf you’d like more information about your EEO right as an applicant under the law, please click here: Know Your Rights.\n\n**[Equal Employment Opportunity is the Law](https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf)**\n\n**[Equal Employment Opportunity is the Law - Supplement](https://www.eeoc.gov/employers/upload/eeoc_gina_supplement.pdf)**\n\n**E-Verify** **(US & PR only)**  \nHPE is an E-Verify employer. E-Verify is an Internet-based system that compares information from an employee's Form I-9, Employment Eligibility Verification, to data from U.S. Department of Homeland Security and Social Security Administration records to confirm the employment eligibility of all newly hired employees. For more information [click here](https://www.e-verify.gov/about-e-verify/what-is-e-verify).\n\n**Accessibility**\n\nHPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities.  If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked [here](https://people.hpe.com/s/externalcase/candidate-support).\n\nNote: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.\n\n**Disclosure of Sensitive Personal Data**\n\nPlease ensure the resume you submit to us does not include any sensitive personal data.  Sensitive personal data includes data revealing information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, sex life or sexual orientation.  To the extent the resume you submit does contain this type of personal data, you consent to the storing and processing of this data by HPE for the purpose of reviewing and managing your application.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_unmapped",
+          "value": null,
+          "evidence": [
+            "jobPostingInfo.jobDescription",
+            "remote; role has been designed as ‘’Onsite’"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Roseville",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06061",
+              "msa": {
+                "cbsa_code": "40900",
+                "cbsa_title": "Sacramento-Roseville-Folsom, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "All",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "All",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "All",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-24T12:04:35.152Z",
+        "curated_at": "2026-09-26T05:32:12.218Z",
+        "job_updated_at": "2026-11-02T18:13:34.427Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12050000,
+                "max_cents": 27650000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 13650000,
+                "max_cents": 27650000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "b5882ff2b4a9c09926b97ef87a38d075fa159d83e1351740d90ca48bd7bcd0ae",
+            "source": "workday",
+            "source_posting_id": "/job/Roseville-California/AI-Product-Manager_1202960-2",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California/AI-Product-Manager_1202960-2"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California/AI-Product-Manager_1202960-2"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Roseville",
+                "state": "CA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "All",
+                    "state": "GA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "All, Georgia, United States of America"
+                  },
+                  {
+                    "city": "All",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "All, North Carolina, United States of America"
+                  },
+                  {
+                    "city": "All",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "All, Texas, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 136500,
+                "max": 276500,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 120500,
+                    "max": 276500,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 136500,
+                    "max": 276500,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-09-17T00:00:00.000Z",
+            "first_seen_at": "2026-09-24T12:04:35.152Z",
+            "last_completed_fetch_at": "2026-11-02T18:51:01.711Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 37,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:50:30.802Z"
+  },
+  "response_usage": {
+    "charged": "8",
+    "remaining": "96673",
+    "request_id": "b81d9691-b0df-40cc-af6f-471cf30c9b75"
+  }
+}

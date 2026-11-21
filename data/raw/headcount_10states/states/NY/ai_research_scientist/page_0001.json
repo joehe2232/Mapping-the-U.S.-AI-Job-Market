@@ -1,0 +1,1958 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:44:48.600929+00:00",
+  "state_filter": "NY",
+  "title_filter": "AI research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "NY",
+    "title": "AI research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "10cc5e85-99ad-412f-9739-7a801d3f8275",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, CoreML - Monetization AI"
+        },
+        "description": {
+          "state": "known",
+          "value": "We are the Monetization Ranking AI Research organization, dedicated to delivering personalized ads that maximize both user utility and advertiser value. We focus on advancing AI and ML technologies for all aspects of Monetization, including ranking, retrieval, model architecture, and optimization. By consistently integrating cutting-edge AI/ML advancements, we help Meta’s products achieve long-term goals and have contributed tens of billions in revenue. With our growing impact, we’re seeking AI Research Scientists to join our team and drive SOTA research across the Monetization organization.\n\nResponsibilities\nDevelop and implement large-scale model architectures, leveraging model scaling and transfer learning techniques\nPrioritize training scalability and signal scaling to optimize model performance, efficiency, and reliability\nDevelop and apply NextGen sequence learning techniques to drive advancements in natural language processing and understanding\nDesign and implement generative modeling solutions for data augmentation\nResearch and develop graph-aware large language models\nDevelop and deploy AutoML pipelines\nApply Reinforcement Learning (RL) techniques, including long-term value optimization, RLHF, and RL4Reason\nUse causal learning to identify and understand the cause and effect of relationships across data\nCollaborate with cross-functional teams to design and optimize ML systems, leveraging expertise in hardware-software co-design, including quantization, compression, and resource-efficient AI, to drive performance improvements and efficiency gains\nDevelop and implement innovative solutions for data-related challenges, utilizing knowledge of semi/self-supervised learning, generative techniques, sampling, debiasing, domain adaptation, continual learning, data augmentation, cold-start, content understanding, and large language models\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nHas obtained a PhD in Computer Science, Computer Engineering, Artificial Intelligence, Machine Learning, or relevant technical field\nExperience holding an industry, faculty, or government researcher position\nResearch experience in natural language processing, large language modeling, deep learning, reinforcement learning, recommendations, ranking, search, or related areas\nPublications in machine learning, artificial intelligence, or related field\nProgramming experience in Python and hands-on experience with frameworks such as PyTorch\nMust obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment Experience taking ideas from research to production.\nFirst author publications at peer-reviewed AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL).\nExperience solving complex problems and comparing alternative solutions, tradeoffs, and different perspectives to determine a path forward."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "remote"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Sunnyvale",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Mateo",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Bellevue",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Santa Clara",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Fremont",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06001",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T08:07:59.322Z",
+        "curated_at": "2026-11-20T01:22:04.228Z",
+        "job_updated_at": "2026-11-20T01:22:04.228Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "982c29c933c8e4c1eb32b7a395b30f53a40710582340b65f3b4a7986cbf01230",
+            "source": "employer_site",
+            "source_posting_id": "1380974339703907",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1380974339703907/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1380974339703907/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Sunnyvale",
+                "state": "CA",
+                "country": "US",
+                "remote": true,
+                "alternatives": [
+                  {
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Sunnyvale, CA"
+                  },
+                  {
+                    "city": "San Mateo",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "San Mateo, CA"
+                  },
+                  {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Bellevue, WA"
+                  },
+                  {
+                    "city": "Menlo Park",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Menlo Park, CA"
+                  },
+                  {
+                    "city": "Santa Clara",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Santa Clara, CA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "San Francisco, CA"
+                  },
+                  {
+                    "city": "Fremont",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Fremont, CA"
+                  },
+                  {
+                    "country": "US",
+                    "remote": true,
+                    "raw": "Remote, US"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-04-02T21:49:35.000Z",
+            "first_seen_at": "2026-09-21T08:07:59.322Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "b4058259-7af6-40ea-8870-d686081100ab",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "2a18eec0-fad7-86d5-ab1b-378a371572a4",
+        "employer_name": {
+          "state": "known",
+          "value": "Datadog"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist - Datadog AI Research (DAIR)"
+        },
+        "description": {
+          "state": "known",
+          "value": "As a Research Scientist on our team, you will partner with Research Engineers, working on fundamental research problems and collaborating with Datadog’s Product and Engineering teams to help translate research advances into tangible benefits for our customers.\n\nBuilding on our proven track record of delivering AI-powered solutions, including [Bits AI](https://www.datadoghq.com/blog/bits-ai-sre/), [Toto 2.0](https://www.datadoghq.com/blog/ai/toto-2/), and [Scout](https://www.datadoghq.com/blog/ai/introducing-scout-sre-specialized-model-bits-ai/), Datadog AI Research (DAIR) pursues ambitious, high-risk, high-reward research initiatives focused on solving real-world challenges in cloud observability and security.\n\nWe are currently focused on two key research areas:\n\n1.  **Observability Foundation Models** – Building state-of-the-art models for advanced forecasting, anomaly detection, and multi-modal telemetry analysis (logs, metrics, traces, etc.). These models will also provide the foundation for our decision models to natively analyze telemetry data.\n2.  **Observability Native Decision Models**  – Developing multimodal (logs, traces, metrics, text, images, ...) hybrid decision and reasoning models that are general and efficient enough to be watching your entire system continuously and effectively. Building and training hybrid Decision/Generative systems, e.g., decision models call on agentic models for deeper investigations or support evidence.\n\n**What You’ll Do:**\n\n* Conduct cutting-edge research in Generative AI and Machine Learning, aiming to build specialized Foundation Models and AI Agents for observability, site reliability engineering, and code repair\n* Leverage large-scale distributed training infrastructure to pre-train and post-train state-of-the-art models on diverse, real-world telemetry data\n* Build simulated environments to facilitate on-policy agentic training and evaluation.\n* Share research findings with external audiences upon reaching significant project milestones.\n* Collaborate with cross-functional teams (e.g., Product, Engineering) to integrate advanced AI capabilities – like multi-modal analysis or automated incident resolution planning – into Datadog’s product ecosystem\n* Stay at the forefront of LLMs, Foundation Models, and Generative AI research and engage with the external research community\n* Foster a culture of scientific rigor, innovation, and practical impact, e.g., by actively participating in reading groups and mentoring interns\n\n**Who You Are:**\n\n* You hold a PhD in Computer Science, Machine Learning, or a related field, with deep expertise in areas like generative modeling, AI agents, decision models or reinforcement learning (or have equivalent experience)\n* You possess extensive experience in designing and implementing deep learning models and agents, and have a strong background in distributed training frameworks (e.g., DeepSpeed, Megatron-LM) and ML libraries (PyTorch, TensorFlow)\n* You have a proven track record of conducting impactful research in the field with publications at top-tier venues (e.g., NeurIPS, ICLR, ICML, TMLR)\n* You're familiar with efficient training, post-training, fine-tuning, and inference techniques for large foundation models\n* You excel at explaining complex models and research findings to both technical and non-technical audiences\n* You have strong interest in open-science and open-source contributions, including establishing rigorous benchmarks and sharing research with the community\n\n**Bonus Points (any of the following):**\n\n* You have a demonstrated ability to bridge cutting-edge research and real-world product applications, ideally with an emphasis on large foundation models, generative AI agents, or domain-specific LLM deployments.\n* You’re passionate about pushing the boundaries of AI while maintaining a strong focus on customer impact, scalability, and responsible deployment of new technologies\n* You have experience writing production data pipelines and applications\n* You have hands-on experience with GPU programming and optimization, including experience in CUDA\n\n*Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about AI Research and want to grow your skills, we encourage you to apply.*\n\nDatadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate's skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.\n\nThe reasonably estimated yearly salary for this role at Datadog is:\n\n$320,000—$400,000 USD\n\n* * *\n\n**About Datadog:**\n\nDatadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on [Instagram](https://www.instagram.com/datadoghq/?hl=en), [LinkedIn,](https://www.linkedin.com/company/datadog) and [Datadog Learning Center.](https://learn.datadoghq.com/)\n\n* * *\n\n**Equal Opportunity at Datadog:**\n\nDatadog is proud to offer [equal employment opportunity](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf) to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our [Candidate Legal Notices](https://www.datadoghq.com/legal/candidate-legal-notices/) for your reference.\n\nDatadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform). This form is for accommodation requests only and cannot be used to inquire about the status of applications.\n\n**Privacy and AI Guidelines:**\n\nAny information you submit to Datadog as part of your application will be processed in accordance with Datadog’s [Applicant and Candidate Privacy Notice](https://www.datadoghq.com/legal/applicant-candidate-privacy/). For information on our AI policy, please visit [Interviewing at Datadog AI Guidelines](https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Pittsburgh",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42003",
+              "msa": {
+                "cbsa_code": "38300",
+                "cbsa_title": "Pittsburgh, PA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T02:04:52.645Z",
+        "curated_at": "2026-11-12T20:56:03.973Z",
+        "job_updated_at": "2026-11-13T21:05:19.723Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 32000000,
+                "max_cents": 40000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "12c73ffa3f8dd4f22604f6a6aa11a0297e638c6f44d1186d8c0cafd596a4165d",
+            "source": "greenhouse",
+            "source_posting_id": "6572669",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "NY",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Pittsburgh, Pennsylvania, USA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 320000,
+                "max": 400000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 320000,
+                    "max": 400000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "The reasonably estimated yearly salary for this role at Datadog is:"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2025-01-24T14:48:23.000Z",
+            "first_seen_at": "2026-09-21T02:04:52.645Z",
+            "last_completed_fetch_at": "2026-11-19T11:30:05.265Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "bcec137c-c7a4-4296-8cb4-8838583d3358",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "8adfb9f0-c01a-84a2-9c81-b64e89338d39",
+        "employer_name": {
+          "state": "known",
+          "value": "WRITER"
+        },
+        "title": {
+          "state": "known",
+          "value": "Staff/Sr. Staff/Principal AI research scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "🚀 ABOUT WRITER\n\nWRITER is the AI platform built for the world’s most ambitious marketing and revenue teams, bringing the frontier of AI to the people who drive enterprise growth. With WRITER, autonomous agents work across the buyer journey, continuously executing on market signals and enterprise intelligence to grow revenue faster. Every agent action and asset is grounded in trust, built on an Enterprise Brain that unites brand, product, and company knowledge with fiduciary-grade governance and compliance.\n\nFortune 500 companies are transforming how they go to market with WRITER, including 3 of the top 5 US banks, 2 of the 5 largest global CPG conglomerates, and 4 of the top 5 US healthcare insurers. Founded in 2020, WRITER is backed by investors including Insight Partners, ICONIQ, Radical Ventures, Premji Invest, Balderton, B Capital, Salesforce Ventures, Adobe Ventures, Accenture, Citi Ventures, IBM Ventures, WndrCo, and others. Learn more at WRITER.com http://WRITER.com.\n\n📐 ABOUT THE ROLE\n\nAI research at WRITER isn't just about publishing papers; it's about building the scientific foundation that powers some of the most ambitious enterprise AI deployments in the world. As an AI research scientist, you'll be at the center of that work. You'll drive a high-impact research agenda focused on large language models, agentic reasoning, and the system-level capabilities that make AI genuinely useful at enterprise scale. This is a rare opportunity to do research that matters twice over: advancing the field and shipping directly into products used by hundreds of thousands of people every day.\n\nWe're at an inflection point. Enterprises are moving from experimenting with AI to deeply embedding it across their operations, and WRITER's models are the engine making that possible. The work you do here—on post-training, planning, multi-step reasoning, and agentic workflows—will directly shape how the next generation of enterprise AI behaves, performs, and scales. You'll have the resources, infrastructure, and cross-functional support to pursue ambitious ideas and bring them to life quickly.\n\nThis role is hybrid, based out of our San Francisco or New York City hub. You’ll report to our VP of AI research.\n\nPlease note: role is open to Staff, and Sr. Staff applicants\nWe are open to hiring for this role at multiple levels, with compensation ranges scaled to match your experience, expertise, and the scope of the role.\n\n🦸🏻‍♀️ WHAT YOU'LL DO\n\n- Lead an independent, high-impact research agenda on large language models and agentic systems, owning projects from early hypothesis through model training, evaluation, and production deployment\n\n- Design and execute large-scale post-training experiments using supervised fine-tuning, reinforcement learning from human feedback (RLHF), RLAIF, DPO, and emerging alignment techniques, with a focus on improving multi-step reasoning, planning, and tool use in enterprise agentic workflows\n\n- Build novel evaluation benchmarks and methodologies that push beyond existing limitations, establishing rigorous measures for how well models perform on complex, real-world enterprise tasks\n\n- Develop scalable data synthesis and curation pipelines that generate the high-quality training signal driving model improvement, including LLM-as-judge frameworks, synthetic data generation, and adversarial dataset construction\n\n- Shape WRITER's model architecture and training roadmap by translating your research insights into concrete improvements to our enterprise-grade LLMs, working hand-in-hand with research engineering and product teams\n\n- Publish and present original research at top-tier venues—NeurIPS, ICLR, ICML, ACL, and others—representing WRITER at the frontier of the field and contributing to the broader scientific community\n\n- Mentor and uplevel fellow researchers and engineers on the team, helping set a high bar for scientific rigor, experimental design, and research culture\n\n⭐️ WHAT YOU NEED\n\n- 7+ years of hands-on ML research experience, with deep expertise in large language model pre-training and post-training — you've trained models at scale, debugged distributed jobs, and shipped improvements that made a measurable difference\n\n- A Ph.D. in Computer Science, Machine Learning, NLP, or a related field, or equivalent demonstrated research experience with a strong portfolio of independent, published work\n\n- Expert-level knowledge of post-training methods including SFT, RLHF, RLAIF, DPO, GRPO, and related alignment and reasoning techniques, with a track record of applying them to real, production-grade systems\n\n- Strong command of Python and PyTorch (or JAX), with the engineering depth to build and scale training pipelines, evaluation infrastructure, and data synthesis workflows yourself — not just direct others to do it\n\n- A meaningful publication record at competitive ML/AI venues (NeurIPS, ICLR, ICML, ACL, EMNLP, or equivalent), evidencing your ability to originate ideas and execute on a multi-month research agenda independently\n\n- Hands-on experience designing or evaluating agentic systems: models that plan, reason through multi-step tasks, use tools, and recover gracefully from errors, with a nuanced understanding of where they break and how to fix them\n\n- The instincts and orientation that match WRITER's values:\n\n- you Connect: you collaborate openly across research, engineering, and product and communicate complex ideas with clarity to both technical and non-technical audiences\n\n- you Challenge: you ask the hard questions, push back on conventional wisdom, and pursue the research directions others haven't tried yet\n\n- you Own: you drive your projects end-to-end with urgency, take accountability for results, and care deeply about the impact your work has on real customers\n\n🍩 Benefits & perks (US Full-time employees)\n\n- Generous PTO, plus company holidays\n\n- Medical, dental, and vision coverage for you and your family\n\n- Paid parental leave for all parents (16 weeks)\n\n- Fertility and family planning support\n\n- Early-detection cancer testing through Galleri https://www.galleri.com/partner/writer\n\n- Flexible spending account and dependent FSA options\n\n- Health savings account for eligible plans with company contribution\n\n- Annual work-life stipends for:\n\n- Wellness stipend for gym, massage/chiropractor, personal training, etc.\n\n- Learning and development stipend\n\n- Company-wide off-sites and team off-sites\n\n- Competitive compensation, company stock options and 401k\n\nWRITER is an equal-opportunity employer and is committed to diversity. We don't make hiring or employment decisions based on race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Under the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nBy submitting your application on the application page, you acknowledge and agree to WRITER's Global Candidate Privacy Notice https://writer.com/legal/candidate-privacy-notice/."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York City",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-12T20:06:15.959Z",
+        "curated_at": "2026-11-12T20:06:45.396Z",
+        "job_updated_at": "2026-11-13T20:15:02.787Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 23400000,
+                "max_cents": 38400000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "6db866032ee34d5c58ae6b6a869ef84e48a6882c2a933726e85d89b50ffcf4f6",
+            "source": "ashby",
+            "source_posting_id": "ecd2d026-b6a8-4f3c-9af0-bc2da1ef0ee2",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/WRITER/ecd2d026-b6a8-4f3c-9af0-bc2da1ef0ee2"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/WRITER/ecd2d026-b6a8-4f3c-9af0-bc2da1ef0ee2/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "New York City",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": false,
+                    "raw": "New York City, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 234000,
+                "max": 384000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 234000,
+                    "max": 384000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "Base Compensation $234K – $384K • Offers Equity"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-11-12T00:51:19.822Z",
+            "first_seen_at": "2026-11-12T20:06:15.959Z",
+            "last_completed_fetch_at": "2026-11-19T14:21:01.211Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "57ecfec3-af5c-4897-9be2-2f4d28c02734",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "8adfb9f0-c01a-84a2-9c81-b64e89338d39",
+        "employer_name": {
+          "state": "known",
+          "value": "WRITER"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI research scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "🚀 ABOUT WRITER\n\nWRITER is the AI platform built for the world’s most ambitious marketing and revenue teams, bringing the frontier of AI to the people who drive enterprise growth. With WRITER, autonomous agents work across the buyer journey, continuously executing on market signals and enterprise intelligence to grow revenue faster. Every agent action and asset is grounded in trust, built on an Enterprise Brain that unites brand, product, and company knowledge with fiduciary-grade governance and compliance.\n\nFortune 500 companies are transforming how they go to market with WRITER, including 3 of the top 5 US banks, 2 of the 5 largest global CPG conglomerates, and 4 of the top 5 US healthcare insurers. Founded in 2020, WRITER is backed by investors including Insight Partners, ICONIQ, Radical Ventures, Premji Invest, Balderton, B Capital, Salesforce Ventures, Adobe Ventures, Accenture, Citi Ventures, IBM Ventures, WndrCo, and others. Learn more at WRITER.com http://WRITER.com.\n\n📐 ABOUT THE ROLE\n\nAI research at WRITER isn't just about publishing papers; it's about building the scientific foundation that powers some of the most ambitious enterprise AI deployments in the world. As an AI research scientist, you'll be at the center of that work. You'll drive a high-impact research agenda focused on large language models, agentic reasoning, and the system-level capabilities that make AI genuinely useful at enterprise scale. This is a rare opportunity to do research that matters twice over: advancing the field and shipping directly into products used by hundreds of thousands of people every day.\n\nWe're at an inflection point. Enterprises are moving from experimenting with AI to deeply embedding it across their operations, and WRITER's models are the engine making that possible. The work you do here—on post-training, planning, multi-step reasoning, and agentic workflows—will directly shape how the next generation of enterprise AI behaves, performs, and scales. You'll have the resources, infrastructure, and cross-functional support to pursue ambitious ideas and bring them to life quickly.\n\nThis role is hybrid, based out of our San Francisco or New York City hub. You’ll report to our VP of AI research.\n\nPlease note: role is open to Senior applicants\nWe are open to hiring for this role at multiple levels, with compensation ranges scaled to match your experience, expertise, and the scope of the role.\n\n🦸🏻‍♀️ WHAT YOU'LL DO\n\n- Work on a high-impact research agenda on large language models and agentic systems, being a core member of a team working on projects involving data synthesis, novel model architectures, model training, evaluation, and production deployment\n\n- Help design and execute post-training experiments using supervised fine-tuning, reinforcement learning from human feedback (RLHF), RLAIF, DPO, etc., and emerging alignment techniques, with a focus on improving multi-step reasoning, planning, and tool use in enterprise agentic workflows\n\n- Build novel evaluation benchmarks and methodologies that push beyond existing limitations, establishing rigorous measures for how well models perform on complex, real-world enterprise tasks\n\n- Develop scalable data synthesis and curation pipelines that generate the high-quality training signal driving model improvement, including LLM-as-judge frameworks, synthetic data generation, and adversarial dataset construction\n\n- Shape WRITER's model architecture and training roadmap by translating your research insights into concrete improvements to our enterprise-grade LLMs, working hand-in-hand with research engineering and product teams\n\n- Publish and present original research at top-tier venues—NeurIPS, ICLR, ICML, ACL, and others—representing WRITER at the frontier of the field and contributing to the broader scientific community\n\n- Work closely with fellow researchers and engineers on the team, helping set a high bar for scientific rigor, experimental design, and research culture\n\n⭐️ WHAT YOU NEED\n\n- 4+ years of hands-on ML research experience (can include years obtaining advanced degree), with deep expertise in large language model pre-training and post-training — you've trained models at scale, debugged distributed jobs, and shipped improvements that made a measurable difference\n\n- A Ph.D. in Computer Science, Machine Learning, NLP, or a related field, or equivalent demonstrated research experience with a strong portfolio of independent, published work\n\n- Expert-level knowledge of post-training methods including SFT, RLHF, RLAIF, DPO, GRPO, and related alignment and reasoning techniques, with a track record of applying them to real, production-grade systems\n\n- Strong command of Python and PyTorch (or JAX), with the engineering depth to build and scale training pipelines, evaluation infrastructure, and data synthesis workflows yourself — not just direct others to do it\n\n- One or more publications at a competitive ML/AI venue (NeurIPS, ICLR, ICML, ACL, EMNLP, or equivalent), evidencing your ability to originate ideas and execute on a multi-month research agenda independently\n\n- Hands-on experience designing or evaluating agentic systems: models that plan, reason through multi-step tasks, use tools, and recover gracefully from errors, with a nuanced understanding of where they break and how to fix them\n\n- The instincts and orientation that match WRITER's values:\n\n- you Connect: you collaborate openly across research, engineering, and product and communicate complex ideas with clarity to both technical and non-technical audiences\n\n- you Challenge: you ask the hard questions, push back on conventional wisdom, and pursue the research directions others haven't tried yet\n\n- you Own: you drive your projects end-to-end with urgency, take accountability for results, and care deeply about the impact your work has on real customers\n\n🍩 Benefits & perks (US Full-time employees)\n\n- Generous PTO, plus company holidays\n\n- Medical, dental, and vision coverage for you and your family\n\n- Paid parental leave for all parents (16 weeks)\n\n- Fertility and family planning support\n\n- Early-detection cancer testing through Galleri https://www.galleri.com/partner/writer\n\n- Flexible spending account and dependent FSA options\n\n- Health savings account for eligible plans with company contribution\n\n- Annual work-life stipends for:\n\n- Wellness stipend for gym, massage/chiropractor, personal training, etc.\n\n- Learning and development stipend\n\n- Company-wide off-sites and team off-sites\n\n- Competitive compensation, company stock options and 401k\n\nWRITER is an equal-opportunity employer and is committed to diversity. We don't make hiring or employment decisions based on race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Under the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nBy submitting your application on the application page, you acknowledge and agree to WRITER's Global Candidate Privacy Notice https://writer.com/legal/candidate-privacy-notice/."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York City",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-12T20:06:15.959Z",
+        "curated_at": "2026-11-12T20:06:43.654Z",
+        "job_updated_at": "2026-11-13T20:15:01.490Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 16800000,
+                "max_cents": 23300000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "e4cdee44baeb65180f77bbe87e96059d2f1a8153907d9f2d760be0878f4e68af",
+            "source": "ashby",
+            "source_posting_id": "2934dd8c-cf65-4a2c-a1b4-6693772cc6a1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/WRITER/2934dd8c-cf65-4a2c-a1b4-6693772cc6a1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/WRITER/2934dd8c-cf65-4a2c-a1b4-6693772cc6a1/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "New York City",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": false,
+                    "raw": "New York City, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 168000,
+                "max": 233000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 168000,
+                    "max": 233000,
+                    "currency": "USD",
+                    "interval": "year",
+                    "label": "Base Compensation $168K – $233K • Offers Equity"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-11-12T00:51:04.732Z",
+            "first_seen_at": "2026-11-12T20:06:15.959Z",
+            "last_completed_fetch_at": "2026-11-19T14:21:01.211Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "75f484de-73b6-4457-a9c5-266d3b6faf17",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, FAIR Security, Privacy, and Reliability"
+        },
+        "description": {
+          "state": "known",
+          "value": "The FAIR Security, Privacy, and Reliability team breaks and fixes agents and the foundational models that power them. We conduct fundamental research to discover novel attacks, measure privacy, and find non-intuitive breaks in robustness. We frequently contribute those benchmarks to Meta's model Evaluation Reports and have published many of them in top research venues, earning top-1% recognition at ICLR and ICML. The team also lands novel post-training mitigations for these risks in both the open-source line of models and has multiple opportunities for direct research-to-production.\n\nResponsibilities\nConduct fundamental research to discover novel safety and security failures, robust approaches to measuring memorization risk or reliability failures in AI agents and foundational models,\nDevelop and contribute benchmarks to Meta's foundational model evaluation suite and/or the Evaluation Reports\nDesign and implement novel post-training mitigations for safety, security, privacy, and reliability risks in foundation models\nCollaborate with cross-functional teams to translate research into production systems\n\nQualifications\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\nPhD in Computer Science, Machine Learning, or related field, or equivalent practical experience\nResearch experience in at least one of the following areas: safety, security, privacy, or robustness of AI models; adversarial machine learning; indirect prompt injections or jailbreaks; contextual integrity or memorization; reward hacking or other agent reliability failures; testing or mitigating foundation models for catastrophic risk (CBRNE, cyber, loss of control); or developing mitigations in any of these areas Track record of publications in top-tier research venues"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-13T19:20:47.535Z",
+        "curated_at": "2026-11-13T19:22:14.756Z",
+        "job_updated_at": "2026-11-13T19:22:14.756Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "8769108c730ced7c58f79f3e7b3cb9b270dc2ae029aa8edd53fb80b87dc2dbfc",
+            "source": "employer_site",
+            "source_posting_id": "1482970387066899",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1482970387066899/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1482970387066899/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Menlo Park",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Menlo Park, CA"
+                  },
+                  {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Seattle, WA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "San Francisco, CA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-13T13:13:47.000Z",
+            "first_seen_at": "2026-11-13T19:20:47.535Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "2d8a54a7-61ec-49d6-bc55-e30755a800cb",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "bdc5d621-8fd2-88bd-a921-6b9dc0ae63e3",
+        "employer_name": {
+          "state": "known",
+          "value": "Cogent Security"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "ABOUT COGENT\n\nCogent is an Applied AI Lab building the next generation of AI agents for cybersecurity. AI has fundamentally changed how attacks happen, allowing malicious actors to operate at unprecedented speed and scale. Cogent’s \"AI Taskforce\" assesses petabytes of enterprise data to remediate these issues before critical breaches occur.\n\nTo stay at the cutting edge, we blend frontier research with real-world execution. Alongside our core product work, Cogent Research serves as our applied AI lab, providing the research horsepower needed to make truly agentic security workflows a reality.\n\nSince coming out of stealth, Cogent has experienced rapid growth. We partner with Fortune 500 companies to secure some of the most complex production environments in the world.\n\nWe’re backed by Greylock and we’ve built a team with the best minds in applied AI. Our team is comprised of people from:\n\n- Top universities like Stanford, Berkeley, Penn, Duke, Carnegie Mellon, Waterloo\n\n- Unicorn, high-growth companies like Scale AI, Databricks, Stripe, Tesla, Coinbase\n\n- World class cybersecurity experts from Wiz, Abnormal AI, Zscaler\n\n- Preeminent research labs like Deepmind and SAIL\n\nABOUT THE ROLE\n\nCogent Research is the applied AI lab at the heart of Cogent's mission. As a Research Scientist, you will drive foundational and applied research at the frontier of automated reasoning and AI-driven code analysis — producing work that is both scientifically rigorous and directly impactful in the real world.\n\nWe are looking for someone who thrives in ambiguity, invents novel solutions when existing ones fall short, and has the flexibility to change course when initial ideas don't pan out. If you have deep expertise in automated reasoning, a strong publication or artifact track record, and a passion for making the world's infrastructure safer, we want to hear from you.\n\nWHAT YOU’LL DO & ACHIEVE\n\n- Drive original, high-impact research in automated reasoning, code analysis, and AI-driven security, from early hypothesis through publication-quality results\n\n- Invent and apply novel AI techniques to challenges in code reasoning and code generation, advancing the state of the art\n\n- Develop significant research artifacts, tools, or systems that have real-world impact inside Cogent and in the broader research community\n\n- Design and execute automated testing and fuzzing strategies to validate systems under development\n\n- Publish findings at top-tier conferences and peer-reviewed journals\n\n- Collaborate with engineering and product teams to translate research into Cogent's core AI platform\n\n- Stay at the cutting edge of developments in ML, program analysis, and formal methods — and help shape Cogent's research direction\n\nWHAT YOU’LL BRING\n\n- Extensive Experience in Automated Reasoning: Deep hands-on expertise in static/dynamic analysis, formal verification, and/or automated testing and fuzzing\n\n- AI Expertise: Proven experience developing or applying AI/ML techniques to code reasoning or code generation problems\n\n- Education: An MSc or PhD/DPhil in Computer Science or a closely related technical field\n\n- Proven Track Record: Demonstrated impact through publications at top-tier conferences, significant artifacts developed in a professional setting, or widely-adopted open-source contributions\n\n- Independence: A highly self-directed, proactive, and self-starting attitude — you identify problems, propose solutions, and drive them to completion\n\n- Mission Alignment: A genuine passion for Cogent's mission and a belief that this work matters\n\nBONUS POINTS:\n\n- Experience in cybersecurity — knowledge of vulnerability classes, exploit techniques, or secure-by-design systems\n\n- Familiarity with Cloud Infrastructure as Code (IaC) — tools like Terraform, Pulumi, CDK, or equivalent\n\nFOR CALIFORNIA BASED APPLICANTS\n\nThe standard base salary range for this position is $100,000 - $300,000 annually. Compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits.\n\nWe are committed to building an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-07T21:37:12.741Z",
+        "curated_at": "2026-10-03T03:24:25.328Z",
+        "job_updated_at": "2026-11-13T18:48:03.927Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "02b7a7846764c674ac821912a6c5a33bb357eb28ed4a853d747996f764596bc9",
+            "source": "ashby",
+            "source_posting_id": "ce972e7a-d724-46a5-873c-9b2ba8397bb8",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/cogent-security/ce972e7a-d724-46a5-873c-9b2ba8397bb8"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/cogent-security/ce972e7a-d724-46a5-873c-9b2ba8397bb8/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Francisco",
+                "state": "California",
+                "country": "US",
+                "countryRaw": "United States",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-08-03T15:13:37.454Z",
+            "first_seen_at": "2026-09-07T21:37:12.741Z",
+            "last_completed_fetch_at": "2026-11-19T12:02:01.837Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "068d58ea-2b17-4f0b-b70f-6d1cf175ebd5",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, FAIR Security, Privacy, and Reliability"
+        },
+        "description": {
+          "state": "known",
+          "value": "The FAIR Security, Privacy, and Reliability team breaks and fixes agents and the foundational models that power them. We conduct fundamental research to discover novel attacks, measure privacy, and find non-intuitive breaks in robustness. We frequently contribute those benchmarks to Meta's model Evaluation Reports and have published many of them in top research venues, earning top-1% recognition at ICLR and ICML. The team also lands novel post-training mitigations for these risks in both the open-source line of models and has multiple opportunities for direct research-to-production.\n\nResponsibilities\nConduct fundamental research to discover novel safety and security failures, robust approaches to measuring memorization risk or reliability failures in AI agents and foundational models,\nDevelop and contribute benchmarks to Meta's foundational model evaluation suite and/or the Evaluation Reports\nDesign and implement novel post-training mitigations for safety, security, privacy, and reliability risks in foundation models\nCollaborate with cross-functional teams to translate research into production systems\n\nQualifications\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\nPhD in Computer Science, Machine Learning, or related field, or equivalent practical experience\nResearch experience in at least one of the following areas: safety, security, privacy, or robustness of AI models; adversarial machine learning; indirect prompt injections or jailbreaks; contextual integrity or memorization; reward hacking or other agent reliability failures; testing or mitigating foundation models for catastrophic risk (CBRNE, cyber, loss of control); or developing mitigations in any of these areas Track record of publications in top-tier research venues"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-13T17:45:33.536Z",
+        "curated_at": "2026-11-13T18:05:38.615Z",
+        "job_updated_at": "2026-11-13T18:05:38.615Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "8769108c730ced7c58f79f3e7b3cb9b270dc2ae029aa8edd53fb80b87dc2dbfc",
+            "source": "employer_site",
+            "source_posting_id": "1482970387066899",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1482970387066899/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1482970387066899/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Menlo Park",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Menlo Park, CA"
+                  },
+                  {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Seattle, WA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "San Francisco, CA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-13T13:13:47.000Z",
+            "first_seen_at": "2026-11-13T17:45:33.536Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "a0c4eb6c-fcd1-4714-a385-488c9fbbdd52",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Ads Ranking"
+        },
+        "description": {
+          "state": "known",
+          "value": "Meta is seeking a Research Scientist to join our Ads Ranking organization. Individuals in this role are expected to be recognized experts in areas such as artificial intelligence, machine learning, and computational statistics, particularly including areas such as: sequential decision making, graph learning, reinforcement learning, deep learning, data representation and theory, and optimization. The ideal candidate will have an interest in producing new science to understand intelligence and technology to make computers smarter, and an equal interest in taking new research findings in this area and implementing them towards product needs.\n\nResponsibilities\nIdentify and lead research on the most challenging and high-impact open problems in core machine learning, including areas such as optimization, generalization, representation learning, and scalable training\nDevelop novel machine learning algorithms, architectures, and theoretical frameworks that advance the state of the art and address previously intractable problems\nTranslate fundamental research findings into production-grade systems that deliver measurable improvements to Meta's AI-powered products and infrastructure\nDefine and drive the long-term technical vision and research roadmap for a core ML domain, gaining alignment across multiple research and engineering organizations\nEstablish extensible technical foundations, modeling standards, and evaluation frameworks that promote consistency and quality across research teams and product areas\nIdentify systemic gaps in existing ML approaches and develop invariants, benchmarks, and methodologies that prevent entire classes of modeling failures\nCollaborate with research engineers, product teams, and infrastructure organizations to ensure research advances are operationalized at scale with reliability and efficiency\nCommunicate complex research findings through publications, technical reports, and presentations that serve as long-term reference points for the broader ML community\nMentor other researchers and engineers across the organization, providing customized technical guidance and fostering rigorous and innovative research practices\nMonitor developments in the academic and industry ML landscape to identify emerging techniques and assess their relevance and risk to Meta's research strategy\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n12+ years of experience in machine learning research, including developing and publishing novel approaches in areas such as optimization, deep learning, representation learning, or related core ML domains\nTrack record of identifying and solving foundational machine learning problems that have resulted in measurable impact on large-scale AI systems or products\nExperience defining multi-year research strategies and influencing technical direction across multiple teams or organizations\nExperience translating theoretical machine learning research into production systems, including designing experiments, defining evaluation metrics, and connecting research outcomes to organizational priorities\nExperience communicating complex machine learning concepts and research findings to both technical and non-technical audiences through publications, design documents, or technical presentations Demonstrated ability to develop new debugging, evaluation, or verification methodologies that generalize across model families and prevent systemic failure modes\nExperience leading cross-organizational research programs in large-scale model training, efficient inference, or foundational model architectures\nExperience collaborating with applied research and product engineering teams to bring core ML advances from research prototype to global-scale deployment\nHistory of publishing influential research in top-tier machine learning venues such as NeurIPS, ICML, ICLR, or equivalent, with demonstrated impact on the broader research community"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Sunnyvale",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-13T04:02:03.563Z",
+        "curated_at": "2026-11-12T13:30:42.494Z",
+        "job_updated_at": "2026-11-12T13:30:42.494Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "df0a3ffdf6031e21c37512cf38e06ec4b27565da64b0973e11bd7384b4a5d442",
+            "source": "employer_site",
+            "source_posting_id": "28584828864517265",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/28584828864517265/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/28584828864517265/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Sunnyvale",
+                "state": "CA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Sunnyvale, CA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-05T18:37:46.000Z",
+            "first_seen_at": "2026-10-13T04:02:03.563Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e579234f-f2eb-4f26-b1b3-232b6d31df4b",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist Intern, Neural Interfaces(PhD)"
+        },
+        "description": {
+          "state": "known",
+          "value": "Reality Labs at Meta is looking for PhD research interns to advance our pioneering work in neural interfaces, which grew out of the acquisition of CTRL-labs. We're building a practical interface that draws on rich signals measured non-invasively from the body, including surface electromyography (EMG), inertial measurement units (IMU), and photoplethysmography (PPG). This technology could become one of the main pillars for interaction with virtual and augmented realities. Help us unleash human potential by removing the bottlenecks between user intent and action.\n\nIn this role you will join a world-class, multi-disciplinary team of researchers. You'll investigate the nature of human neuromotor and other sensor signals, develop new signal processing and machine learning methods to infer a user's intent, and help create AI-first new interaction techniques and user experiences. Our internships are twelve (12) to twenty-four (24) weeks long, and we have various start dates throughout the year.\n\nResponsibilities\nResearch and develop neural networks, machine learning, or other computational models that use EMG, IMU and other relevant sensor data to advance neural interface capabilities.\nDesign methods, tools, and infrastructure to analyze and make use of rich multimodal datasets.\nAdapt machine learning methods to modern parallel computing environments (e.g., distributed clusters and GPUs).\nWork with engineering and Human-Computer Interaction (HCI) teams to turn research into new technology and user experiences.\nUse quantitative research methods to define, iterate on, and advance key areas of our research agenda.\n\nQualifications\nCurrently has, or is in the process of obtaining, a PhD in machine learning, computational neuroscience, speech and language technologies, signal processing, electrical engineering, computer science, statistics, physics, or a related field\nResearch-oriented implementation skills, including fluency in scientific Python and deep learning frameworks such as PyTorch, as shown by academic or professional research experience or contributions to open source projects\nExperience in machine learning, deep learning, signal processing, computer vision, probabilistic graphical models, and/or natural language processing\nMust obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment Intent to return to degree program after the completion of the internship\nExperience working with biosignals or wearable sensor data (e.g., EMG, IMU, PPG, EEG)\nExperience with multi-channel array processing or real-time signal processing\nExperience with sequence modeling of time-series data\nExperience training machine learning models at scale, including distributed or multi-GPU training on large datasets\nExperience moving machine learning research into prototypes or products\nExperience in software engineering in industry, including prior internships"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Burlingame",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-25T05:22:21.782Z",
+        "curated_at": "2026-11-12T13:30:42.343Z",
+        "job_updated_at": "2026-11-12T13:30:42.343Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "f8ae2724f5471d67ac5f9a1b511076f28482109607db7ee319c1b9d6ab9ee4bf",
+            "source": "employer_site",
+            "source_posting_id": "1436615821934863",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1436615821934863/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1436615821934863/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Burlingame",
+                "state": "CA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Burlingame",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Burlingame, CA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  },
+                  {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Seattle, WA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-20T18:40:20.000Z",
+            "first_seen_at": "2026-10-25T05:22:21.782Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "309302df-14ec-48f1-a6fe-73628dfdb086",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, MRS Knowledge"
+        },
+        "description": {
+          "state": "known",
+          "value": "The AI Research Scientist role conducts novel research and develops advanced machine learning models, particularly in large language models, and recommendation systems, to drive innovation in content and user understanding, retrieval, and ranking. These deliverables directly enhance Meta’s products by powering more accurate, efficient, and personalized recommendations across Facebook, Instagram, Threads, and other platforms. By advancing AI research and development, the role supports Meta’s business growth, improves user experiences, and enables scalable solutions that benefit Meta’s customers and people.\n\nResponsibilities\nCollaborate and execute on research that pushes forward the state of the art in large language model research\nDirectly contribute to experiments, including designing experimental details, running evaluations, and organizing results\nContribute to publications and open-sourcing efforts\nHelp identify long-term research goals as well as intermediate milestones\nPrioritize research that can be applied to Meta's product development\n\nQualifications\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\nCurrently has, or is in the process of obtaining a PhD degree in Computer Science, Artificial Intelligence, Data Science, or related technical fields\nMust obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment Experience working and communicating cross-functionally in a team environment\nExperience with applying reinforcement learning techniques to production scale systems\nExperience in ranking, recommendation, or auction systems\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences\nPrior work bridging academic research and real-world applications"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-20T07:06:14.957Z",
+        "curated_at": "2026-11-12T13:30:41.393Z",
+        "job_updated_at": "2026-11-12T13:30:41.393Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "44e53fc7882a08e9d123eafd5a7d76a0f85c4550c91d5269cd8e3de73f213e31",
+            "source": "employer_site",
+            "source_posting_id": "1813519376505749",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1813519376505749/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1813519376505749/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Menlo Park",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Menlo Park, CA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-19T19:46:28.000Z",
+            "first_seen_at": "2026-10-20T07:06:14.957Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "1e923da3-4b41-45f0-8119-4cfed46fe516",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Video Generation and Post Training, FAIR"
+        },
+        "description": {
+          "state": "known",
+          "value": "Meta is seeking a Research Scientist to join the Fundamental AI Research (FAIR) team within Meta Superintelligence Labs (MSL). Our mission is to advance the science of intelligence and develop technologies that push the boundaries of AI. We are looking for researchers with expertise in video generation and post-training of large-scale models to help build the perceptual and generative foundations for next-generation AI systems.\nThis role offers the opportunity to collaborate with a highly interdisciplinary team of scientists, engineers, and cross-functional partners, leveraging cutting-edge technology, resources, and research facilities.\n\nResponsibilities\nConduct fundamental and applied research in video generation, including generative models, video synthesis, and multimodal learning\nDevelop and optimize post-training paradigms for large-scale video and multimodal models, improving their performance, robustness, and generalization\nCollaborate with teams across Meta to build perceptual foundations for real-time embodied agents and conversational AI\nContribute to the development and deployment of frontier models (e.g., Llama, LMMs) and push the boundaries of video and media generation\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nPhD or equivalent experience in Computer Science, Electrical Engineering, or a related field\nDemonstrated expertise in video generation, computer vision, or multimodal AI\nExperience with large-scale model training, post-training optimization techniques, and data curation\nPublication record in relevant fields Demonstrated research and software engineering experience via internships, industry or academic work experience, coding competitions, or widely used contributions in open source repositories (e.g., GitHub)\nExperience with video generation, video synthesis, or multimodal fusion techniques\nExperience with video-language models and architectures relevant to video generation and post training\nProven track record of achieving significant results, as demonstrated by grants, fellowships, patents, or publications at leading workshops, journals, or conferences (e.g., NeurIPS, ICML, ICLR, CVPR, ICCV)\nExperience solving complex problems and evaluating alternative solutions, tradeoffs, and perspectives to determine a path forward\nExperience working and communicating cross-functionally in a collaborative, interdisciplinary team environment"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-18T21:23:18.969Z",
+        "curated_at": "2026-11-12T13:30:41.288Z",
+        "job_updated_at": "2026-11-12T13:30:41.288Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "d57da449fd80f08555e4b82d62cb91ee40ac9702796a02c112ebd778bf6897e3",
+            "source": "employer_site",
+            "source_posting_id": "1647169276484472",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1647169276484472/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1647169276484472/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Menlo Park",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Menlo Park, CA"
+                  },
+                  {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Seattle, WA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-04-07T17:13:02.000Z",
+            "first_seen_at": "2026-09-18T21:23:18.969Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "0bce691e-5325-46fa-bfe2-73b79c9583ad",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, CoreML - Monetization AI"
+        },
+        "description": {
+          "state": "known",
+          "value": "We are the Monetization Ranking AI Research organization, dedicated to delivering personalized ads that maximize both user utility and advertiser value. We focus on advancing AI and ML technologies for all aspects of Monetization, including ranking, retrieval, model architecture, and optimization. By consistently integrating cutting-edge AI/ML advancements, we help Meta’s products achieve long-term goals and have contributed tens of billions in revenue. With our growing impact, we’re seeking AI Research Scientists to join our team and drive SOTA research across the Monetization organization.\n\nResponsibilities\nDevelop and implement large-scale model architectures, leveraging model scaling and transfer learning techniques\nPrioritize training scalability and signal scaling to optimize model performance, efficiency, and reliability\nDevelop and apply NextGen sequence learning techniques to drive advancements in natural language processing and understanding\nDesign and implement generative modeling solutions for data augmentation\nResearch and develop graph-aware large language models\nDevelop and deploy AutoML pipelines\nApply Reinforcement Learning (RL) techniques, including long-term value optimization, RLHF, and RL4Reason\nUse causal learning to identify and understand the cause and effect of relationships across data\nCollaborate with cross-functional teams to design and optimize ML systems, leveraging expertise in hardware-software co-design, including quantization, compression, and resource-efficient AI, to drive performance improvements and efficiency gains\nDevelop and implement innovative solutions for data-related challenges, utilizing knowledge of semi/self-supervised learning, generative techniques, sampling, debiasing, domain adaptation, continual learning, data augmentation, cold-start, content understanding, and large language models\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nHas obtained a PhD in Computer Science, Computer Engineering, Artificial Intelligence, Machine Learning, or relevant technical field\nExperience holding an industry, faculty, or government researcher position\nResearch experience in natural language processing, large language modeling, deep learning, reinforcement learning, recommendations, ranking, search, or related areas\nPublications in machine learning, artificial intelligence, or related field\nProgramming experience in Python and hands-on experience with frameworks such as PyTorch\nMust obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment Experience taking ideas from research to production.\nFirst author publications at peer-reviewed AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL).\nExperience solving complex problems and comparing alternative solutions, tradeoffs, and different perspectives to determine a path forward."
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Sunnyvale",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T08:07:59.322Z",
+        "curated_at": "2026-11-12T13:30:40.994Z",
+        "job_updated_at": "2026-11-12T13:30:40.994Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "982c29c933c8e4c1eb32b7a395b30f53a40710582340b65f3b4a7986cbf01230",
+            "source": "employer_site",
+            "source_posting_id": "1380974339703907",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1380974339703907/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1380974339703907/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Sunnyvale",
+                "state": "CA",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Sunnyvale, CA"
+                  },
+                  {
+                    "city": "Menlo Park",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Menlo Park, CA"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "New York, NY"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-04-02T21:49:35.000Z",
+            "first_seen_at": "2026-09-21T08:07:59.322Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "2010b72e-5796-4b54-bf5f-a0e75d79b133",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "46170cee-ca3b-8022-b979-04a7d6fad1df",
+        "employer_name": {
+          "state": "known",
+          "value": "Insight Global"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "Required Skills & Experience  \n  \nPhD in Computer Science, Electrical/Computer Engineering, Mathematics, Physics, or a related field with a focus on AI  \nOR  \nMS degree in Computer Science, Electrical/Computer Engineering, Mathematics, Physics, or related field  \nMinimum 2+ years of AI-focused professional experience  \nStrong Python programming skills  \nExperience with AI/ML/GenAI frameworks such as:  \nPyTorch  \nTensorFlow  \nHugging Face  \nDeep expertise in at least one of the following:  \nTraining domain-specific Large Language Models (LLMs)  \nDeveloping time-series or multimodal foundation models  \nBuilding and leveraging knowledge graphs for reasoning and memory  \nIntegrating physics into scientific machine learning models  \nAuthorized to work in the United States  \n  \nNice to Have Skills & Experience  \n  \nPhD focused on advancing Artificial Intelligence technologies  \nExperience training multimodal foundation models utilizing image, text, and tabular data  \nExperience integrating physics into machine learning models  \nExperience integrating LLMs with knowledge graphs  \nGrant proposal writing and execution experience  \nExperience collaborating with government agencies such as:  \nDOE  \nARPA-E  \nDOD  \nDARPA  \nPublished research in scientific journals and conferences  \nPatent development and invention disclosure experience  \nSignificant GitHub portfolio or contributions to open-source codebases  \n  \nJob Description  \n  \nInsight Global is seeking a Research Scientist (Artificial Intelligence) for a top energy technology client. This candidate will join a cutting-edge AI research organization focused on accelerating the global energy transition through advanced machine learning, generative AI, foundation models, and scientific AI research. The ideal candidate will work across the full innovation lifecycle, from fundamental research and experimentation to prototype development and real-world deployment. Projects span power generation, renewable energy, electric grid modernization, robotics, manufacturing, and other high-impact industrial applications. This is an exceptional opportunity for a researcher who enjoys publishing, creating intellectual property, collaborating with government and academic partners, and developing next-generation AI technologies that directly contribute to a more sustainable and decarbonized future.  \n  \nDay-to-Day:  \nResearch and develop innovative AI solutions for complex industrial and energy-sector challenges  \nDesign and build machine learning, deep learning, generative AI, and foundation model solutions  \nCollaborate with multidisciplinary research teams across engineering and scientific domains  \nDevelop prototypes to demonstrate AI value for real-world applications  \nCreate scalable, reusable, and efficient software solutions  \nContribute to intellectual property through patent filings and invention disclosures  \nPublish research findings in journals and conferences  \nSupport and contribute to grant proposal development  \nPartner with internal business units, government agencies, universities, and external research organizations  \nAdvance AI capabilities across power generation, renewable energy, electric grids, robotics, and manufacturing applications  \n  \nWe are a company committed to creating inclusive environments where people can bring their full, authentic selves to work every day. We are an equal opportunity employer that believes everyone matters. Qualified candidates will receive consideration for employment opportunities without regard to race, religion, sex, age, marital status, national origin, sexual orientation, citizenship status, disability, or any other status or characteristic protected by applicable laws, regulations, and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send a request to Human Resources Request Form. The EEOC \"Know Your Rights\" Poster is available [here](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Niskayuna",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36093",
+              "msa": {
+                "cbsa_code": "10580",
+                "cbsa_title": "Albany-Schenectady-Troy, NY",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-06T19:48:06.663Z",
+        "curated_at": "2026-10-17T08:33:33.489Z",
+        "job_updated_at": "2026-11-02T14:37:51.867Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 8500,
+                "max_cents": null,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "hour",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "missing",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "6c17b2951670740fbd48a90d728dabe8d4a8eff77cec70720dc395e6ed328148",
+            "source": "employer_site",
+            "source_posting_id": "bf495587-3ec9-4182-91b0-1b0745eb6c67",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://insightglobal.com/jobs/bf495587-3ec9-4182-91b0-1b0745eb6c67"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://insightglobal.com/jobs/bf495587-3ec9-4182-91b0-1b0745eb6c67"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Niskayuna",
+                "state": "NY",
+                "country": "US",
+                "regionCode": "NY",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 85,
+                "currency": "USD",
+                "interval": "hour"
+              }
+            },
+            "source_posted_at": "2026-08-26T11:51:43.100Z",
+            "first_seen_at": "2026-10-06T19:48:06.663Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "cc625587-5ddf-42a3-86ef-9540a5176ac2",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Language - Generative AI"
+        },
+        "description": {
+          "state": "known",
+          "value": "Meta is seeking a Research Scientist to join our Llama Large Language Model (LLM) Research team. We are looking for recognized experts in NLP or reinforcement learning; with experience in areas like LLM alignment; multilingual modeling; code generation; responsible AI; and model controllability. The ideal candidate will have an interest in producing and applying new science to help us develop and responsibly release large language models.\n\nResponsibilities\nLead, collaborate, and execute on research that pushes forward the state of the art in large language model research\nDirectly contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results\nWork with a large and globally distributed team\nContribute to publications and open-sourcing efforts\nHelp identify long-term ambitious research goals as well as intermediate milestones\nPrioritize research that can be applied to Meta's product development\nMentor other team members. Play a significant role in healthy cross-functional collaboration\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nA PhD in AI, computer science, or related technical fields\nExperience holding an industry, faculty, or government researcher position\nPublications in machine learning\nExperience writing software and executing complex experiments involving large AI models and datasets\nMust obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment Direct experience in generative AI and LLM research.\nExperience developing and debugging in Python.\nFirst author publications experience at peer-reviewed AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL).\n2+ year(s) of work experience in a university, industry, or government lab, in a role with primary emphasis on AI research."
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-01T11:24:34.819Z",
+        "curated_at": "2026-11-02T11:48:09.372Z",
+        "job_updated_at": "2026-11-02T11:48:09.372Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "e70b01b8ce7c4aa70a13fc0227c7b11251040cd8585b0022bd11c39c0f116af1",
+            "source": "employer_site",
+            "source_posting_id": "1014936436926274",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1014936436926274/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1014936436926274/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "NY",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2024-06-25T19:02:58.000Z",
+            "first_seen_at": "2026-11-01T11:24:34.819Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "b35bde03-a239-4aa4-9270-3a686c7006fd",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "a840ea7d-9fe8-8434-afda-15ac354000b6",
+        "employer_name": {
+          "state": "known",
+          "value": "Your Personal AI"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "We are looking for an AI Research Scientist to join our AI Solutions department at Your Personal AI. As an AI Research Scientist, you will be responsible for developing cutting-edge AI algorithms and models to drive innovation in our AI solutions.\n\n* Conduct research to advance the field of artificial intelligence\n    \n* Design and implement AI algorithms and models\n    \n* Collaborate with cross-functional teams to integrate AI solutions\n    \n* Stay up-to-date with the latest AI trends and technologies\n    \n\nIf you are passionate about AI research and have a strong background in machine learning and deep learning, we would love to hear from you. Join us at Your Personal AI and be part of a dynamic team that is shaping the future of AI solutions.\n\n* Advanced degree in Computer Science, Artificial Intelligence, Machine Learning, or related field.\n    \n* Proven experience in AI research, including developing algorithms and models.\n    \n* Proficiency in programming languages such as Python, Java, or C++.\n    \n* Strong analytical and problem-solving skills.\n    \n* Excellent communication and teamwork abilities.\n    \n* Ability to work independently and collaboratively in a fast-paced environment.\n    \n* Demonstrated track record of innovation and creativity in AI projects.\n    \n* Familiarity with deep learning frameworks like TensorFlow or PyTorch.\n    \n* Prior experience with data analysis and visualization tools.\n    \n* Knowledge of natural language processing and computer vision is a plus.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "remote"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-10T14:54:35.989Z",
+        "curated_at": "2026-10-17T16:40:12.204Z",
+        "job_updated_at": "2026-11-02T10:03:45.010Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "8938e32e770de6a74a98ec2aebe528c82e2571b510581c78ab2787c676b63c29",
+            "source": "recruitee",
+            "source_posting_id": "1794150",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.yourpersonalai.net/o/ai-research-scientist"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.yourpersonalai.net/o/ai-research-scientist/c/new"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "New York",
+                "country": "US",
+                "countryRaw": "United States",
+                "regionCode": "NY",
+                "remote": true
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2024-12-27T11:25:13.000Z",
+            "first_seen_at": "2026-10-10T14:54:35.989Z",
+            "last_completed_fetch_at": "2026-11-09T13:45:34.988Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 15,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:44:47.540Z"
+  },
+  "response_usage": {
+    "charged": "15",
+    "remaining": "99681",
+    "request_id": "24e6e57f-f7ee-4a7b-8417-6082878a762d"
+  }
+}

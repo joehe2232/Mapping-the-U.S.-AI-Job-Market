@@ -1,0 +1,406 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:47:45.292054+00:00",
+  "state_filter": "NC",
+  "title_filter": "AI research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "NC",
+    "title": "AI research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "e5c68473-eb0a-4849-9660-40d37548ec02",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "7cdf19c0-1610-8494-b526-88c3d334c453",
+        "employer_name": {
+          "state": "known",
+          "value": "Tanium"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "**The Basics**\n\nTanium is seeking an AI Research Scientist. This role reports to our Sr. Director AI and Applied Research leading AI design, prototyping, and experimentation across Tanium products and solutions. As an AI Research Scientist, you will collaborate across engineering and product teams to design, develop, and evaluate AI and ML models that power intelligent endpoint management and security solutions. This is an exciting opportunity to work at the intersection of cutting-edge AI research and real-world cybersecurity applications at enterprise scale.\n\n***This position follows the Company’s hybrid schedule which currently requires employees to work in the office at one of the following locations a minimum of three days per week: Addison, TX; Bellevue, WA; Durham, NC; Emeryville, CA; or Reston, VA.***\n\n**What you’ll do**\n\n* Collaborate with data science and engineering teams to design and implement AI and machine learning (ML) algorithms that improve Tanium’s autonomous IT capabilities.\n* Develop and evaluate ML models across a wide variety of use cases, including anomaly detection, threat identification, and performance optimization.\n* Analyze large-scale endpoint data to extract meaningful insights and develop predictive models.\n* Contribute to the design and implementation of data pipelines that efficiently process and analyze endpoint data at scale.\n* Conduct exploratory data analyses and and develop visualizations to communicate findings (to technical and non-technical stakeholders) and inform product development decisions.\n* Document research methodologies, experiments, and results to expand Tanium's internal knowledge base and support reproducibility.\n* Stay up to date with the latest advancements in AI, ML, and endpoint management technologies.\n* Monitor and incorporate the latest advancements in AI, ML, large language models, and endpoint management technologies into ongoing research efforts\n* Partner with cross-functional teams to translate research findings into scalable product features and improvements.\n\n**We’re looking for someone with**\n\n* In accordance with Department of Defense requirements, applicants for this role must be a U.S. citizen, national, or resident pursuant to 8 U.S.C. 1101(a)(20) and 8 U.S.C. 1324b(a)(3)\n* Education\n    * Bachelor's degree in Computer Science, Mathematics, Statistics, Data Science, or a related field, or equivalent experience.\n* Experience\n    * 1+ years of experience in applied machine learning, data science, or AI research, or equivalent demonstrated expertise\n    * Experience developing and deploying ML models for tasks such as classification, regression, or anomaly detection\n    * Experience working with large-scale datasets and the tools and techniques required to process and analyze them efficiently\n    * Experience in one or more of the following areas preferred: statistical modeling, anomaly detection, internals of large language models (LLMs), or agentic AI systems\n* Other\n    * Strong foundation in machine learning, data analysis, and statistics\n    * Proficiency in Python\n    * Familiarity with machine learning frameworks and libraries such as PyTorch, scikit-learn, TensorFlow, NumPy, SciPy, and pandas\n    * Strong problem-solving skills with the ability to work both independently and collaboratively in a team environment\n    * Excellent written and verbal communication skills, including the ability to present complex technical concepts clearly to diverse audiences\n    * Passion for technology, cybersecurity, and autonomous systems preferred\n\n**About Tanium**\n\nTanium is the Autonomous IT company. As Al accelerates both innovation and risk, Tanium Atlas, the company's autonomous operating system, puts the full depth of the Tanium Autonomous IT Platform behind every IT and security operator - human and agentic. Tanium provides the real-time intelligence, agentic decision-making, and autonomous execution operators needed to detect, decide, and remediate at machine speed across their endpoint estate.\n\nThe company is recognized as a Leader in the inaugural 2026 Gartner® Magic Quadrant™ for Endpoint Management Tools, as a Leader in the IDC MarketScape: Worldwide Client Endpoint Management Software for Windows Device Management 2025-2026 Vendor Assessment, and as a Leader in The Forrester Wave™. Endpoint Management Platforms, Q2 2026.\n\nTo learn how Tanium delivers Autonomous IT for unstoppable business, visit [www.tanium.com](http://www.tanium.com/) and follow us on [LinkedIn](https://www.linkedin.com/company/tanium) and [X](https://twitter.com/Tanium).\n\n**On a mission. Together.**\n\nAt Tanium, we are stewards of a culture that emphasizes the importance of collaboration, respect, and diversity. In our pursuit of revolutionizing the way some of the largest enterprises and governments in the world solve their most difficult IT challenges, we are strengthened by our unique perspectives and by our collective actions.\n\nAs a global organization with stakeholders around the world, it’s imperative that the diversity of our customers and communities is reflected internally in our team members. We strive to create a diverse and inclusive environment where everyone feels they have opportunities to succeed and grow because we know that only together can we do great things. \n\nOur commitment to excellence and innovation has earned us a place on the Forbes Cloud 100 list for ten consecutive years, and we continue to be recognized worldwide as a great place to work.\n\nEach of our team members has 5 days set aside as volunteer time off (VTO) to contribute to the communities they live in and give back to the causes they care about most.\n\n**What you’ll get**\n\nThe annual base salary range for this full-time position is $143,000 to $219,000. This range is an estimate for what Tanium will pay a new hire. The actual annual base salary offered may be adjusted based on a variety of factors, including but not limited to, location, education, skills, training, and experience.\n\nIn addition to an annual base salary, team members will receive equity awards and a generous benefits package consisting of medical, dental and vision plan, family planning benefits, health savings account, flexible spending account, transportation savings account, 401(k) retirement savings plan with company match, life, accident and disability coverage, business travel accident insurance, employee assistance programs, disability insurance, and other well-being benefits.\n\nTanium is an Equal Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, gender identity, sexual orientation, disability, protected Veteran status, or other legally protected categories. If you require a reasonable accommodation in searching for a job opening, completing an application, interviewing, or completing any pre-employment testing or requirements, please contact [accommodations@tanium.com](mailto:accommodations@tanium.com). For more information refer to the “Know Your Rights” poster which is available here - [https://www.eeoc.gov/poster](https://www.eeoc.gov/poster).\n\nPlease be aware of job offers coming from people claiming to be Tanium employees. Tanium employees will only use @tanium.com email addresses to communicate with you, will have video interviews with you, and will never ask you for money.\n\n[This link](https://www.cigna.com/legal/compliance/machine-readable-files) leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data.\n\nFor more information on how Tanium processes your personal data, please see our [Privacy Policy](https://www.tanium.com/privacy-policy/).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Addison",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Bellevue",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Durham",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37063",
+              "msa": {
+                "cbsa_code": "20500",
+                "cbsa_title": "Durham-Chapel Hill, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Emeryville",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06001",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Reston",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-21T17:54:31.617Z",
+        "curated_at": "2026-11-20T01:48:46.635Z",
+        "job_updated_at": "2026-11-20T01:48:46.635Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 14300000,
+                "max_cents": 21900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1d9cdc827d4ba246bb23858d370af5e8682ed8d0462d3b85cefcab9df834477b",
+            "source": "greenhouse",
+            "source_posting_id": "8232146",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Addison",
+                "state": "TX",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Bellevue, WA"
+                  },
+                  {
+                    "city": "Durham",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Durham, NC"
+                  },
+                  {
+                    "city": "Emeryville",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Emeryville, CA"
+                  },
+                  {
+                    "city": "Reston",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Reston, VA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 143000,
+                "max": 219000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-21T16:30:12.000Z",
+            "first_seen_at": "2026-10-21T17:54:31.617Z",
+            "last_completed_fetch_at": "2026-11-20T01:47:58.516Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "e6e44270-d2b8-46a3-9045-9caae6c5c77b",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "79164d3a-73d8-87a1-ae74-ac3d0e1d5e7b",
+        "employer_name": {
+          "state": "known",
+          "value": "Tanium"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "**The Basics**\n\nTanium is seeking an AI Research Scientist. This role reports to our Sr. Director AI and Applied Research leading AI design, prototyping, and experimentation across Tanium products and solutions. As an AI Research Scientist, you will collaborate across engineering and product teams to design, develop, and evaluate AI and ML models that power intelligent endpoint management and security solutions. This is an exciting opportunity to work at the intersection of cutting-edge AI research and real-world cybersecurity applications at enterprise scale.\n\n***This position follows the Company’s hybrid schedule which currently requires employees to work in the office at one of the following locations a minimum of three days per week: Addison, TX; Bellevue, WA; Durham, NC; Emeryville, CA; or Reston, VA.***\n\n**What you’ll do**\n\n* Collaborate with data science and engineering teams to design and implement AI and machine learning (ML) algorithms that improve Tanium’s autonomous IT capabilities.\n* Develop and evaluate ML models across a wide variety of use cases, including anomaly detection, threat identification, and performance optimization.\n* Analyze large-scale endpoint data to extract meaningful insights and develop predictive models.\n* Contribute to the design and implementation of data pipelines that efficiently process and analyze endpoint data at scale.\n* Conduct exploratory data analyses and and develop visualizations to communicate findings (to technical and non-technical stakeholders) and inform product development decisions.\n* Document research methodologies, experiments, and results to expand Tanium's internal knowledge base and support reproducibility.\n* Stay up to date with the latest advancements in AI, ML, and endpoint management technologies.\n* Monitor and incorporate the latest advancements in AI, ML, large language models, and endpoint management technologies into ongoing research efforts\n* Partner with cross-functional teams to translate research findings into scalable product features and improvements.\n\n**We’re looking for someone with**\n\n* In accordance with Department of Defense requirements, applicants for this role must be a U.S. citizen, national, or resident pursuant to 8 U.S.C. 1101(a)(20) and 8 U.S.C. 1324b(a)(3)\n* Education\n    * Bachelor's degree in Computer Science, Mathematics, Statistics, Data Science, or a related field, or equivalent experience.\n* Experience\n    * 1+ years of experience in applied machine learning, data science, or AI research, or equivalent demonstrated expertise\n    * Experience developing and deploying ML models for tasks such as classification, regression, or anomaly detection\n    * Experience working with large-scale datasets and the tools and techniques required to process and analyze them efficiently\n    * Experience in one or more of the following areas preferred: statistical modeling, anomaly detection, internals of large language models (LLMs), or agentic AI systems\n* Other\n    * Strong foundation in machine learning, data analysis, and statistics\n    * Proficiency in Python\n    * Familiarity with machine learning frameworks and libraries such as PyTorch, scikit-learn, TensorFlow, NumPy, SciPy, and pandas\n    * Strong problem-solving skills with the ability to work both independently and collaboratively in a team environment\n    * Excellent written and verbal communication skills, including the ability to present complex technical concepts clearly to diverse audiences\n    * Passion for technology, cybersecurity, and autonomous systems preferred\n\n**About Tanium**\n\nTanium is the Autonomous IT company. As Al accelerates both innovation and risk, Tanium Atlas, the company's autonomous operating system, puts the full depth of the Tanium Autonomous IT Platform behind every IT and security operator - human and agentic. Tanium provides the real-time intelligence, agentic decision-making, and autonomous execution operators needed to detect, decide, and remediate at machine speed across their endpoint estate.\n\nThe company is recognized as a Leader in the inaugural 2026 Gartner® Magic Quadrant™ for Endpoint Management Tools, as a Leader in the IDC MarketScape: Worldwide Client Endpoint Management Software for Windows Device Management 2025-2026 Vendor Assessment, and as a Leader in The Forrester Wave™. Endpoint Management Platforms, Q2 2026.\n\nTo learn how Tanium delivers Autonomous IT for unstoppable business, visit [www.tanium.com](http://www.tanium.com/) and follow us on [LinkedIn](https://www.linkedin.com/company/tanium) and [X](https://twitter.com/Tanium).\n\n**On a mission. Together.**\n\nAt Tanium, we are stewards of a culture that emphasizes the importance of collaboration, respect, and diversity. In our pursuit of revolutionizing the way some of the largest enterprises and governments in the world solve their most difficult IT challenges, we are strengthened by our unique perspectives and by our collective actions.\n\nAs a global organization with stakeholders around the world, it’s imperative that the diversity of our customers and communities is reflected internally in our team members. We strive to create a diverse and inclusive environment where everyone feels they have opportunities to succeed and grow because we know that only together can we do great things. \n\nOur commitment to excellence and innovation has earned us a place on the Forbes Cloud 100 list for ten consecutive years, and we continue to be recognized worldwide as a great place to work.\n\nEach of our team members has 5 days set aside as volunteer time off (VTO) to contribute to the communities they live in and give back to the causes they care about most.\n\n**What you’ll get**\n\nThe annual base salary range for this full-time position is $143,000 to $219,000. This range is an estimate for what Tanium will pay a new hire. The actual annual base salary offered may be adjusted based on a variety of factors, including but not limited to, location, education, skills, training, and experience.\n\nIn addition to an annual base salary, team members will receive equity awards and a generous benefits package consisting of medical, dental and vision plan, family planning benefits, health savings account, flexible spending account, transportation savings account, 401(k) retirement savings plan with company match, life, accident and disability coverage, business travel accident insurance, employee assistance programs, disability insurance, and other well-being benefits.\n\nTanium is an Equal Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, gender identity, sexual orientation, disability, protected Veteran status, or other legally protected categories. If you require a reasonable accommodation in searching for a job opening, completing an application, interviewing, or completing any pre-employment testing or requirements, please contact [accommodations@tanium.com](mailto:accommodations@tanium.com). For more information refer to the “Know Your Rights” poster which is available here - [https://www.eeoc.gov/poster](https://www.eeoc.gov/poster).\n\nPlease be aware of job offers coming from people claiming to be Tanium employees. Tanium employees will only use @tanium.com email addresses to communicate with you, will have video interviews with you, and will never ask you for money.\n\n[This link](https://www.cigna.com/legal/compliance/machine-readable-files) leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data.\n\nFor more information on how Tanium processes your personal data, please see our [Privacy Policy](https://www.tanium.com/privacy-policy/).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Addison",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Bellevue",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Durham",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37063",
+              "msa": {
+                "cbsa_code": "20500",
+                "cbsa_title": "Durham-Chapel Hill, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Emeryville",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06001",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Reston",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-21T17:54:31.617Z",
+        "curated_at": "2026-11-11T15:45:52.220Z",
+        "job_updated_at": "2026-11-13T18:50:16.833Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 14300000,
+                "max_cents": 21900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1d9cdc827d4ba246bb23858d370af5e8682ed8d0462d3b85cefcab9df834477b",
+            "source": "greenhouse",
+            "source_posting_id": "8232146",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Addison",
+                "state": "TX",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Bellevue, WA"
+                  },
+                  {
+                    "city": "Durham",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Durham, NC"
+                  },
+                  {
+                    "city": "Emeryville",
+                    "state": "CA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Emeryville, CA"
+                  },
+                  {
+                    "city": "Reston",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Reston, VA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 143000,
+                "max": 219000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-21T16:30:12.000Z",
+            "first_seen_at": "2026-10-21T17:54:31.617Z",
+            "last_completed_fetch_at": "2026-11-13T18:49:05.461Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 2,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:47:42.124Z"
+  },
+  "response_usage": {
+    "charged": "2",
+    "remaining": "98056",
+    "request_id": "20b061fc-6645-4376-9336-f64215f442f4"
+  }
+}

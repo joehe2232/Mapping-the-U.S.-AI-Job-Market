@@ -1,0 +1,25 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:46:41.141240+00:00",
+  "state_filter": "IL",
+  "title_filter": "machine learning research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "IL",
+    "title": "machine learning research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [],
+    "next_cursor": null,
+    "total": 0,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:46:38.902Z"
+  },
+  "response_usage": {
+    "charged": "0",
+    "remaining": "98450",
+    "request_id": "9f6f0972-96bb-44fb-9ca9-09e62f4f3fb9"
+  }
+}

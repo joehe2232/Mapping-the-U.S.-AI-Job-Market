@@ -1,0 +1,479 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:53:54.966388+00:00",
+  "state_filter": "CA",
+  "title_filter": "AI research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "CA",
+    "title": "AI research scientist",
+    "sort": "updated",
+    "limit": 25,
+    "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MToxOC42NzRaIiwiZmlsdGVyRGlnZXN0IjoiMmdoSVlYWlRnUHdIcHJxUDZwejEybDBMcHprb2ZTVlF1d1BKWk1MQVpwcyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTA0VDE3OjQxOjQ5LjUyMTAwMFoiLCJqb2JJZCI6IjI2NjgzN2Q3LTM5MWEtNDQyYy1iZWQ1LTc5NmYxZjNjZTY4NSJ9fQ.9CpnD5e0tBvtYZ53BFoDIsMVPEeKr2ommqCeDJq2AN4"
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "16881f3e-939c-4f79-99f7-b3f5adb9a525",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "0faf6a9f-7b69-8949-887b-eb27a2f33725",
+        "employer_name": {
+          "state": "known",
+          "value": "Hewlett Packard Enterprise"
+        },
+        "title": {
+          "state": "known",
+          "value": "Principal AI Research Scientist (HPE Labs)"
+        },
+        "description": {
+          "state": "known",
+          "value": "Principal AI Research Scientist (HPE Labs)\n\nThis role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n\n**Who We Are:**\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n**Job Description:**\n\nHPE Labs is seeking a Principal AI Research Scientist for the HPE Quantum team within Emergent Machine Intelligence, a senior individual-contributor role focused on original, publication-driven research in areas including foundation model reasoning, representation learning, physics-inspired machine learning, mechanistic interpretability, and interdisciplinary work at the intersection of AI, quantum computing, and physical science. The ideal candidate is intellectually broad, experimentally strong, and highly autonomous, with strong research judgment, a track record of publishing at leading AI venues, and the ability to identify impactful problems, develop original ideas collaboratively, and mentor junior researchers. .\n\n**Key Responsibilities:**\n\n* Independently lead research projects from initial brainstorming and problem formulation through mathematical development, implementation, experimentation, analysis, and publication.\n    \n* Translate early-stage ideas into concrete hypotheses and design rapid, decisive experiments to determine whether a direction should be expanded, revised, or discontinued.\n    \n* Produce original research suitable for publication at leading venues such as NeurIPS, ICML, ICLR, and comparable conferences and journals.\n    \n* Maintain broad and current knowledge of modern AI research and use that knowledge to identify emerging opportunities, relevant prior work, and meaningful open problems.\n    \n* Collaborate with researchers, engineers, interns, and external partners across AI, physics, quantum computing, and advanced computing systems.\n    \n* Develop and release reusable research assets, including open-source software, models, experimental infrastructure, benchmarks, or datasets, when appropriate.\n    \n\n**Requirements:**\n\n* PhD in Computer Science, Artificial Intelligence, Machine Learning, Physics, Mathematics, or other related fields.\n    \n* Typically, 5+ years' experience Post PhD graduate studies.  Strong and sustained record of original research in modern artificial intelligence or machine learning. Or equivalent.\n    \n* Demonstrated ability to convert research ideas into rigorous, complete, and publishable outcomes, with a strong publication record at leading machine-learning venues such as NeurIPS, ICML, and ICLR, or comparable peer-reviewed venues.\n    \n* Broad and current command of the AI and machine-learning literature, extending beyond a single model family, technique, or application area.\n    \n* Deep mathematical understanding of modern machine-learning methods, including their objectives, assumptions, optimization behavior, learning dynamics, and limitations.\n    \n* Excellent experimental skills, including hypothesis formulation, rapid prototyping, controlled evaluation, analysis of failure modes, and interpretation of results.\n    \n* Advanced proficiency in Python and PyTorch, with experience using common AI/ML packages, libraries, and research tooling.\n    \n* Experience working with research codebases, open-source libraries, HPC and distributed systems, and collaborative software-development practices.\n    \n* Strong software-engineering and algorithm implementation skills for research, including code design, version control, testing, debugging, profiling, performance optimization, and reproducible experimentation.\n    \n* Strong knowledge of state-of-the-art AI/ML algorithms and the engineering skills to adapt, implement, and apply them to real-world problems when needed.\n    \n* Strong written and verbal communication skills, with the ability to explain complex technical ideas, present research findings, and write high-quality scientific papers.\n    \n* Demonstrated ability to work autonomously and collaborate effectively in an interdisciplinary research environment.\n    \n\n**Desired Knowledge and Skills:**\n\n* Substantial research background in theoretical physics, statistical physics, quantum physics, condensed-matter physics, or another mathematically intensive area of physics, together with a proven research record in AI and machine learning.\n    \n* Research experience combining machine learning with physics, applied mathematics, dynamical systems, optimization, or scientific computing.\n    \n* Experience moving fluidly between mathematical formulation, algorithm development, implementation, and empirical validation.\n    \n* Working proficiency in C++.\n    \n* Record of releasing high-quality open-source research software, models, benchmarks, datasets, or evaluation frameworks.\n    \n* Experience developing reusable experimental infrastructure or tools that accelerate research across multiple projects.\n    \n* Familiarity with neural quantum states, quantum many-body systems, quantum simulation, scientific machine learning, or other applications of AI to quantum science.\n    \n* Experience with advanced computational physics or chemistry methods, such as Monte Carlo simulations, density functional theory (DFT), molecular dynamics (MD), or related numerical methods.\n    \n\n**What We Can Offer You:**\n\n**Health & Wellbeing**\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n**Personal & Professional Development**\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n**Unconditional Inclusion**\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n**Let's Stay Connected:**\n\nFollow [@HPECareers](http://instagram.com/hpecareers) on Instagram to see the latest on people, culture and tech at HPE.\n\n#unitedstates\n\n#Hplabs\n\n**Job:**\n\nEngineering\n\n**Job Level:**\n\nTCP\\_05\n\n\"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.  \n– United States of America: Annual Salary USD 172,000 - 328,000 in Massachusetts // 172,000 - 349,000 in California // 152,000 - 349,000 in Texas  \nThe listed salary range reflects base salary. Variable incentives may also be offered.\"\n\nInformation about employee benefits offered in the US can be found at [https://myhperewards.com/main/new-hire-enrollment.html](https://myhperewards.com/main/new-hire-enrollment.html)\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: [Equal Employment Opportunity](https://hr.ext.hpe.com/Equal-employment-opportunity-policy.pdf).\n\n**Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.**\n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n**Recruitment Fraud Alert**\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.\n\n  \n\n**Hewlett Packard Enterprise**\n\nTechnology innovation that fosters business transformation.\n\n[We Are In the Acceleration Business](https://www.hpe.com/us/en/about.html)\n\nWe help customers use technology to slash the time it takes to turn ideas into value. In turn, they transform industries, markets and lives.\n\nSome of our customers run traditional IT environments. Most are transitioning to a secure, cloud-enabled, mobile-friendly infrastructure. Many rely on a combination of both. Wherever they are in that journey, we provide the technology and solutions to help them succeed.\n\n**Standards of Business Conduct (SBC)**\n\nThe Hewlett Packard Enterprise Standards of Business Conduct (SBC) embody the fundamental principles that govern our ethical and legal obligations to Hewlett Packard Enterprise. They pertain not only to our conduct within the company but also to conduct involving our customers, channel partners, suppliers and competitors.\n\nRead more about how we [**win the right way.**](http://investors.hpe.com/governance/sbc)\n\n**Equal Opportunity Employer (EEO)**\n\nHewlett Packard Enterprise provides equal employment opportunity to any employee or applicant without regard to sex, gender, color, race, ethnicity, religion, creed, national origin, ancestry, citizenship, age, marital status, sexual orientation, gender identity and expression, physical or mental disability, medical condition, pregnancy, protected veteran status, uniformed service status, familial status, genetic information, political affiliation, or any other characteristic protected by federal, state, or local law.\n\nIf you’d like more information about your EEO right as an applicant under the law, please click here: Know Your Rights.\n\n**[Equal Employment Opportunity is the Law](https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf)**\n\n**[Equal Employment Opportunity is the Law - Supplement](https://www.eeoc.gov/employers/upload/eeoc_gina_supplement.pdf)**\n\n**E-Verify** **(US & PR only)**  \nHPE is an E-Verify employer. E-Verify is an Internet-based system that compares information from an employee's Form I-9, Employment Eligibility Verification, to data from U.S. Department of Homeland Security and Social Security Administration records to confirm the employment eligibility of all newly hired employees. For more information [click here](https://www.e-verify.gov/about-e-verify/what-is-e-verify).\n\n**Accessibility**\n\nHPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities.  If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked [here](https://people.hpe.com/s/externalcase/candidate-support).\n\nNote: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.\n\n**Disclosure of Sensitive Personal Data**\n\nPlease ensure the resume you submit to us does not include any sensitive personal data.  Sensitive personal data includes data revealing information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, sex life or sexual orientation.  To the extent the resume you submit does contain this type of personal data, you consent to the storing and processing of this data by HPE for the purpose of reviewing and managing your application.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "hybrid",
+          "evidence": [
+            "jobPostingInfo.jobDescription: role has been designed as 'Hybrid'"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Milpitas",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Andover",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25009",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Spring",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48201",
+              "msa": {
+                "cbsa_code": "26420",
+                "cbsa_title": "Houston-Pasadena-The Woodlands, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Westford",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25017",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-24T12:04:35.152Z",
+        "curated_at": "2026-09-26T02:53:43.422Z",
+        "job_updated_at": "2026-11-02T18:13:17.395Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 15200000,
+                "max_cents": 34900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 17200000,
+                "max_cents": 32800000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 17200000,
+                "max_cents": 34900000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "4c737fd7619bdf87a53d128c16965575faaa76cd1b0176249ab306cc205c79ce",
+            "source": "workday",
+            "source_posting_id": "/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-2",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-2"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Senior-AI-Researcher--Foundational-AI_1210921-2"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Milpitas",
+                "state": "CA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Andover",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Andover, Massachusetts, United States of America"
+                  },
+                  {
+                    "city": "Spring",
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Spring, Texas, United States of America"
+                  },
+                  {
+                    "city": "Westford",
+                    "state": "MA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Westford, Massachusetts, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 172000,
+                "max": 328000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 152000,
+                    "max": 349000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 172000,
+                    "max": 328000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 172000,
+                    "max": 349000,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-08-16T00:00:00.000Z",
+            "first_seen_at": "2026-09-24T12:04:35.152Z",
+            "last_completed_fetch_at": "2026-11-02T18:51:01.711Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "56361854-9067-483d-bcdc-34cd536c4a6f",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist - FAIR, MSL"
+        },
+        "description": {
+          "state": "known",
+          "value": "Meta is seeking a Research Scientist to advance core machine learning research that powers products and systems at global scale. In this role, you will conduct original research in areas such as deep learning, representation learning, generative modeling and large-scale model training. You will work alongside a team of researchers and engineers to translate foundational ML advances into real-world impact across Meta's AI-driven products and platforms. This is an opportunity to contribute to the scientific community through publications while building systems that shape how billions of people experience AI.\n\nResponsibilities\nDesign and conduct original machine learning research in areas such as deep learning, generative models, representation learning, or optimization\nDevelop, implement, and evaluate novel ML algorithms and model architectures using large-scale training infrastructure\nTranslate research findings into production-ready systems in collaboration with engineering and product teams\nRun controlled experiments to test research hypotheses and make data-driven decisions about model design and training strategies\nContribute to the preparation and submission of research papers to peer-reviewed venues and conferences\nParticipate in code reviews and maintain high standards for research code quality, reproducibility, and documentation\nInstrument experiments with appropriate logging, monitoring, and evaluation metrics to understand model behavior at scale\nCollaborate with cross-functional partners including data scientists, engineers, and product teams to identify high-impact research directions\nIdentify and address performance bottlenecks in model training and inference pipelines\nProvide technical feedback to peers through design reviews, experiment critiques, and research discussions\n\nQualifications\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\n2+ years of experience conducting machine learning research, including developing and evaluating novel ML models or algorithms\nExperience implementing machine learning systems in Python and at least one deep learning framework such as PyTorch\nExperience designing and running experiments to validate research hypotheses, including statistical analysis of results\nExperience communicating research findings in written form, such as technical reports, papers, or internal documentation Experience training or fine-tuning large-scale models on distributed compute infrastructure\nFamiliarity with research areas such as self-supervised learning, reinforcement learning or efficient model architectures\nExperience bridging research prototypes and production ML systems in a collaborative engineering environment\nPublication record at peer-reviewed machine learning venues such as NeurIPS, ICML, ICLR, CVPR, or equivalent"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-25T05:22:20.656Z",
+        "curated_at": "2026-11-02T11:46:34.272Z",
+        "job_updated_at": "2026-11-02T11:46:34.272Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "b2a4ba8276f4b5ed16ece0c9bac6b2ad56dbe15042836716d031d645e1fc661e",
+            "source": "employer_site",
+            "source_posting_id": "2199155494335856",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2199155494335856/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2199155494335856/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-22T17:54:24.000Z",
+            "first_seen_at": "2026-10-25T05:22:20.656Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "45a2d5f7-bea2-4bb5-97cb-576090df55a4",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, AI Safety and Security"
+        },
+        "description": {
+          "state": "known",
+          "value": "The Research Scientist candidate will use their skills in system design and modeling to advance AI safety and security research. These roles will require research and problem-solving skills to design, develop, and evaluate novel approaches to ensuring AI systems are safe, secure, and aligned with human values. These roles will work in a focused incubation team and collaborate with a large and wide-ranging set of scientists and engineers in the greater organization.\n\nResponsibilities\nPerform fundamental and applied research to advance the scientific and technological frontiers of AI safety and security\nDevelop and evaluate methods for ensuring AI systems behave safely and as intended, including alignment techniques and robustness testing\nInvestigate paradigms for detecting and mitigating adversarial attacks, model vulnerabilities, and potential misuse of AI systems\nDevelop algorithms based on state-of-the-art machine learning and neural network methodologies with a focus on safety and security\nDefine, build and benchmark new safety and security functionalities needed for the next generation of AI\nConduct research towards long-term product goals while identifying intermediate milestones\nPlan and execute novel research based on long-term objectives of the organization\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nCurrently has or is in the process of obtaining a PhD degree in the field of Artificial Intelligence, Machine Learning, Computer Security, a related field, or equivalent practical experience\nExperience with any of the following research areas: AI safety, AI alignment, adversarial machine learning, model robustness, AI security, red-teaming AI systems, interpretability, or trustworthy AI\nExperience in relevant AI safety and security research areas, such as: alignment techniques, reward modeling, RLHF, constitutional AI, jailbreak prevention, model robustness, or adversarial attack detection Experience working with large language models and evaluating their safety properties\n2+ years of industry experience in relevant AI safety and security research areas\nExperience building systems based on machine learning and/or deep learning methods\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences in Machine Learning (NeurIPS, ICML, ICLR), Security (IEEE S&P, USENIX Security, CCS), or AI Safety venues\nExperience with manipulating and analyzing complex, large scale, high-dimensionality data from varying sources\nExperience working and communicating cross-functionally in a team environment\nDemonstrated research and software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub)\nExperience with deep learning frameworks (such as PyTorch, Tensorflow) and Python\nExperience solving complex problems and comparing alternative solutions, tradeoffs, and different perspectives to determine a path forward"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-13T04:02:03.563Z",
+        "curated_at": "2026-10-13T14:31:39.106Z",
+        "job_updated_at": "2026-10-20T07:13:16.267Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ebac50dbb6f573b6724b5121d9cff93bfbdd2855d60255daab40eb3c74c710f6",
+            "source": "employer_site",
+            "source_posting_id": "1873038390772808",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1873038390772808/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/1873038390772808/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-30T03:14:24.000Z",
+            "first_seen_at": "2026-10-13T04:02:03.563Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "aeac196c-148a-428a-85cd-894ebfe5004c",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "extraction_failed"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist, Robotics - Meta Superintelligence Labs"
+        },
+        "description": {
+          "state": "known",
+          "value": "Meta is seeking an AI Research Scientist to join Meta Superintelligence Labs. Individuals in this role are expected to be recognized experts in identified research areas such as artificial intelligence, machine learning, robotics, and embodied AI, particularly including areas such as transfer learning, learning from demonstration, reinforcement learning, action-conditioned world models, perception, representation learning, robot control, navigation, mobile manipulation, dexterous manipulation, and vision-language models. You should have a keen interest in producing new, open science to make embodied agents more intelligent.\n\nResponsibilities\nPerform fundamental and applied research to push the scientific and technological frontiers of embodied artificial intelligence\nInvent and improve novel data-driven paradigms for robotics, leveraging a variety of modalities (images, video, text, audio, tactile, etc.)\nInvestigate paradigms that can deliver a spectrum of embodied behaviors - from simulated characters to real robots, and from short-horizon, low-level to long-horizon, high-level intelligence\nDevelop algorithms based on state-of-the-art machine learning and neural network methodologies\nDefine, build, and benchmark new capabilities needed for the next generation of AI\nConduct research towards long-term research goals while identifying intermediate milestones\nLead, plan, and execute novel research based on long-term objectives of the organization\n\nQualifications\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nPhD degree in the field of Artificial Intelligence, Robotics, Computer Vision, Machine Learning, Language, a related field, or equivalent practical experience\nExperience with any of the following research areas: robotics, embodied AI, human-robot interaction, sim-to-real transfer, learning from demonstration, reinforcement learning, dexterous manipulation, digital agents, vision language models, egocentric perception, and/or Large Language Models\nMust obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during the employment Experience working and communicating cross-functionally in a team environment\n2+ years of industry experience in relevant robotics-related research areas, such as: robot learning, reinforcement learning, imitation learning, action-conditioned world models, task and motion planning, sim-to-real transfer robotic control, manipulation, navigation, or generally embodied AI\nExperience with robotics frameworks like ROS, along with experience working with robot simulations and real-world hardware\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences in Machine Learning (NeurIPS, ICML, ICLR), Robotics (ICRA, IROS, RSS, CoRL), Computer Vision (CVPR, ICCV, ECCV)\nExperience with deep learning frameworks (such as PyTorch, TensorFlow) and Python\nExperience building systems based on machine learning and/or deep learning methods\nDemonstrated research and software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g., GitHub)"
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Menlo Park",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06081",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-18T21:23:18.969Z",
+        "curated_at": "2026-10-03T08:57:47.671Z",
+        "job_updated_at": "2026-10-20T07:13:15.453Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "0a7198b34feaddb60a97d152f276270857317751a48763966d248f94d3962904",
+            "source": "employer_site",
+            "source_posting_id": "2617228595359261",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2617228595359261/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.metacareers.com/profile/job_details/2617228595359261/"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Menlo Park",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-03T19:45:22.000Z",
+            "first_seen_at": "2026-09-18T21:23:18.969Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 82,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:53:54.295Z"
+  },
+  "response_usage": {
+    "charged": "4",
+    "remaining": "95007",
+    "request_id": "81577464-fde9-4245-8b69-964c37559e04"
+  }
+}

@@ -1,0 +1,1402 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:45:48.106765+00:00",
+  "state_filter": "WA",
+  "title_filter": "business intelligence analyst",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "WA",
+    "title": "business intelligence analyst",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "bbc4e5b2-543b-4bbc-889a-e21d56fdac92",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "458fdc6d-ca9f-80b9-9895-3c20956d84c4",
+        "employer_name": {
+          "state": "known",
+          "value": "Boeing"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst (BI Analysis)"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Description\nAt Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.\nBoeing Defense, Space and Security (BDS) Mobility, Surveillance & Bombers (MS&B) division is hiring a Business Intelligence Analyst (Level 3) as we expand our division-aligned Business Analytics team to lead and manage the development of analytical tools to increase visibility of program performance and support data-driven decision making. In joining this team, you will have a critical part in the division's analytical transformation including program metric identification and development, KPI standardization and management, and descriptive, diagnostic, predictive, and prescriptive analytics development and deployment. This role will be based in Tukwila, WA .\n\nStrong communication and organizational skills are critical to success in this position, along with the ability to build strong relationships, collaborate in a cross-functional environment, and utilize problem-solving skills to proactively identify and manage risks and opportunities.\n\nPosition Responsibilities:\nDesigns and develops Business Intelligence information models, dashboards, metrics and reports utilizing standard technologies and methodologies. Combines programming, SQL skills, best practices, strategic decision-making capabilities and business expertise to deliver efficient and scalable Business Intelligence solutions to improve engineering processes, engineering performance, business productivity and business outcomes. Data Preprocessing and Cleaning: Ensure the quality and accuracy of large volumes of structured and unstructured data using SQL or other coding languages. Develop ETL pipelines, ensuring high-quality data capture. Supports establishment of strategic direction of descriptive analytics for the division and functional partners, including identifying opportunities for analytical solution development Identify key performance indicators (KPIs) to provide accurate visibility of program and functional performance. Collaborate with cross-functional teams to understand data requirements and business objectives. Partner with stakeholders and internal customers to ensure follow up action for issue resolution. Clearly articulate technical concepts and information to both technical and non-technical stakeholders. Effectively train individuals on how to utilize analytical tools, ensuring clear understanding of the information\nThis position is expected to be 100% onsite. The selected candidate will be required to work on-site at one of the listed location options.\n\nThis position requires the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship. U.S. Secret Clearance Post Start is required.)\n\nBasic Qualifications (Required Skills/Experience):\n5+ years of experience in identifying and communicating business requirements with cross-functional and/or cross-business teams 3+ years of experience with database technologies using SQL or PL/SQL 3+ years of experience in designing/building visualizations within Tableau Experience with building ETL pipelines 3+ years of experience in data analysis algorithms (e.g. data mining, statistics, machine learning, natural language processing, text mining, visual analytics) and building Descriptive, Predictive and Prescriptive models 3+ years of experience developing and maintaining relationships and partnerships with stakeholders (i.e. customers, suppliers, peers and/or partners) 1+ year of experience working with data supporting engineering functions (Design Engineering, Manufacturing Engineering, Production Engineering) \"3+ years exp working in either Supply Chain, Engineering, Manufacturing or Quality function\"\n\nPreferred Qualifications (Desired Skills/Experience):\nMaster’s degree or higher, study in a technical field (i.e. Computer Science, Information Management, etc.) Understanding of aerospace engineering (design engineering, manufacturing engineering, production engineering) processes and data Experience developing solutions in Palantir Foundry including ontology development, application development, and AIP integration Experience with R or Python Strong Cloud background, specifically in Azure and Azure Managed Services Experience in Dev Ops: CI/CD pipelines\nThis position is expected to be 100% onsite. The selected candidate will be required to work on-site at one of the listed location options.\n\nShift:\nThis position is for 1st shift.\n\nTypical Education/Experience:\nEducation/experience typically acquired through advanced technical education (e.g. Bachelor) and typically 10 or more years' related work experience or an equivalent combination of technical education and experience (e.g. PhD, Master+3 years' related work experience, 6years' related work experience, etc.)\n\nConflict of Interest:\nSuccessful candidates for this job must satisfy the Company’s Conflict of Interest (COI) assessment process.\n\nRelocation:\nRelocation assistance is not a negotiable benefit for this position. Candidates must live in the immediate area or relocate at their own expense.\n\nTravel:\nPosition may require travel up to 10% of the time.\n\nDrug Free Workplace:\nBoeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.\n\nPay & Benefits:\nAt Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.\n\nThe Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.\n\nThe specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.\n\nPay is based upon candidate experience and qualifications, as well as market and business considerations.\n\nSummary pay range: $102,850-$139,150\n\nApplications for this position will be accepted until Dec. 04, 2026\n\nExport Control Requirements:\nThis position must meet U.S. export control compliance requirements. To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.62 is required. “U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee.\nExport Control Details:\nUS based job, US Person required\nRelocation\nRelocation assistance is not a negotiable benefit for this position.\nSecurity Clearance\nThis position requires the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship. An interim and/or final U.S. Secret Clearance Post-Start is required.\nVisa Sponsorship\nEmployer will not sponsor applicants for employment visa status.\nShift\nThis position is for 1st shift\n\nEqual Opportunity Employer:\nBoeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Tukwila",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-20T09:03:37.910Z",
+        "curated_at": "2026-11-20T09:05:05.936Z",
+        "job_updated_at": "2026-11-20T09:05:05.936Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10285000,
+                "max_cents": 13915000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "97dd08c1879cdf39bbc807c5302b3be0299c90e1566592fe013b6d266137048e",
+            "source": "radancy",
+            "source_posting_id": "103534337392",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.boeing.com/job/tukwila/business-intelligence-analyst-bi-analysis/185/103534337392"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Business-Intelligence-Analyst--BI-Analysis-_JR2026528966-1/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Tukwila",
+                "state": "Washington",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 102850,
+                "max": 139150,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-19T00:00:00.000Z",
+            "first_seen_at": "2026-11-20T09:03:37.910Z",
+            "last_completed_fetch_at": "2026-11-20T09:04:34.648Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "2dcb78f7-2131-4829-a482-e9d08c628e07",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "f11596f2-99cb-89dc-a707-1e8edd2038da",
+        "employer_name": {
+          "state": "known",
+          "value": "Pacmed Clinics DBA Pacific Medical Centers"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst - USFHP"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Description\n\nServes as a member of the PMC Business Intelligence group, responsible for the development and implementation of reports, reporting tools, data analysis and data systems integration and integrity. Collaborates with all levels of Pacific Medical Centers' management and Information Technology staff to develop analysis and reporting tools to support critical business development and decision-making processes. Provides analysis, business consulting, and makes recommendations on key performance indicators. Educates users on structure, integrity, relevance and objectivity of data. Trains end users on use of reporting and analysis tools and business intelligence systems.\n\nProvidence caregivers are not simply valued – they’re invaluable. Join our team at Pacmed Clinics DBA Pacific Medical Centers and thrive in our culture of patient-focused, whole-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best people, we must empower them.\n\nRequired Qualifications:\n\nBachelor's Degree in mathematics, statistics, accounting, economics, finance or systems analysis preferred.\n\n4+ years’ experience in a financial or business analysis role, with direct experience in the use of sophisticated reporting tools and metrics development required.\n\n5+ years information systems experience supporting mission-critical decision support/business intelligence systems required.\n\n2 years Advanced Microsoft SQL Server 2008 or later skills with a strong emphasis on Microsoft Business Intelligence architecture and deployment of solutions, including integration with MS Office Excel required.\n\nPreferred Qualifications:\n\nActuarial experience preferred.\n\nWhy Join Providence?\n\nOur best-in-class benefits are uniquely designed to support you and your family in staying well, growing professionally and achieving financial security. We take care of you, so you can focus on delivering our mission to advocate, educate and provide extraordinary care.\n\nAt Providence, our strength lies in Our Promise of “Know me, care for me, ease my way.” Working at our family of organizations means that regardless of your role, we’ll walk alongside you in your career, supporting you so you can support others. We provide best-in-class benefits and we foster an inclusive workplace where diversity is valued, and everyone is essential, heard and respected. Together, our 120,000 caregivers (all employees) serve in over 50 hospitals, over 1,000 clinics and a full range of health and social services across Alaska, California, Montana, New Mexico, Oregon, Texas and Washington. As a comprehensive health care organization, we are serving more people, advancing best practices and continuing our more than 100-year tradition of serving the poor and vulnerable.\n\nPosted are the minimum and the maximum wage rates on the wage range for this position. The successful candidate's placement on the wage range for this position will be determined based upon relevant job experience and other applicable factors. These amounts are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on-call, overtime, premiums, extra shift incentives, or bonus opportunities.\n\nProvidence offers a comprehensive benefits package including a retirement 401(k) Savings Plan with employer matching, health care benefits (medical, dental, vision), life insurance, disability insurance, time off benefits (paid parental leave, vacations, holidays, health issues), voluntary benefits, well-being resources and much more. Learn more at providence.jobs/benefits.\n\nApplicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.\n\nPacific Medical Centers (PacMed) is a private, not-for-profit, primary and integrated multi-specialty health care network with outpatient clinics and primary and specialty care providers in King, Snohomish and Pierce counties. We combine decades of patient-centered care with cutting-edge technology, first-class facilities and board-certified providers.\n\nOur strong team environment and respect for our people—at all levels and from all backgrounds—allow us to provide authentic care that achieves the highest-quality patient outcomes, backed by the strong network of resources and support through our affiliation with the Providence family, including local partners like Swedish Health Services.\n\nProvidence is proud to be an Equal Opportunity Employer. We are committed to the principle that every workforce member has the right to work in surroundings that are free from all forms of unlawful discrimination and harassment on the basis of race, color, gender, disability, veteran, military status, religion, age, creed, national origin, sexual identity or expression, sexual orientation, marital status, genetic information, or any other basis prohibited by local, state, or federal law. We believe diversity makes us stronger, so we are dedicated to shaping an inclusive workforce, learning from each other, and creating equal opportunities for advancement.\n\nFor any concerns with this posting relating to the posting requirements in RCW 49.58.110(1), please click here where you can access an email link to submit your concern.\n\nJob Info\nJob Identification\n467146\nJob Category\nAnalytics/Business Intelligence\nPosting Date\n11/18/2026\nJob Schedule\nFull time\nJob Shift\nDay\nLocations\nBlackriver Corporate Park-Renton(HR)\n(On-site)\nFTE\n1\nMinimum Salary\n50.32\nMaximum Salary\n79.45\nJob Location\nBlackriver Corporate Park-Renton(HR)"
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Renton",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-18T20:21:39.927Z",
+        "curated_at": "2026-11-18T20:30:35.455Z",
+        "job_updated_at": "2026-11-18T20:30:35.455Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 5032,
+                "max_cents": 7945,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "05384ecbeaff2e8311d7ade15d02bb3b69be53fe5bb467c9b438d13587e7743a",
+            "source": "oracle_hcm",
+            "source_posting_id": "467146",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/467146"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/467146"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Renton",
+                "state": "WA",
+                "country": "US",
+                "countryRaw": "United States",
+                "latitude": 47.47532,
+                "longitude": -122.20487,
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 50.32,
+                "max": 79.45,
+                "currency": "USD",
+                "interval": "unknown",
+                "ranges": [
+                  {
+                    "min": 50.32,
+                    "max": 79.45,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-11-18T00:00:00.000Z",
+            "first_seen_at": "2026-11-18T20:21:39.927Z",
+            "last_completed_fetch_at": "2026-11-18T20:23:21.855Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "6a07a047-647f-4609-81a6-594381b9e2d4",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "8ca73fe0-ea37-8185-a78b-bd75269b6156",
+        "employer_name": {
+          "state": "known",
+          "value": "nLIGHT"
+        },
+        "title": {
+          "state": "known",
+          "value": "IT Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "About nLIGHT\n\nAt nLIGHT, we are constantly on the cutting-edge of laser technology in a massively growing market. We are a leading provider of high-power semiconductors and fiber lasers for industrial, microfabrication, and aerospace & defense applications, to name a few. Our lasers are changing not only the way things are made, but also changing the things that can be made.\n\nHeadquartered in Camas, Washington, nLIGHT is a publicly listed company (NASDAQ: LASR).\nSummary\nThe Business Intelligence Analyst designs, develops, and supports scalable reporting and data solutions across the organization. This role partners with IT and business stakeholders to gather requirements, translate business needs into data-driven insights, and build Power BI reports, semantic models, SQL queries, and data pipelines that support operational and strategic decision-making. The position works closely with the BI Team to maintain consistent data models, improve reporting performance, and support the organization’s modern analytics platform.\nResponsibilities:\n\n• Designs, develops, and maintains Power BI datasets and reports, including data modeling, DAX development, and performance optimization.\n\n• Builds and supports data pipelines and ETL processes to ingest, transform, and prepare data for reporting, analytics, and eventual AI ingestion.\n\n• Collaborates with business stakeholders to gather requirements and translates business questions into data-driven insights.\n\n• Works with modern data platforms, such as Microsoft Fabric and Azure-based services, to support data ingestion, transformation, and orchestration workflows.\n\n• Follows established data architecture standards and partners closely with the BI/Data Architect to ensure consistency across data models, pipelines, and reporting solutions.\n\n• Documents data definitions, report logic, and processes to support maintainability and knowledge sharing.\n\n• Supports other data projects and duties as assigned.\n\nQualifications:\n\n• Bachelor’s degree in a related field and at least 3 years of experience with relational databases, SQL, and reporting or analytics solutions; equivalent combinations of education and experience may be considered.\n\n• Strong SQL skills and understanding of data modeling concepts (e.g., dimensional modeling).\n\n• Experience building interactive reports and semantic models in Power BI, including DAX.\n\n• Familiarity with ETL concepts and data pipeline development.\n\n• Experience with or exposure to cloud-based data platforms (Azure, Microsoft Fabric, or similar).\n\n• Ability to communicate technical concepts to non-technical stakeholders.\n\n• Strong attention to detail and ability to manage multiple priorities in a fast-paced deadline-driven environment.\n\n• Ability to take direction, accept constructive criticism and be diplomatic when reviewing work of others.\n\n• Knowledge of standard reporting used for manufacturing, finance, and supply chain management.\n\n• Experience with ERP, MES, or HRIS systems (Dynamics 365 a plus).\n\n• Exposure to Power Query, Fabric pipelines, or data lake/lakehouse concepts.\n\n• Familiarity with SOX and other government regulatory reporting environments.\n\n• Demonstrated judgment, discretion, and professionalism, including the ability to handle sensitive information confidentially, maintain appropriate boundaries, and escalate issues when needed.\n\n• Ability to navigate ambiguity, support change, and contribute to process improvements in a fast-paced, growth-oriented environment.\n\nnLIGHT is proud to offer comprehensive COMPENSATION AND BENEFITS:\n\nStarting salary level is based on qualifications:\n\n• Business Intelligence Analyst I: $89,000 - $100,000 annually\n\n• Business Intelligence Analyst II: $95,000 - $115,000 annually\n\nOther Compensation and Benefits\n\n• Target Cash Bonus of 5% of earned wages , depending on level.\n\n• Eligible for Restricted Stock Unit grants\n\n• 4 weeks of Paid Time Off per year\n\n• 10 paid Holidays\n\n• Eligible for health benefits on the 1st day of the month after your start date\n\n• Medical, Dental and Vision Benefits, including prescription and orthodontia with employee-paid premiums as low as $40.00 per pay period\n\n• Flexible Spending and Health Savings Accounts\n\n• Employee Stock Purchase Plan\n\n• 401(k) with company match and immediate vesting\n\n• Company paid Short-Term and Long-Term Disability, and Life & AD&D Insurance\n\n• Employee Assistance Program\n\n• Aflac Supplemental Insurance\n\n• Paid Bereavement Leave and Jury Duty\n\n• Tuition Assistance Program\n\n• Pet Insurance\n\nnLIGHT is subject to US Export Control regulations. To qualify for this position, you must be a US Person (that is, a US citizen, lawful permanent resident, or protected individual granted asylum or refugee status).\n\nEqual Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or age. For more information about our commitment to equal employment opportunity, please see this government poster: Know Your Rights: Workplace Discrimination is Illegal . If you are an individual with a disability and need a reasonable accommodation in the application or hiring process, please contact Human Resources at (360) 566-4460 or HR@nlight.net .\n\nE-Verify Participation: nLIGHT participates in the E-Verify program. This employer will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee’s Form I-9 to confirm work authorization.\n\nFor more information, please review the following notices:\n\n• E-Verify Participation Poster\n\n• Right to Work Poster"
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Camas",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53011",
+              "msa": {
+                "cbsa_code": "38900",
+                "cbsa_title": "Portland-Vancouver-Hillsboro, OR-WA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-04T11:17:18.820Z",
+        "curated_at": "2026-11-12T09:32:39.308Z",
+        "job_updated_at": "2026-11-18T04:33:06.616Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 8900000,
+                "max_cents": 10000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "5cd4a5428bb238f67d4c1da3d1fa8a20710d41f4cadcdc7c73b4be99176e5c4d",
+            "source": "jobvite",
+            "source_posting_id": "oCFuAfw5",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.jobvite.com/nlight/job/oCFuAfw5"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.jobvite.com/nlight/job/oCFuAfw5/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Camas",
+                "state": "WA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 89000,
+                "max": 100000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-09-01T00:00:00.000Z",
+            "first_seen_at": "2026-10-04T11:17:18.820Z",
+            "last_completed_fetch_at": "2026-11-21T01:06:12.655Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "801ba65f-4c52-40db-8851-51aad08c08a4",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "53a80455-24aa-8417-a21d-77668eac1ee9",
+        "employer_name": {
+          "state": "known",
+          "value": "State of Washington"
+        },
+        "title": {
+          "state": "known",
+          "value": "DSHS FTAA Epic Senior Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "**DSHS FTAA IT Data Management - Senior Specialist**\n\nWe are seeking an experienced Epic Senior Business Intelligence Analyst to join our team at the Finance, Technology, Analytics, and Accounting Administration (FTAA) and Division of Enterprise Technology (DIT). This is an amazing opportunity for you to utilize your Epic Caboodle, Cogito, Slicer Dicer, and/or Clarity experience and certificates.\n\nIn this role you will be a subject matter expert in Electronic Health Records (EHR), clinical operational workflow context, EHR data models, coding terminology and standards, data privacy and compliance, integration and downstream system context and have Epic specific reporting knowledge. You will also support the reporting and integration of the DSHS EHR product and ensure it aligns with the vision and needs of the Health and Human Services (HHS) Coalition organizations, its staff, business partners, community partners and the 2.9 million Washingtonians served by these coalition organizations statewide.\n\n  \n\n**Some of what you will do:**\n\n* Review and analyze incoming clinical data requests from DSHS and Health Care Management and Coordination Systems (HCMACS) business partners using objective scoring metrics to estimate development effort and prioritize the data backlog for sprint execution\n* Translate ambiguous healthcare business requirements into clear, technically sound User Stories, Epics, and Themes within Jira\n* Perform quantitative analyses on EHR system usage data using database auditing tools to discover operational workflow bottlenecks, resulting in data-backed feature recommendations for the software development roadmap\n* Conceptualize, design, and build automated data visualizations and clinical dashboards\n* Conduct rapid-response, ad-hoc statistical analyses on raw EHR datasets during public health emergencies or legislative inquiries\n* Write and optimize complex, multi-table SQL queries\n* Configure and deploy embedded Epic Cogito reporting tools to deliver real-time data to healthcare workers\n* Subject all custom SQL code and dashboards to rigid peer reviews and data validation testing prior to live production deployment\n* Evaluate data extraction patterns and user report access lists against HIPAA regulations and state data privacy policies\n* Map and audit database schemas against standardized healthcare coding terminologies\n\n**Who should apply?**\n\nA Bachelor’s degree in Health Informatics, Computer Science, Information Systems, or a related field  \nAND  \nSeven years of progressively responsible experience in Epic application analysis, configuration, and implementation, including at least two years in a lead or senior capacity.  \nOR  \nA minimum of eleven years experience progressively responsible experience, with statewide authority and impact, consulting with and providing high level advice to organization leadership regarding the administration of health record management and administration. This includes developing and implementing state policies and operational procedures which are informed by state and federal policies and regulations.  \n  \nMust demonstrate depth in the following areas:\n\n* Epic & Healthcare Context (minimum two to three years): Direct hands-on experience working in a healthcare delivery setting (such as a hospital, state health authority, or corrections infirmary), with specific experience utilizing Epic’s backend database architecture\n* Data Engineering & SQL: A proven track record of writing, tuning, and optimizing multi-table SQL queries against relational or dimensional database schemas\n* Agile Framework Delivery: At least 2 years of experience operating directly within an Agile/Scrum software development lifecycle, including experience writing structured user stories, epics, and acceptance criteria in tools like Jira or Azure DevOps\n* Data and Reporting Visualization: Proficiency in designing, publishing, and securing production-tier enterprise dashboards using tools like Power BI or Tableau\n\n  \nGraduate degrees (such as a Master's degree in Health Informatics, Data Science, or Public Administration) can substitute for up to one to two years of general experience. Conversely, highly relevant professional IT or data engineering experience can substitute year-for-year for the formal degree.  \n  \n\n**What we're looking for:**\n\n* Epic Cogito Fundamentals / Tools Admin: Verifies mastery over Epic's front-end reporting suite, including Radar dashboards, Reporting Workbench, and SlicerDicer\n* Epic Caboodle Data Model: Verifies the technical ability to query and customize Epic’s pre-aggregated dimensional data warehouse\n* Epic Clarity Data Model (Clinical and/or Revenue modules): Verifies deep structural knowledge of Epic's massive relational SQL backend databases\n* Business Analysis Professional Certification: Certified Business Analysis Professional (CBAP) or Certification of Capability in Business Analysis (CCBA) to validate Agile requirements gathering skills\n* BI Platform Certifications: Microsoft Certified: Power BI Data Analyst Associate, or Tableau Desktop Certified Professional\n\n  \n\n**Please include the following:**\n\n* Current chronological resume\n* A cover letter explaining why you are interested in the job, your skills, and experience that makes you the best person for the job\n* Three professional references with current contact information\n\n  \n**Questions?** Please contact [sean.brauner@dshs.wa.gov](mailto:sean.brauner@dshs.wa.gov) and reference #07767.  \n  \n\nThe Department of Social and Health Services’ (DSHS) vision that people find human services to shape their own lives requires that we come together with a sense of belonging, common purpose, shared values, and meaningful work. It is crucial to our agency’s vision that you bring a fairness, access, and social justice commitment to your work with DSHS. We strive to support all Washingtonians, including Black, Indigenous, and People of Color, people with physical, behavioral health, and intellectual disabilities, elders, LGBTQIA+ individuals, immigrants and refugees, and families building financial security.\n\nPrior to a new hire, a background check including criminal record history may be conducted. Information from the background check will not necessarily preclude employment but will be considered in determining the applicant’s suitability and competence to perform in the job. This announcement may be used to fill multiple vacancies. Employees driving on state business must have a valid driver's license. Employees driving a privately owned vehicle on state business must have liability insurance on the privately owned vehicle.  \n  \nWashington State Department of Social and Health Services is an equal opportunity employer and does not discriminate in any area of employment, its programs or services on the basis of age, sex, sexual orientation, gender, gender identity/expression, marital status, race, creed, color, national origin, religion or beliefs, political affiliation, military status, honorably discharged veteran, Vietnam Era, recently separated or other protect­ed veteran status, the presence of any sensory, mental, physical disability or the use of a trained dog guide or service animal by a person with a disability, equal pay or genetic information. Persons requiring accommodation in the application process or this job announcement in an alternative format may contact the Recruiter at (360) 725-5810. Applicants who are deaf or hard of hearing may call through Washington Relay Service by dialing 7-1-1 or 1-800-833-6384.\n\nRelationship and Reporting Structure (Nepotism) Disclosure: If you are selected for hire, you must disclose whether you have a relative, household member, close friend, or romantic partner within your potential supervisory chain of command. DSHS has a Relationships and the Reporting Structure policy that prohibits nepotism and can be reviewed [https://www.dshs.wa.gov/sites/default/files/rpau/ap/DSHS-AP-18-17-Internet-Official-Housekeeping-2024.pdf](https://www.dshs.wa.gov/sites/default/files/rpau/ap/DSHS-AP-18-17-Internet-Official-Housekeeping-2024.pdf). Applicants whose appointment would result in a prohibited reporting relationship are not eligible for appointment to that position.\n\n[](http://www.dhs.gov/E-Verify)\n\n  \n  E-Verify® is a registered trademark of the U.S. Department of Homeland Security",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "region": "US-WA",
+              "country": "US",
+              "zip": "98504",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-23T16:55:26.194Z",
+        "curated_at": "2026-11-11T15:54:08.382Z",
+        "job_updated_at": "2026-11-13T17:16:11.881Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 9462000,
+                "max_cents": 12724800,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "ed48c0b1c8cbf01ebdd28a36df7a77a533b5149ba6ca207f736401e43a648f7e",
+            "source": "neogov",
+            "source_posting_id": "5491159",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.governmentjobs.com/careers/washington/jobs/5491159/dshs-ftaa-epic-senior-business-intelligence-analyst"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.governmentjobs.com/careers/washington/jobs/5491159/dshs-ftaa-epic-senior-business-intelligence-analyst"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "state": "WA",
+                "country": "US",
+                "remote": false,
+                "zip": "98504"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 94620,
+                "max": 127248,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 94620,
+                    "max": 127248,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-11-10T00:00:00.000Z",
+            "first_seen_at": "2026-09-23T16:55:26.194Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "5e05eefc-d731-4df5-8336-670cd32e4ad9",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "aa222c44-d256-8827-a67a-98b24471d94a",
+        "employer_name": {
+          "state": "known",
+          "value": "Schweitzer Engineering Laboratories, Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "Associate Business Intelligence Analyst - Quality"
+        },
+        "description": {
+          "state": "known",
+          "value": "The Associate Business Intelligence Analyst supports Quality Data Reporting Services by developing, maintaining, and validating reporting and analytics solutions that enable data-driven decision making. This role partners with stakeholders to understand business needs and translate requirements into dashboards, reports, metrics, and visualizations using Power BI and related technologies. The Associate Business Intelligence Analyst is responsible for ensuring the accuracy, reliability, and usability of reporting solutions through data validation, report maintenance, and continuous improvement of reporting environments. This position combines data analysis, report development, stakeholder collaboration, and business intelligence support to deliver actionable insights across the organization.\n\n  \n\n**Essential Duties and Responsibilities:**\n\n* Partner with stakeholders to gather, analyze, and document business requirements and translate those requirements into reporting and analytics solutions.\n* Analyze data using established methods and deliver accurate, actionable, and timely results.\n* Design, develop, and maintain Power BI dashboards, reports, and paginated reports.\n* Support the modernization, administration, and continuous improvement of Power BI reporting workspaces and reporting environments.\n* Create, maintain, and enhance data visualizations, metrics, scorecards, and key performance indicators.\n* Validate data sources, datasets, semantic models, cubes, dashboards, and paginated reports to ensure accuracy, consistency, and reliability.\n* Review, validate, and clean data; identify and resolve data inconsistencies.\n* Support Quality Data Reporting Services through report development, maintenance, and troubleshooting activities.\n* Use established data sources and research alternative data sources when needed.\n* Collaborate with data owners and stakeholders to improve data quality and update reporting solutions.\n* Support validation of reporting data sources, data connections, and related data infrastructure.\n* Create and maintain technical documentation related to reporting solutions and data processes.\n\n  \n\n**Required Qualifications:**\n\n* BS degree in Mathematics, Statistics, Information Systems, Computer Science, Business Analytics, Social Sciences, or related experience.\n* Knowledge of Microsoft Word, Microsoft Excel, Microsoft Access, and Power BI.\n* Basic understanding of data structures, databases, and relational data concepts.\n* Ability to gather requirements from stakeholders and translate business needs into reporting and analytics solutions.\n* Strong analytical, systems thinking, problem-solving, decision-making, organizational, and project management skills.\n\n  \n\n**Preferred Qualifications:**\n\n* Experience developing reports, dashboards, or data visualizations using Power BI or similar business intelligence tools.\n* Experience applying statistical skills in a manufacturing, electronics design, or business environment.\n* Experience validating data models, reporting solutions, or business intelligence systems.\n* Working knowledge of SQL.\n* Working knowledge of Python.\n\n  \n\n**Location:**\n\n**Pullman, WA -** This position is located in Pullman, WA. Nestled in Eastern Washington, offering an exceptional quality of life. Embrace the charm of small-town living with spacious surroundings, no traffic hassles, and easy access to outdoor adventures in nearby mountains, rivers, and forests. Plus, benefit from excellent schools and universities in the area.\n\n  \n\n#SEL25\n\n**Competitive pay. Superior benefits. Inspiring work.**\n\nPeople are at the core of our company and we hire employee-owners. We welcome you to learn more about how we support employees.\n\n* We’re 100% employee owned. Retirement benefits include an employer funded stock ownership plan (ESOP) and personal 401(k) options.\n* We offer top tier medical, prescription, dental, vision, life, and disability insurance.\n* We recognize the importance of a healthy life balance and offer: 10 paid holidays, annual vacation accrual starting at 12 days, 9 paid sick days, and paid family and medical leave that covers 90% of your pay.\n* We foster growth and development of our employees through avenues such as STEM courses, apprenticeships, tuition assistance, and engineering development programs.\n* Ask our team about other benefits including wellness, fertility, adoption, and flexible spending benefits.\n\n**Pay Range:** $33.00 - $50.00 per hour\n\nWe set starting pay based on job-related factors such as your experience, training, knowledge, and skills. We are looking to fill this position at the Associate Business Intelligence Analyst level, and we welcome applicants with a range of experience. Depending on your background, we may consider you for a different level, with compensation aligned accordingly.\n\n**Communication with Applicants**\n\nWe communicate with all applicants. If you do not receive a response about your application, please check your SPAM filter or reach out to us at [careers@selinc.com](mailto:careers@selinc.com).\n\nSEL is an Equal Opportunity Employer: Vets/Disabled.\n\n  \n\nSEL invents, designs, and builds digital products and systems that protect power grids around the world. This technology prevents blackouts and enables customers to improve power system reliability and safety at a reduced cost. A 100 percent employee-owned company headquartered in Pullman, Washington, SEL has manufactured products in the United States since 1984 and now serves customers worldwide. Our mission is simple: to make electric power safer, more reliable, and more economical.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Pullman",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53075",
+              "msa": {
+                "cbsa_code": "39420",
+                "cbsa_title": "Pullman, WA",
+                "type": "micro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-10T15:52:26.658Z",
+        "curated_at": "2026-11-12T05:40:23.063Z",
+        "job_updated_at": "2026-11-12T05:40:23.063Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 3300,
+                "max_cents": 5000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "hour",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "caa59a965e2c00afcf29c6221f225fa48dd2ca878ef2d596c9a463653f5a638f",
+            "source": "workday",
+            "source_posting_id": "/job/Washington---Pullman/Associate-Business-Intelligence-Analyst---Quality_2026-23371-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Business-Intelligence-Analyst---Quality_2026-23371-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Business-Intelligence-Analyst---Quality_2026-23371-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Pullman",
+                "state": "WA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 33,
+                "max": 50,
+                "currency": "USD",
+                "interval": "hour"
+              }
+            },
+            "source_posted_at": "2026-10-05T00:00:00.000Z",
+            "first_seen_at": "2026-10-10T15:52:26.658Z",
+            "last_completed_fetch_at": "2026-11-12T05:38:35.514Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "7e997b67-b077-4b3c-a9b6-ad6820e5c7c8",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "9539593e-b2bf-8430-b940-ed70b4035dea",
+        "employer_name": {
+          "state": "known",
+          "value": "React Health"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "POSITION: Business Intelligence Analyst\n\nFULL-TIME/PART-TIME: Full Time\n\nLOCATION: Bothell, WA - Hybrid\n\nReact Health is a fast-paced, growth-driven manufacturer and distributor of medical equipment, dedicated to supporting patients, caregivers, physicians, and healthcare providers. With a focus on respiratory and sleep health sectors, we offer a comprehensive range of products and services across acute care, non-acute care, and home medical equipment. By integrating manufacturing and distribution, React Health addresses the needs of both undiagnosed individuals and those requiring therapy after diagnosis, particularly within the sleep and respiratory care sectors.\n\nGENERAL SUMMARY\n\nThe Business Intelligence Analyst will play a pivotal role in supporting data-informed decision-making across our organization. This position will encompass both analytical and development responsibilities - gathering, analyzing, and interpreting business operations data to generate actionable insights, while also designing and maintaining the data infrastructure, pipelines, and BI solutions that enable reporting and analytics at scale.\n\nQUALIFICATIONS\n\n• At least 2 years of experience in the same or similar role.\n\n• Bachelor’s degree in business administration, Information Systems, Computer Science, or related field.\n\n• Proficiency in Microsoft Excel and PowerPoint.\n\n• Experience with business intelligence/data analytics tools (Microsoft Power BI, Tableau, etc.)and proficiency in SQL including complex queries, stored procedures, and performance tuning.\n\n• Experience building or maintaining ETL/ELT pipelines and familiarity with data warehouse concepts and tools (e.g., Snowflake, Databricks, dbt, or similar).\n\nPreferred Education\n\n• Master’s degree in related field\n\nPreferred Experience\n\n• Medical / health industry experience\n\n• Experience with NetSuite\n\n• Working proficiency in Python or R for data manipulation, automation, and analysis (e.g., pandas, numpy, or equivalent libraries).\n\n• Excellent attention to detail and project management skills.\n\n• Excellent written/oral communication skills required. Must be able to work effectively with diverse groups of people.\n\nPhysical Demands\n\n• Requires normal visual acuity and hearing.\n\n• Typically, employees sit comfortably to do their work, interspersed by brief periods of standing, walking, bending, carrying papers and books, and extensive periods requiring the use of computer terminals to accomplish work objectives.\n\n• Required to sit and use their hands and fingers to handle or feel and manipulate keys on a keyboard.\n\n• Additional skills may be required to perform additional task(s) specific to work location, department or line of business.\n\nWorking Conditions\n\n• Predominantly operates in an office environment. Some work (less than 5%) requires moving and lifting of computer or networking equipment.\n\nDUTIES AND ESSENTIAL FUNCTIONS\n\nEach Employee consistently demonstrates the following essential functions:\n\n• Perform data analysis to gain insights into various aspects of business performance, including revenue generation, customer behavior, market trends, and operational excellence.\n\n• Support the assessment of the effectiveness of business strategies and initiatives by providing data-driven insights and recommendations for optimization.\n\n• Analyze metrics related to business growth and customer retention, identifying patterns and opportunities for improvement.\n\n• Conduct analyses to identify root causes behind business challenges and contribute to proposing actionable solutions for improvement.\n\n• Development of visually appealing dashboards and data visualizations using industry-standard tools to present key business metrics and insights.\n\n• Assist in creating interactive visualizations that enable stakeholders to explore data and gain actionable insights to inform decision-making.\n\n• Support the design and maintenance of dashboards and reports to monitor performance across various business functions, such as sales, finance, and operations.\n\n• Write and optimize complex SQL queries, stored procedures, and data models to extract, transform, and prepare data from multiple source systems.\n\n• Design, build, and maintain ETL/ELT data pipelines to ensure reliable, timely, and accurate data delivery from source systems to the data warehouse or reporting layer.\n\n• Collaborate with cross-functional teams to understand business requirements and assist in translating them into meaningful data insights and visualization solutions.\n\n• Support documentation efforts by capturing methodologies, data sources, and key findings to establish a comprehensive knowledge base for business intelligence.\n\n• Participate in knowledge-sharing sessions with stakeholders to enhance their understanding of data insights and contribute to fostering a data-driven culture within the organization.\n\n• Attends and participates in departmental meetings. Attends seminars and training sessions necessary to maintain appropriate level of professional competence. Ensures all department compliance guidelines are met.\n\n• Attends all meetings, in-services training, or continuing education as delegated by the supervisor.\n\n• Provides customer focused interactions.\n\n• Performs all duties necessary for the department as per department policies and procedures.\n\n• Performs other duties and responsibilities as delegated by the supervisor within the scope of practice and the responsibilities in the department.\n\nReasonable accommodations may be made to accommodate individuals with disabilities to perform the basic functions of the position without compromising client care. React Health is an Equal Opportunity/Affirmative Action Employer and is committed to providing a drug-free workplace. We are an Equal-Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state, or local protected class."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Bothell",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-25T18:52:43.400Z",
+        "curated_at": "2026-11-12T04:48:04.563Z",
+        "job_updated_at": "2026-11-12T04:48:04.563Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "24713f393cf43079d25e480f83bead355d0859aaa8ca43f9f29a9a8bb0cdf50b",
+            "source": "paycor",
+            "source_posting_id": "8a7887a19fd3ba90019ffc52680a4929",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08afcf3b0018b3fa2225319b1&id=8a7887a19fd3ba90019ffc52680a4929"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08afcf3b0018b3fa2225319b1&id=8a7887a19fd3ba90019ffc52680a4929"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Bothell",
+                "state": "WA",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": null,
+            "first_seen_at": "2026-09-25T18:52:43.400Z",
+            "last_completed_fetch_at": "2026-11-12T04:46:55.482Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "b73e0a48-6805-48c5-bb36-6c8546ebae3b",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "88c98846-9fc4-8c73-bbc8-a19de35b0dd3",
+        "employer_name": {
+          "state": "known",
+          "value": "Walla Walla Community College"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Walla Walla Community College (WWCC) is seeking applicants for a **full-time Business Intelligence Analyst** position at the Walla Walla campus.   \n  \nAt Walla Walla Community College, we inspire all students to discover their potential and achieve their goals by providing relevant, equitable, and innovative learning opportunities and services. As an organization, we value learning opportunities, a sense of community, diversity, health and humor, excellence, integrity, teamwork, innovation, personal and professional growth, and sustainability.  \n  \nIn accordance with the AFT-WWPS Collective Bargaining Agreement, Article 15.5, qualified **internal applicants will receive priority consideration on applications received by October 12, 2026, at 11:59 p.m. PST**. If no qualified internal applicant is selected, complete applications from **external candidates received by October 26, 2026, at 11:59 p.m. PST** will be reviewed and considered. External applicants are encouraged to apply and should submit a complete application by this date to ensure full consideration.   \n  \n**This position will remain open and accepting applications until filled.**   \n  \n**General Description:**   \nThe Business Intelligence Analyst (BIA) is a member of the Institutional Research and Effectiveness (IRE) team and plays a key role in supporting institutional planning, decision-making, and continuous improvement. The department supports the college’s mission and commitment to student learning and success by providing quality, accessible, reliable, and relevant information to stakeholders across the institution. Through data analysis, reporting, and research, the department informs decision-making and planning, enhances institutional effectiveness, and fosters a culture of evidence-based inquiry.  \n  \nWorking under the direction of the Director of Institutional Research and Effectiveness, this position collaborates with Business Systems Analysts, Technology Services, Enrollment Strategies, and other stakeholders to transform institutional data into actionable insights. Through interactive dashboards, visualizations, reports, and analyses, the BIA translates complex data into information that is accessible to diverse audiences. The position helps stakeholders understand not only what the data show, but why it matters, revealing trends, patterns, and underlying factors that support informed decision-making and institutional improvement.  \n  \n*The position is 50% grant funded through Sept 30, 2028 and will be fully institutionalized and funded by the college by the close of the grant cycle.*  \n  \n**Essential Functions:**   \n**Data Visualization**  \n\n* Generates clear, compelling, and accessible visualizations that enable users to explore data, identify trends, and draw meaningful conclusions using the department's primary visualization platform, Power BI. The department is completing a transition from Tableau to Power BI; familiarity with Power BI is essential, and Tableau experience is a plus.\n* Adapts the visualization format based on the needs and comprehension levels of multiple audiences, from operational staff to executive leadership.\n\n**Strategic Analysis**  \n\n* Interprets data, identifies meaningful trends and patterns, and develops recommendations for the Director of Institutional Research and Effectiveness and other stakeholders.\n* Collaborates closely with multiple departments to identify opportunities for process improvement and reporting.\n* Reports on institutional and grant key performance indicators.\n* Produces and presents reports on student success (e.g., credit accumulation, retention, and completion), demographics, educational interventions, and other subjects as required. Reports may require the use of advanced statistical analysis and require comparison between cohorts based on specific variables.\n\n**Data Management**  \n\n* Extracts, cleans, validates, and manages data from a variety of sources, systems, and formats.\n* Queries data in a complex, multi-table database using SQL, R, and/or other languages.\n* Assures data quality and integrity by implementing relevant validation techniques.\n\n**Technical Support and Collaboration**  \n\n* Offers technical expertise and support to other departments as needed.\n* Works closely with Technology Services and other data-related departments to achieve strategic objectives.\n\n**Miscellaneous**  \n\n* Helps foster a culture of inquiry, improvement, and evidence-based decision-making.\n* Represents the department on collegewide committees and/or project-based working groups, as appropriate.\n* Other duties as assigned.\n\n* **Equitable Approaches**: Demonstrates commitment to and understanding of diversity, equity, and inclusion, specifically through how data and research can shape and be shaped by such issues.\n* **Analytical Prowess**: Demonstrates strong analytical and problem-solving skills, with the ability to identify trends, uncover root causes, evaluate outcomes, and develop actionable recommendations. Applies appropriate quantitative and qualitative methods to support institutional planning, decision-making, continuous improvement, and student success.\n* **Communication and Data Storytelling**: Demonstrates outstanding written, verbal, and visual communication skills, including the ability to translate complex data and technical concepts for diverse audiences. Produces high-quality analyses, reports, dashboards, presentations, and other deliverables that communicate findings clearly and effectively. Uses data storytelling techniques to convey insights, provide context, and support informed decision-making.\n* **Project Management**: Demonstrates the ability to plan, organize, prioritize, and manage multiple projects simultaneously. Establishes timelines, coordinates stakeholders, monitors progress, and ensures deliverables are completed accurately and on schedule.\n* **Technological Fluency: Demonstrates familiarity with data integration, cloud-based data environments, data warehousing concepts, and business intelligence platforms.**\n* **Adaptability**: Demonstrates the ability to work independently and collaboratively in a dynamic environment with shifting priorities, evolving institutional needs, and competing deadlines. Remains flexible and responsive while maintaining accuracy, professionalism, and attention to detail.\n* **Responsible Use of Artificial Intelligence**: Understands the responsible and ethical use of artificial intelligence, including generative AI tools, in research, analysis, and reporting. Applies appropriate professional judgment regarding suitable use cases, data privacy and governance, and the protection of sensitive and student-level data. Maintains human review and validation of AI-assisted outputs and demonstrates awareness of bias, accuracy, transparency, and reproducibility considerations.\n* **Interdisciplinary Collaboration**: Demonstrates the ability to build effective working relationships across departments and functional areas. Collaborates with stakeholders to understand information needs, develop solutions, and advance institutional goals.\n* **Ethical Standards:** Demonstrates ethics, integrity, and sound professional judgment. The department adheres to the [ethical principles of the Association for Institutional Research](https://www.airweb.org/ir-data-professional-overview/statement-of-ethical-principles/principles) (AIR).\n\n  \n**Level of Supervision**  \n**Level 1 — General supervision — Advice and assistance is available as needed. Review of work may be frequent but generally not detailed. Emphasis placed upon quality of completed assignments.**\n\n* Performs recurring assignments without daily oversight following established guidelines, policies, procedures and work methods.\n* Responsible for prioritizing day-to-day work tasks. Supervisor provides guidance and approves deviation from established guidelines, policies, procedures and work methods.\n* Decision-making is limited in context to the completion of work tasks. Completed work is consistent with established guidelines, policies, procedures and work methods. Supervisory guidance is provided in new or unusual situations.\n* May develop procedures for performance of a variety of duties within the scope of the position.\n* Performs complex duties within established guidelines.\n* Work is periodically reviewed for compliance with guidelines, policies and procedures.\n\n**Level 2 — General direction — Position receives broad instruction. Advice and assistance is available upon request. Review of work generally emphasizes accomplishment of broader work unit goals and/or performance measures in lieu of specific work assignments.**\n\n* Independently performs all assignments using knowledge of established policies and work objectives with minimal direct oversight from supervisor.\n* Plans and organizes work and assists in determining priorities and deadlines. May deviate from standard work methods, guidelines or procedures in order to meet work objectives.\n* Exercises independent decision-making authority and discretion and determines which work methods to use, tasks to perform and procedures to follow in order to meet work objectives.\n* Completed work is reviewed for effectiveness in producing expected results.\n* Establishes procedures for attaining specific goals and objectives in a broad area of work.\n\n  \n**Required Qualifications:**   \n*Any combination of education, experience, and/or training that provides the applicant with the knowledge and skills to perform the job may be considered by the college.*  *Must reside in either WA, OR, ID, CA, IL, PA, or TX if selected for remote work.*   \nThis position is designed to be filled at either a level 1 or 2 depending on qualifications.\n\n* **Level 1 Requirements:**\n    * Bachelor’s degree or equivalent professional experience in Data Science, Statistics, Computer Science, Sociology or related field; OR equivalent combination of education/experience.\n    * Demonstrable intermediate to advanced expertise in data manipulation and visualization tools, particularly Power BI.\n    * Intermediate to advanced proficiency querying relational databases, such as Oracle and MS SQL. Experience with ctcLink/PeopleSoft or a similar ERP system preferred.\n    * Bilingual in English and Spanish preferred.\n* **Level 2 Requirements:**\n    * Bachelor’s degree from an accredited institution in Data Science, Statistics, Computer Science, Sociology or related field AND advanced expertise in data manipulation and visualization tools, particularly Power BI, and in a statistical programming language such as R or Python; OR an equivalent combination of education and experience. Master’s degree preferred.\n\n  \n***You don’t check every qualification listed? Please apply anyway!*** *Studies have shown that traditionally marginalized communities - such as women, LGBTQ+ and people of color - are less likely to apply to jobs unless they meet every single qualification - even if they might be a great fit for the role! If you’re excited about this opportunity but your experience doesn’t align perfectly with every single qualification in the job description, we encourage you to still consider applying.* This position is in a bargaining unit for which AFT is the exclusive representative.  \n  \nThis is a full-time, possibly overtime eligible professional position. Persons hired must be able to provide acceptable documentation of lawful authorization to work in the United States within three (3) days of employment. WWCC participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. Official college transcripts required at time of hire. Candidates may be subject to a criminal history background check as a condition of employment. Information from the background check may not necessarily preclude employment but will be considered in determining the applicant’s suitability and competence to perform in the position. The college is a tobacco free institution.  \n  \nWork is performed in an indoor, multi-level office setting; sitting at a desk or computer station, light lifting may be required. Exposure to hazards is limited to those commonly found in office environments. This contract position work schedule will typically be Monday through Friday 8-hours each day. During the summer, work schedule is Monday through Thursday 10-hours each day. Some travel may be required, and is typically local or regional for training.  \n  \nThe College’s preference is for regular, on-site, and in-office presence. However, a hybrid-remote work arrangement may be considered for a highly qualified candidate. While the College gives preference to candidates residing in Oregon, Washington, or Idaho due to operational considerations, candidates from other locations may also be considered.  \n  \nAny hybrid-remote arrangement is contingent upon consistent, demonstrated engagement on Teams, Zoom, and email during regular business hours and may be modified or revoked at any time should it no longer meet the operational needs of the College. In-person attendance is required for the first two days of onboarding and may be required for other key meetings, trainings, or events as determined by the College. All travel costs associated with required on-site presence under a hybrid-remote arrangement are the responsibility of the employee.  \n  \n**Compensation:**  \nAnnual salary range for initial placement based on the represented exempt salary schedule is **PR05, Step A-F: $72,343 - $81,850 for Level 1, OR PR06, Step A-F: $75,960 - $85,942 for Level 2**, with scheduled salary increment increases every 12 months until you reach the top of the scale. The college has an excellent benefit program including paid sick leave; paid vacation leave; medical, dental, life, and long-term disability insurance; retirement and two optional deferred compensation programs. All full-time employees will automatically have 3% of taxable income deferred into the State of Washington Deferred Compensation Program (DCP). All administrative exempt staff set aside 1% of their gross salary in a Health Reimbursement Arrangement (HRA) (VEBA). All exempt employees are required to participate in this program. Walla Walla Community College requires all employees to participate in direct deposit for payment of salary.This position is open until filled with priority consideration given to those applicants who submit a complete application by **October 12, 2026 (for internal applications), and** **October 26, 2026 (for external applications), at 11:59 PM PST**. To qualify for priority consideration, applicants must submit a complete application packet, which includes the following:\n\n* Online NEOGOV application.\n* Cover letter\n    * Provide a cover letter detailing your interest in this position. Please describe any professional experience, training, or educational background that makes you an ideal candidate.\n* Resume\n* Names and contact information for three professional references\n* Answers to two (2) supplemental questions\n* Unofficial transcripts for application purposes; official transcripts are required prior to an official start date.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Walla Walla",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53071",
+              "msa": {
+                "cbsa_code": "47460",
+                "cbsa_title": "Walla Walla, WA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-09T17:40:15.934Z",
+        "curated_at": "2026-11-12T04:35:12.293Z",
+        "job_updated_at": "2026-11-12T04:35:12.293Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 7234300,
+                "max_cents": 8594200,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "c0a5c1fe2c68c8d5d38638f5e6bb387a8a5514a314826e22f777047344ee418f",
+            "source": "neogov",
+            "source_posting_id": "5505022",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.schooljobs.com/careers/wwcc/jobs/5505022/business-intelligence-analyst"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.schooljobs.com/careers/wwcc/jobs/5505022/business-intelligence-analyst"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Walla Walla",
+                "state": "WA",
+                "country": "US",
+                "remote": false,
+                "zip": "99362"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 72343,
+                "max": 85942,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 72343,
+                    "max": 85942,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-10-05T00:00:00.000Z",
+            "first_seen_at": "2026-10-09T17:40:15.934Z",
+            "last_completed_fetch_at": "2026-11-12T04:34:10.402Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "5b8b4335-3920-40a3-b26d-8952556e4d6d",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "60dde033-6727-83cc-8ddb-7587cb8f502e",
+        "employer_name": {
+          "state": "known",
+          "value": "Blue Origin Personnel, LLC"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst - Finance & Accounting"
+        },
+        "description": {
+          "state": "known",
+          "value": "Application close date:\n\nApplications will be accepted on an ongoing basis until the requisition is closed.\n\nAt Blue Origin, we envision millions of people living and working in space for the benefit of Earth. We’re working to develop reusable, safe, and low-cost space vehicles and systems within a culture of safety, collaboration, and inclusion. Join our team of problem solvers as we add new chapters to the history of spaceflight! \n\nThis role is part of Blue Origin corporate functions, providing centralized support across Blue Origin business unit teams, functions, and locations.\n\nAt Blue Origin, we envision millions of people living and working in space for the benefit of Earth. Join our diverse team of problem solvers as we add new chapters to the history of spaceflight.\n\n  \n\nThis role is part of Blue Origin Corporate Functions on the Finance AI & BI team and will be on-site in Renton, Washington with relocation provided.\n\n  \n\nWe are seeking a Senior Business Intelligence Analyst to own the strategy and roadmap for the suite of BI tools supporting Finance and Accounting, including capital, labor, and inventory/production reporting today, with the expectation that this portfolio will grow. This is a senior, high-autonomy role: you will set direction for how existing tools evolve, lead build-vs-integrate decisions with Enterprise Technology (ET) and other cross-functional partners, and identify where new BI tools should be built to close reporting or controls gaps as the business scales. You will also mentor other analysts and represent Finance and Accounting BI needs in broader enterprise data and systems discussions.\n\n  \n\n**Responsibilities include but are not limited to:**\n\n* Own the execution of Finance and Accounting's BI tool portfolio, currently including Capital Management and In-Servicing, Labor Reporting, and Production web application with expansion to new tools as reporting or controls needs are identified\n* Partner with ET to determine what logic belongs in business intelligence vs. source systems and lead automation of inventory reconciliations and costing sheet rate monitoring\n* Lead the design of automated logic, using transaction detail and accounting guidance to flag and correct transactions, and drive upstream error-prevention to reduce reliance on manual corrections\n* Identify gaps in existing Finance and Accounting reporting and lead the design and build of new BI tools to address them\n* Set priorities for the BI roadmap with Finance, Accounting, and ET leadership, and represent Finance and Accounting BI needs in enterprise data governance discussions\n* Mentor and provide technical guidance to other BI analysts and supporting their development\n\n**Minimum Qualifications**\n\n* Bachelor's degree in Finance, Accounting, Business or Data Analytics, Data Science, Information Systems, or related field\n* 8+ years in business intelligence or systems analysis, ideally supporting a Finance or Accounting function\n* Demonstrated experience owning BI tool strategy and roadmap with full autonomy, including building new tools or reporting solutions from the ground up\n* Advanced proficiency in Power BI, Tableau, or equivalent, and advanced SQL knowledge\n* Working knowledge of cost accounting concepts (e.g., capital projects, labor allocation, or inventory costing), with the ability to quickly learn Blue Origin-specific policies and processes\n* Track record of leading cross-functional initiatives, influencing senior stakeholders, and mentoring other analysts\n\n  \n\n**Preferred Qualifications**\n\n* Strong working knowledge of cost accounting concepts, particularly capital project accounting or manufacturing cost accounting\n* Familiarity with ERP/cloud data platforms (Microsoft Dynamics 365, OneStream, Databricks, etc) and proficiency with Python or R for automation/advanced analytics\n* Experience with data warehousing, ETL workflow design, or applying AI/ML to automate error detection at scale\n* Experience driving enterprise-wide data governance or standardization initiatives\n\n###   \n\n\nBase Pay Range for:\n\nWA applicants is $145,188.00 - $203,263.20\n\n**Other site ranges may differ**\n\n  \n\n**Culture Statement**\n\nDon’t meet all desired requirements? Studies have shown that some people are less likely to apply to jobs unless they meet every single desired qualification. At Blue Origin, we are dedicated to building an authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every desired qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.\n\n  \n\n**Export Control Regulations**\n\nApplicants for employment at Blue Origin must be a U.S. citizen or national, U.S. permanent resident (i.e. current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.\n\n  \n\n**Background Check**\n\n* Required for all positions: Blue’s Standard Background Check\n* Required for Certain Job Profiles:  Defense Biometric Identification System (DBIDS) background check if at any time the role requires one to be on a military installation\n* Required for Certain Job Profiles: Drivers who operate Commercial Motor Vehicles with a Gross Vehicle Weight (GVW), Gross Vehicle Weight Rating (GVWR) or combination of power unit and trailer that meets or exceeds 10,001 lbs. and/or transports placardable amounts of hazardous materials by ground in any vehicle on a public road while in commerce, may be subject to additional Federal Motor Carrier Safety Regulations including: Driver Qualification Files, Medical Certification (obtained before onboarding), Road Test, Hours of Service, Drug and Alcohol Testing, vehicle inspection requirements, CDL requirements (if applicable) and hazardous materials transportation/shipping training.\n* Required for certain Job Profiles: Ability to obtain and maintain Merchant Mariner Credential, which includes pre-employment and random drug testing as well as DOT physical\n\n  \n\n**Benefits**\n\n* Benefits include:  Medical, dental, vision, basic and supplemental life insurance, paid parental leave, short and long-term disability, 401(k) with a company match of up to 5%, and an Education Support Program.\n* Stock Options for all regular employees (working at least 20 hours/week)\n* Paid Time Off:  Up to four (4) weeks per year based on weekly scheduled hours, and up to 14 company-paid holidays.\n* Dependent on role type and job level, employees may be eligible for benefits and bonuses based on the company's intent to reward individual contributions and enable them to share in the company's results, or other factors at the company's sole discretion. Bonus amounts and eligibility are not guaranteed and subject to change and cancellation. Please check with your recruiter for more details.\n\n  \n\n**Equal Employment Opportunity**\n\nBlue Origin is proud to be an Equal Opportunity/Affirmative Action Employer and is committed to attracting, retaining, and developing a highly qualified and dedicated work force. Blue Origin hires and promotes people on the basis of their qualifications, performance, and abilities. We support the establishment and maintenance of a workplace that fosters trust, equality, and teamwork. We provide all qualified applicants for employment and employees with equal opportunities for hire, promotion, and other terms and conditions of employment, regardless of their race, color, religion, sex, sexual orientation, gender identity, national origin/ethnicity, age, physical or mental disability, genetic factors, military/veteran status, or any other status or characteristic protected by federal, state, and/or local law. Blue Origin will consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state, and local laws, including the Washington Fair Chance Act, the California Fair Chance Act, the Los Angeles Fair Chance in Hiring Ordinance, and other applicable laws. For more information on “Know Your Rights,” please see [here](https://www.eeoc.gov/poster).\n\n  \n\n**Affirmative Action and Disability Accommodation**\n\nApplicants wishing to receive information on Blue Origin’s Affirmative Action Plans, or applicants requiring a reasonable accommodation in order to participate in the application and/or interview process, please contact us at [EEOCompliance@blueorigin.com](mailto:EEOCompliance@blueorigin.com). Please note this is a publicly managed inbox. Please do not include any personal medical information in your request.\n\n  \n  \n\nWe’re committed to building the road to space so our children can build the future. We are a mission-driven company focused on ideas and innovation, and encourage fresh perspectives from bold voices. At Blue, our team is building the future as their unique selves. Thank you for your interest in working at Blue Origin!\n\n  \n\nBlue Origin was founded with a vision to enable a future where millions of people are living and working in space to benefit Earth. In order to preserve Earth, Blue Origin believes in the need to enable humanity to expand, explore, find new energy and material resources, and move industries that stress Earth into space. Blue Origin believes it has an important role in building a road to space and lowering the cost of getting there. At Blue Origin, we’re working on this today by developing fully reusable launch vehicles and systems that are safe, reliable and affordable. Every launch vehicle is designed for human spaceflight from the beginning and able to ferry payloads to space.\n\n  \n\n[U.S. Applicant Privacy Notice](https://blueorigingov.sharepoint.com/:b:/s/AnonShare/REC&HR/IQBKAsS2UKXTS5sEh-KJ5pGBAevlSKjzq8X_Tv6lPia6Lfc?e=IVPpLT)\n\n  \n\n[EU Applicant Privacy Notice](https://blueorigingov.sharepoint.com/:b:/s/AnonShare/REC&HR/IQCnZt0w3unuQKBW3aYiQGC7ASWGLO_W0RmvIec8Ho02PMg?e=Sl80Z9)",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Landmark",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-13T21:08:42.261Z",
+        "curated_at": "2026-11-12T01:53:36.605Z",
+        "job_updated_at": "2026-11-12T01:53:36.605Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 14518800,
+                "max_cents": 20326320,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1b002a1fd472742d1b0e1da80980c732e6ce23e861699fb063ed65f84bfd880a",
+            "source": "workday",
+            "source_posting_id": "/job/Greater-Seattle-Area/Senior-Business-Intelligence-Analyst---Finance---Accounting_R73185",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Senior-Business-Intelligence-Analyst---Finance---Accounting_R73185"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Senior-Business-Intelligence-Analyst---Finance---Accounting_R73185"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Landmark",
+                "state": "WA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "WA",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 145188,
+                "max": 203263.2,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-02T00:00:00.000Z",
+            "first_seen_at": "2026-10-13T21:08:42.261Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "91a17840-a137-4ccc-9473-cc94ebd2855e",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "5cc7df7d-6fce-8a1d-88fa-f1b96b8ef26b",
+        "employer_name": {
+          "state": "known",
+          "value": "Cambia Health Solutions"
+        },
+        "title": {
+          "state": "known",
+          "value": "FEP Business Intelligence Analyst I"
+        },
+        "description": {
+          "state": "known",
+          "value": "## **FEP Business Intelligence Analyst I**\n\nHybrid role (3 days/week in office) at our Portland, Vancouver, Renton, Salt Lake City, Boise, Little Rock, Springdale, Fargo, Medford, Burlington, and Lewiston offices. Candidates must reside within commutable distance of that location or be willing to relocate.\n\n**Build a career with purpose. Join our** [**Cause**](https://www.cambiahealth.com/about-us/our-cause-values/values-ethics-compliance) **to create a person-focused and economically sustainable health care system.**\n\n**Who We Are Looking For:**\n\nEvery day, Cambia’s dedicated team of FEP Business Intelligence Analysts is living our mission to make health care easier and lives better. As a member of the FEP Data Analytics team, our FEP Business Intelligence Analysts build FEP analytics, ad-hoc reports, and Sigma or Tableau dashboards using Python for scripting; analysis of claims, customer service, and clinical data; manage projects, communicate with stakeholders, and collaborate cross-departmentally to meet varied deadlines– all in service of creating an economically sustainable health care system.\n\nDo you thrive in a fast-paced environment where collaboration and flexibility are key? Are you energized by turning data into insights that help shape better health plan operations? Then this role may be the perfect fit.\n\n**What You Bring to Cambia:**\n\n**Qualifications:**\n\n* Bachelor's degree in Statistics, Mathematics, Computer Science, Information Technology, Economics, or a related field\n* 3+ years of related work experience\n* An equivalent combination of education and experience will be considered\n\n**Skills and Attributes:**\n\n* SQL proficiency (complex queries for standard and ad hoc data mining); candidates without SQL experience must demonstrate strength in other listed areas\n* Microsoft Excel skills\n* Scripting and statistical tools experience, such as Python, R/RStudio, SSIS, Alteryx, and Talend\n* Data visualization and reporting tools experience, such as Tableau, MicroStrategy, SPSS, and Power BI\n* Interactive dashboard development for data exploration, self-service analytics, and visual storytelling\n* Broad data analysis experience across datasets such as demographics, workflow, financial, and healthcare data\n* Large-scale data analysis, including interpreting qualitative data (research, feedback) and incorporating it into analyses\n* Research and methodology skills, with the ability to develop data mining approaches and innovative statistical or mathematical methods\n* Experience with AI tools and technologies to enhance productivity and decision-making (highly desired)\n* Whole-brain thinking: creative and analytical problem-solving, both independently and on teams, with the ability to learn quickly and synthesize solutions, options, and action plans\n* Collaboration skills to partner with team members and business stakeholders to define, develop, and deliver analytics that support routine operations, tactical decisions, and strategic direction\n* Clear communication of complex data, analyses, and findings in ways that support business decisions and program efforts\n* Independent work with strong management of deliverable timelines and clients\n* Accuracy and quality focus, producing error-free deliverables and supporting a peer review culture\n\n**What You Will Do at Cambia:**\n\n* Partner cross-functionally to understand business objectives and deliver routine and ad hoc analyses that are clear and relevant to stakeholders, including reporting that meets stakeholder agreements\n* Design and execute analytics projects from start to finish, including conceptualization, methodology, data sourcing, analysis structure, and reporting or data visualization\n* Ensure timely delivery of accurate project reporting and analyses, and provide insights to internal partners on tracking deliverables and ad hoc projects drawing on multiple sources across Healthplan Operations\n* Turn data into action by moving beyond \"what happened\" to \"why it happened\" and \"what should be done,\" converting observations into insights, insights into recommendations, and recommendations into strategy and site optimization\n* Define and measure KPIs with team members, identifying the best ways to track metrics across Healthplan Operations to assess the success of new and existing initiatives and shape strategy\n* Collaborate with internal and external teams to prioritize recommendations based on data insights and support corporate initiatives through analyses and KPI measurement\n* Develop standardized, automated processes with team members, including analytical and statistical methods, best practices, and self-service reporting, to deliver sustainable, impactful data while building strong business partnerships that drive efficiency and strategic goals\n\nPay ranges vary based on the candidate's work location. The expected hiring range depends on skills, experience, education, and training; relevant licensure / certifications; and performance history.\n\n* **National pay structure** — applies to the Boise, Portland, Salem, Seattle/Renton/Tacoma, Burlington, Vancouver, Lewiston, and Salt Lake City metro areas: The expected salary range is $70,600 - $95,500, the full salary range is $66,000 - $108,000, and the bonus target is 8%.\n* **Regional pay structure** — applies to North Dakota, and to Idaho, Oregon, Washington, and Utah locations outside the metro areas listed above: The expected salary range is $63,500 - $85,900, the full salary range is $59,000 - $98,000 and the bonus target is 8%.\n\n**About Cambia**\n\n  \n\nWorking at Cambia means being part of a purpose-driven, award-winning culture built on trust and innovation anchored in our 100+ year history. Our caring and supportive colleagues are some of the best and brightest in the industry, innovating together toward sustainable, person-focused health care.  Whether we're helping members, lending a hand to a colleague or volunteering in our communities, our compassion, empathy and team spirit always shine through.\n\n  \n\n**Why Join the Cambia Team?**\n\n  \n\nAt Cambia, you can:\n\n* Work alongside diverse teams building cutting-edge solutions to transform health care.\n* Earn a competitive salary and enjoy generous benefits while doing work that changes lives.\n* Grow your career with a company committed to helping you succeed.\n* Give back to your community by participating in Cambia-supported outreach programs.\n* Connect with colleagues who share similar interests and backgrounds through our employee resource groups.\n\n  \n\nWe believe a career at Cambia is more than just a paycheck – and your compensation should be too. Our compensation package includes competitive base pay as well as a market-leading 401(k) with a significant company match, bonus opportunities and more.\n\n  \n\nIn exchange for helping members live healthy lives, we offer benefits that empower you to do the same. Just a few highlights include:\n\n  \n\n* Medical, dental and vision coverage for employees and their eligible family members, including mental health benefits.\n* Annual employer contribution to a health savings account.\n* Generous paid time off varying by role and tenure in addition to 10 company-paid holidays.\n* Market-leading retirement plan including a company match on employee 401(k) contributions, with a potential discretionary contribution based on company performance (no vesting period).\n* Up to 12 weeks of paid parental time off (eligibility requires 12 months of continuous service with Cambia immediately preceding leave).\n* Award-winning wellness programs that reward you for participation.\n* Employee Assistance Fund for those in need.\n* Commute and parking benefits.\n\n  \n\nLearn more about our [benefits](https://www.cambiahealth.com/careers/total-rewards).\n\n  \n\nWe are happy to offer work from home options for most of our roles. To take advantage of this flexible option, we require employees to have a wired internet connection that is not satellite or cellular and internet service with a minimum upload speed of 5Mb and a minimum download speed of 10 Mb.\n\n  \n\nAs part of our security requirements, new hires will need access to a personal mobile device to set up Multi-Factor Authentication (MFA) upon joining the company. MFA is an important layer of protection for accessing Cambia systems and is required for all employees.\n\nWe are an Equal Opportunity employer dedicated to a drug and tobacco-free workplace. All qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, age, sex, sexual orientation, gender identity, disability, protected veteran status or any other status protected by law. A background check is required.\n\nIf you need accommodation for any part of the application process because of a medical condition or disability, please email [CambiaCareers@cambiahealth.com](mailto:CambiaCareers@cambiahealth.com). Information about how Cambia Health Solutions collects, uses, and discloses information is available in our [Privacy Policy](https://www.cambiahealth.com/privacy).\n\n  \n\n[Cambia Health Solutions](https://www.cambiahealth.com/) is a family of companies headquartered in Portland, Oregon, working to make healthcare simpler, more affordable and more person-focused. Through our [regional health insurance plans](https://www.cambiahealth.com/what-we-do/regional-health-plans/), innovative technologies and strategic investments, we are delivering consumer-centric solutions that:  \n  \n• Help people achieve better health and well-being  \n• Make healthcare more available, affordable, and personalized  \n• Are easily understood by everyone  \n  \nWe put people at the heart of everything we do. Our company reaches more than 70 million Americans nationwide, including more than 6 million people enrolled in our regional health plans.\n\n  \n\nCambia blends data science with a compassionate human perspective to anticipate people’s needs, and empower them to make smarter health care choices.\n\n  \n\nInterested in driving accessibility, affordability and quality health care for real people? Apply to any of our open jobs or join the Twitter conversation [@Cambia](https://urldefense.com/v3/__https:/twitter.com/cambia__;!!EaFwQfVEJhAZolrQq2b3eQ!G1-pc74exy8SJ-NyMpOTJVLCEbEtIg12iznyr_TNpltAuKRU9HTfwc1rzdELYs5MrbIerZjIPks$).\n\n  \n  \n  \n\n### *Information about how Cambia Health Solutions collects, uses, and discloses information is available in our* [*Privacy Policy*](https://www.cambiahealth.com/privacy)*.*",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Boise",
+              "region": "US-ID",
+              "country": "US",
+              "county_fips": "16001",
+              "msa": {
+                "cbsa_code": "14260",
+                "cbsa_title": "Boise City, ID",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Burlington",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53057",
+              "msa": {
+                "cbsa_code": "34580",
+                "cbsa_title": "Mount Vernon-Anacortes, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Lewiston",
+              "region": "US-ID",
+              "country": "US",
+              "county_fips": "16069",
+              "msa": {
+                "cbsa_code": "30300",
+                "cbsa_title": "Lewiston, ID-WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Medford",
+              "region": "US-OR",
+              "country": "US",
+              "county_fips": "41029",
+              "msa": {
+                "cbsa_code": "32780",
+                "cbsa_title": "Medford, OR",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Portland",
+              "region": "US-OR",
+              "country": "US",
+              "county_fips": "41051",
+              "msa": {
+                "cbsa_code": "38900",
+                "cbsa_title": "Portland-Vancouver-Hillsboro, OR-WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Renton",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Salt Lake City",
+              "region": "US-UT",
+              "country": "US",
+              "county_fips": "49035",
+              "msa": {
+                "cbsa_code": "41620",
+                "cbsa_title": "Salt Lake City-Murray, UT",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Vancouver",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53011",
+              "msa": {
+                "cbsa_code": "38900",
+                "cbsa_title": "Portland-Vancouver-Hillsboro, OR-WA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-02T18:12:49.549Z",
+        "curated_at": "2026-11-11T14:38:32.105Z",
+        "job_updated_at": "2026-11-11T14:38:32.105Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 5900000,
+                "max_cents": 9800000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 6350000,
+                "max_cents": 8590000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 6600000,
+                "max_cents": 10800000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[2]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 7060000,
+                "max_cents": 9550000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[3]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "171bea0d5b5d06bea8ab3d6b100ed9dc7c76fbfb7fc1fdab6c8aa7d703263b33",
+            "source": "workday",
+            "source_posting_id": "/job/Boise-ID/FEP-Business-Intelligence-Analyst-I_R-6947",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://cambiahealth.wd504.myworkdayjobs.com/External/job/Boise-ID/FEP-Business-Intelligence-Analyst-I_R-6947"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://cambiahealth.wd504.myworkdayjobs.com/External/job/Boise-ID/FEP-Business-Intelligence-Analyst-I_R-6947"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boise",
+                "state": "ID",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "ID",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Burlington",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Burlington, WA"
+                  },
+                  {
+                    "city": "Lewiston",
+                    "state": "ID",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Lewiston, ID"
+                  },
+                  {
+                    "city": "Medford",
+                    "state": "OR",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Medford, OR"
+                  },
+                  {
+                    "city": "Portland",
+                    "state": "OR",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Portland, OR"
+                  },
+                  {
+                    "city": "Renton",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Renton, WA"
+                  },
+                  {
+                    "city": "Salt Lake City",
+                    "state": "UT",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Salt Lake City, UT"
+                  },
+                  {
+                    "city": "Vancouver",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Vancouver, WA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 70600,
+                "max": 95500,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 59000,
+                    "max": 98000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 63500,
+                    "max": 85900,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 66000,
+                    "max": 108000,
+                    "currency": "USD",
+                    "interval": "year"
+                  },
+                  {
+                    "min": 70600,
+                    "max": 95500,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-10-29T00:00:00.000Z",
+            "first_seen_at": "2026-11-02T18:12:49.549Z",
+            "last_completed_fetch_at": "2026-11-11T14:37:11.718Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "706b6b81-b6dd-4ead-bbfa-0dd5ac0f5962",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "40f52a25-bdda-8076-8b9f-806daf9c7956",
+        "employer_name": {
+          "state": "known",
+          "value": "Proliance Surgeons"
+        },
+        "title": {
+          "state": "known",
+          "value": "Revenue Cycle Financial & Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Position Summary\nThe Revenue Cycle Financial & Business Intelligence Analyst is a hybrid role combining revenue cycle financial analysis, operational performance optimization, business intelligence development, and advanced workflow automation.\nThis position serves as the primary analytics and reporting partner to the VP of Revenue Cycle while operating within the Analytics Department. The role is responsible for analyzing revenue cycle performance, identifying financial and operational improvement opportunities, and developing reporting solutions using SQL and Qlik.\nIn addition, this position serves as the subject matter expert for Revenue Cycle automation and process optimization within Microsoft Power Automate, SharePoint, and Microsoft Lists, driving structured workflow improvements and reducing manual reporting processes.\nMust have strong Revenue Cycle experience, paired with solid technical skills and ideally within provider specific healthcare setting.\nSchedule\n1.0 FTE, Monday - Friday.\nKey Duties and Responsibilities\nThe key duties and responsibilities of the Revenue Cycle Financial & Business Intelligence Analyst include, but are not limited to:\nRevenue Cycle Financial & Operational Analysis\n\nAnalyze revenue cycle data to identify trends, anomalies, and areas for financial and operational improvement.\nIdentify trends in revenue cycle performance and proactively address potential issues or opportunities.\nMonitor key performance indicators (KPIs) related to revenue cycle performance and report findings to management.\nConduct regular audits to ensure compliance with billing and coding regulations and guidelines.\nStay current on industry trends, regulations, and technologies related to revenue cycle management.\nWork with Revenue Cycle leaders to develop and implement strategies to streamline revenue cycle processes and maximize revenue generation.\nCollaborate with cross-functional teams to identify root causes of revenue cycle inefficiencies and help implement corrective actions.\n\nBusiness Intelligence Development & Reporting Support\n\nWrite SQL queries to extract, transform, validate, and analyze revenue cycle data from the enterprise data warehouse.\nDevelop and maintain revenue cycle dashboards and reporting applications within Qlik.\nServe as backup and supplemental support for all revenue cycle Qlik applications and reporting assets.\nFulfill ad hoc reporting and analytical requests using SQL and Excel.\nPartner with the Analytics team in maintaining revenue cycle data structures within the SQL data warehouse.\nEnsure reporting accuracy, consistency, and alignment with enterprise metric definitions.\n\nAdvanced Automation & Workflow Optimization (Required Expertise)\n\nServe as the revenue cycle subject matter expert for Microsoft Power Automate.\nDesign, build, and maintain advanced automated workflows to improve reporting intake, tracking, approvals, and operational efficiency.\nDevelop and manage structured reporting solutions using SharePoint and Microsoft Lists.\nCreate scalable process automation tools that reduce manual intervention and improve data transparency.\nIdentify and implement automation opportunities that improve turnaround time, compliance, and reporting reliability.\n\nTraining & Collaboration\n\nProvide training and support to revenue cycle staff on reporting tools, automation solutions, best practices, and procedural changes.\nCollaborate with Analytics, Finance, IT, and Revenue Cycle leadership to ensure alignment on reporting priorities and definitions.\nSupport enterprise-wide ad hoc analytics initiatives as part of the Analytics team.\n\nEducation/Experience\n\nBachelor’s degree in Healthcare Administration, Business Administration, Finance, Data Analytics, Information Systems, or related field preferred.\nProven experience in revenue cycle management, healthcare finance, or related field.\nIntermediate SQL proficiency required (ability to write multi-table joins, aggregations, filtering logic, and performance-aware queries).\nDemonstrated experience building applications within a BI platform; Qlik experience strongly preferred.\nAdvanced experience with Microsoft Power Automate required.\nAdvanced working knowledge of SharePoint and Microsoft Lists required.\n\nKnowledge, Skills and Abilities\n\nStrong analytical skills with the ability to interpret complex financial and operational data sets.\nProficiency in Microsoft Excel, including pivot tables, formulas, and structured data analysis.\nKnowledge of healthcare billing and coding regulations preferred.\nExcellent communication and interpersonal skills.\nAbility to work independently and collaboratively in a fast-paced environment.\n\nWork Environment/Physical Demands\nThe work environment/physical demands described here are representative of those that must be met by a teammate to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable differently abled persons to perform the essential functions."
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "hybrid",
+          "evidence": [
+            "description: hybrid"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "street": "805 Madison St",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-07T11:09:13.176Z",
+        "curated_at": "2026-11-10T19:51:01.121Z",
+        "job_updated_at": "2026-11-10T19:51:01.121Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "d6510b547eb924c7bc8b5c15f22994f5efb547d2f0f6cec66eb2c90c91bdc989",
+            "source": "dayforce",
+            "source_posting_id": "15977",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.dayforcehcm.com/en-US/proliance/PROLIANCECAREERSITE/jobs/15977"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.dayforcehcm.com/en-US/proliance/PROLIANCECAREERSITE/jobs/15977"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Seattle",
+                "state": "WA",
+                "country": "US",
+                "regionCode": "WA",
+                "streetAddress": "805 Madison St",
+                "latitude": 47.6077174,
+                "longitude": -122.3278727,
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-06T11:00:00.000Z",
+            "first_seen_at": "2026-11-07T11:09:13.176Z",
+            "last_completed_fetch_at": "2026-11-10T19:48:56.264Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "4cdbfbc7-568b-42bd-a88a-7c6a59f48cea",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "7dadc321-6c29-8e6c-b2ac-7ffc227fe5f5",
+        "employer_name": {
+          "state": "known",
+          "value": "Johns Hopkins University"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst II, Finance & Administration - #Staff"
+        },
+        "description": {
+          "state": "known",
+          "value": "The Business Intelligence Analyst II will support the Development and Alumni Relations Finance and Administration team by acquiring, transforming, analyzing, and reporting financial and operational data. The Analyst will maintain and improve automation processes and Power BI dashboards that support financial reporting, planning, reconciliations, and decision-making. The Analyst will partner with finance leadership and staff to define data needs, troubleshoot existing workflows, and develop reliable tools and visualizations.\nReporting to the Sr. Finance Project Manager, the Analyst will coordinate with central data and technology teams as needed to ensure that finance data and reporting processes are accurate, documented, and aligned with University standards. The Analyst will also support finance data preparation, validation, and reporting.\nThe Business Intelligence Analyst II is responsible for data analytics and additional support for performance measures, ongoing measurement, data collection, reporting, data visualizations, and information dissemination. Responsible for participating in the strategic design and maintenance of business intelligence applications. The Business Intelligence Analyst II will identify, research, and resolve technical problems. The Business Intelligence Analyst II will ensure that the use of business intelligence applications enhances clinical and/or business decision-making capabilities. The Business Intelligence Analyst II will work on limited to moderately complex projects and gain exposure to more complex tasks within the job function. The Business Intelligence Analyst II will work under the supervision of a Data Trust Analytic Team Leader or other data governance or analytic leadership appropriate for the scope of work. This supervision may be through a matrixed or direct reporting structure.\nSpecific Duties & Responsibilities:\n+ Responsible for data analytics and additional support for performance measures, ongoing measurement, data collection, reporting, data visualizations, and information dissemination.\n+ Responsible for participating in the strategic design and maintenance of business intelligence applications.\n+ Identify, research, and resolve technical problems.\n+ Ensure that the use of business intelligence applications enhances clinical and/or business decision-making capabilities.\n+ Make appropriate decisions using available resources to achieve positive outcomes for patients, visitors, and staff in balance with sound business practice.\n+ Make recommendations for changes in the current departmental systems and processes and contribute ideas and suggestions for solutions to problems.\n+ Report and follow-up on software problems delaying workflow.\n+ Respond to urgent, impromptu, and unplanned situations by assessing their level of importance, instituting appropriate action, and appropriately managing information and communication.\n+ Communicate decisions to appropriate management.\n+ Prepare incident/occurrence reports as necessary.\n+ Prioritize daily tasks and assignments appropriately.\n+ Complete mandatory Epic and other software or analytic tool training as required.\n+ Collaborate with other analytic teams as directed.\n+ Other duties as assigned.\nIn addition to the duties listed above the Business Intelligence Analyst II will:\n+ Maintain, troubleshoot, document, and enhance Python scripts used by DAR Finance for recurring reporting, reconciliations, budget and forecast preparation, personnel cost analysis, allocations, and other finance workflows.\n+ Acquire, integrate, cleanse, transform, and validate data from general ledger, budget, payroll, procurement, expense, and other enterprise sources for Finance; reconcile outputs to authoritative financial records.\n+ Develop and maintain DAR Finance's Power BI data models, Power Query transformations, DAX measures, refresh processes, reports, and dashboards supporting budget-to-actual, forecast, fund balance, personnel cost, and transaction analysis.\n+ Establish Finance data-quality and governance standards, including financial mappings, metric definitions, reconciliations, documentation, version control, and repeatable controls for consistent, auditable reporting.\nMinimum Qualifications\n+ Bachelor’s degree in a related field.\n+ Three years of experience in a professional environment using the relevant knowledge base and skills. A minimum of two years collecting and analyzing data, preparing reports, identifying and solving problems.\n+ Additional education may substitute for required experience and additional related experience may substitute for required education permitted by the JHU equivalency formula beyond a high school diploma/graduation equivalent, to the extent permitted by the JHU equivalency formula.\nPreferred Qualifications\n+ Proficiency in Python for data transformation, automation, and troubleshooting; proficiency in Microsoft Power BI, including Power Query, DAX, data modeling, and dashboard development; and proficiency in Microsoft Excel, with demonstrated experience applying finance or accounting concepts to budgets, forecasts, reconciliations, and variance analysis.\n+ Professional background in financial planning and analysis, accounting, or higher education finance.\nClassified Title: Business Intelligence Analyst II\nJob Posting Title (Working Title): Business Intelligence Analyst II, Finance & Administration\nRole/Level/Range: ATP/03/PC\nStarting Salary Range: Minimum: $55,100 - Maximum: $96,700 (targeted salary: $68,000; commensurate with experience)\nEmployee group: Full Time\nSchedule: Mon-Fri, 8:30am-5:00pm\nFLSA Status: Exempt\nLocation: Mount Washington Campus\nDepartment name: 10001643-Finance\nPersonnel area: University Administration\nEqual Opportunity Employer\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Baltimore",
+              "region": "US-MD",
+              "country": "US",
+              "postal_code": "21217",
+              "zip": "21217",
+              "county_fips": "24510",
+              "msa": {
+                "cbsa_code": "12580",
+                "cbsa_title": "Baltimore-Columbia-Towson, MD",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Mount",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-03T19:15:29.382Z",
+        "curated_at": "2026-11-06T04:26:33.096Z",
+        "job_updated_at": "2026-11-06T06:11:55.001Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 5510000,
+                "max_cents": 9670000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              },
+              {
+                "kind": "range",
+                "min_cents": 6800000,
+                "max_cents": null,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[1]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "missing",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "c65e067408f7ef7df6af0653c4949e55406d146640b579eca70f52d265d33024",
+            "source": "directemployers",
+            "source_posting_id": "28BF08526624433798716C9E507C391E",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jhu.dejobs.org/baltimore-md/business-intelligence-analyst-ii-finance-administration-staff/28BF08526624433798716C9E507C391E/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/28BF08526624433798716C9E507C391E10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Baltimore",
+                "state": "MD",
+                "country": "US",
+                "regionCode": "MD",
+                "postalCode": "21217",
+                "latitude": 39.306835,
+                "longitude": -76.626625,
+                "remote": false,
+                "zip": "21217",
+                "alternatives": [
+                  {
+                    "city": "Mount",
+                    "state": "WA",
+                    "country": "US",
+                    "remote": false
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 55100,
+                "max": 96700,
+                "currency": "USD",
+                "interval": "unknown",
+                "ranges": [
+                  {
+                    "min": 55100,
+                    "max": 96700,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  },
+                  {
+                    "min": 68000,
+                    "currency": "USD",
+                    "interval": "unknown"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-10-03T04:36:00.000Z",
+            "first_seen_at": "2026-11-03T19:15:29.382Z",
+            "last_completed_fetch_at": "2026-11-06T04:25:59.557Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 13,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:45:44.408Z"
+  },
+  "response_usage": {
+    "charged": "11",
+    "remaining": "98897",
+    "request_id": "3bcecdf7-9e07-476f-9320-f044476e4721"
+  }
+}

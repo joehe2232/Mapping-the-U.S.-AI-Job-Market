@@ -1,0 +1,492 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:47:04.012438+00:00",
+  "state_filter": "VA",
+  "title_filter": "machine learning research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "VA",
+    "title": "machine learning research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "05d9202d-955f-485c-ba20-dd08c34ad364",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "ddd12f84-2f17-826a-9ada-4e538f476194",
+        "employer_name": {
+          "state": "known",
+          "value": "Global InfoTek, Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "AI / Machine Learning Research Scientist BDVA 1672"
+        },
+        "description": {
+          "state": "known",
+          "value": "Clearance Level: Active Top Secret / SCI\n\nUS Citizenship: Required\n\nJob Classification: Regular, Full-Time\n\nLocation: Reston, VA / Arlington, VA / Hybrid Support Options\n\nYears of Experience: 7+ Years\n\nEducation Level: Master’s Degree or Ph.D. in Computer Science, Artificial Intelligence, Data Science, or Machine Learning\n\nBriefly Describe the Work\n\nGlobal InfoTek, Inc. is hiring an AI / Machine Learning Research Scientist to lead applied AI research and prototyping initiatives. You will research, design, and deploy advanced AI algorithms, agentic AI frameworks, Large Language Models (LLMs), and computer vision models tailored for defense applications, predictive analytics, and autonomous decision-support systems.\n\nRequired Skills\n\n• Deep theoretical and practical expertise in Machine Learning, Deep Learning, Transformer architectures, and LLMs.\n\n• Proficiency with AI/ML frameworks (PyTorch, TensorFlow, Hugging Face, LangChain, Ray).\n\n• Demonstrated experience designing Agentic AI architectures for autonomous decision-making and multi-agent coordination.\n\n• Strong programming fluency in Python, C++, and GPU acceleration libraries (CUDA).\n\n• Experience developing AI models capable of operating on edge hardware or constrained defense networks.\n\nDesired Skills\n\n• Experience with AI safety, explainability (XAI), adversarial ML defense, and model robustness testing.\n\n• Published research or patented innovations in applied AI for defense/intelligence problems.\n\n• Familiarity with CDAO (Chief Digital and AI Office) tools, Tradewind, or DoD AI governance frameworks.\n\nRelevant Certifications\n\nAWS Certified Machine Learning Specialist, TensorFlow Developer Certificate, or equivalent advanced AI credentials\n\nGlobal InfoTek, Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or based on disability.\n\nAbout Global InfoTek, Inc. : Global InfoTek Inc. has an award-winning track record of designing, developing, and deploying best-of-breed technologies that address the nation's pressing cyber and advanced technology needs. GITI has rapidly merged pioneering technologies, operational effectiveness, and best business practices for over two decades."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Reston",
+              "region": "US-VA",
+              "country": "US",
+              "zip": "20191",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-09T14:29:36.908Z",
+        "curated_at": "2026-11-19T00:46:09.881Z",
+        "job_updated_at": "2026-11-19T00:46:09.881Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "3086d851fb1f7b147956534e394110859de17181c5bb25a72c555dd8824316cf",
+            "source": "breezy",
+            "source_posting_id": "d05954ea01ae",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://global-infotek-inc.breezy.hr/p/d05954ea01ae-ai-machine-learning-research-scientist-bdva-1672"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://global-infotek-inc.breezy.hr/p/d05954ea01ae-ai-machine-learning-research-scientist-bdva-1672"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Reston",
+                "state": "VA",
+                "country": "US",
+                "remote": false,
+                "zip": "20191"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-07T00:00:00.000Z",
+            "first_seen_at": "2026-10-09T14:29:36.908Z",
+            "last_completed_fetch_at": "2026-11-19T00:40:20.110Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "f2ea8a03-6447-4ad0-8f07-8aad79cb438c",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "0a345466-d881-89af-821d-5fb58272edd7",
+        "employer_name": {
+          "state": "known",
+          "value": "Carnegie Mellon University"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Machine Learning Research Scientist - Secure AI Lab"
+        },
+        "description": {
+          "state": "known",
+          "value": "At the SEI AI Division, we conduct research in applied artificial intelligence and the engineering questions related to the practical design and implementation of AI technologies and systems. We currently lead a community-wide movement to mature the discipline of AI Engineering for Defense and National Security.\n\nAs our government customers adopt AI and machine learning to provide leap-ahead mission capabilities, we\n\n* build real-world, mission-scale AI capabilities through solving practical engineering problems\n    \n\n* discover and define the processes, practices, and tools to support operationalizing AI for robust, secure, scalable, and human-centered mission capabilities\n    \n\n* prepare our customers to be ready for the unique challenges of adopting, deploying, using, and maintaining AI capabilities\n    \n\n* identify and investigate emerging AI and AI-adjacent technologies that are rapidly transforming the technology landscape\n    \n\nAre you creative, curious, energetic, collaborative, technology-focused, and hard-working? Are you interested in making a difference by bringing innovation to government organizations and beyond? Apply to join our team.   \n\n\n**Overview:** As a Senior Machine Learning Research Scientist, you will specialize in conducting research into the vulnerabilities of AI and ML algorithms and securing against those vulnerabilities.\n\nThe Secure AI Lab within the SEI’s AI Division focuses on improving the security and robustness of AI systems. As part of the world-class research community at Carnegie Mellon University, the Secure AI Lab conducts and applies cutting-edge research to protect AI systems from adversaries who aim to manipulate the system to learn, do, or reveal something it isn’t supposed to.\n\nThe Secure AI Lab consists of machine learning research scientists, machine learning engineers, and software developers who work together to solve problems in the following areas:\n\n* **Counter AI Research:** Study threat models targeting AI and ML algorithms, understand the behaviors of AI algorithms, identify weak points, and design novel ways to subvert AI and ML systems.\n    \n\n* **AI and ML Algorithm Defense Research:** Create practical mitigations and defenses for observed attacks affecting AI and ML algorithms and evaluate the effectiveness of defensive techniques.\n    \n\n* **Applied Adversarial Machine Learning:** Advance the state of the art in adversarial machine learning by developing and transitioning capabilities to government sponsors.\n    \n\nYour day-to-day research tasks will include:\n\n* **Identifying and investigating** emerging AI and AI-adjacent technologies.\n    \n\n* **Performing and publishing** impactful original research in the field of AI and ML algorithm vulnerabilities and securing against those vulnerabilities.\n    \n\n* **Adapting and applying** existing research in the field to solve real-world problems.\n    \n\n* **Transitioning and providing guidance** on AI capabilities to government sponsors.\n    \n\n**Duties:** \n\n* **Hands-on research:** You’ll conduct and lead novel research in applied machine learning and artificial intelligence.\n    \n\n* **Solution development:** You’ll work with and lead interdisciplinary teams to turn research results into prototype operational capabilities for government customers and stakeholders.\n    \n\n* **Strategy:** You’ll work with the leadership team and colleagues to plan, develop, and carry out an overall research strategy, and to influence the national research agenda regarding future technology.\n    \n\n* **Collaboration:** You'll actively participate on teams of software developers, researchers, designers, and technical leads. You'll build relationships and collaborate with researchers, government customers, and other stakeholders to understand challenges, needs, possible solutions, and research directions.\n    \n\n* **Mentoring:** You'll contribute to improving the overall technical capabilities of the Division by mentoring and teaching others, participating in design (software and otherwise) sessions, and sharing insights and wisdom across the SEI AI Division.\n    \n\n**Knowledge and Experience**\n\n* Comprehensive knowledge of machine learning; previous experience in adversarial machine learning preferred but not required\n    \n\n* A track record of conducting research and applying scientific methods to solve difficult problems\n    \n\n* Experience leading research projects in novel areas with limited previous work to build upon\n    \n\n* Ability to work with leadership to plan, develop, and deliver an overall research strategy\n    \n\n* Strong written and verbal communication skills; ability to convey complex technical ideas in a layperson’s terms\n    \n\n* Proficiency in writing funding proposals or pitching ideas for new research projects\n    \n\n* Ample experience with publishing written or technical artifacts showcasing your work\n    \n\n* Strong collaboration skills for working with colleagues and sponsors\n    \n\n* Willingness to guide and mentor junior team members\n    \n\n**Requirements**\n\n* A bachelor’s degree in computer science, statistics, machine learning, electrical engineering, or related discipline with ten (10) years of experience; OR MS in the same fields with eight (8) years of experience; OR PhD with five (5) years of experience\n    \n* Willingness to work onsite at an SEI facility 5 days per week.\n    \n\n* Be able to obtain and maintain an active Department of War security clearance.\n    \n* Willing to travel up to 25% of the time to locations outside of your home location. Travel sites include SEI offices in Pittsburgh and Washington, D.C., sponsor sites, and conferences.\n    \n\n**Location**\n\nArlington, VA, Pittsburgh, PA\n\n**Job Function**\n\nSoftware/Applications Development/Engineering\n\n**Position Type**\n\nStaff – Regular\n\n**Full time/Part time**\n\nFull time\n\n**Pay Basis**\n\nSalary\n\n## **More Information:**\n\n* Please visit **“[Why Carnegie Mellon](http://www.cmu.edu/jobs/why-cmu/index.html)”** to learn more about becoming part of an institution inspiring innovations that change the world.\n    \n* Click [here](https://www.cmu.edu/jobs/benefits-at-a-glance/) to view a listing of employee benefits\n    \n* **Carnegie Mellon University is an Equal Opportunity Employer/Disability/Veteran**.\n    \n* [**Statement of Assurance**](https://www.cmu.edu/policies/administrative-and-governance/statement-of-assurance.html)\n    \n\n  \n\nAlways focused on the future, the Software Engineering Institute (SEI) advances software as a strategic advantage for national security. We lead research and direct transition of software engineering, cybersecurity, and artificial intelligence technologies at the intersection of academia, industry, and government. We serve the nation as a federally funded research and development center (FFRDC) sponsored by the U.S. Department of Defense (DoD) and are based at Carnegie Mellon University, a global research university annually rated among the best for its programs in computer science and engineering.\n\n  \n\nOur people apply special knowledge and skills and are part of an elite research university. We perform research and apply our expertise every day to foresee problems and exploit opportunities in software engineering, AI engineering, and cybersecurity. Quality software that is secure will control the future. At CMU SEI, we are engineering that ever-greater software-fueled future.\n\n  \n\n**Need Help?**\n\nFor technical assistance, email [hr-help@andrew.cmu.edu](mailto:hr-help@andrew.cmu.edu) or call 412-268-5072.\n\n  \n\nWe are committed to providing an accessible experience throughout our recruitment process. If you need assistance or a reasonable accommodation at any stage of the application, interview, or hiring process, please contact Equal Opportunity Services by email at [employeeaccess@andrew.cmu.edu](mailto:employeeaccess@andrew.cmu.edu?subject=Assistance%20Requested) or by phone at 412-268-3930.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Pittsburgh",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42003",
+              "msa": {
+                "cbsa_code": "38300",
+                "cbsa_title": "Pittsburgh, PA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Arlington",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51013",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T18:02:17.650Z",
+        "curated_at": "2026-11-11T16:54:00.545Z",
+        "job_updated_at": "2026-11-11T16:54:00.545Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "1c80101f92acc41010aedfba36650a1b199b59983351abce32baf4a83d4fb271",
+            "source": "workday",
+            "source_posting_id": "/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---SAIL_2024055",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---SAIL_2024055"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---SAIL_2024055"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Pittsburgh",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "PA",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Arlington",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Arlington, VA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-20T00:00:00.000Z",
+            "first_seen_at": "2026-09-21T19:48:24.863Z",
+            "last_completed_fetch_at": "2026-11-11T17:08:51.895Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "257875a71b5ba179dfa6c879f1beedc831b5c5d99fabf9ba97798c4ff17be174",
+            "source": "workday",
+            "source_posting_id": "/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---SAIL_2024055-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---SAIL_2024055-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---SAIL_2024055-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Pittsburgh",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "PA",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Arlington",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Arlington, VA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-20T00:00:00.000Z",
+            "first_seen_at": "2026-09-21T18:02:17.650Z",
+            "last_completed_fetch_at": "2026-11-11T18:05:34.889Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "b8c87dca-923c-451b-a386-b57866aa3422",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "0a345466-d881-89af-821d-5fb58272edd7",
+        "employer_name": {
+          "state": "known",
+          "value": "Carnegie Mellon University"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Machine Learning Research Scientist - Frontier Lab"
+        },
+        "description": {
+          "state": "known",
+          "value": "**What We Do**\n\nAt the SEI AI Division, we conduct research in applied artificial intelligence and the engineering challenges related to building, deploying, and sustaining AI-enabled systems for high-impact government missions.   \n\n\nThe **Frontier Lab** advances AI engineering and transitions frontier AI capabilities to government stakeholders through applied research, rapid prototyping, short-cycle TEVV, and technical advisory.\n\n**Position Summary**\n\nAs a Senior Machine Learning Research Scientist in the Frontier Lab, you will serve as a senior individual contributor and technical leader, shaping and executing applied research and prototype capability development for government and DoW missions. This role spans the research-engineering spectrum: some SR MLRS hires may lean more research-heavy and others more engineering-heavy, but successful candidates collaborate effectively across both.\n\nYou will operate with high autonomy, represent technical work with customers and stakeholders, and help guide Frontier Lab research direction—while remaining hands-on in development, evaluation, and delivery. Your work may span Frontier Lab focus areas such as:\n\n* Agentic AI for mission workflows (e.g., planning, analysis, decision support) where autonomous and human-guided agents interact with tools, data systems, and operators.\n    \n\n* AI test, evaluation, verification, and validation (TEVV) to improve confidence in performance, robustness, uncertainty, and trustworthiness of ML-enabled systems.\n    \n\n* Mission-tailored language models, including techniques to improve accuracy and reliability, reduce hallucinations, and integrate structured knowledge for operational tasks.\n    \n\n* Mission modalities and multimodal learning, including sensor fusion and learning under noisy, sparse, or constrained data conditions (including synthetic data and weakly-/self-supervised approaches).\n    \n\n* AI at the tactical edge, enabling capability under constrained compute/connectivity through efficient inference, compression, rapid adaptation, and update/redeploy patterns.   \n    \n    \n\n**Key Responsibilities / Duties**\n\nSenior MLRS staff are expected to operate with a high degree of autonomy and technical ownership while remaining hands-on in development, evaluation, and delivery.\n\n* **Mission-context execution**: Execute work within the operational context—understanding users, workflows, constraints, success criteria, and outcomes—so technical decisions are grounded in real mission needs.\n    \n\n* **Technical leadership / Tech lead**: Lead technical execution by defining technical tasking, sequencing work into realistic milestones, maintaining delivery quality, and delegating appropriately across the team.\n    \n\n* **Applied research and prototyping**: Design and run studies, build convincing prototypes and reference implementations, and produce evidence-backed insights that can be matured and transitioned into operational settings.\n    \n\n* **Evaluation, assurance, and evidence**: Establish credible evaluation strategies and test pipelines that assess performance, robustness, reliability, and trustworthiness in mission-representative scenarios.\n    \n\n* **Customer-facing technical ownership**: Serve as the primary technical interface when appropriate; translate mission goals into measurable technical outcomes; communicate progress, decisions, and risks clearly to stakeholders.\n    \n\n* **Mentorship and talent development**: Proactively mentor junior staff and teammates, raising the bar for research rigor, engineering practice, and delivery habits across project teams.\n    \n\n* **State-of-the-art awareness and agenda shaping**: Maintain strong awareness of frontier developments aligned to the Frontier Lab, share insights with the lab, and help shape research directions and future work selection.\n    \n\n* **Self-direction and time management**: Manage multiple priorities effectively, sustain steady execution cadence, and resolve blockers with minimal oversight.\n    \n\n* **Community building (internal and external)**: Build a strong research culture through internal talks, reading groups, and workshops; and engage with external AI/ML communities (professional societies, consortiums, working groups, and conferences) to strengthen collaboration pathways and keep the lab connected to emerging practice.\n    \n\n**Requirements**\n\n* Education / Experience\n    \n\n* BS in Computer Science, Electrical Engineering, Statistics, or related field with 10 years of relevant experience; OR MS with 8 years of relevant experience; OR PhD with 5 years of relevant experience.\n    \n\n* Deep expertise in one or more Frontier Lab-aligned areas (agentic systems, LLM reliability/evaluation, CV evaluation, robustness/assurance, TEVV pipelines, multimodal learning, edge ML).\n    \n\n* Strong engineering capability – can build and maintain high-quality prototypes, evaluation infrastructure, and repeatable experimentation workflows.\n    \n\n* Strong written and verbal communication skills; able to represent technical work credibly to senior stakeholders.\n    \n\n* Demonstrated ability to lead technical workstreams and coordinate multi-person execution.\n    \n\n**Knowledge, Skills, & Abilities (KSAs)**\n\n* **Technical judgment:** Makes sound architectural and methodological decisions; balances ambition with mission constraints.\n    \n\n* **Customer translation:** Converts mission needs into tractable technical plans, measurable success criteria, and credible evaluation evidence.\n    \n\n* **Scientific leadership:** Maintains rigor; identifies flawed assumptions; improves evaluation quality and research practices.\n    \n\n* **Mentorship & influence:** Elevates team performance through hands-on guidance and strong technical standards.\n    \n\n* **Initiative:** Proactively identifies risks/opportunities, proposes new work, and creates alignment without directive management.\n    \n\n* **Self-direction and time management**: Plans work effectively under ambiguity, maintains execution cadence, and escalates risks early.   \n    \n    \n\n**Desired Experience**\n\n* Leading applied research projects resulting in effective prototypes, mission-relevant evaluation outcomes, or transitioned methods.\n    \n\n* Publications at strong venues (e.g., NeurIPS / ICLR / ICML, relevant workshops, MLCON), and/or demonstrable impact through applied research artifacts (benchmarks, evaluation suites, open-source, technical reports).\n    \n\n* Designing and operating TEVV efforts including evaluation pipelines, robustness analysis, calibration/uncertainty work, regression suites, and scenario-based evaluation protocols.\n    \n\n* Building agentic capabilities integrated with tools, data systems, and human workflows (decision support, planning, analytic contexts).\n    \n\n* Experience with secure or operational environments and delivery constraints typical of government settings.\n    \n\n* Experience shaping a technical roadmap or research portfolio aligned to sponsor priorities and lab strategy.   \n    \n    \n\n**Other Requirements**\n\n* Flexible to travel to SEI offices in Pittsburgh, PA and Washington, DC / Arlington, VA, sponsor sites, conferences, and offsite meetings (~10% travel).   \n    \n    \n* You must be able and willing to work onsite at an SEI office in Pittsburgh, PA or Arlington, VA 5 days per week.\n    \n\n* You will be subject to a background investigation and must be eligible to obtain and maintain a Department of War**)** security clearance.\n    \n\n**Location**\n\nArlington, VA, Pittsburgh, PA\n\n**Job Function**\n\nSoftware/Applications Development/Engineering\n\n**Position Type**\n\nStaff – Regular\n\n**Full time/Part time**\n\nFull time\n\n**Pay Basis**\n\nSalary\n\n## **More Information:**\n\n* Please visit **“[Why Carnegie Mellon](http://www.cmu.edu/jobs/why-cmu/index.html)”** to learn more about becoming part of an institution inspiring innovations that change the world.\n    \n* Click [here](https://www.cmu.edu/jobs/benefits-at-a-glance/) to view a listing of employee benefits\n    \n* **Carnegie Mellon University is an Equal Opportunity Employer/Disability/Veteran**.\n    \n* [**Statement of Assurance**](https://www.cmu.edu/policies/administrative-and-governance/statement-of-assurance.html)\n    \n\n  \n\nAlways focused on the future, the Software Engineering Institute (SEI) advances software as a strategic advantage for national security. We lead research and direct transition of software engineering, cybersecurity, and artificial intelligence technologies at the intersection of academia, industry, and government. We serve the nation as a federally funded research and development center (FFRDC) sponsored by the U.S. Department of Defense (DoD) and are based at Carnegie Mellon University, a global research university annually rated among the best for its programs in computer science and engineering.\n\n  \n\nOur people apply special knowledge and skills and are part of an elite research university. We perform research and apply our expertise every day to foresee problems and exploit opportunities in software engineering, AI engineering, and cybersecurity. Quality software that is secure will control the future. At CMU SEI, we are engineering that ever-greater software-fueled future.\n\n  \n\n**Need Help?**\n\nFor technical assistance, email [hr-help@andrew.cmu.edu](mailto:hr-help@andrew.cmu.edu) or call 412-268-5072.\n\n  \n\nWe are committed to providing an accessible experience throughout our recruitment process. If you need assistance or a reasonable accommodation at any stage of the application, interview, or hiring process, please contact Equal Opportunity Services by email at [employeeaccess@andrew.cmu.edu](mailto:employeeaccess@andrew.cmu.edu?subject=Assistance%20Requested) or by phone at 412-268-3930.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Pittsburgh",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42003",
+              "msa": {
+                "cbsa_code": "38300",
+                "cbsa_title": "Pittsburgh, PA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Arlington",
+              "region": "US-VA",
+              "country": "US",
+              "county_fips": "51013",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T18:02:17.650Z",
+        "curated_at": "2026-11-11T16:53:59.179Z",
+        "job_updated_at": "2026-11-11T16:53:59.179Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "42ca7c86dd4791c9e8faf5337342a9d6347c1c4625134502ca3261db7855a200",
+            "source": "workday",
+            "source_posting_id": "/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---Frontier-Lab_2024076-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---Frontier-Lab_2024076-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---Frontier-Lab_2024076-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Pittsburgh",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "PA",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Arlington",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Arlington, VA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-05-20T00:00:00.000Z",
+            "first_seen_at": "2026-09-21T18:02:17.650Z",
+            "last_completed_fetch_at": "2026-11-11T18:05:34.889Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "43a33dfdb6b4aa45f38b0c0bd8c3f540659187931ee2b24c625f3bc38bc5e830",
+            "source": "workday",
+            "source_posting_id": "/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---Frontier-Lab_2024076",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---Frontier-Lab_2024076"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Senior-Machine-Learning-Research-Scientist---Frontier-Lab_2024076"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Pittsburgh",
+                "state": "PA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "PA",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Arlington",
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Arlington, VA"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-05-20T00:00:00.000Z",
+            "first_seen_at": "2026-09-21T19:48:24.863Z",
+            "last_completed_fetch_at": "2026-11-11T17:08:51.895Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "1b7b9019-fa65-424f-b39e-a56a18f5845c",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "ddd12f84-2f17-826a-9ada-4e538f476194",
+        "employer_name": {
+          "state": "known",
+          "value": "Global InfoTek, Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "AI / Machine Learning Research Scientist BDVA 1672"
+        },
+        "description": {
+          "state": "known",
+          "value": "Clearance Level: Active Top Secret / SCI\n\nUS Citizenship: Required\n\nJob Classification: Regular, Full-Time\n\nLocation: Reston, VA / Arlington, VA / Hybrid Support Options\n\nYears of Experience: 7+ Years\n\nEducation Level: Master’s Degree or Ph.D. in Computer Science, Artificial Intelligence, Data Science, or Machine Learning\n\nBriefly Describe the Work\n\nGlobal InfoTek, Inc. is hiring an AI / Machine Learning Research Scientist to lead applied AI research and prototyping initiatives. You will research, design, and deploy advanced AI algorithms, agentic AI frameworks, Large Language Models (LLMs), and computer vision models tailored for defense applications, predictive analytics, and autonomous decision-support systems.\n\nRequired Skills\n\n• Deep theoretical and practical expertise in Machine Learning, Deep Learning, Transformer architectures, and LLMs.\n\n• Proficiency with AI/ML frameworks (PyTorch, TensorFlow, Hugging Face, LangChain, Ray).\n\n• Demonstrated experience designing Agentic AI architectures for autonomous decision-making and multi-agent coordination.\n\n• Strong programming fluency in Python, C++, and GPU acceleration libraries (CUDA).\n\n• Experience developing AI models capable of operating on edge hardware or constrained defense networks.\n\nDesired Skills\n\n• Experience with AI safety, explainability (XAI), adversarial ML defense, and model robustness testing.\n\n• Published research or patented innovations in applied AI for defense/intelligence problems.\n\n• Familiarity with CDAO (Chief Digital and AI Office) tools, Tradewind, or DoD AI governance frameworks.\n\nRelevant Certifications\n\nAWS Certified Machine Learning Specialist, TensorFlow Developer Certificate, or equivalent advanced AI credentials\n\nGlobal InfoTek, Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or based on disability.\n\nAbout Global InfoTek, Inc. : Global InfoTek Inc. has an award-winning track record of designing, developing, and deploying best-of-breed technologies that address the nation's pressing cyber and advanced technology needs. GITI has rapidly merged pioneering technologies, operational effectiveness, and best business practices for over two decades."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Reston",
+              "region": "US-VA",
+              "country": "US",
+              "zip": "20191",
+              "county_fips": "51059",
+              "msa": {
+                "cbsa_code": "47900",
+                "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-09T14:29:36.908Z",
+        "curated_at": "2026-10-16T21:24:15.395Z",
+        "job_updated_at": "2026-11-01T13:13:20.983Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "3086d851fb1f7b147956534e394110859de17181c5bb25a72c555dd8824316cf",
+            "source": "breezy",
+            "source_posting_id": "d05954ea01ae",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://global-infotek-inc.breezy.hr/p/d05954ea01ae-ai-machine-learning-research-scientist-bdva-1672"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://global-infotek-inc.breezy.hr/p/d05954ea01ae-ai-machine-learning-research-scientist-bdva-1672"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Reston",
+                "state": "VA",
+                "country": "US",
+                "remote": false,
+                "zip": "20191"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-07T00:00:00.000Z",
+            "first_seen_at": "2026-10-09T14:29:36.908Z",
+            "last_completed_fetch_at": "2026-11-03T09:56:17.095Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 4,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:47:01.697Z"
+  },
+  "response_usage": {
+    "charged": "4",
+    "remaining": "98356",
+    "request_id": "b11a0e78-71b5-49f3-9577-c38a170f0af6"
+  }
+}

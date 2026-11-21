@@ -1,0 +1,226 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:46:39.758693+00:00",
+  "state_filter": "IL",
+  "title_filter": "AI research scientist",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "IL",
+    "title": "AI research scientist",
+    "sort": "updated",
+    "limit": 25
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "65d533c0-8196-47ae-848e-5b2aa235ae87",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "462e28f8-05e1-8814-9edd-7ac27f6b5fce",
+        "employer_name": {
+          "state": "known",
+          "value": "Saroeinc"
+        },
+        "title": {
+          "state": "known",
+          "value": "AI Research Scientist"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Summary\n\nWe are looking for AI Research Scientst for our client's Artificial Intelligence Innovation Lab that conducts applied AI research to develop frontier innovations for our clients. The AI Research Scientist will lead high-impact research on complex AI-related problems, contribute to thought leadership, and publish research in top AI journals and conferences.\n\nKey Responsibilities\n\n● Design, develop, and execute high-impact AI research projects.\n\n● Conduct background literature reviews and frame problems mathematically.\n\n● Define and lead technical research projects within the department.\n\n● Own research activities related to the assigned research agenda.\n\n● Contribute to thought leadership through research publications.\n\n● Prepare abstracts and articles for AI and industry-specific journals.\n\n● Present research at leading AI conferences.\n\n● Collaborate with research and product teams.\n\nQualifications\n\n● PhD in Computer Science, AI, Electrical Engineering, Statistics, or related field, plus 2-4 years of post-PhD experience.\n\n● In lieu of a PhD, 5-8 years of relevant industry experience.\n\n● Strong track record of AI research and publications in areas like NLP, Computer Vision, and Reinforcement Learning.\n\n● Proficiency in Python for AI research.\n\n● Experience in AI applications in healthcare, transportation, high-tech, or insurance is preferred.\n\n● Strong problem-solving, analytical, and critical-thinking skills"
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "remote",
+          "evidence": [
+            "location: location.remote=true"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "extraction_failed"
+          }
+        ],
+        "job_first_seen_at": "2026-09-30T03:40:15.353Z",
+        "curated_at": "2026-10-03T06:20:23.794Z",
+        "job_updated_at": "2026-11-18T23:28:46.587Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "a85ed238dc1c251e42babd33759f1c90f9cdaa05062ee5b3c119d8b2c6356746",
+            "source": "dover",
+            "source_posting_id": "dbf747fc-df77-4a00-8b77-c06a1283333b",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/saroeinc/dbf747fc-df77-4a00-8b77-c06a1283333b"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/saroeinc/dbf747fc-df77-4a00-8b77-c06a1283333b"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Chicago",
+                "state": "IL",
+                "country": "US",
+                "remote": true,
+                "alternatives": [
+                  {
+                    "remote": true,
+                    "raw": "International"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-02-27T17:12:36.409Z",
+            "first_seen_at": "2026-09-30T03:40:15.353Z",
+            "last_completed_fetch_at": "2026-11-18T23:28:43.511Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "9e840bcd-2f6a-4702-89a9-0054b8ab3075",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "a8af2215-c9cd-86fe-b7c9-902fce0028f1",
+        "employer_name": {
+          "state": "known",
+          "value": "Underwriters Laboratories Inc."
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead AI Research Scientist II - Digital Safety Research Institute"
+        },
+        "description": {
+          "state": "known",
+          "value": "**Job Description**\n\nWe have an exciting opportunity for a Lead AI Research Scientist II at UL Research Institutes. This is a remote based opportunity.\n\n  \n\nThe Lead AI Research Scientist II directs advanced research across specialized areas including natural language processing (NLP); computer vision (CV), signal processing (SP), and AI reasoning.\n\n  \n\nThis role leads AI safety research including literature surveys, AI safety experimental design, AI/software engineering, data acquisition, data analysis, and documentation necessary to execute comprehensive experimental studies. The Lead AI Research Scientist II defines concepts and criteria to resolve major problems in current programs or approaches. Projects require substantial knowledge of state-of-the-art AI and software engineering principles and theories and use professional concepts and procedures to solve a wide range of research-based problems.\n\n  \n\n**UL Research Institutes:**\n\nAt UL Research Institutes (ULRI), we expand the boundaries of safety science to create a more secure and sustainable world. For more than a century, we have studied the unintended consequences of innovation, designed solutions to mitigate risk and shared our findings with academia, scientists, manufacturers, and policymakers across industries. We identify critical safety and sustainability issues, asking the tough questions because we believe a safer world begins with knowledge.\n\n  \n\nBuild a safer, more secure, and sustainable future with us. Join us and work with our Digital Safety teams who conduct the research required to produce that knowledge and put into practice.\n\n  \n\n**Digital Safety Research Institute:**\n\nThe Digital Safety Research Institute (DSRI) addresses unresolved safety risks and emerging dangers in the world’s digital ecosystem. We aim to help protect people from unwanted access to personal devices and privacy, algorithm, and disinformation threats by working to create a new digital safety ecosystem.\n\nDSRI is committed to sharing digital safety insights, collaborating with key stakeholders, and offering extensive outreach and education to help support safer digital environments for people everywhere.\n\n**What you’ll learn and achieve:**\n\nAs the Lead AI Research Scientist II, you will play a key role in the rapid growth of UL as you:\n\n* Formulate, design, and manage independent test and evaluation research programs to protect the public from AI systems harms – focusing on testing systems enabling the most public harm.\n* Lead and contribute to the development of competitive research proposals, including using the Heilmeier criteria to define scope, methodology, and deliverables, to secure funding for independent AI test and evaluation research programs.\n* Serve as a principal investigator for Digital Safety’s’ independent test and evaluation research programs in their specialty area.\n* Apply intensive and diverse knowledge of technology and AI/software engineering concepts to execute and manage specific research programs.\n* Analyze experimental results to determine causes of problems and develop solutions, and evaluates technical specifications and factors related to process or design objectives.\n* Plan, design, and complete initial and follow-up procedures as needed to validate the testing and evaluation results.\n* Plan, design, and execute research challenges, using and improving DSRI’s evaluation tools, to lead their AI specialty community to solve problems of importance to transition partners.\n* Propose and host workshops at leading research conferences in AI safety where research challenge winning methods and their comparative results are discussed to move the field forward in producing results that can have impact in public safety.\n* Stay ahead of changing technologies in the field by reading papers and scientific publications and attending academic conferences.\n* Contribute to and/or lead other department specific and cross-functional initiatives.\n\n**What you’ll experience working at UL Research Institutes:** We have pursued our mission of working for a safer, more secure, and sustainable world for nearly 130 years, embedding conscientious stewardship into everything we do.\n\n* **People**: Our people make us special. You’ll work with a diverse team of experts respected for their independence and transparency and build a network, because our approach is collaborative. We collaborate across disciplines, organizations, and geographies to build the global scientific response that today’s global challenges require.\n* **Interesting work**: Every day is different for us here. We see what’s on the horizon and use our expertise to build the foundations of a safer future. You’ll have the opportunity to push the boundaries of human understanding as part of a team working to advance the public good.\n* **Grow and achieve**: We learn, work, and grow together through targeted development, reward, and recognition programs.\n* **Values**. Four core values guide our work: collaboration, respect, integrity, and beneficence. By living our values, we inspire the trust essential to fulfilling our mission and foster the partnerships that enable us to pursue a beneficent future in which we all can thrive.\n* **Total Rewards**: All employees at UL Research Institutes are eligible for bonus compensation. We offer comprehensive medical, dental, vision, and life insurance plans and a generous 401k matching structure of up to 5% of eligible pay. Moreover, we invest an additional 4% into your retirement saving fund after your first year of continuous employment. Depending on your role, you may be able to discuss flexible working arrangements with your manager. We also provide employees with paid time off, including vacation, holiday, sick, and volunteer days.\n\n  \n\n**What makes you a great fit:**\n\nWhile no one candidate will embody every quality, the successful candidate will bring many of the following professional competencies and personal attributes:\n\n* Demonstrated general knowledge of AI and software engineering disciplines.\n* Demonstrated experience securing research funding through competitive proposal development.\n* Demonstrated ability to write and win proposals for leading research workshops.\n* Demonstrated ability to attract invitations to give keynote presentations.\n* Excellent communication skills required.\n* Advanced AI engineering, software engineering, and data analysis skills.\n* Ability to collaborate effectively with research scientists, engineers, team members, and external partners to deliver research outcomes.\n* Ability to publish research results at leading academic conferences.\n\n **Professional education and experience requirements for the role include:**\n\n* PhD in Computer Science with a focus in the applicable AI area of specialty plus 8 or more years of directly related research experience.\n\n**About UL Research Institutes and UL Standards & Engagement**\n\nUL Research Institutes and UL Standards & Engagement are nonprofit organizations dedicated to advancing safety science research through the discovery and application of scientific knowledge. We conduct rigorous independent research and analyze safety data, convene experts worldwide to address risks, share knowledge through safety education and public outreach initiatives, and develop standards to guide safe commercialization of evolving technologies. We foster communities of safety, from grassroots initiatives for neighborhoods to summits of world leaders. Our organization employs collaborative and scientific approaches with partners and stakeholders to drive innovation and progress toward improving safety, security, and sustainability, ultimately enhancing societal well-being.\n\n  \n\nOur affiliate, UL Solutions, stands alongside us in working for a safer and more sustainable world.  UL Solutions conducts testing, verification and certification, and provides training and advisory services, along with data-driven reporting and decision-making tools, for customers around the world.\n\n  \n\nTo learn more, visit our website [UL.org](https://ul.org/) and [ULSE.org](https://ulse.org/).\n\n**Salary Range:**\n\n$144,304.94-$198,419.29\n\n**Pay Type:**\n\nSalary  \n\nJoin our Talent Community to stay informed about our upcoming opportunities!\n\n  \n\nUL Research Institutes is a leading independent safety science organization with global reach. Dedicated to exploring vital questions related to public safety, we sense and act on risks to humanity and our planet.\n\nSince 1894, our trusted research has engaged the ingenuity of top minds across scientific disciplines to engineer a safer and more sustainable world. Science builds the knowledge required to mitigate increasingly urgent safety problems like environmental and chemical pollution or artificial intelligence inequities — and our rigorous, objective investigations uncover that knowledge.\n\nIn collaboration with a global network of scientists and safety professionals, we define the safe and sustainable use of things ranging from legacy materials to new and emerging technologies. Our discoveries support the development of practical standards and policies by UL Standards & Engagement. Together, we are advancing safety science for the greater good.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "remote",
+          "evidence": [
+            "location: Remote"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Evanston",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-06T20:49:53.742Z",
+        "curated_at": "2026-11-10T05:12:06.142Z",
+        "job_updated_at": "2026-11-10T05:12:06.142Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 14430494,
+                "max_cents": 19841929,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "620baf54bf5db086694d300301f9c64efc6bdd33e24149c2365423358f72c5ab",
+            "source": "workday",
+            "source_posting_id": "/job/Remote/Lead-AI-Research-Scientist-II---Digital-Safety-Research-Institute_JR1606-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Remote/Lead-AI-Research-Scientist-II---Digital-Safety-Research-Institute_JR1606-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Remote/Lead-AI-Research-Scientist-II---Digital-Safety-Research-Institute_JR1606-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Evanston",
+                "state": "IL",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "IL",
+                "remote": true
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 144304.94,
+                "max": 198419.29,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-02T00:00:00.000Z",
+            "first_seen_at": "2026-10-06T20:49:53.742Z",
+            "last_completed_fetch_at": "2026-11-10T05:09:39.108Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 2,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:46:38.902Z"
+  },
+  "response_usage": {
+    "charged": "2",
+    "remaining": "98450",
+    "request_id": "2b93293f-d580-419a-9514-634aca856c86"
+  }
+}

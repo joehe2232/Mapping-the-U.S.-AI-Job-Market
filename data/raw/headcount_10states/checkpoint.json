@@ -1,0 +1,675 @@
+{
+  "created_at_utc": "2026-11-21T01:44:05.197450+00:00",
+  "settings": {
+    "states": [
+      "PA",
+      "NY",
+      "CA",
+      "TX",
+      "WA",
+      "MA",
+      "IL",
+      "VA",
+      "GA",
+      "NC"
+    ],
+    "titles": [
+      "data scientist",
+      "machine learning engineer",
+      "AI engineer",
+      "data analyst",
+      "business intelligence analyst",
+      "data engineer",
+      "AI research scientist",
+      "machine learning research scientist",
+      "AI product manager"
+    ],
+    "posted_since": "",
+    "page_size": 25,
+    "sort": "updated"
+  },
+  "total_returned": 5635,
+  "title_counts": {
+    "data scientist": 1000,
+    "machine learning engineer": 1000,
+    "AI engineer": 1000,
+    "data analyst": 1000,
+    "business intelligence analyst": 205,
+    "data engineer": 1000,
+    "AI research scientist": 144,
+    "machine learning research scientist": 53,
+    "AI product manager": 233
+  },
+  "segments": {
+    "PA|data scientist": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MzowMS42MDJaIiwiZmlsdGVyRGlnZXN0IjoiMjlxTG5CYk8yend1Ujc5bF9RcTI2NW92d1hkcEQ2OFlsNFFUaFRzVGszVSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTExVDA2OjI3OjU0LjgwMjAwMFoiLCJqb2JJZCI6ImU5MzFiNmU5LTViOWQtNGMzNC05NTBmLTBjYzkzMjk1MzQ2NCJ9fQ.hxesH6GOVmYrixc6jrBW0xg_72Y83ecjGuuZuyKQG88",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "PA|machine learning engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MzowMS42MDJaIiwiZmlsdGVyRGlnZXN0Ijoid2txQWxzbUc3N25wNWhxLVhGdzN2RUszZVZJMUFDNUd5QTFuaTRFd0hwYyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTExVDIxOjM0OjM3LjI1NTAwMFoiLCJqb2JJZCI6IjIyYmExNzMxLTc1OTQtNDdhNC04YTBlLTRjOTQwNmNkMzE4MyJ9fQ.ummUmmc9uV2RN5O0OpZYsPcavHeXgAxtww_Ys2fltFg",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "PA|AI engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MzowOC4wMTVaIiwiZmlsdGVyRGlnZXN0IjoiSFJGYnJsM21Od2w0VGQ1dUN1OWVpY2RFLWNtZ2pGaTdSWExQcjR3ekxKSSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEyVDEwOjQ0OjMzLjE4NTAwMFoiLCJqb2JJZCI6IjdhNTA2MDdhLTBjYzQtNDFiNy04N2E3LWNmY2IyZjNhYjM3MiJ9fQ.hTXBz9fBcQtRrwqDqazsJGazHf7afes2Q9yW7EFkwZ4",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "PA|data analyst": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MzoxMS40ODlaIiwiZmlsdGVyRGlnZXN0IjoiUlNSUjJUMXlXd1RoX2pLRDUya3VXQ1pVaDlQS2d2Si1kZkxadFZ3VmtVVSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEwVDE2OjA1OjQ2Ljk1NjAwMFoiLCJqb2JJZCI6IjBkYTljZTY2LWNlYzEtNGNiYS1iZTlhLTZhNmU0NjMxNzI2MyJ9fQ.1jSh9KzwFfx6A7Ie4BwZNpIF7EjCfFxbDzdKaveDD2o",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "PA|business intelligence analyst": {
+      "returned": 16,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "PA|data engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MzoxNC42MzhaIiwiZmlsdGVyRGlnZXN0IjoiT2hiQzZEc0luSzQ0QU14MlFRNTEySnFRRl9RaHFSU0M4YmNxTXFndC1LRSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE1VDE0OjEwOjE2Ljc2ODAwMFoiLCJqb2JJZCI6IjRjZTBiZThhLTUzNzMtNGJiNi1hNTkwLTM0ZThiZmY2MDUwNCJ9fQ.Jg6ZLTO5KL6v9zn3h7ftt0Kp4VscndT9XLhncn48GHU",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "PA|AI research scientist": {
+      "returned": 2,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "PA|machine learning research scientist": {
+      "returned": 2,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "PA|AI product manager": {
+      "returned": 16,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "NY|data scientist": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MzoxOS43MjhaIiwiZmlsdGVyRGlnZXN0IjoiWUx3MGFVU25aT0xCakt0Y2ZrX0VSWllMT2dFN0NES182OEpTeEZZdXJXZyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDExOjA0OjAyLjQ0NzAwMFoiLCJqb2JJZCI6IjAxODFhZjMxLTI1ZmUtNGEyNS1hOTk4LTk2NmM5OTNjOWRhNCJ9fQ.WD0eR6mnJXgGR70XRPyf_w02hmocpBloIm7tAnq2OLk",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "NY|machine learning engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MzoxOS43MjhaIiwiZmlsdGVyRGlnZXN0IjoiNWFSQVZqMXJRWEVHQ1RKaTduYWl0RWpuOG1VU2xmNmcwWl8tUVBsWlowNCIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE4VDEzOjQxOjMwLjE2OTAwMFoiLCJqb2JJZCI6Ijc0NThjNzA4LTE4NWQtNDEwMy1hMmJjLTMxZDU5OWZiZjJhYSJ9fQ._lZgzJIl1nzfKgU1xqO22877v7yb7ISAw0hHiKnzhPc",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "NY|AI engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MzoyNS41MDdaIiwiZmlsdGVyRGlnZXN0IjoiZlpNZEN3QVpVUElzRm5GUndSQ1JFaElmQ0VRdUR4MlpIR19iODc5VlBYZyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDE1OjIwOjA0LjY1NzAwMFoiLCJqb2JJZCI6IjdiNjFlNTIxLTJkOTEtNDNmZC1hZTk5LWVmNzhhZjYwZGIxMyJ9fQ.x9pOeyCZqIiYMST5dX4oLxKuyPg_ZOtNRidVqN_co1E",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "NY|data analyst": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MzoyNS41MDdaIiwiZmlsdGVyRGlnZXN0IjoiZjZjN2RjenR3VjVkZmcycElyMklMckRFTUMtakVPbFBqc2V6S0ROWHpuQSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE4VDAzOjM0OjEyLjcxNTAwMFoiLCJqb2JJZCI6IjMzZDYxYjgxLTYzMTAtNDNhOS1iN2JlLTA4ODk4ZWVmMzU2ZiJ9fQ.jha8QW9FV-uoLdrHRruJ8YYZiMxoX8n9FQenAuPMnBs",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "NY|business intelligence analyst": {
+      "returned": 13,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "NY|data engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MzoyNS41MDdaIiwiZmlsdGVyRGlnZXN0IjoiVmpUdjk1c0FJTVRMdGNYS0FwcGdHNU91UzViVW5USGQ0ZnZMWmFMT2lPYyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDAzOjM5OjE1LjA0MTAwMFoiLCJqb2JJZCI6Ijk4MTAwZWM2LTFiZjItNGEzYy05ZGJkLWZjYWZhM2Q1YTUwYiJ9fQ.VocSXZRG-lbRBrLD4JgrsdUhzNiYjpBRw1gjkINcQ6U",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "NY|AI research scientist": {
+      "returned": 15,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "NY|machine learning research scientist": {
+      "returned": 25,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "NY|AI product manager": {
+      "returned": 62,
+      "pages": 3,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "CA|data scientist": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1MzozOC44MzVaIiwiZmlsdGVyRGlnZXN0IjoidnJ4TDdlME1uajJzdnpyTE14XzdwRXYzYzI1Vm5lVUo1VmIzdm45Y0phTSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDEyOjUwOjQyLjkyMTAwMFoiLCJqb2JJZCI6ImQyMDk3ODc2LTFiOGYtNDgzNS1iZGUyLWRlNjFjNmEwNzlmNCJ9fQ.HqKEcFF2rDqMeM4bqpYpbYaIYCv6CLRInm06lc0mjt8",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "CA|machine learning engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1Mzo0MS45MDBaIiwiZmlsdGVyRGlnZXN0IjoiOFRWdlV0RzlLS3hvX3ZFMTQ3bl8tY1NoamVFWEtlU09UVVIxY1NaVmxDayIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDE2OjMxOjA0LjcyMDAwMFoiLCJqb2JJZCI6ImRmZDI4MmI4LTQ5OWUtNGIzZS1iNDI5LWI1NzIwYzExNWY1ZCJ9fQ.jl5AMjT6P1FoqZNFhiNeWgBLUCdpCqu9YSGv_kIBdY4",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "CA|AI engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1Mzo0NS4yNzlaIiwiZmlsdGVyRGlnZXN0IjoiWXpzUWJWVWc1eHJxUFJpWGlsaERfSkV6QXQzUWNlX3ZSTFl2Nnhrb2lxOCIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDIxOjQ4OjE2LjI3NzAwMFoiLCJqb2JJZCI6Ijc3M2ExNDc3LTA2ZjYtNGNmNS1iZTY2LTdhMTlmN2U4MzAxNyJ9fQ.fqJIlSC-pcS7Q65StLzs-LrBJaiw3mmDC1hjo84dkwY",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "CA|data analyst": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1Mzo0Ny40NjFaIiwiZmlsdGVyRGlnZXN0IjoidjJucmJ6VGhYUXh3bVBtMmxlc1hIV1owYV9CUVo0N3o2UmJUWGljSV95USIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE4VDA5OjQ1OjU3LjcxODAwMFoiLCJqb2JJZCI6IjFjMDVmMTNhLTMxNTQtNDAzMy04YmQzLTAyZjViZmIwNGRkOSJ9fQ.i7PubUzS9P_D6dN8RHvu-UWavaN90YYgkokR6CQPdqg",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "CA|business intelligence analyst": {
+      "returned": 36,
+      "pages": 2,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "CA|data engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1Mzo1MS40NzhaIiwiZmlsdGVyRGlnZXN0IjoieE4xb25uWXFTY0d5SG5yUmxDVjZnUjl2NnNTUHRRVERWZDRrLV9wbmFLVSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDA3OjQ0OjUxLjEzODAwMFoiLCJqb2JJZCI6ImRjZGRiZjlmLTc5ZGItNGNlNS1iM2U0LWUwNDczY2IzY2Q0ZCJ9fQ.7gCw0nFEbs2RQlfSLSL9kOkrCu6m30ZfcprR48qUxTM",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "CA|AI research scientist": {
+      "returned": 79,
+      "pages": 4,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "CA|machine learning research scientist": {
+      "returned": 11,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "CA|AI product manager": {
+      "returned": 41,
+      "pages": 2,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "TX|data scientist": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1Mzo1NS4wNTRaIiwiZmlsdGVyRGlnZXN0IjoidThkVEQ4RjV1eXdYTVZyX2wxWHNHN1lfUmpMSE5lMV9OUzFwclBuWVpndyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE3VDIyOjUxOjA4LjMyODAwMFoiLCJqb2JJZCI6IjE2NjdhZWU4LTc4MTEtNDQzMy05ODA1LTFiODkyYmU4ODBkMiJ9fQ.bibbpa-27fgURBQ0XWXCvhi5ZPHT0h5dJWjG2Gbhedg",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "TX|machine learning engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1Mzo1OC42NTZaIiwiZmlsdGVyRGlnZXN0IjoibFpsR1VGYlpNek83Tm5ZQjFkOUg3RElsNEx4VHU1UVQ0RVdtMTlIdVd6SSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE0VDEwOjMxOjIzLjY4ODAwMFoiLCJqb2JJZCI6IjNmMWYwOWY0LWZlYTctNGZhYy04ZDhhLWU4MzkyNmJhMzkzYSJ9fQ.tmWUSegYakXPxR2HxuR98zOjluE6_OpKOUUsaZq049I",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "TX|AI engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1Mzo1OC42NTZaIiwiZmlsdGVyRGlnZXN0IjoiRE5MMFZWM3IwSlNvSUM0eWJvdTc5SmVyMlZSVDJoOXdnWjVlQUxJYzRRQSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE4VDEzOjM0OjA2LjYwMzAwMFoiLCJqb2JJZCI6IjA1MmRkMGI1LWY2MDItNDFkYi1hNmM4LTg3NTY5NGQ3NDlmMCJ9fQ.5p6aiU7iOxNYmyC3xYuvKOuzBzU2v4i66zl2Bx8NZr0",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "TX|data analyst": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDowMi44NDRaIiwiZmlsdGVyRGlnZXN0IjoiMGJ2ZVZUd2V1M2ZPTHlfZk41amg3ckJLSFd1NGF2dmNJTDZfQVdGc0xENCIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE1VDAyOjM1OjE1LjU1MjAwMFoiLCJqb2JJZCI6IjNlNmVkYjRlLTY1ZjAtNDE4Yi05YmRiLTc3OGZkY2JjZTU1NCJ9fQ.76vCnKBekRTDkawUjfxzZ-AjlookzXg7cBy_Y0mq7eA",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "TX|business intelligence analyst": {
+      "returned": 29,
+      "pages": 2,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "TX|data engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDowNS42NDNaIiwiZmlsdGVyRGlnZXN0IjoiNm1kYl9XbmJad2l2OWJjYjNSQTF3c0pDQ3ZyVkJlcDRJRzU1Y0lUSndfQSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDA5OjE3OjQwLjQ3MjAwMFoiLCJqb2JJZCI6IjlmZTUxNWM5LTdhNmMtNGI0OS05OTIzLWFhMzBjMDI3ZTRhOSJ9fQ.Ut1AruSLKVEXhBUTh7PVi-LZhv3twjofm5A0IrlZSAs",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "TX|AI research scientist": {
+      "returned": 9,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "TX|machine learning research scientist": {
+      "returned": 0,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "TX|AI product manager": {
+      "returned": 28,
+      "pages": 2,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "WA|data scientist": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDowNS42NDNaIiwiZmlsdGVyRGlnZXN0IjoiWUNfRFRBX2tBZURNdldNU1p6MmJyZjFKTFdhSGswV21IcExFR1AwWU1OayIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEzVDE2OjI0OjEwLjQ1MTAwMFoiLCJqb2JJZCI6ImY0YTNiMjllLTUwMzItNDllMS1iMzQ1LWU0YTNjMjU4ZmQwZSJ9fQ.ULNTXc4cB1UFJp5_tukZ2M0GvL20etoePYSTERpAy3s",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "WA|machine learning engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDoxMi4xNzBaIiwiZmlsdGVyRGlnZXN0Ijoia3RubktJMDNTZU1vU2VhSk94LVQtR29uR1FwZXFpV0p0WUhvdUg4eDZYMCIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE0VDIzOjQ4OjExLjYyNDAwMFoiLCJqb2JJZCI6IjY0YTY5MjVkLTJjMTAtNDM2ZS04NjJhLTNhYmNlNzhmZTFkZiJ9fQ.7V6Wc0rsb7nhzR8-jwQyvguhlwhYOeV5EhEoi_yXFcI",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "WA|AI engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDoxMi4xNzBaIiwiZmlsdGVyRGlnZXN0IjoiRXZraXFjaXpXMFZuR3NZM2d4NjlpSEl2WVl2SDFldFp0Vi1LeVRjVlluWSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEyVDIwOjAyOjM1LjE4MDAwMFoiLCJqb2JJZCI6IjBmNDQ2M2VhLTQzNDEtNGY1Mi1hOTYyLTMxNTMxODNhNTYwMiJ9fQ.pF5FkZodC16u23AFLOUreM-PaL5DxHBUfiV6hJXHZnw",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "WA|data analyst": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDoxOS43MzhaIiwiZmlsdGVyRGlnZXN0IjoidGR1OGVPWmhjUU9XWTh4cHBPbFBmRTROalVtLXh0dEFsQW81eUhBUFlMSSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTA0VDA5OjI0OjI2LjAzNzAwMFoiLCJqb2JJZCI6IjFiMmEzNGI2LTI0MjYtNDFjNS04NjA0LWQ2ZmU0MzNiNjY2ZiJ9fQ.-Ql0ydXD4WmhrFkJmbpG8I0e8lDj-Be0PthRjXhh2c4",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "WA|business intelligence analyst": {
+      "returned": 11,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "WA|data engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDoyMi4wNDlaIiwiZmlsdGVyRGlnZXN0IjoiUm1xQkJTa19MSGlNUEVpXzdqU3dVdWZzQTB6Umh0Q3JIeU1aY2hFeGJEUSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE0VDAwOjU1OjMwLjI3ODAwMFoiLCJqb2JJZCI6IjY5MmEyMzc5LWFkZWUtNGQ3NC05MGMyLTYzZWVlYTAzNWZhYyJ9fQ.nmMGFl78rNjS2awxX1cB1bAk04BC6uku9SgmjnLhqfA",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "WA|AI research scientist": {
+      "returned": 22,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "WA|machine learning research scientist": {
+      "returned": 7,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "WA|AI product manager": {
+      "returned": 5,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "MA|data scientist": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDoyNS44MDBaIiwiZmlsdGVyRGlnZXN0IjoiaW9BNnRicWVlQVc4eWpyVjg0Q0dWeHFzejdYZ1ctUkx2UWE4NVIzQ1Z4dyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEzVDAyOjUyOjMwLjAzNjAwMFoiLCJqb2JJZCI6ImFkZTFmYmNhLTQ1ZWUtNDAxOS05MmIyLWMwMTQ0MjllODQ2OCJ9fQ.pk-caIRjBewQERerzk2gP_fmct67MAn_-jqer9L6rX0",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "MA|machine learning engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDoyNS44MDBaIiwiZmlsdGVyRGlnZXN0IjoidkRhZHc3MDAxNlVvUjFXSHNJSXNnck5GckNNSHFRaGxCdGhsMjN1RDFmYyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE0VDE0OjM2OjA5LjQ2OTAwMFoiLCJqb2JJZCI6IjdhYjNhMGJlLWQxODctNDMzZi1iM2E1LTA2ZmY1YmUzMDkxZiJ9fQ.MPozsZf_DiSy6DhhhE5qsGAflzvw2KB2HCz2TrVdotw",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "MA|AI engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDozMC4xMjhaIiwiZmlsdGVyRGlnZXN0IjoiaERISldaT2RQREwzcHdBZUJiaHhxTGtMUlJ0ZW1RME55bEgzRHZPaG4xQSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDEzOjQwOjI1LjE0OTAwMFoiLCJqb2JJZCI6ImQwYTE4ZWRiLTM5MGYtNDU5MC05MjYzLTRjYTViNzFkMmRiYSJ9fQ.elwnAVzuRqMF9j4I3foCT3ORRzgc2U7gwoQcbNoWD2A",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "MA|data analyst": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDozMy4zMzVaIiwiZmlsdGVyRGlnZXN0IjoicnhPZ3Fnby04aTh4UV9weWVOajRzRFlYLWZlcUpWMDBGM0pvWk91dFREayIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTA2VDAzOjM1OjQ2LjY1NjAwMFoiLCJqb2JJZCI6ImFmMWVlZDQ1LTUxNDAtNDEyZi05YTNmLWZhZGViOWUyYTBhMiJ9fQ.q5Y3Y91Z9lWHTb0MmuyTgFE67gocdCqGn5EN2wbfp7A",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "MA|business intelligence analyst": {
+      "returned": 11,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "MA|data engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDozNi4xMjdaIiwiZmlsdGVyRGlnZXN0IjoiQlVVYzU0dmZvbnR0WG11aFZjZzN5RmxvT3VTLVRva0VTbzVobWRIMzVMYyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE1VDIyOjAyOjI3LjQwODAwMFoiLCJqb2JJZCI6IjgyMDE2MjgwLWIwMzAtNDM3NC1hM2Q2LWMxYjIyOTg2MWY0YSJ9fQ.hjg9KcGR5gneQz83w2VsNRPKCG7FzuYnmuEhN_UtY5M",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "MA|AI research scientist": {
+      "returned": 9,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "MA|machine learning research scientist": {
+      "returned": 4,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "MA|AI product manager": {
+      "returned": 16,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "IL|data scientist": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDozNy40OTZaIiwiZmlsdGVyRGlnZXN0IjoicEtzWEJHZURuR3M4Zl9LNWxjU19xTm1mT2p5VFhlOEhsUVZuR012cjkwVSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE0VDE3OjQ2OjQzLjMzMDAwMFoiLCJqb2JJZCI6ImZjY2FkM2ZhLTdlNWMtNDA0Yi05ZWQ0LWNkYjhlZjM3OWQ5YSJ9fQ.KqjlPVhu_VbRXKvmKDQP-wjESSRSIekrMDXAIY8aPP4",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "IL|machine learning engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDo0Mi41NDhaIiwiZmlsdGVyRGlnZXN0IjoiU2tZeVBoaGE5UWVfU2lCX1ktc2QzN0s4aXd5TEUtV20tN1dnU1B3WU5IayIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEwVDEwOjQ2OjU1LjE3MzAwMFoiLCJqb2JJZCI6ImUyYzk2MTM3LWNiNzEtNDdjZS04MjkxLWUxYjQ0ODY1OGI1NyJ9fQ.5Ic0yrmn43OoRJeTkkAftM2m0INJDUXhJsKAMhfy9YM",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "IL|AI engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDo0NC45ODZaIiwiZmlsdGVyRGlnZXN0IjoiYXVmdWxrNDRLakUxakJUaVpXY2lySkJSZnYzQ2R5OFNzaHVxbTBHMmVfdyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEzVDEyOjMyOjMyLjM1NjAwMFoiLCJqb2JJZCI6IjMxYThiNDgyLTU2ZWYtNDJhZi05MDcwLWI5MzE3ZDE5OTAzNyJ9fQ.9-SkFukJDKFNhbWVilvnrN9su3iYclH4aYGJcSIQM-U",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "IL|data analyst": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDo0NC45ODZaIiwiZmlsdGVyRGlnZXN0IjoiZFZ5OWMzMXNfaTVWOGprVmlUc01YNVFiZF9sVkV2RHFlZkh1cTROQmxLbyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE0VDAxOjAxOjIwLjQ4MTAwMFoiLCJqb2JJZCI6ImE0YzAzOGNkLTcwYWMtNDI4Zi04NTIxLTM4M2ZhNmFiZDVhYiJ9fQ.6bKpVFqgu65-SJl-s9ngwp3ucOhykhh6R-tSLMOELgM",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "IL|business intelligence analyst": {
+      "returned": 21,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "IL|data engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDo1MC40MDhaIiwiZmlsdGVyRGlnZXN0IjoiSmQ2Z0FhTVFaWE5CWEZnNzNRX05hVHh2bG1JQkFWb05hbEgzdlh2Mk90ZyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE2VDExOjA0OjExLjg3NTAwMFoiLCJqb2JJZCI6ImUxZGNlMWUxLWRkN2EtNDg5MS05YWRjLTA2YTU2NDc0YzA2NyJ9fQ.uTE_aDYIajwvaTA42ouoTvhZ8az8C5MqtxaLydBlIpY",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "IL|AI research scientist": {
+      "returned": 2,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "IL|machine learning research scientist": {
+      "returned": 0,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "IL|AI product manager": {
+      "returned": 11,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "VA|data scientist": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDo1My4wNjRaIiwiZmlsdGVyRGlnZXN0IjoiQ29KeEJ1Si1GbWVvN3ZyQm4xeHAwcENPdDJUUV9WVkRmN19vQ1VQX2JrdyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDEyOjA2OjQ1LjQ1MzAwMFoiLCJqb2JJZCI6Ijg3NGU3MzViLWYyNjItNDhjZC04N2JjLTQ0OGZmMmQxYTg5ZSJ9fQ.5mYWZ841zrmw0QI75kLPUnmGZSDWFSDAtr0yYF75vuk",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "VA|machine learning engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDo1NC42MzRaIiwiZmlsdGVyRGlnZXN0Ijoiay1hdUZNaG1wUjNJSHRqS0FfaU5MNTRYdmc1VGotMzZ0c3dkX3Z1b0VKYyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE4VDAwOjI3OjQ3LjU4NjAwMFoiLCJqb2JJZCI6ImI4MDM5MzZjLWRmOTItNDQzNS1iZTE1LThlZjIzYzFkMGJjMCJ9fQ.fw9Y2gVRYJdiCLb1GNZ8aV7atjTF7JNSCpGOTeW__a4",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "VA|AI engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NDo1Ni43MDRaIiwiZmlsdGVyRGlnZXN0IjoiTXJSS0l4VUMxcE04SHB1dmJCektoY0dxQmlsZjVFb1ZGRFpoSTd0d2lmMCIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDE0OjQ4OjM3LjkwMTAwMFoiLCJqb2JJZCI6IjdjNmM2ZWRmLTI4MWQtNDM3Zi04ODFkLWIzNTFhNDRiYjU1YiJ9fQ.JCJiuFvHrHjUXNybW-LtVRppWRtVRxsnih6SuZ-oZv8",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "VA|data analyst": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NTowMC4xMzhaIiwiZmlsdGVyRGlnZXN0IjoiR2NhVWczQ3dvd1lMQUhnS2k2SnFUNkZPSGljUXRuSm9IR1BFRl8ya3NWVSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE4VDEzOjE4OjE5LjI2NzAwMFoiLCJqb2JJZCI6IjNjMzliZTEzLTNiNGUtNDNmMS1iMTgzLThiMzQxZTMwYmI0NiJ9fQ.ZYJeCJry7xUDsb2cpt7mHWjfEhxJpBFrFaZj_kvyYNE",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "VA|business intelligence analyst": {
+      "returned": 41,
+      "pages": 2,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "VA|data engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NTowMy4yMTJaIiwiZmlsdGVyRGlnZXN0IjoiSVBrM2dkR1JrN01nSTJjV2Z2RnJEZklLMVVwcE1jcU1yS2xIclE3dEFRbyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE5VDE1OjA0OjAzLjA5NDAwMFoiLCJqb2JJZCI6ImRlMzNlOWFiLTFjOWMtNDJjNy1hZWRmLTkyYTIwZTM0M2ViOCJ9fQ.ybvoHvLPMbl9UVkuMgCD5RFXpcFihaoiszDzkTkUB3A",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "VA|AI research scientist": {
+      "returned": 4,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "VA|machine learning research scientist": {
+      "returned": 4,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "VA|AI product manager": {
+      "returned": 11,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "GA|data scientist": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NTowNS44MjRaIiwiZmlsdGVyRGlnZXN0IjoiZUp2LUNIVENmSnNyX2FHTEJ3cldNUEo5TEk1d2JSQ0kwWE56WDgta0I1ZyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEwVDA5OjQ4OjQ3LjU4MzAwMFoiLCJqb2JJZCI6ImZlNjFmODA2LTIxYjktNDcyYi05NjhkLThjZmE1MDFkMGZlMCJ9fQ.iqAcqlYm0vTPOk8jmYEH1Q0vK6cHP2_cFsM8CcKFXvc",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "GA|machine learning engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NTowNS44MjRaIiwiZmlsdGVyRGlnZXN0IjoiQmwtQ2JpekdyOEJoYnFhTnh5ZkNNMlAwSDRBbzd6NHVOaGNNYmZsSjFlMCIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTA2VDIwOjUwOjI4LjcxMTAwMFoiLCJqb2JJZCI6ImJhZWM1YTg2LTkwY2YtNGY4ZC04NTc5LWFjYWExOTI2YWIwZCJ9fQ.o3DWtI-cnofuDNjeIev3G1mJ6z_bAex7XI9pCRZaR-A",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "GA|AI engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NToxMi4zOTFaIiwiZmlsdGVyRGlnZXN0IjoidVI4TnNha2VpWEJOWjR3dEUyZGZEUlhzUHZEZUpLNGIzMEZuZXdxaGVoayIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEzVDAxOjA4OjQ4LjM1NjAwMFoiLCJqb2JJZCI6IjVkZjQ0MTU2LTEyMGUtNDRiYi04ZTg4LTk2NmZiMWFlNmQ3MSJ9fQ.FdBGKtENbNLDSCprJvRxR_oAD4MQDnjcHUh3K3QY_YI",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "GA|data analyst": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NToxNC42NThaIiwiZmlsdGVyRGlnZXN0IjoiQko3SmNPQmUxTTJzSEVfRldRWk1fNmQzVmFjc0lwZ1VqS3F2VWNOV291TSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTExVDIxOjQ0OjE3LjMyMDAwMFoiLCJqb2JJZCI6IjM2MzgwMjZlLTE2NDItNGVlMC1iZTdlLTY5NTcyN2E4MjgyOCJ9fQ.v3u4fw9CgfTvbIGrf9BLvqWze4bA_iqZIVNRgTRWg8s",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "GA|business intelligence analyst": {
+      "returned": 9,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "GA|data engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NToxNi45OTlaIiwiZmlsdGVyRGlnZXN0IjoiYXNuMGs0ZUZrV3BjMUNwUmdMVnR2dFlrWjFPQXppU280TVYycHRycDUxNCIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE2VDExOjA0OjExLjg3NTAwMFoiLCJqb2JJZCI6ImUxZGNlMWUxLWRkN2EtNDg5MS05YWRjLTA2YTU2NDc0YzA2NyJ9fQ.pwK_JESgp4rdBvaZwUGAJhPbUfp2mHDuZ6Yd7xPUuis",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "GA|AI research scientist": {
+      "returned": 0,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "GA|machine learning research scientist": {
+      "returned": 0,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "GA|AI product manager": {
+      "returned": 10,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "NC|data scientist": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NToyMS44NTZaIiwiZmlsdGVyRGlnZXN0IjoiS3BsU0pkNmpOWlJNY25UWmlPZDl4OWhySjF4YXhMMnFiekpyTVAzM2dsNCIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEwVDIxOjE2OjE4Ljg3MDAwMFoiLCJqb2JJZCI6IjBjNDE1MzBiLWZjMTItNGFlOC1hY2E5LTc2NWRlODY3YmUwZiJ9fQ.akNh6JV1FnXs1jAu7RbFeHBxS909myi9ARAJTuu9Lkg",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "NC|machine learning engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NToyNy41NjRaIiwiZmlsdGVyRGlnZXN0IjoiX1BnWXJoZzFtSzF2N0E1Mmg2N0c5c2t3Q0RLdlNhcnNJMzVrc0RnVXpLOCIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEwVDEwOjAxOjIwLjA1NDAwMFoiLCJqb2JJZCI6ImFhOTZiN2FhLTI3YjUtNGVkYi1iYTAwLWM1MGQ3ZDYwMTJkNCJ9fQ.TxMhzjtLS8e4u0tZpDXlDNJYYlBhCVZ6z1AG0v3qr-s",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "NC|AI engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NToyNy41NjRaIiwiZmlsdGVyRGlnZXN0IjoiV1NCbHNQeUdZVktiZUJrN2hkYjgwOXdIZVhnMnNkUkRodDdfVU1TeHhfbyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEzVDAyOjU0OjAxLjc5MTAwMFoiLCJqb2JJZCI6ImM5YzAxYmNjLWJiN2ItNDBiMi04ZDUzLWRjYmMzN2NlYWE5MSJ9fQ.VT9hH3HKCBo3Yt8DhbEHeocASBQR1HCbH8e9NV0hxUI",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "NC|data analyst": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NToyNy41NjRaIiwiZmlsdGVyRGlnZXN0IjoidURKS2NOREZCLW1OLUNUVE1KYjd5cTBSdS1Vc2xDQzdfVnRmQllsYWc1MCIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTEyVDE1OjU5OjIyLjA2MTAwMFoiLCJqb2JJZCI6IjM3NTM2OTBiLWVmYWMtNGM1Ni05NThjLTlmZWNiOGFmMzU0OSJ9fQ.iJ2JVXryeOPdXTfXBhoiWYbU3ieP-xrb8V2DZZTs0rg",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "NC|business intelligence analyst": {
+      "returned": 18,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "NC|data engineer": {
+      "returned": 100,
+      "pages": 4,
+      "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo1NTozMy45MjlaIiwiZmlsdGVyRGlnZXN0IjoiZ1NsejJxeG5JVEVvVDV6UFZEd3FsRWQ5VzBlY20tQzdSMkZfOHYyZnNpWSIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTE4VDAzOjA4OjAwLjM1MTAwMFoiLCJqb2JJZCI6Ijg2MDk4Y2VjLWFlMTUtNDA5OS1iOWZhLTJkNjBlZTUwMGE1NSJ9fQ.K19JFYYBMLdJiEV2RNq3U4iD-Xhsv2yljNnkn272rf8",
+      "exhausted": false,
+      "page_limit": 25
+    },
+    "NC|AI research scientist": {
+      "returned": 2,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "NC|machine learning research scientist": {
+      "returned": 0,
+      "pages": 1,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    },
+    "NC|AI product manager": {
+      "returned": 33,
+      "pages": 2,
+      "cursor": null,
+      "exhausted": true,
+      "page_limit": 25
+    }
+  }
+}

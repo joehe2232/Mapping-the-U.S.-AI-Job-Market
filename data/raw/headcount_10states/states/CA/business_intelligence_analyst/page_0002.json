@@ -1,0 +1,1163 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:48:35.781073+00:00",
+  "state_filter": "CA",
+  "title_filter": "business intelligence analyst",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "CA",
+    "title": "business intelligence analyst",
+    "sort": "updated",
+    "limit": 25,
+    "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo0NDo1NC45NjFaIiwiZmlsdGVyRGlnZXN0IjoiSmxyT2dxSGd6SjVkRHR3RTVCR19id25xRkZxd29zRGY4VEF1eE5ObXl6dyIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTA2VDIzOjE5OjUyLjI4NjAwMFoiLCJqb2JJZCI6ImJiYWFmNzk2LTM4OGEtNDE2OS05NzY3LThmOWU2ZTZiNWI4YyJ9fQ.5mF0fbfw-iamKpKfLJvBJGTkFOUc-VK6UJq0_7vQudo"
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "703c2983-4871-40b2-99ad-4738531bc60a",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "24b5bd99-d8d4-8f58-8a9b-f9560d100d8e",
+        "employer_name": {
+          "state": "known",
+          "value": "Cogniify"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "About the Role\n\nAt Cogniify, we help enterprises gain critical visibility into how sensitive data moves across modern platforms. We are seeking a Senior Business Intelligence Analyst specializing in Data Movement and AI Governance .\n\nIn this role, you will bridge the gap between complex telemetry and actionable risk intelligence. You will analyze signals from DLP, endpoints, and GenAI systems to identify emerging risk patterns, shadow IT, and unauthorized data exfiltration in the age of modern cloud workflows and LLMs.\n\nKey Responsibilities\n\nBI & Risk Dashboard Development (30%): Design and maintain interactive dashboards (QuickSight, Tableau, Power BI) to track data movement and exfiltration patterns, including personal GitHub usage, unauthorized cloud storage (Dropbox/Box), and removable media activity.\n\nData Analysis & AI Telemetry (25%): Ingest and analyze GenAI usage telemetry to identify PII leaks in AI prompts or unauthorized third-party tool usage. You will use advanced SQL to correlate software installs with malicious web activity.\n\nData Modeling & Signal Correlation (15%): Develop reporting data models that combine user behavior with endpoint telemetry. You’ll optimize SQL queries to detect early indicators of account hijacking, malicious insider behavior, and shadow AI usage.\n\nStakeholder Collaboration & Governance (15%): Work with security and platform teams to translate business risks into technical specifications. You’ll define KPIs for \"signal quality\" and help stakeholders understand the effectiveness of data protection policies.\n\nData Quality & Documentation (10%): Perform rigorous validation of log and event datasets. You will document data definitions and transformation rules to ensure reporting accuracy in highly sensitive security contexts.\n\nAutomation & Process Improvement (5%): Automate recurring security reporting workflows and improve the refresh cycles of high-priority risk alerts.\n\nQualifications & Experience\n\nThe skills required for this specialty occupation are typically acquired through a Bachelor’s degree in a technical field plus relevant experience.\n\nEducation: * Bachelor’s degree in Computer Science, Engineering, Analytics, or a related field.\nMaster’s degree in Analytics or a quantitative field is highly preferred.\n\nExperience: * A minimum of 5+ years of experience in data analytics, risk analytics, or a related specialty field.\nEquivalent Experience: We also welcome candidates with a Bachelor’s degree + 5 years of experience, or a Master’s degree + 3 years of experience.\n\nTechnical Skills:\nAdvanced SQL: Expert-level ability to perform joins, aggregations, and subqueries on large-scale log, event, or telemetry datasets.\n\nBI Mastery: Deep experience building dashboards in Amazon QuickSight, Tableau, or Power BI .\n\nDomain Knowledge (Nice to Have): Familiarity with DLP, endpoint telemetry, GitHub/CI-CD logs, or GenAI governance/LLM monitoring.\n\nIdeal Candidate\n\nYou are naturally curious about the \"how\" and \"where\" of data movement. You enjoy turning noisy, high-volume telemetry into clear intelligence that helps organizations stay secure as user behavior evolves with GenAI.\n\nVisa Sponsorship: This position qualifies as a Specialty Occupation . Cogniify is committed to supporting global talent and is able to provide visa sponsorship for qualified applicants.\n\nWe are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other protected characteristic."
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "San Ramon",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06013",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-29T22:01:46.535Z",
+        "curated_at": "2026-10-03T03:20:20.342Z",
+        "job_updated_at": "2026-11-06T07:29:02.541Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "70cbf72a1a5249a6e814961bad9bd0cdce3ac199e9f6c631b310c5cf03a17e60",
+            "source": "dover",
+            "source_posting_id": "f219bbd9-9210-4e44-ac08-be7aae7e3fec",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/cogniify/f219bbd9-9210-4e44-ac08-be7aae7e3fec"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.dover.com/cogniify/f219bbd9-9210-4e44-ac08-be7aae7e3fec"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "San Ramon",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-03-27T00:32:05.755Z",
+            "first_seen_at": "2026-09-29T22:01:46.535Z",
+            "last_completed_fetch_at": "2026-11-09T13:14:32.161Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "ec739beb-dd1c-4ede-9819-6409ce7ca252",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "source_omitted"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Purpose: Casting Networks is seeking an inquisitive individual with an inherent affinity for data of all sorts. Like numbers and puzzles? The Business Intelligence Analyst will transform market and business trends into meaningful, actionable insights driving business growth and efficiency. A bright, highly solutions-oriented and hands-on technologist consumed by the notion that information can transform business results. In this role you will conduct analytical studies to provide results and recommendations to Leadership for department and enterprise-wide strategic initiatives. A successful candidate in this space will have the ability to effectively problem solve, move quickly, think critically and have a background in statistics, analytics or business intelligence application. The work will focus on delivering insights and analysis to drive decision making for cross-departmental units such as Finance, Marketing and Product. Casting Networks may look like a typical SaaS company, but under the surface we're a micro-economy that runs on data. We’re still in our early stages of data vaulting and insights mining – so this opportunity is ideal for a real self-starter wanting to have impact from the start! From finance, to marketing, to product, every department at Casting Networks will rely on data to make business decisions. As a business intelligence analyst at Casting Networks you'll work with teams across the organization to understand data needs, develop robust business intelligence data sources, build reports and visualizations to answer key business questions, and contribute to our strategy for data collection. As a key member of our decision-making process, you’ll be solving problems and enabling our organization through data visualization, to figure out tomorrow’s puzzle. As we evolve, so will your responsibility. You’ll never answer the same question twice. You will dig into the data, driving insight that will directly help us win our market. In addition, you'll work closely with our data pipeline team to ensure that our data sources are complete, consistent, and reliable. Duties and Responsibilities: Perform qualitative and quantitative analysis relating to operational functions, workflow, processes, and other business-related issues. Obtain quantitative and qualitative data of business processes to analyze, determine and promote data driven decisions Analyze and evaluate competitor data and industry trends to understand current business unit competitive posture Design and document dashboards, reports, and thresholds to alert business units to monitor business status and fluctuations Collect and analyze data; synthesize results of analyses, develop and make recommendations and alternatives based on the full spectrum of internal/external considerations Use data warehousing/business intelligence toolsets to gather, store, and provide access to data in assist management decision making Collaborate with business units and Senior Leadership to conduct needs assessment to support organization strategies, tactics, and learning solutions that support business unit objectives Prepare data analysis and forecasts and help automate data collection Automate digital data collection and analysis Liaise between the data warehouse team, marketing and executives Create business requirements and related BI documentation Qualifications: Bachelor's degree with 3 to 5 years’ entertainment/tech industry experience or equivalent experience Experience with common data science toolkits, such as Python, Numpy, R, etc. Excellence in at least one of these is highly desirable Experience with data visualization tools, such as Tableau, GGplot, MS PowerBI, etc . Proficiency in using query languages such as SQLExperience with NoSQL databases, such as MongoDB, Cassandra, HBase Good applied statistics skills, such as distributions, statistical testing, regression, etc. Extensive experience in the application of statistical methods, mathematical techniques, forecasting, cost-benefit analysis and related analytical tools Skill interpreting, extrapolating and interpolating data for statistical research and modeling Skill analyzing statistics and reports to determine business performance and trends Advanced verbal and written communication skills; ability to explain complex data and methodologies to varied audience Advanced database and presentation software skills Advanced Excel skills"
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Los Angeles",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "90010",
+              "zip": "90010",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-13T21:01:45.500Z",
+        "curated_at": "2026-11-05T16:08:46.265Z",
+        "job_updated_at": "2026-11-05T16:08:46.265Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "7e71bbefffbadab544340b6377fbea27ed091348ced5ff5d1793a246352ab708",
+            "source": "adp",
+            "source_posting_id": "168063758292_1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2579f5ad-e023-41fe-9904-c4b2fc01969b&ccId=19000101_000001&lang=en_US&jobId=168063758292_1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2579f5ad-e023-41fe-9904-c4b2fc01969b&ccId=19000101_000001&lang=en_US&jobId=168063758292_1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "US",
+                "regionCode": "CA",
+                "postalCode": "90010",
+                "remote": false,
+                "zip": "90010"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2019-02-07T22:04:00.000Z",
+            "first_seen_at": "2026-10-13T21:01:45.500Z",
+            "last_completed_fetch_at": "2026-11-05T16:08:29.664Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8b15a0c0-c0fc-4c34-8400-7bc43ef3accb",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "source_omitted"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Purpose: Casting Networks is seeking an inquisitive individual with an inherent affinity for data of all sorts. Like numbers and puzzles? The Business Intelligence Analyst will transform market and business trends into meaningful, actionable insights driving business growth and efficiency. A bright, highly solutions-oriented and hands-on technologist consumed by the notion that information can transform business results. In this role you will conduct analytical studies to provide results and recommendations to Leadership for department and enterprise-wide strategic initiatives. A successful candidate in this space will have the ability to effectively problem solve, move quickly, think critically and have a background in statistics, analytics or business intelligence application. The work will focus on delivering insights and analysis to drive decision making for cross-departmental units such as Finance, Marketing and Product. Casting Networks may look like a typical SaaS company, but under the surface we're a micro-economy that runs on data. We’re still in our early stages of data vaulting and insights mining – so this opportunity is ideal for a real self-starter wanting to have impact from the start! From finance, to marketing, to product, every department at Casting Networks will rely on data to make business decisions. As a business intelligence analyst at Casting Networks you'll work with teams across the organization to understand data needs, develop robust business intelligence data sources, build reports and visualizations to answer key business questions, and contribute to our strategy for data collection. As a key member of our decision-making process, you’ll be solving problems and enabling our organization through data visualization, to figure out tomorrow’s puzzle. As we evolve, so will your responsibility. You’ll never answer the same question twice. You will dig into the data, driving insight that will directly help us win our market. In addition, you'll work closely with our data pipeline team to ensure that our data sources are complete, consistent, and reliable. Duties and Responsibilities: Perform qualitative and quantitative analysis relating to operational functions, workflow, processes, and other business-related issues. Obtain quantitative and qualitative data of business processes to analyze, determine and promote data driven decisions Analyze and evaluate competitor data and industry trends to understand current business unit competitive posture Design and document dashboards, reports, and thresholds to alert business units to monitor business status and fluctuations Collect and analyze data; synthesize results of analyses, develop and make recommendations and alternatives based on the full spectrum of internal/external considerations Use data warehousing/business intelligence toolsets to gather, store, and provide access to data in assist management decision making Collaborate with business units and Senior Leadership to conduct needs assessment to support organization strategies, tactics, and learning solutions that support business unit objectives Prepare data analysis and forecasts and help automate data collection Automate digital data collection and analysis Liaise between the data warehouse team, marketing and executives Create business requirements and related BI documentation Qualifications: Bachelor's degree with 3 to 5 years’ entertainment/tech industry experience or equivalent experience Experience with common data science toolkits, such as Python, Numpy, R, etc. Excellence in at least one of these is highly desirable Experience with data visualization tools, such as Tableau, GGplot, MS PowerBI, etc . Proficiency in using query languages such as SQLExperience with NoSQL databases, such as MongoDB, Cassandra, HBase Good applied statistics skills, such as distributions, statistical testing, regression, etc. Extensive experience in the application of statistical methods, mathematical techniques, forecasting, cost-benefit analysis and related analytical tools Skill interpreting, extrapolating and interpolating data for statistical research and modeling Skill analyzing statistics and reports to determine business performance and trends Advanced verbal and written communication skills; ability to explain complex data and methodologies to varied audience Advanced database and presentation software skills Advanced Excel skills"
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Los Angeles",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "90010",
+              "zip": "90010",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-05T07:52:17.657Z",
+        "curated_at": "2026-11-05T07:52:33.168Z",
+        "job_updated_at": "2026-11-05T07:52:33.168Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ec2e2e0a56ea0e7ca608a2789e97d3fade03f4033a60add54acc7646d91373d2",
+            "source": "adp",
+            "source_posting_id": "168063758292_1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2579f5ad-e023-41fe-9904-c4b2fc01969b&ccId=19000101_000001&lang=en_US&jobId=168063758292_1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2579f5ad-e023-41fe-9904-c4b2fc01969b&ccId=19000101_000001&lang=en_US&jobId=168063758292_1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "US",
+                "regionCode": "CA",
+                "postalCode": "90010",
+                "remote": false,
+                "zip": "90010"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2019-02-07T22:04:00.000Z",
+            "first_seen_at": "2026-11-05T07:52:17.657Z",
+            "last_completed_fetch_at": "2026-11-05T07:52:17.647Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "7c896d1f-e0f2-447c-92ae-70beca64ebef",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "296719c7-a6d3-8a9d-9858-096642cd03bf",
+        "employer_name": {
+          "state": "known",
+          "value": "Seventh Dimension"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "Position: Business Intelligence Analyst\n\nType: Full-time\n\nLocation: Coronado, CA\n\nTravel: Approximately three to four trips annually\n\n**Contingent Upon Award**\n\nPosition Summary: The Business Intelligence Analyst serves as the principal analytical and data management professional supporting the Naval Special Warfare Leader Assessment Program. This position is responsible for collecting, managing, analyzing, interpreting, and presenting assessment data that informs leadership development decisions across Naval Special Warfare. The analyst develops data models, dashboards, predictive analytics, and performance reports while maintaining Government-controlled databases and stakeholder reporting processes. This position directly supports the Naval Special Warfare Leader Assessment Program Manager and supervises the Administrative Support Assistant to ensure successful execution of program requirements.\n\nDuties and Responsibilities:\n\n• Collect business intelligence data from Naval Special Warfare and Naval Special Warfare Leader Assessment Program sources.\n\n• Develop and maintain key performance indicators and performance metrics.\n\n• Analyze data and provide actionable recommendations to leadership.\n\n• Manage Government-controlled databases and data flow processes.\n\n• Develop predictive models using regression, statistical methodologies, and analytical software.\n\n• Collect, process, and analyze large datasets from leadership development programs.\n\n• Develop and maintain dashboards, reports, and data visualizations.\n\n• Present analytical findings to technical and non-technical audiences.\n\n• Prepare quarterly analytic and performance reports.\n\n• Maintain Naval Special Warfare Leader Assessment Program registration and survey systems.\n\n• Coordinate with stakeholders throughout Naval Special Warfare leadership development communities.\n\n• Supervise the Administrative Support Assistant.\n\n• Serve as Naval Special Warfare Leader Assessment Program Moderator when requested.\n\nRequired Qualifications:\n\n• US Citizen\n\n• Valid U.S. driver’s license\n\n• Must hold an active Secret Security Clearance\n\n• Proficiency with Microsoft Office (Word, Outlook, Excel, PowerPoint)\n\n• Clear and effective verbal and written communication\n\n• Bachelor's degree in Business Intelligence Analysis, Statistics, Engineering, or a related discipline.\n\n• Minimum five (5) years of experience developing customer-directed scoring systems, assessment templates, applications, or related business intelligence solutions with real-time usability and reporting capabilities.\n\n• Minimum five (5) years of experience presenting performance summaries, analyzing performance trends, and developing performance deliverables supporting assessment programs.\n\n• Demonstrated experience in at least two projects involving quantitative and/or qualitative data analysis resulting in executive-level recommendations or decision support products.\n\n• Demonstrated experience applying at least two data collection and analysis best practices, including stakeholder management, real-time data collection, data accuracy, analytical tools, and actionable visualization techniques.\n\n• Experience developing dashboards and reporting solutions using Business Intelligence tools such as Microsoft Power BI or Tableau.\n\nHighly Desired Qualifications:\n\n• Predictive analytics experience.\n\n• Machine learning experience.\n\n• Data mining expertise.\n\n• Statistical modeling experience.\n\n• Advanced data visualization capability.\n\n• Exceptional written and verbal communication skills.\n\n• Experience briefing senior military leaders or executives.\n\nPhysical Demands and Work Environment: While performing the duties of this position, the employee is regularly required to talk, listen, and write. The employee frequently is required to use foot/ankle motions, hands or fingers, handle or feel objects, tools, or controls. The employee is required to stand, walk, sit; and reach with hands and arms. The employee must occasionally lift and/or move up to 25 pounds. Specific vision abilities required by this position include close vision, distance vision, and the ability to adjust focus. The noise level in the work environment is usually moderate.\n\nThe physical demands described here are representative of those that must be met by an employee to be the best qualified for the position and successfully perform the functions of the job. Reasonable accommodation may be made (if possible) to enable individuals with disabilities to perform the functions.\n\nCompany Background: Seventh Dimension LLC provides focused customer support in two core competencies Training & Support Services. Since 2015, we have provided customers with flexible, adaptable, and creative approaches to solving complex problems. We are a proven prime contractor that understands future operating environments, fiscal constraints, and current force requirements. We are a SDVOSB in North Carolina with a TS Facility Clearance, Secret storage and a DCAA compliant accounting system.\n\nDisclaimer: This job description in no way states or implies that these are the only duties to be performed by the employee(s) incumbent in this position. Employees will be required to follow any other job-related instructions and to perform any other job-related duties requested by any person authorized to give instructions or assignments. All duties and responsibilities are essential functions and requirements and are subject to modification to reasonably accommodate individuals with disabilities. To perform this job successfully, the incumbents will possess the skills, aptitudes, and abilities to perform each duty proficiently. Some requirements may exclude individuals who pose a direct threat or significant risk to the health or safety of themselves or others. The requirements listed in this document are the minimum levels of knowledge, skills, or abilities. This document does not create an employment contract, implied or otherwise, other than an “at will” relationship.\n\nSeventh Dimension, LLC is a Veteran friendly employer and provides equal employment opportunity (EEO) to all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability status, genetic information, marital status, ancestry, protected veteran status, or any other characteristic protected by applicable federal, state, and local laws."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Coronado",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06073",
+              "msa": {
+                "cbsa_code": "41740",
+                "cbsa_title": "San Diego-Chula Vista-Carlsbad, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-30T05:33:48.889Z",
+        "curated_at": "2026-11-04T22:46:08.841Z",
+        "job_updated_at": "2026-11-04T22:46:08.841Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 8500000,
+                "max_cents": 11000000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "f9c6e492569ced1b0b1d90c1d20ee8a809ebe412f435340a7448ad993364d4f0",
+            "source": "breezy",
+            "source_posting_id": "f8a45d9493ad",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://seventh-dimension.breezy.hr/p/f8a45d9493ad-business-intelligence-analyst"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://seventh-dimension.breezy.hr/p/f8a45d9493ad-business-intelligence-analyst"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Coronado",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 85000,
+                "max": 110000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 85000,
+                    "max": 110000,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-09-17T00:00:00.000Z",
+            "first_seen_at": "2026-09-30T05:33:48.889Z",
+            "last_completed_fetch_at": "2026-11-04T22:45:58.932Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "c9d87464-0bdd-414d-be23-d93cee0de9cf",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "8c9ef036-3c97-429c-88fa-3e0f520f1395",
+        "employer_name": {
+          "state": "known",
+          "value": "NVIDIA USA"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst - Corporate Finance"
+        },
+        "description": {
+          "state": "known",
+          "value": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.\n\n  \n\nWe are seeking a Senior Business Intelligence (BI) Analyst to join our Corporate Finance team, based out of our Santa Clara office. Our organization’s overarching responsibilities are to deliver the highest caliber of relevant financial and business information that is both informative and measurable, enabling effective decision-making at all levels of the Company and improving our financial performance. This critical role within the Finance organization requires strong Power BI expertise, advanced data and modeling skills, and the ability to deliver scalable reporting and analytics solutions. We are looking for an energetic, collaborative, and execution-oriented professional with strong communication skills who thrives in a fast-paced environment.\n\n  \n\n**What you’ll be doing:**\n\n* Design, build, and maintain Power BI reports and dashboards for Finance leadership, translating complex Corporate Finance data into clear, decision-ready information.\n* Own reporting and analytics for the company's consolidated P&L, delivering enterprise-wide financial visibility and insight to senior Finance leadership.\n* Design and deliver scalable data solutions that support business reporting and analytics needs, including Databricks data pipelines, reporting layers, semantic models, financial calculations, and reusable metrics.\n* Leverage approved AI tools to accelerate data preparation, modeling, analysis, visualization, testing, and documentation.\n* Partner with Finance leaders and cross-functional teams to translate business requirements into effective, well-governed BI solutions.\n* Ensure BI solutions are reliable, secure, and optimized for performance, and support ongoing operations through data quality monitoring, refresh management, troubleshooting, and maintenance.\n\n  \n\n**What we need to see:**\n\n* 8+ years of experience designing and developing enterprise BI and analytics solutions, including at least 3 years working within or directly supporting a Finance organization.\n* Bachelor’s degree or equivalent experience in Computer Science, Information Systems, Data Analytics, Statistics, Business, Finance, or a related field.\n* Strong Power BI expertise, including DAX, Power Query, semantic modeling, performance optimization, and report and dashboard development.\n* Strong SQL skills and working proficiency in Python for data transformation, analysis, and automation.\n* Experience designing data models and developing ETL/ELT pipelines using enterprise databases and modern data platforms, including Databricks, Snowflake, or Microsoft Fabric.\n* Experience using AI-assisted development tools (Claude Code, Cursor, or Codex) to accelerate BI and analytics delivery.\n* Good communication, ownership, and project management skills, with the ability to partner across Finance, business, and technical teams while maintaining high standards for data quality and completeness.\n\n  \n\n**Ways to stand out from the crowd:**\n\n* Hands-on experience supporting FP&A processes, including revenue and P&L reporting, gross margin analysis, budgeting, forecasting, and financial close reporting.\n* Demonstrable experience developing executive-level Power BI reports and dashboards that communicate financial performance, trends, and business drivers.\n* Experience building AI agents or reusable AI skills that improve BI and Finance workflows, including data validation, reporting, and dashboard maintenance.\n\n  \n\nWidely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. As you plan your future, see what we can offer to you and your family [www.nvidiabenefits.com/](http://www.nvidiabenefits.com/)\n\nYour base salary will be determined based on your location, experience, and other objective job-related factors. The expected base salary range for this position is 128,000 USD – 201,250 USD.\n\nYou will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/).\n\nApplications for this job will be accepted at least until November 3, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n\n  \n\nNVIDIA pioneered accelerated computing. Today, our AI infrastructure powers global intelligence, transforming every industry.\n\nLearn more about [NVIDIA](https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.nvidia.com%2Fobject%2Fabout-nvidia.html%23sthash.qlXKW56Q.dpuf&data=05%7C01%7Chozkan%40nvidia.com%7Cf442a08620ed4ab9afb108db18e6d308%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C638131151878484303%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=DjpWGYWzl3J2uwSP6woYwjdRi52yvWRVeAijKer9u%2Fk%3D&reserved=0).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Santa Clara",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-30T17:47:11.720Z",
+        "curated_at": "2026-10-03T09:56:21.019Z",
+        "job_updated_at": "2026-11-04T01:36:15.825Z",
+        "normalized": [
+          {
+            "field": "posted_at",
+            "rule_id": "BS-POSTED-a"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12800000,
+                "max_cents": 20125000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "52f4536ea6981397ef21e185231404a9de8cd55e632500b1eb0aa12f4cedca99",
+            "source": "workday",
+            "source_posting_id": "/job/US-CA-Santa-Clara/Senior-Business-Intelligence-Analyst---Corporate-Finance_JR2026577",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Business-Intelligence-Analyst---Corporate-Finance_JR2026577"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Business-Intelligence-Analyst---Corporate-Finance_JR2026577"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Santa Clara",
+                "state": "CA",
+                "country": "US",
+                "regionCode": "CA",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 128000,
+                "max": 201250,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-31T00:13:43.483Z",
+            "first_seen_at": "2026-09-30T17:47:11.720Z",
+            "last_completed_fetch_at": "2026-10-17T11:45:33.225Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12800000,
+                "max_cents": 20125000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "a7ec1b951b320d08bc413257a46242712999a6d627aa59601b8e3e09a088b43c",
+            "source": "eightfold",
+            "source_posting_id": "893397902883",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.nvidia.com/careers/job/893397902883"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.nvidia.com/careers/job/893397902883"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Santa Clara",
+                "state": "CA",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 128000,
+                "max": 201250,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-09-28T00:00:00.000Z",
+            "first_seen_at": "2026-10-04T17:41:51.268Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "8c153a0a-fd75-4c26-91ef-d01b3094055e",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "8c9ef036-3c97-429c-88fa-3e0f520f1395",
+        "employer_name": {
+          "state": "known",
+          "value": "NVIDIA USA"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst - Marketing"
+        },
+        "description": {
+          "state": "known",
+          "value": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.\n\n  \n\nThe NVIDIA Revenue Marketing Team is seeking a Business Intelligence Analyst! We transform sophisticated data into actionable insights for the CMO and collaborators across Marketing, Sales, Developer, Finance, and Product. This role combines the organized problem-solving approach of a management consultant with the technical expertise of a hands-on analyst. We need an AI native, incorporating AI throughout the analytical process, developing reusable solutions, and ensuring the accuracy and business impact of the outcomes.\n\n  \n\n**What you'll be doing:**\n\n* Partner with senior leaders to frame business questions, challenge assumptions, and prioritize analytical work based on business impact. Translate leadership priorities into actionable plans and guide initiatives from recommendation to adoption and measurement.\n* Synthesize complex marketing, sales, and developer insights into concise executive briefs, presentations, and dashboards that explain what is happening, why it matters, and what to do next. Tailor the narrative and level of detail to the audience.\n* Present recommendations to senior executives and lead discussions that advise strategy, investment, and execution. Explain assumptions and tradeoffs, incorporate feedback, and build agreement on decisions and next steps.\n* Examine campaign results, account journeys, funnel conversion, pipeline, and revenue attribution to identify growth opportunities and recommend where to focus resources.\n* Apply statistical methods to test hypotheses, distinguish meaningful changes from noise, and assess the likely success of proposed actions.\n* Develop AI-assisted and agentic workflows that accelerate analysis, anomaly detection, and reporting. Validate outputs against source data, protect critical information, and evaluate whether the resulting insights positively guide decisions.\n\n  \n\n**What we need to see:**\n\n* 8+ years in management consulting at a strategy consulting firm or similar, synthesizing analysis and advising senior executives. A degree or equivalent experience in Business, Economics, Analytics, Statistics, or a related field.\n* Proven experience synthesizing complex analysis into clear recommendations for senior executives, presenting and facilitating discussions in leadership meetings, and influencing cross-functional decisions through adoption and measurable outcomes.\n* An AI-native working approach, proven through analytical workflows or tools you have built and used, with an ability to evaluate generated code and conclusions, identify errors, and apply human judgment.\n* Strong analytical judgment in statistical analysis, experimentation, attribution limitations, and the distinction between correlation and causation. Ability to structure ambiguous questions and explain the implications and limitations of findings.\n* Experience building dashboards, data models, and visualizations in modern AI-first BI tools, with an emphasis on clear data storytelling, usability, and data quality.\n* Shown ownership of analytical projects, strong documentation, and experience influencing cross-functional teams while delivering independently in a constantly evolving environment.\n\n  \n\n**Ways to stand out from the crowd:**\n\n* A track record of influencing senior executive decisions through presentations and business reviews, with examples of recommendations adopted and measurable business outcomes.\n* SQL and practical Python familiarity, with hands-on experience exploring large datasets in a modern cloud analytics platform.\n* Familiarity with Salesforce, Marketo, Adobe Analytics, Tableau, or Amplitude, and with account engagement, pipeline progression, lifecycle measurement, and proactive usage of social listening data.\n* Examples of AI agents, analytical web apps, or automated intelligence briefs embraced by business users, with evidence of improved speed, accuracy, or decision making.\n* Experience with forecasting, marketing incrementality, or developer ecosystem analysis, including product usage and publicly available engagement data.\n\n  \n\nNVIDIA is widely considered to be one of the technology world’s most desirable employers! We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!\n\nYour base salary will be determined based on your location, experience, and other objective job-related factors. The expected base salary range for this position is 128,000 USD – 195,500 USD.\n\nYou will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/).\n\nApplications for this job will be accepted at least until November 6, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n\n  \n\nNVIDIA pioneered accelerated computing. Today, our AI infrastructure powers global intelligence, transforming every industry.\n\nLearn more about [NVIDIA](https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.nvidia.com%2Fobject%2Fabout-nvidia.html%23sthash.qlXKW56Q.dpuf&data=05%7C01%7Chozkan%40nvidia.com%7Cf442a08620ed4ab9afb108db18e6d308%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C638131151878484303%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=DjpWGYWzl3J2uwSP6woYwjdRi52yvWRVeAijKer9u%2Fk%3D&reserved=0).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Santa Clara",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06085",
+              "msa": {
+                "cbsa_code": "41940",
+                "cbsa_title": "San Jose-Sunnyvale-Santa Clara, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-13T07:03:51.591Z",
+        "curated_at": "2026-10-14T22:52:06.181Z",
+        "job_updated_at": "2026-11-04T01:29:59.951Z",
+        "normalized": [
+          {
+            "field": "posted_at",
+            "rule_id": "BS-POSTED-a"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 12800000,
+                "max_cents": 19550000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "00cf660e0e5266a7a79ecc6384f5b56c65ae73534fbb426404fde94190da17cb",
+            "source": "workday",
+            "source_posting_id": "/job/US-CA-Santa-Clara/Business-Intelligence-Analyst---Marketing_JR2027643",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Business-Intelligence-Analyst---Marketing_JR2027643"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Business-Intelligence-Analyst---Marketing_JR2027643"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Santa Clara",
+                "state": "CA",
+                "country": "US",
+                "regionCode": "CA",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 128000,
+                "max": 195500,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-03T00:13:32.508Z",
+            "first_seen_at": "2026-10-13T07:03:51.591Z",
+            "last_completed_fetch_at": "2026-10-17T11:45:33.225Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "84d3a377-8090-4b58-a150-96b5f47aa475",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "8fe20423-d746-8242-b1da-55db684a4786",
+        "employer_name": {
+          "state": "known",
+          "value": "Tahoe Forest Health System"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "**This position is expected to be onsite in either Reno, NV or Truckee, CA.**\n\n**Bargaining Unit:** Non Represented - Professional\n\n**Rate of Pay:** $111,217/annually + DOE\n\n**Summary**  \nThe Senior BI Analyst will play a critical role in analyzing complex datasets, developing actionable insights, and creating impactful visualizations to support operational and strategic decision-making across the organization. This position will bridge the gap between data query and actionable analytics, providing valuable support to clinical, operational, and financial teams, as well as future process improvement initiatives.\n\n**Essential Duties and Responsibilities**\n\nData Analysis and Visualization\n\n* Analyze clinical, financial, and operational data to uncover trends, patterns, and opportunities for performance improvement.\n    \n* Conduct root cause analysis to identify the underlying reasons for trends or anomalies in the data and provide actionable recommendations.\n* Build interactive and user-friendly dashboards, visualizations, and reports that provide clear and actionable insights to stakeholders.\n* Ensure dashboards are tailored to end-user needs, providing accurate and timely updates to support organizational goals.\n* Collaborate with BI Developers to validate the integrity of underlying data sources and identify areas for improvement in data quality.\n* Build interactive and user-friendly dashboards, visualizations, and reports that provide clear and actionable insights to stakeholders.\n* Ensure dashboards are tailored to end-user needs, providing accurate and timely updates to support organizational goals.\n* Collaborate with BI Developers to validate the integrity of underlying data sources and identify areas for improvement in data quality.\n\nProcess Improvement Support\n\n* Work closely with clinical, financial, and operational leaders to understand their analytical needs and align data solutions to support key priorities.\n    \n* Present complex data findings through compelling storytelling techniques, using charts, graphs, and narratives to clearly convey insights.\n* Serve as a liaison between the BI team and departments, ensuring a shared understanding of data requirements and outputs.\n* Educate stakeholders on data insights and promote a culture of data-driven decision making across the organization.\n* Train stakeholders on how to interpret and utilize dashboards, reports, and analytics tools effectively to drive informed decision-making.\n\nCollaboration and Communication\n\n* Work closely with clinical, financial, and operational leaders to understand their analytical needs and align data solutions to support key priorities.\n    \n* Present complex data findings through compelling storytelling techniques, using charts, graphs, and narratives to clearly convey insights.\n* Serve as a liaison between the BI team and departments, ensuring a shared understanding of data requirements and outputs.\n* Educate stakeholders on data insights and promote a culture of data-driven decision making across the organization.\n\nTechnical Expertise\n\n* Automate data pipelines to streamline the extraction, transformation, and delivery of data for analysis and reporting.\n    \n* Create and maintain self-service BI tools and platforms to empower end-users to access and analyze data independently.\n* Utilize SQL and other tools to perform advanced data extractions, cleaning, and analysis from multiple data sources (Clarity, Access, Axiom, etc.).\n* Develop and apply statistical models, forecasting techniques, and predictive analytics to deliver deeper insights into clinical and operational trends.\n* Perform regular data quality checks and validation to ensure data accuracy and reliability.\n* Research and recommend new tools, processes, or technologies to improve the BI team’s analytical capabilities.\n\nProject Management\n\n* Manage multiple concurrent projects, prioritizing requests based on organizational impact, stakeholder needs, and deadlines.\n    \n* Develop project timelines, milestones, and deliverables, ensuring all analytics work meets quality standards and stakeholder expectations.\n* Monitor project progress, proactively addressing challenges and communicating updates to relevant parties.\n* Lead cross-functional teams in delivering analytics-driven solutions that meet business requirements.\n\nDemonstrates System Values in performance and behavior.\n\nComplies with System policies and procedures.\n\nOther duties as may be assigned.\n\n**Qualifications**  \nTo perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. *Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.*\n\n**Supervisory Responsibilities**  \nNo supervisory responsibilities.\n\n**Minimum Education/Experience**  \nBachelor's Degree Bachelor’s degree in either Business Analytics, Computer Science, Finance, Accounting, Statistics, or a related field. Master’s degree preferred.\n\n5 or more years relevant experience\n\n**Required Licenses/Certifications**  \nNone\n\n**Other Experience/Qualifications**\n\nMinimum Requirement:\n\n* At least 3 years of healthcare experience.\n    \n\nPreferred Technical Skills:\n\n* Proficiency in SQL, Excel, and data visualization tools (e.g., Tableau, Power BI).\n    \n* Experience with EPIC data models such as Clinical, Revenue, and Access data models.\n* Familiarity with Axiom or similar financial reporting tools is a plus.\n\nPreferred Competencies:\n\n* Strong analytical and problem-solving skills.\n    \n* Excellent communication and data presentation abilities.\n* Ability to work collaboratively across teams and adapt to changing priorities.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Truckee",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06057",
+              "msa": {
+                "cbsa_code": "46020",
+                "cbsa_title": "Truckee-Grass Valley, CA",
+                "type": "micro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Reno",
+              "region": "US-NV",
+              "country": "US",
+              "county_fips": "32031",
+              "msa": {
+                "cbsa_code": "39900",
+                "cbsa_title": "Reno, NV",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-30T06:05:22.351Z",
+        "curated_at": "2026-10-03T07:31:29.786Z",
+        "job_updated_at": "2026-11-03T11:30:04.705Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "6e30a92a3e302001ca06a0c46f6b099a6b1aafad8c6d8df2aed07985ac1e2239",
+            "source": "ukg",
+            "source_posting_id": "e8834b10-085a-4a7c-856f-17deb4fad98c",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://recruiting.ultipro.com/tah1000/JobBoard/19fd0f5d-3c9e-10c7-8338-910ff12f7559/OpportunityDetail?opportunityId=e8834b10-085a-4a7c-856f-17deb4fad98c"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://recruiting.ultipro.com/tah1000/JobBoard/19fd0f5d-3c9e-10c7-8338-910ff12f7559/OpportunityDetail?opportunityId=e8834b10-085a-4a7c-856f-17deb4fad98c"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Truckee",
+                "state": "CA",
+                "country": "US",
+                "regionCode": "CA",
+                "latitude": 39.32612223141706,
+                "longitude": -120.21214828128296,
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Reno",
+                    "state": "NV",
+                    "country": "US",
+                    "regionCode": "NV",
+                    "latitude": 39.52756336045656,
+                    "longitude": -119.81349837196797,
+                    "remote": false,
+                    "raw": "Reno, NV, United States"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-10-13T23:06:34.817Z",
+            "first_seen_at": "2026-09-30T06:05:22.351Z",
+            "last_completed_fetch_at": "2026-11-07T17:42:38.118Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "bcd0c6cd-2f91-45bf-956e-7bb5111f5211",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "46170cee-ca3b-8022-b979-04a7d6fad1df",
+        "employer_name": {
+          "state": "known",
+          "value": "Insight Global"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst III"
+        },
+        "description": {
+          "state": "known",
+          "value": "Required Skills & Experience  \n  \n8+ years of overall professional experience, with a strong background as a Business Analyst, Business Systems Analyst, BI Analyst, Data/Product Analyst, or similar role  \n  \nProject Management Experience: Demonstrated experience independently owning projects end-to-end, including planning, scope, stakeholders, timelines, deliverables, dependencies, testing/UAT, sign-offs, and successful delivery.  \n  \nProduct Ownership: Hands-on experience owning and prioritizing business requirements, translating business needs into user stories, managing/prioritizing work, and partnering with business stakeholders and technical teams throughout delivery.  \n  \nStrong Business Analysis experience, including:  \n\\- Requirements gathering and documentation  \n\\- Writing user stories  \n\\- Process analysis  \n\\- Translating business needs into technical requirements/solutions  \n\\- Working directly with business stakeholders and technical teams  \n  \n3+ years of Power BI experience, including:  \n\\- Creating/modifying reports and dashboards  \n\\- Navigating datasets  \n\\- Performing analysis and data validation  \n\\- Troubleshooting reporting issues  \n  \nWorking knowledge of SQL, including:  \n\\- Writing queries  \n\\- Investigating tables and relationships  \n\\- Performing data validation and source tracing  \n  \nConceptual understanding of Data Warehousing, including:  \n\\- Data Warehouses and Data Marts  \n\\- ETL processes  \n\\- Star Schema  \n\\- Data architecture and data flow concepts  \n  \nExperience working in an Agile environment, including:  \n\\- Sprint planning  \n\\- Backlog management  \n\\- Agile ceremonies  \n  \nStrong communication and stakeholder management skills, with the ability to independently manage projects, priorities, stakeholders, and deliverables  \n  \nNice to Have Skills & Experience  \n  \nExperience in a regulated industry, such as: Healthcare, Life Sciences, Pharmaceutical  \n  \nExperience supporting compliance, validation, audit, or SOP-driven environments  \n  \nStrong Product Owner background with backlog ownership and prioritization experience  \n  \nExperience using AI tools  \n  \nAdvanced analytics or data product management experience  \n  \nJob Description  \n  \nOVERVIEW:  \n  \nThis is a hybrid Business Analyst (50%) / Product Owner (25%) / Project Manager (25%) role supporting the BI and Data Warehouse team. This person will serve as the primary bridge between business stakeholders and technical teams, owning analytics initiatives end-to-end from initial intake, scoping, and requirements gathering through development, testing, stakeholder sign-off, and delivery.  \n  \nThis is not a traditional reporting analyst role. The position requires strong business analysis, stakeholder management, project ownership, product ownership, and data analysis experience.  \n  \nDAY TO DAY:  \n  \n\\- Partner with stakeholders across Sales, Marketing, Manufacturing, Milk Sourcing, and Operations to understand business needs and gather/document reporting and analytics requirements  \n  \n\\- Translate business needs into technical requirements and user stories for BI developers and data teams  \n  \n\\- Own BI/data initiatives end-to-end, including initial intake, scope, stakeholders, project plans, timelines, dependencies, deliverables, risks, testing/UAT, sign-offs, and successful delivery  \n  \n\\- Serve as a Product Owner for BI initiatives, owning and prioritizing requirements, user stories, and the BI backlog based on business needs  \n  \n\\- Analyze data, validate requirements, investigate data issues, and identify/trace appropriate data sources  \nLead sprint planning, backlog grooming, and other Agile ceremonies while partnering closely with business stakeholders and technical teams  \n  \n\\- Coordinate delivery of Power BI dashboards, reports, data products, and data extracts  \n  \n\\- Maintain proactive stakeholder communication throughout projects, including expectations, priorities, timelines, risks, and status updates  \n  \n\\- Support compliance, audit readiness, SOP adherence, and documentation within a regulated environment  \n  \nWe are a company committed to creating inclusive environments where people can bring their full, authentic selves to work every day. We are an equal opportunity employer that believes everyone matters. Qualified candidates will receive consideration for employment opportunities without regard to race, religion, sex, age, marital status, national origin, sexual orientation, citizenship status, disability, or any other status or characteristic protected by applicable laws, regulations, and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send a request to Human Resources Request Form. The EEOC \"Know Your Rights\" Poster is available [here](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "remote"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Duarte",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-10-06T19:48:06.663Z",
+        "curated_at": "2026-10-17T13:10:41.744Z",
+        "job_updated_at": "2026-11-02T14:38:13.425Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 4800,
+                "max_cents": null,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "hour",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "missing",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "8ebe59462d527ba1cc3d32edef7291c7c106d94b75540db3a3ad8e9d3cc4c472",
+            "source": "employer_site",
+            "source_posting_id": "628ae721-7780-4375-b8b2-d12cabad8c5a",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://insightglobal.com/jobs/628ae721-7780-4375-b8b2-d12cabad8c5a"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://insightglobal.com/jobs/628ae721-7780-4375-b8b2-d12cabad8c5a"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Duarte",
+                "state": "CA",
+                "country": "US",
+                "regionCode": "CA",
+                "remote": true
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 48,
+                "currency": "USD",
+                "interval": "hour"
+              }
+            },
+            "source_posted_at": "2026-09-25T23:15:27.100Z",
+            "first_seen_at": "2026-10-06T19:48:06.663Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "9f03b223-8e6f-4d7e-8f8c-1daa84e55e44",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "f530410d-c82b-8fc7-9730-abecfc7c74e1",
+        "employer_name": {
+          "state": "known",
+          "value": "Sajix Software Solution Private Limited"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst"
+        },
+        "description": {
+          "state": "known",
+          "value": "## Company Description\n\n**Sajix Inc.** is a global health-tech company headquartered in Pleasanton, California, focused on transforming healthcare delivery through advanced digital solutions. Since its founding in 2006, Sajix has specialized in developing integrated healthcare information systems that streamline clinical, financial, and administrative operations for healthcare organizations around the world.\n\nWith operations in the United States, United Kingdom, Singapore, and India, Sajix serves clients across North America, Europe, Asia, and Africa. Its flagship platform, **iHelix**, is a modular, scalable solution designed for use in diverse healthcare settings—from single-doctor practices to large hospital networks.\n\nSajix offers a comprehensive suite of digital healthcare solutions, including:\n\n* **iHelix**\n    \n* **Lifeeazy**\n    \n* **AI-based Revenue Cycle Management** – optimizing financial workflows through automation\n    \n\nAll products are built with global standards in mind, supporting multiple languages and currencies, and comply with international healthcare regulations such as CCR and CCD.\n\nThrough strategic partnerships and a commitment to innovation, Sajix continues to lead the industry in delivering intelligent, interoperable, and patient-centric healthcare solutions.\n\n**Website:** www.sajix.com\n\n## Job Description\n\n**About the Role:**  \nAs a Business Intelligence Trainee at Sajix, you will support the design and development of BI dashboards and tools that help monitor KPIs and business operations, particularly within the healthcare domain.\n\n**Key Responsibilities:**\n\n* Assist in the development and maintenance of BI dashboards and reports.\n    \n* Collaborate with stakeholders to understand data needs and translate them into visuals.\n    \n* Conduct data validation and support data integrity efforts.\n    \n* Learn and apply BI tools such as Power BI, Looker, or Tableau.\n    \n\n## Qualifications\n\n**Requirements:**\n\n* Bachelor’s degree in Information Systems, Data Science, or related fields.\n    \n* Familiarity with data modeling and basic SQL.\n    \n* Interest in healthcare analytics is a plus.\n    \n\n## Additional Information\n\nThese trainee roles are offered in collaboration with Sajix’s **\\_\\_init\\_\\_py** program—a structured, hands-on learning initiative aimed at nurturing the next generation of full-stack developers and technology professionals. The program offers tiered training tracks.\n\nParticipants gain real-world experience through live projects, personalized mentorship, and exposure to industry-relevant tools and practices. This collaboration ensures that trainees are well-equipped with practical skills and knowledge to excel in their roles.\n\nFor more information about the \\_\\_init\\_\\_py program, visit initpy.sajix.com.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "remote"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Pleasanton",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "94566",
+              "street": "990 Laguna Creek Lane",
+              "county_fips": "06001",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T06:40:03.974Z",
+        "curated_at": "2026-11-02T12:41:16.755Z",
+        "job_updated_at": "2026-11-02T12:41:16.755Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "ebb31f7656ce592aed56e70837a66a96bd7689c9c39dc742fd565f0f589c07b0",
+            "source": "smartrecruiters",
+            "source_posting_id": "744000058602446",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058602446"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058602446-business-intelligence-analyst?oga=true"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Pleasanton",
+                "state": "CA",
+                "country": "US",
+                "regionCode": "CA",
+                "postalCode": "94566",
+                "streetAddress": "990 Laguna Creek Lane",
+                "latitude": 37.6454028,
+                "longitude": -121.8943493,
+                "remote": true
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2025-05-09T15:08:19.608Z",
+            "first_seen_at": "2026-09-21T06:40:03.974Z",
+            "last_completed_fetch_at": "2026-11-02T12:13:47.561Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "6cd47d83-cf30-468d-bd1a-4aebc391d103",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "c25fd91c-4126-8795-a804-0712a1ee3770",
+        "employer_name": {
+          "state": "known",
+          "value": "PEOPLE TECHNOLOGY AND PROCESSES LLC"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst II"
+        },
+        "description": {
+          "state": "known",
+          "value": "Position Title : Business Intelligence Analyst II\n\nLocation : Coronado, CA\n\nClearance required : SECRET\n\nResponsibilities include (but are not limited to):\n\n• Collaborate with stakeholders to define key performance indicators (KPIs) and metrics while managing the flow of information, so data is analyzed, summarized and routed to the proper stakeholders in a timely manner.\n\n• Store data in Government controlled databases; establish operational procedures to utilize the database and provide technical support as required.\n\n• Analyze data to identify any trends that could impact strategies; utilize the results of the analysis to support recommendations for action to improve or grow the program.\n\n• Conduct quantitative and/or qualitative data analysis and evaluations to determine the effectiveness of operations and assessment processes used to inform decision makers on current trends and optimization opportunities.\n\n• Utilizing data, apply commonly used regression algorithms, statistical software, and computer programs to generate predictive models for classification, data normalization and regularization.\n\n• Establish and maintain an efficient, user-friendly, interactive registration and peer and subordinate survey collection system to streamline these processes.\n\n• Collect, process, and analyze large datasets from NSW’s Continuum of Leadership Development Program (CLD), coordinating with CLD personnel as directed by the Program Manager.\n\n• Develop and maintain complex data models, reports, and dashboards using BI tools (e.g., Power BI, Tableau).\n\n• Create compelling visualizations that effectively communicate findings to both technical and non-technical stakeholder audiences.\n\n• Work with a variety of people, both internally and externally, to stay aware of trends in leadership assessment among other Navy communities.\n\n• Prepare quarterly analytic and performance reports to include depictions of participant performance, assessment trend analysis, and summaries of data.\n\n• Supervise the Administrative Support Assistant (ASA).\n\n• Act as the Moderator during panel milestone interviews if requested by the Government. The role of the Moderator is to ensure continuity among iterations by adhering to prepared scripts for all competency interviews, and readiness for milestone deliberations. The Moderator will enforce the rules of engagement specified for both panelists and participants. This role requires situational awareness, anticipation, discretion, and tact. The Moderator is not an assessor of milestone readiness.\n• Minimum of 5 years’ experience in developing customer-directed scoring and assessment templates and other applications with easy utilization features and display in real time.\n\n• Minimum of 5 years’ experience presenting performance summaries, analyzing performance trends, and developing future performance deliverables for assessment programs.\n\n• Demonstrating capability in at least two instances to fully comprehend collected data, analyze through quantitative and/or qualitative techniques, and present summaries to facilitate executive decisions.\n\n• Demonstrating through work experience at least 2 of the following best practices in data collection: understanding the often-competing needs of a variety of community stakeholders; appreciating the importance of accurate data collection in real time; mastering analytical tools to best portray assessment results; ensuring data collection accuracy; and focusing on clear and unambiguous display presentations designed to achieve actionable results.\n\n• Possess a bachelor’s degree in business intelligence analysis, statistics, engineering, or related field.\n\nAdditional skills for the highly qualified candidate:\n\n• Demonstrated qualities of strong attention to detail; critical thinking, creative problem solving, data mining and visualization, predicative analysis, machine learning, high accuracy of products; and communication skills to relate to senior officers during assessment interviews."
+        },
+        "work_arrangement": {
+          "state": "extraction_failed"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Coronado",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "92118",
+              "street": "3632 Tulagi Rd",
+              "zip": "92118",
+              "county_fips": "06073",
+              "msa": {
+                "cbsa_code": "41740",
+                "cbsa_title": "San Diego-Chula Vista-Carlsbad, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-17T10:24:09.778Z",
+        "curated_at": "2026-09-27T05:41:29.086Z",
+        "job_updated_at": "2026-11-01T10:01:16.150Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 11500000,
+                "max_cents": 12700000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "a6d2a47eac70440ccb4c6840d6e195e484a09eb903fb3913041291354186ba91",
+            "source": "paycom",
+            "source_posting_id": "289404",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://www.paycomonline.net/v4/ats/web.php/portal/F22E334739B721BD200B05E79DC87DE5/jobs/289404"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://www.paycomonline.net/v4/ats/web.php/portal/F22E334739B721BD200B05E79DC87DE5/jobs/289404"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Coronado",
+                "state": "CA",
+                "country": "US",
+                "countryRaw": "USA",
+                "regionCode": "CA",
+                "postalCode": "92118",
+                "streetAddress": "3632 Tulagi Rd",
+                "remote": false,
+                "zip": "92118"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 115000,
+                "max": 127000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 115000,
+                    "max": 127000,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-09-16T00:00:00.000Z",
+            "first_seen_at": "2026-09-17T10:24:09.778Z",
+            "last_completed_fetch_at": "2026-11-06T00:22:47.089Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "0e7e11a0-cd38-42b8-b3c7-6fca16d161bf",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "712f5561-1af6-87d0-93f1-55b83a3b77c7",
+        "employer_name": {
+          "state": "known",
+          "value": "Ascendancy Group LTD"
+        },
+        "title": {
+          "state": "known",
+          "value": "Business Intelligence Analyst II — NSW Leader Assessment Program (NLAP)"
+        },
+        "description": {
+          "state": "known",
+          "value": "Description\nThe Ascendancy Group’s Mission To be the unequaled provider of special operations forces (SOF) and Intelligence Community focused technical, service, and training-based solutions. Opportunity Join The Ascendancy Group (TAG) in supporting the Naval Special Warfare (NSW) Leader Assessment Program (NLAP), a program that helps prepare future NSW leaders through fair, transparent competency assessment evolutions and professional-development opportunities. This full-time, on-site position is ideal for a data-driven professional who can turn complex assessment and operational data into clear, accurate, decision-ready insights. You will support the NLAP Program Manager, provide functional support during NLAP sessions, and lead the collection, analysis, visualization, and reporting of program data. Your work will help leadership understand participant performance, assessment trends, and opportunities to optimize NLAP operations. *This position is contingent upon contract award. Overview The Ascendancy Group is seeking a Business Intelligence Analyst II to provide on-site business intelligence, data-analysis, reporting, dashboard-development, and assessment-program support for NLAP at Naval Amphibious Base Coronado, California. The Analyst will manage the flow of relevant data; develop models, reports, and visualizations; maintain data-collection processes; and communicate findings to technical and nontechnical NSW and Navy stakeholders. The Analyst will also supervise the Administrative Support Assistant assigned to this contract and may serve as the NLAP Moderator during panel milestone interviews when requested by the Government. The Moderator ensures continuity and adherence to approved interview scripts and rules of engagement; the Moderator does not assess participant milestone readiness. Security Requirement: An active U.S. Government Secret security clearance is required before the start date and must be maintained throughout employment. Roles and Responsibilities: • Collect business-intelligence data from NSW and NLAP sources. • Collaborate with program stakeholders to define key performance indicators, metrics, and data requirements; analyze, summarize, and route information to appropriate stakeholders on time. • Store and manage data in Government-controlled NLAP databases; establish operational procedures for database use and provide technical support as required. • Conduct quantitative and qualitative analyses and evaluations of NLAP operations and assessment processes to identify trends, assess effectiveness, and inform decision makers on optimization opportunities. • Apply regression algorithms, statistical software, and computer programs to support predictive modeling, classification, data normalization, and regularization. • Establish and maintain a user-friendly, interactive NLAP registration and peer/subordinate survey collection system. • Collect, process, and analyze large datasets from NLAP and the NSW Continuum of Leadership Development (CLD) program; coordinate with CLD personnel as directed by the NLAP Program Manager. • Develop and maintain complex data models, reports, dashboards, and visualizations using business intelligence tools such as Power BI and Tableau. • Create clear, compelling visual products that communicate findings to technical and nontechnical Navy and NSW audiences. • Remain aware of leadership-assessment trends across other Navy communities and incorporate relevant insights into program support. • Prepare and deliver quarterly NLAP analytic and performance reports by the last workday of each quarter, including participant-performance depictions, assessment-trend analysis, and data summaries. • Supervise and coordinate the work of the Administrative Support Assistant supporting NLAP. • Provide on-site functional support for NLAP sessions and ensure assigned PWS requirements are completed. • When requested, serve as NLAP Moderator during panel milestone interviews by following approved scripts, preparing for deliberations, enforcing rules of engagement, and maintaining situational awareness, discretion, tact, and continuity across NLAP iterations. • Safeguard classified and sensitive information and comply with applicable Department of War, Department of the Navy, USSOCOM, NSW, cybersecurity, privacy, and information-security requirements. • Support Government-directed training and authorized travel as required for NLAP activities. Requirements: • U.S. citizen with an active U.S. Government Secret security clearance required at start date. • Bachelor’s degree in business intelligence analysis, statistics, engineering, or a related field. • Minimum five years of experience developing customer-directed scoring and assessment templates or applications that are easy to use and provide real-time display capabilities. • Minimum five years of experience presenting performance summaries, analyzing performance trends, and developing future performance deliverables for assessment programs. • Demonstrated ability, in at least two instances, to understand collected data, conduct quantitative and/or qualitative analysis, and present summaries that facilitate executive decisions. • Demonstrated experience applying at least two data-collection best practices, including balancing stakeholder needs, maintaining accurate real-time data collection, using analytical tools to portray assessment results, ensuring data accuracy, or designing clear and actionable displays. • Experience with data mining, data visualization, predictive analysis, machine learning, regression methods, statistical software, and BI tools such as Power BI or Tableau. • Strong critical-thinking, creative problem-solving, communication, organization, and attention-to-detail skills. • Ability to communicate professionally with senior officers and other high-level stakeholders in a confidential assessment environment. • Ability to work full-time on site at Naval Amphibious Base Coronado, California, and obtain access to military installations. The Ascendancy Group (TAG) was founded on and thrives based on relationships, reputation, and trust. We are passionate about everything we do. One hundred percent of our government-focused teammates are former members of the Department of Defense or the Intelligence Community who still believe in supporting our nation. We offer like-minded individuals the opportunity to continue working in small teams on unique and challenging problem sets that further our nation's security. If you possess the experience, qualifications and drive required for this position, please APPLY NOW for consideration!"
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "in_person",
+          "evidence": [
+            "description: on-site"
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Coronado",
+              "region": "US-CA",
+              "country": "US",
+              "postal_code": "92118",
+              "street": "3632 Tulagi Road",
+              "zip": "92118",
+              "county_fips": "06073",
+              "msa": {
+                "cbsa_code": "41740",
+                "cbsa_title": "San Diego-Chula Vista-Carlsbad, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-23T21:26:55.367Z",
+        "curated_at": "2026-10-17T01:30:53.580Z",
+        "job_updated_at": "2026-11-01T09:58:53.652Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "4669ffdc7377c76e40011e2663222707f578d02dfe21f1237d08e8a65868647a",
+            "source": "paylocity",
+            "source_posting_id": "4528281",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4528281"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4528281"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Coronado",
+                "state": "CA",
+                "country": "US",
+                "regionCode": "CA",
+                "postalCode": "92118",
+                "streetAddress": "3632 Tulagi Road",
+                "remote": false,
+                "zip": "92118"
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-09-23T00:47:00.000Z",
+            "first_seen_at": "2026-09-23T21:26:55.367Z",
+            "last_completed_fetch_at": "2026-11-05T23:16:19.127Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 47,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:48:30.773Z"
+  },
+  "response_usage": {
+    "charged": "11",
+    "remaining": "97645",
+    "request_id": "27d32555-f232-4b7d-971d-e97dce8d53a1"
+  }
+}

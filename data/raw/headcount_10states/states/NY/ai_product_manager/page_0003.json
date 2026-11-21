@@ -1,0 +1,2337 @@
+{
+  "retrieved_at_utc": "2026-11-21T01:51:06.942699+00:00",
+  "state_filter": "NY",
+  "title_filter": "AI product manager",
+  "request_parameters": {
+    "country": "US",
+    "currentness": "current",
+    "state": "NY",
+    "title": "AI product manager",
+    "sort": "updated",
+    "limit": 25,
+    "cursor": "eyJ2IjoyLCJraW5kIjoiam9icy5saXN0IiwicHJvamVjdGlvbklkIjoiZnJlc2g6YXRsYXNfZnJlc2hfZGV0YWlsIiwid2F0ZXJtYXJrIjoiMjAyNi0xMS0yMVQwMTo0ODoxOC43MDJaIiwiZmlsdGVyRGlnZXN0IjoiakhLanNiN1R2dmF0QmNDWm9RUTQ4Vk96c0RsNWVqYndIUmoxNGtMaVNuayIsInBhZ2VTaXplIjoyNSwiYWZ0ZXIiOnsic29ydCI6InVwZGF0ZWQiLCJqb2JVcGRhdGVkQXQiOiIyMDI2LTExLTExVDA5OjM1OjM1LjE0NDAwMFoiLCJqb2JJZCI6Ijc5YzE2ZjhiLTRmZjctNDYzOC1iZjI1LWM3ZTg4MmE3NGVmYyJ9fQ.r3jLwq9ie1Gzpy4yZq2Y7iqekbmzXSYFU4wH3ZGcqVo"
+  },
+  "response": {
+    "data": [
+      {
+        "job_id": "2dcffd8a-8a45-425f-8a3a-5d3e559510a4",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "7882c50e-6bba-81db-9e7b-d8ba6aa3239c",
+        "employer_name": {
+          "state": "known",
+          "value": "Markit North America"
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead AI Product Manager, Private Markets"
+        },
+        "description": {
+          "state": "known",
+          "value": "# **About the Role:**\n\n**Grade Level (for internal use):**\n\n12\n\n**About the Role:**\n\n  \n**The Team:** The Enterprise Solutions business within S&P Global Market Intelligence provides industry-leading data, software, and services that support investment management, enterprise data management, regulatory compliance, and private markets solutions. The Private Markets product team is responsible for products that support the entire investment lifecycle across Private Equity, Venture Capital, Real Estate, Infrastructure, and Private Credit markets. As part of the flagship iLEVEL product organization, you will work with a highly collaborative team of product leaders, technology professionals, and market experts focused on delivering innovative solutions for investment professionals. The team values customer-centricity, innovation, execution excellence, and continuous learning.  \n\n\n**Responsibilities and Impact:**\n\n* We are seeking a Lead Product Manager to drive our MCP & AI Agents Platform initiatives. This leader will own the vision, strategy, and execution for both the MCP connector ecosystem, enabling seamless integration of private markets data and content sources, and the AI Analyst capabilities being developed within our flagship iLEVEL platform.\n* As a Lead Product Manager, you’ll lead zero-to-one product efforts, building and scaling net new product offerings in a high growth, fast moving environment - leveraging the latest and greatest in agents, agentic workflows, and LLMs to build transformative new products that deliver value to clients. This role will require working closely with engineering, design, product, data science, marketing, go-to-market to drive new AI products to success.\n* This is a highly cross-functional and visible role suited for a hands-on builder who thrives at the intersection of AI, customer-centric product development, and financial technology.\n\n  \n\n​​​**Compensation/Benefits Information:**\n\nS&P Global states that the anticipated base salary range for this position is $101,000 to $175,000. Final base salary for this role will be based on the individual's geographic location, experience level, skill set, training, licenses, and certifications. In addition to base compensation, this role is eligible for an annual incentive plan. This role is eligible to receive additional S&P Global benefits. For more information on the benefits we provide to our employees, please click [here](https://spgbenefits.com/benefit-summaries/us).\n\n  \n\n**What We're Looking For:**  \n**Basic Required Qualifications:**\n\n* Experience in FinTech, AI, or other technology-driven environments, with a track record of launching and scaling products.\n* Hands-on AI product builder with experience applying new AI technologies, including LLMs, agents, retrieval systems, and modern AI development tools.\n* Strategic and customer-focused thinker who can develop deep domain expertise, simplify complex problems, and translate insights into impactful product strategies.\n* Strong product operator skilled in agile delivery, product requirements, data-driven decision-making, KPI management, and cross-functional execution.\n\n  \n\n**Additional Preferred Qualifications:**\n\n* Exceptional communicator and collaborator who thrives in fast-paced, ambiguous environments and can align Product, Engineering, Design, and Go-to-Market teams around a shared vision.\n* Experience working in a Private Markets product team.\n\n  \n\n**Right to Work Requirements:**\n\nThis role is limited to persons with indefinite right to work in the United States.  \n\n\n**About S&P Global Market Intelligence**  \n  \nAt S&P Global Market Intelligence, a division of S&P Global we understand the importance of accurate, deep and insightful information. Our team of experts delivers unrivaled insights and leading data and technology solutions, partnering with customers to expand their perspective, operate with confidence, and make decisions with conviction.  \n  \nFor more information, visit [www.spglobal.com/marketintelligence](http://www.spglobal.com/marketintelligence).\n\n**What’s In It For** **You?**\n\n**Our Mission:**\n\nAdvancing Essential Intelligence.\n\n**Our People:**\n\nWe're more than 35,000 strong worldwide—so we're able to understand nuances while having a broad perspective. Our team is driven by curiosity and a shared belief that Essential Intelligence can help build a more prosperous future for us all.From finding new ways to measure sustainability to analyzing energy transition across the supply chain to building workflow solutions that make it easy to tap into insight and apply it. We are changing the way people see things and empowering them to make an impact on the world we live in. We’re committed to a more equitable future and to helping our customers find new, sustainable ways of doing business. Join us and help create the critical insights that truly make a difference.\n\n**Our Values:**\n\n**Integrity, Discovery, Partnership**\n\n  \nThroughout our history, the world's leading organizations have relied on us for the Essential Intelligence they need to make confident decisions about the road ahead. We start with a foundation of integrity in all we do, bring a spirit of discovery to our work, and collaborate in close partnership with each other and our customers to achieve shared goals.  \n  \n**Benefits:**\n\nWe take care of you, so you can take care of business. We care about our people. That’s why we provide everything you—and your career—need to thrive at S&P Global.  \n  \nOur benefits include:\n\n* Health & Wellness: Health care coverage designed for the mind and body.\n    \n* Flexible Downtime: Generous time off helps keep you energized for your time on.\n    \n* Continuous Learning: Access a wealth of resources to grow your career and learn valuable new skills.\n    \n* Invest in Your Future: Secure your financial future through competitive pay, retirement planning, a continuing education program with a company-matched student loan contribution, and financial wellness programs.\n    \n* Family Friendly Perks: It’s not just about you. S&P Global has perks for your partners and little ones, too, with some best-in class benefits for families.\n    \n* Beyond the Basics: From retail discounts to referral incentive awards—small perks can make a big difference.\n    \n\nFor more information on benefits by country visit: [https://spgbenefits.com/benefit-summaries](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspgbenefits.com%2Fbenefit-summaries&data=05%7C02%7Clauren.washington%40spglobal.com%7C2110bb7975e647763da908dc57fae79d%7C8f3e36ea80394b4081a77dc0599e8645%7C1%7C0%7C638481982335774379%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=MLyuUlul44KSiQWXG3isvYhaT7f6JLL5jLpgtgOcHyE%3D&reserved=0)\n\n**Global Hiring and Opportunity at S&P Global:**\n\nAt S&P Global, we are committed to fostering a connected and engaged workplace where all individuals have access to opportunities based on their skills, experience, and contributions. Our hiring practices emphasize fairness, transparency, and merit, ensuring that we attract and retain top talent. By valuing different perspectives and promoting a culture of respect and collaboration, we drive innovation and power global markets.\n\n**Recruitment Fraud Alert:**\n\nIf you receive an email from a spglobalind.com domain or any other regionally based domains, it is a scam and should be reported to [reportfraud@spglobal.com](mailto:reportfraud@spglobal.com). S&P Global never requires any candidate to pay money for job applications, interviews, offer letters, “pre-employment training” or for equipment/delivery of equipment. Stay informed and protect yourself from recruitment fraud by reviewing our guidelines, fraudulent domains, and how to report suspicious activity [here](https://www.spglobal.com/content/dam/spglobal/corporate/en/documents/careers/Corp_0525-Recruitment-Fraud-Alert.pdf).\n\n\\-----------------------------------------------------------\n\n**Equal Opportunity Employer**\n\nS&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law.  Only electronic job submissions will be considered for employment.\n\nIf you need an accommodation during the application process due to a disability, please send an email to: [EEO.Compliance@spglobal.com](mailto:EEO.Compliance@spglobal.com) and your request will be forwarded to the appropriate person.    \n   \n**US Candidates Only:** [Know Your Rights: Workplace discrimination is illegal](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)\n\n\\-----------------------------------------------------------\n\n20 - Professional (EEO-2 Job Categories-United States of America), PDMGDV202.2 - Middle Professional Tier II (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)  \n\nS&P Global enables businesses, governments, and individuals with trusted data, expertise and technology to make decisions with conviction. We are Advancing Essential Intelligence through world-leading benchmarks, data, and insights that customers need in order to plan confidently, act decisively, and thrive in a rapidly changing global landscape.  \n\nFrom helping our customers assess new investments across the capital and commodities markets to navigating the energy expansion, acceleration of artificial intelligence, and evolution of public and private markets, we enable the world’s leading organizations to unlock opportunities, solve challenges, and plan for tomorrow – today.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Ny Nyc",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Raleigh",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37183",
+              "msa": {
+                "cbsa_code": "39580",
+                "cbsa_title": "Raleigh-Cary, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-11T03:17:06.840Z",
+        "curated_at": "2026-11-11T03:19:10.177Z",
+        "job_updated_at": "2026-11-11T03:26:44.863Z",
+        "normalized": [
+          {
+            "field": "location",
+            "rule_id": "NRM-PLACE"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "262259aaf83464f90ef140b57a50f8797a338881857b617dd38e0bbacfe32b60",
+            "source": "workday",
+            "source_posting_id": "/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Ny Nyc",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Raleigh, NC"
+                  },
+                  {
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US - TX - DALLAS 5430 LBJ FREEWAY"
+                  },
+                  {
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US - VA - CHARLOTTESVILLE 212 7TH STREET"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-05T00:00:00.000Z",
+            "first_seen_at": "2026-11-11T03:17:06.840Z",
+            "last_completed_fetch_at": "2026-11-11T03:19:13.103Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "baff3a22-f005-4867-8e82-6766e2387529",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "39c2ff73-d8d5-80e9-9efb-4bbe4477f800",
+        "employer_name": {
+          "state": "known",
+          "value": "Estee Lauder"
+        },
+        "title": {
+          "state": "known",
+          "value": "Data & AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "Description The Data & AI Product Manager, Digital will lead the strategy, development, and evolution of enterprise data, analytics, and AI products that enable faster, more consistent, and forward-looking business decision-making across the organization. This role will help build foresight capabilities, enterprise insights infrastructure, advanced analytics capabilities, and scalable learning systems that future-proof how the organization understands market performance, consumers, and business opportunities. A key focus will be transforming complex and fragmented market performance data into scalable, AI-powered business intelligence capabilities —moving beyond traditional reporting toward automated insights, conversational analytics, intelligent data harmonization, and decision-support experiences. The role will operate at the intersection of business strategy, data, analytics, AI, engineering, and user experience , owning products from strategy and discovery through launch, adoption, optimization, and lifecycle management. Descriptiobn Continued Data & AI Product Strategy Own the multi-year product vision, strategy, roadmap, and prioritization for strategic enterprise data, analytics, and AI products. Translate enterprise and Digital priorities into scalable product capabilities that improve how leaders and teams access insights and make decisions. Identify opportunities to evolve traditional reporting and analytics into AI-powered intelligence and decision-support products . End-to-End Product Ownership Own the full product lifecycle across discovery, requirements, design, development, testing, launch, adoption, optimization, and transition/decommissioning . Translate business needs into clear product requirements, user stories, acceptance criteria, and prioritized product backlogs. Make product trade-offs across business value, user experience, technical feasibility, scalability, cost, and time-to-value. Partner with engineering and architecture teams to ensure solutions are reliable, scalable, maintainable, and aligned with enterprise technology standards. AI-Powered Insights & Foresight Drive the evolution of product capabilities including AI-enabled experiences, conversational analytics, automated insight generation, anomaly and opportunity detection, intelligent harmonization, and decision support . Partner with Data Science, AI, Engineering, and business teams to identify high-value AI use cases and translate them into scalable product capabilities. Establish appropriate human-in-the-loop workflows, transparency, validation, and monitoring for AI-generated insights. Continuously evaluate emerging data and AI capabilities and determine where they can create meaningful business value. Business Partnership & Cross-Functional Product Delivery Create alignment around product vision, priorities, scope, success measures, and roadmap. Serve as the bridge between business users and technical teams, ensuring products solve meaningful business problems rather than simply deliver technical functionality. Orchestrate delivery across Product, Data Engineering, Analytics, Data Science/AI, Architecture, UX, business teams, governance functions, and strategic vendors . Establish clear ownership, decision rights, dependencies, milestones, and escalation paths across complex enterprise initiatives. Manage strategic vendors and partners where required while maintaining clear internal ownership of product strategy and outcomes. Adoption, Value & Product Performance Define product success measures spanning adoption, engagement, data quality, reliability, efficiency, user experience, decision impact, and measurable business value . Drive adoption through stakeholder engagement, enablement, change management, documentation, and continuous product improvement. Ensure product investments are connected to measurable business outcomes rather than delivery milestones alone. Qualifications 6+ years of experience across data/analytics product management, digital product management, analytics, data strategy, or related roles , including experience owning complex enterprise products. 3+ years of direct product management experience preferred, including responsibility for product strategy, roadmap, prioritization, requirements, delivery, and adoption. Demonstrated experience building or managing enterprise data, analytics, business intelligence, or AI-enabled products . Strong understanding of modern data and analytics ecosystems, including SQL, cloud data platforms, data pipelines, semantic/data models, APIs, BI platforms, and AI/ML capabilities . Technical familiarity with GCP, Databricks, SQL, and Python strongly preferred. Experience with Looker, Power BI, or comparable business intelligence and analytics platforms preferred. Experience with GenAI, conversational analytics, AI agents, automated insights, or AI-enabled enterprise products strongly preferred. Strong understanding of data quality, governance, metadata, security, privacy, and responsible AI considerations within enterprise environments. Demonstrated ability to translate ambiguous business problems and executive decision needs into clear product strategies and scalable technical capabilities. Strong product judgment with the ability to prioritize across competing business needs, technical constraints, user experience, and long-term scalability. Experience operating across global, cross-functional, and highly matrixed organizations. Strong stakeholder management and executive communication skills, with the ability to influence without direct authority. Highly analytical and comfortable defining and using product metrics to evaluate adoption, performance, and business value. Strong written and verbal communication skills with the ability to communicate effectively across business, technical, and executive audiences. Collaborative, curious, resourceful, and comfortable operating in an evolving environment where not all requirements or solutions are known upfront."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Long Island City",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36081",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T05:03:20.673Z",
+        "curated_at": "2026-11-10T04:11:23.101Z",
+        "job_updated_at": "2026-11-10T04:11:23.101Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-a"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "57c0d86593b7c1ee71fa3571de1c719aff5c65d00ef10caa73f8dbbe52e5bd16",
+            "source": "eightfold",
+            "source_posting_id": "1168274712488",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.elcompanies.com/careers/job/1168274712488"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://careers.elcompanies.com/careers/job/1168274712488"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Long Island City",
+                "state": "NY",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-08-25T19:20:15.000Z",
+            "first_seen_at": "2026-09-22T20:40:15.255Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "posting_id": "8f28358ee9dbcb1bec0e2da8838cc19c4dfae8701571668e953890d4919882c4",
+            "source": "eightfold",
+            "source_posting_id": "1168274712488",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.elcompanies.com/careers/job/1168274712488"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://careers.elcompanies.com/careers/job/1168274712488"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Long Island City",
+                "state": "NY",
+                "country": "US",
+                "remote": false
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-08-25T19:20:15.000Z",
+            "first_seen_at": "2026-09-21T05:03:20.673Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "3730e3c6-fa05-4b1b-afc2-b32c25b6be15",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "e36b8fb2-9cfb-8b92-8a0d-3996d55ac7bd",
+        "employer_name": {
+          "state": "known",
+          "value": "JPMorgan Chase"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "Senior AI Product Manager\nNew York, NY, United States\nJob Information\n+ Job Identification 210800890\n+ Job Category Product Management\n+ Business Unit Commercial & Investment Bank\n+ Posting Date 11/05/2026, 01:25 PM\n+ Locations 450 W 33rd St, New York, NY, 10001, US\n+ Job Schedule Full time\n+ Base Pay/Salary New York,NY $133,000.00-$215,000.00\nJob Description\nWe are building the next generation of AI and autonomous agents that can reason, plan, act, and learn to solve critical problems in operations at the huge scale of the world’s largest bank.\nAs a Product Manager in Corporate and Investment Bank operations team, you will leverage your AI and leadership expertise to set strategy and lead researchers, engineers, and designers building agentic AI pipelines and orchestrations to automate bank operations and workflows.\nThe AI team for Corporate and Investment Banking operations is transforming the bank by leveraging the latest advancements in agentic AI and LLMs. This is a high-visibility role, positioned at the intersection of product strategy, AI development, and enterprise-level operational workflows.\nJob responsibilities\n+ Develops a product strategy and product vision that delivers value to customers\n+ Manages discovery efforts and market research to uncover customer solutions and integrate them into the product roadmap\n+ Owns, maintains, and develops a product backlog that enables development to support the overall strategic roadmap and value proposition\n+ Builds the framework and tracks the product's key success metrics such as cost, feature and functionality, risk posture, and reliability\n+ Identifies how AI can impact top-line business metrics.\n+ Translates user and business needs into strategy and actionable requirements,\n+ Writes and owns Roadmaps and Product Requirements Documents (PRDs),\n+ Leads a project team of engineers, designers, analysts, and front-office business leads through technical and non-technical decisions all the way to launch.\n+ Presents, drive alignment, and get buy-in from the company leads.\nRequired qualifications, capabilities, and skills\n+ 5+ years of experience or equivalent expertise in product management or a relevant domain area\n+ 2+ years of experience in a company with strong product management culture\n+ Advanced knowledge of the product development life cycle, design, and data analytics\n+ Proven ability to lead product life cycle activities including discovery, ideation, strategic development, requirements definition, and value management\n+ Experience leading tech teams from Idea to alignment and through executionn\n+ Familiarity with AI model architectures, such as Large Language Models, and methods such as prompting, context engineering, fine-tuning, RAG, MCPs, and agentic frameworks\n+ Bachelor’s degree or equivalent practical experience\nPreferred qualifications, capabilities, and skills\n+ Demonstrated prior experience working in a highly matrixed, complex organization\n+ Advanced degree in Computer Science, engineering, or related field.\n+ Experience defining robust evaluation sets and leading teams through quantitative and qualitative evaluations and iterations to achieve reliable, high-quality delivery.\n+ Proven track record of delivering and launching successful products at scale.\n+ Experience leading tech transformation for large digital operations.\n+ Experience leading product development in highly complex, large-scale back-end environments\nAbout Us\nJPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.\nWe offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.\nWe recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs (https://careers.jpmorgan.com/us/en/how-we-hire/faqs) for more information about requesting an accommodation.\nJPMorgan Chase & Co. is an Equal Opportunity Employer, including Disability/Veterans\nAbout the Team\nJ.P. Morgan’s Commercial & Investment Bank is a global leader across banking, markets, securities services and payments. Corporations, governments and institutions throughout the world entrust us with their business in more than 100 countries. The Commercial & Investment Bank provides strategic advice, raises capital, manages risk and extends liquidity in markets around the world."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "in_person"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "postal_code": "10176",
+              "zip": "10176",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-09T02:55:57.771Z",
+        "curated_at": "2026-11-09T21:54:32.826Z",
+        "job_updated_at": "2026-11-09T21:54:32.826Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 13300000,
+                "max_cents": 21500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "d248c30a7d1d1a1d26405f96b8d8f4fc1a77099e13a2632a69a5097c22c6c7de",
+            "source": "directemployers",
+            "source_posting_id": "AD20A27A8E30410792BE48D56D7B97F9",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jpmchase.dejobs.org/new-york-ny/senior-ai-product-manager/AD20A27A8E30410792BE48D56D7B97F9/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/AD20A27A8E30410792BE48D56D7B97F910"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "NY",
+                "country": "US",
+                "regionCode": "NY",
+                "postalCode": "10176",
+                "latitude": 40.750896,
+                "longitude": -73.98415,
+                "remote": false,
+                "zip": "10176"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 133000,
+                "max": 215000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-16T07:55:43.000Z",
+            "first_seen_at": "2026-11-09T02:55:57.771Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "1662ecaf-45d3-40ca-8b4e-180ea4f81b58",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "b13a7632-cc81-87a8-8137-233eb7857827",
+        "employer_name": {
+          "state": "known",
+          "value": "Future Works"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior AI Product Manager (CRE)"
+        },
+        "description": {
+          "state": "known",
+          "value": "ABOUT FUTURE WORKS\n\nLarge companies spend billions on consulting and implementation projects to adopt new technology. Most of that work is slow and expensive, and too often it fails to deliver. Future Works replaces it. We rebuild the operations that move a company's P&L in twelve-week cycles, run by senior experts and fleets of AI agents, with our fees tied to outcomes our clients' own finance teams verify. We deliver in twelve weeks what incumbents quote at two years.\n\nWe work with large companies in energy, construction, real estate and other asset-heavy industries. Every role here is built around humans and agents working as one system. Whatever the seat, we look for high energy, high agency and a real interest in building with AI.\n\nTHE ROLE\n\nOur clients own real estate, and the numbers that describe it live in a dozen systems that were never designed to agree with each other. We build them a platform that fixes that, inside their own cloud, in one cycle, for a fee that does not move. As the Senior AI Product Manager, you run that cycle.\n\nYou own the plan, the gates and the scope line. You decide what the first cycle can honestly deliver, you get the client to sign up to what each gate has to prove, and you are the person the client's sponsor calls. An Operating Director owns the account. A solution architect, a data and technology lead and engineers from our shared team build it.\n\nThis is a real estate seat. You need to have done this work in the sector, because the judgment calls in this job are the ones that only make sense once you have lived through a reporting cycle.\n\nKEY RESPONSIBILITIES\n\n- Own the Cycle: Lead the engagement end to end, from discovery through build, training and handover, including retiring whatever our platform replaces.\n\n- Hold the Scope Line: Agree with the client up front what each gate has to prove, then manage change so the fee stays fixed and what will not fit is written down rather than argued about later.\n\n- Data Before Views: Insist the numbers are right before anything is built on top of them, and own the calls on mapping, checks and what happens when something does not reconcile.\n\n- Where AI Belongs: Decide what the agents do and what stays on a fixed calculation, so nothing probabilistic ever lands on a number the client reports.\n\n- Own the Client at Working Level: Be the daily contact for the sponsor and the business owner, run the workshops where the people who use the platform tell you what they need, report plainly and raise bad news early.\n\nWHAT WE'RE LOOKING FOR\n\nRequired Skills and Experience\n\n- Real Estate, Hands On: At least 2 years inside or directly serving institutional owners, operators, REITs, real estate private equity or fund managers, or a real estate technology or data vendor. You can pick up a client's reporting pack and tell us what is wrong with it. Expect to be asked to do exactly that.\n\n- Product Management: 5+ years owning every phase of the lifecycle, delivering custom software for external clients rather than an internal roadmap.\n\n- Data Product Experience: You have shipped a reporting, BI or data platform where adoption depended on people trusting the numbers, not on the feature list.\n\n- Fixed-Scope Delivery: You have run engagements where payment depended on the client accepting the work, and you wrote the acceptance criteria yourself.\n\n- AI Judgment: You understand extraction, retrieval with sources, agent workflows and approval steps well enough to specify them for engineers, and you know where to keep a model out.\n\n- Client Environment: Comfortable delivering into a client's Microsoft cloud, including access by role and by fund, audit logging and test environments.\n\n- Leadership and Presence: You have led designers, engineers and data people, and you can tell a CFO something they do not want to hear in week three rather than week twelve.\n\n- Analytical: You define the measures, interrogate a number you are given, and decide from evidence.\n\n- AI-Native Workflow: You use agents in your own daily work.\n\n- Working Hours: Overlap with US Eastern business hours.\n\nNice to Have\n\n- You have switched off a system a client still depended on, including running both until they signed that the old one could go.\n\n- Experience of the quarterly cycle that produces investor statements, or of answering investor due diligence questionnaires.\n\n- Data governance where the business, not IT, approved the mappings and the thresholds.\n\nOUR CULTURE & BENEFITS\n\nWe believe that breakthrough results are driven by breakthrough experiences. Our culture is built on freedom, high performance and our core values. You can read more about our values and how we work on our careers page: https://future.works/careers\n\nBenefits & Perks\n\n- Remote, in US Eastern hours. We work in our clients' time zones.\n\n- Compensation. A competitive rate plus a cycle bonus."
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "remote"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "CA",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-03T20:28:09.621Z",
+        "curated_at": "2026-11-07T15:48:01.183Z",
+        "job_updated_at": "2026-11-07T15:48:01.183Z",
+        "normalized": [
+          {
+            "field": "employer_name",
+            "rule_id": "BS-EMPNAME-b"
+          }
+        ],
+        "postings": [
+          {
+            "posting_id": "1832faab6abfcd70625e31742cbb5014d66d34f318bbb7fd0a944f9fd456de9c",
+            "source": "ashby",
+            "source_posting_id": "32b51b21-b5f8-4413-b8e8-db4989441704",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/futureworks/32b51b21-b5f8-4413-b8e8-db4989441704"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jobs.ashbyhq.com/futureworks/32b51b21-b5f8-4413-b8e8-db4989441704/application"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "country": "US",
+                "countryRaw": "United States",
+                "remote": true,
+                "alternatives": [
+                  {
+                    "country": "CA",
+                    "countryRaw": "Canada",
+                    "remote": true,
+                    "raw": "Canada"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States",
+                    "remote": true,
+                    "raw": "New York"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "extraction_failed"
+            },
+            "source_posted_at": "2026-11-06T11:59:02.263Z",
+            "first_seen_at": "2026-11-03T20:28:09.621Z",
+            "last_completed_fetch_at": "2026-11-07T17:00:42.985Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "0f676c33-7351-452a-b839-e48dfb1320e6",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "88845f62-9e07-436b-92f9-17f69664bc44",
+        "employer_name": {
+          "state": "known",
+          "value": "S&P Global"
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead AI Product Manager, Private Markets"
+        },
+        "description": {
+          "state": "known",
+          "value": "About the Role:\nGrade Level (for internal use):\n12\nAbout the Role:\nThe Team: The Enterprise Solutions business within S&P Global Market Intelligence provides industry-leading data, software, and services that support investment management, enterprise data management, regulatory compliance, and private markets solutions. The Private Markets product team is responsible for products that support the entire investment lifecycle across Private Equity, Venture Capital, Real Estate, Infrastructure, and Private Credit markets. As part of the flagship iLEVEL product organization, you will work with a highly collaborative team of product leaders, technology professionals, and market experts focused on delivering innovative solutions for investment professionals. The team values customer-centricity, innovation, execution excellence, and continuous learning.\nResponsibilities and Impact:\n+ We are seeking a Lead Product Manager to drive our MCP & AI Agents Platform initiatives. This leader will own the vision, strategy, and execution for both the MCP connector ecosystem, enabling seamless integration of private markets data and content sources, and the AI Analyst capabilities being developed within our flagship iLEVEL platform.\n+ As a Lead Product Manager, you’ll lead zero-to-one product efforts, building and scaling net new product offerings in a high growth, fast moving environment - leveraging the latest and greatest in agents, agentic workflows, and LLMs to build transformative new products that deliver value to clients. This role will require working closely with engineering, design, product, data science, marketing, go-to-market to drive new AI products to success.\n+ This is a highly cross-functional and visible role suited for a hands-on builder who thrives at the intersection of AI, customer-centric product development, and financial technology.\nCompensation/Benefits Information:\nS&P Global states that the anticipated base salary range for this position is $101,000 to $175,000. Final base salary for this role will be based on the individual's geographic location, experience level, skill set, training, licenses, and certifications. In addition to base compensation, this role is eligible for an annual incentive plan. This role is eligible to receive additional S&P Global benefits. For more information on the benefits we provide to our employees, please click here (https://spgbenefits.com/benefit-summaries/us) .\nWhat We're Looking For:\nBasic Required Qualifications:\n+ Experience in FinTech, AI, or other technology-driven environments, with a track record of launching and scaling products.\n+ Hands-on AI product builder with experience applying new AI technologies, including LLMs, agents, retrieval systems, and modern AI development tools.\n+ Strategic and customer-focused thinker who can develop deep domain expertise, simplify complex problems, and translate insights into impactful product strategies.\n+ Strong product operator skilled in agile delivery, product requirements, data-driven decision-making, KPI management, and cross-functional execution.\nAdditional Preferred Qualifications:\n+ Exceptional communicator and collaborator who thrives in fast-paced, ambiguous environments and can align Product, Engineering, Design, and Go-to-Market teams around a shared vision.\n+ Experience working in a Private Markets product team.\nRight to Work Requirements:\nThis role is limited to persons with indefinite right to work in the United States.\nAbout S&P Global Market Intelligence\nAt S&P Global Market Intelligence, a division of S&P Global we understand the importance of accurate, deep and insightful information. Our team of experts delivers unrivaled insights and leading data and technology solutions, partnering with customers to expand their perspective, operate with confidence, and make decisions with conviction.\nFor more information, visit www.spglobal.com/marketintelligence .\nWhat’s In It For You?\nOur Mission:\nAdvancing Essential Intelligence.\nOur People:\nWe're more than 35,000 strong worldwide—so we're able to understand nuances while having a broad perspective. Our team is driven by curiosity and a shared belief that Essential Intelligence can help build a more prosperous future for us all.From finding new ways to measure sustainability to analyzing energy transition across the supply chain to building workflow solutions that make it easy to tap into insight and apply it. We are changing the way people see things and empowering them to make an impact on the world we live in. We’re committed to a more equitable future and to helping our customers find new, sustainable ways of doing business. Join us and help create the critical insights that truly make a difference.\nOur Values:\nIntegrity, Discovery, Partnership\nThroughout our history, the world's leading organizations have relied on us for the Essential Intelligence they need to make confident decisions about the road ahead. We start with a foundation of integrity in all we do, bring a spirit of discovery to our work, and collaborate in close partnership with each other and our customers to achieve shared goals.\nBenefits:\nWe take care of you, so you can take care of business. We care about our people. That’s why we provide everything you—and your career—need to thrive at S&P Global.\nOur benefits include:\n+ Health & Wellness: Health care coverage designed for the mind and body.\n+ Flexible Downtime: Generous time off helps keep you energized for your time on.\n+ Continuous Learning: Access a wealth of resources to grow your career and learn valuable new skills.\n+ Invest in Your Future: Secure your financial future through competitive pay, retirement planning, a continuing education program with a company-matched student loan contribution, and financial wellness programs.\n+ Family Friendly Perks: It’s not just about you. S&P Global has perks for your partners and little ones, too, with some best-in class benefits for families.\n+ Beyond the Basics: From retail discounts to referral incentive awards—small perks can make a big difference.\nFor more information on benefits by country visit: https://spgbenefits.com/benefit-summaries\nGlobal Hiring and Opportunity at S&P Global:\nAt S&P Global, we are committed to fostering a connected and engaged workplace where all individuals have access to opportunities based on their skills, experience, and contributions. Our hiring practices emphasize fairness, transparency, and merit, ensuring that we attract and retain top talent. By valuing different perspectives and promoting a culture of respect and collaboration, we drive innovation and power global markets.\nRecruitment Fraud Alert:\nIf you receive an email from a spglobalind.com domain or any other regionally based domains, it is a scam and should be reported to reportfraud@spglobal.com . S&P Global never requires any candidate to pay money for job applications, interviews, offer letters, “pre-employment training” or for equipment/delivery of equipment. Stay informed and protect yourself from recruitment fraud by reviewing our guidelines, fraudulent domains, and how to report suspicious activity here (https://www.spglobal.com/content/dam/spglobal/corporate/en/documents/careers/Corp_0525-Recruitment-Fraud-Alert.pdf) .\nEqual Opportunity Employer\nS&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.\nIf you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person.\nUS Candidates Only: Know Your Rights: Workplace discrimination is illegal (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)\n20 - Professional (EEO-2 Job Categories-United States of America), PDMGDV202.2 - Middle Professional Tier II (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)\nJob ID: 329647\nPosted On: 2026-11-05\nLocation: New York, New York, United States"
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Raleigh",
+              "region": "US-NC",
+              "country": "US",
+              "postal_code": "27608",
+              "zip": "27608",
+              "county_fips": "37183",
+              "msa": {
+                "cbsa_code": "39580",
+                "cbsa_title": "Raleigh-Cary, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "postal_code": "10176",
+              "zip": "10176",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "postal_code": "75219",
+              "zip": "75219",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Charlottesville",
+              "region": "US-VA",
+              "country": "US",
+              "postal_code": "22905",
+              "zip": "22905",
+              "county_fips": "51540",
+              "msa": {
+                "cbsa_code": "16820",
+                "cbsa_title": "Charlottesville, VA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-26T12:07:33.872Z",
+        "curated_at": "2026-09-27T01:42:44.434Z",
+        "job_updated_at": "2026-11-07T11:33:18.820Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "16ef1811d82007d0da17c9cd830b3004ae9e19e208a872e0dcd07ac039200652",
+            "source": "directemployers",
+            "source_posting_id": "9133818402CB4F5DAEEDDE95A6DAE469",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spglobalcareers.dejobs.org/raleigh-nc/lead-ai-product-manager-private-markets/9133818402CB4F5DAEEDDE95A6DAE469/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/9133818402CB4F5DAEEDDE95A6DAE46910"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Raleigh",
+                "state": "NC",
+                "country": "US",
+                "regionCode": "NC",
+                "postalCode": "27608",
+                "latitude": 35.813522,
+                "longitude": -78.64896,
+                "remote": false,
+                "zip": "27608"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-05T07:15:55.000Z",
+            "first_seen_at": "2026-11-07T10:15:55.142Z",
+            "last_completed_fetch_at": "2026-11-07T10:16:19.263Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "1a4889310bbe3fbdfe845d5f25c907311af2be8495c3fa3a954c5eff1df676cc",
+            "source": "directemployers",
+            "source_posting_id": "5313888662D747F287B0DAECB3D1EC5C",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spglobalcareers.dejobs.org/new-york-ny/lead-ai-product-manager-private-markets/5313888662D747F287B0DAECB3D1EC5C/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/5313888662D747F287B0DAECB3D1EC5C10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "NY",
+                "country": "US",
+                "regionCode": "NY",
+                "postalCode": "10176",
+                "latitude": 40.750896,
+                "longitude": -73.98415,
+                "remote": false,
+                "zip": "10176"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-05T07:15:55.000Z",
+            "first_seen_at": "2026-11-07T10:15:55.142Z",
+            "last_completed_fetch_at": "2026-11-07T10:16:19.263Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "50b9d600c93bc0e0ac4dee48383d026484dbfb0f86980fa63ab0ed783ff43acc",
+            "source": "directemployers",
+            "source_posting_id": "B69D987D897C4D1493A649E5F9EEFBCE",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spglobalcareers.dejobs.org/dallas-tx/lead-ai-product-manager-private-markets/B69D987D897C4D1493A649E5F9EEFBCE/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/B69D987D897C4D1493A649E5F9EEFBCE10"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Dallas",
+                "state": "TX",
+                "country": "US",
+                "regionCode": "TX",
+                "postalCode": "75219",
+                "latitude": 32.81039,
+                "longitude": -96.8067,
+                "remote": false,
+                "zip": "75219"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-05T07:15:56.000Z",
+            "first_seen_at": "2026-11-07T10:15:55.142Z",
+            "last_completed_fetch_at": "2026-11-07T10:16:19.263Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "805d12f33b77f926a346224da069a20d29a6c93325804faebeef04c740ca6b3a",
+            "source": "jibe",
+            "source_posting_id": "329647",
+            "posting_status": "no_longer_listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.spglobal.com/jobs/329647"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/en-us/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1/apply"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "New York",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Raleigh",
+                    "state": "North Carolina",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Raleigh, North Carolina"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "Texas",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Dallas, Texas"
+                  },
+                  {
+                    "city": "Charlottesville",
+                    "state": "Virginia",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Charlottesville, Virginia"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-13T00:00:00.000Z",
+            "first_seen_at": "2026-09-26T12:07:33.872Z",
+            "last_completed_fetch_at": "2026-11-05T15:01:00.266Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "8b3f9fa790141961777d22a64de9199b7c29b06584066d2f51ed21bd6377b2d7",
+            "source": "directemployers",
+            "source_posting_id": "1CF6D59888D44D89A74F79CBBCE175B6",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spglobalcareers.dejobs.org/charlottesville-va/lead-ai-product-manager-private-markets/1CF6D59888D44D89A74F79CBBCE175B6/job/"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://rr.jobsyn.org/1CF6D59888D44D89A74F79CBBCE175B610"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Charlottesville",
+                "state": "VA",
+                "country": "US",
+                "regionCode": "VA",
+                "postalCode": "22905",
+                "latitude": 38.024895,
+                "longitude": -78.49321,
+                "remote": false,
+                "zip": "22905"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-14T03:26:35.000Z",
+            "first_seen_at": "2026-11-07T10:15:55.142Z",
+            "last_completed_fetch_at": "2026-11-07T10:16:19.263Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "bf673354-75d0-4089-b3ac-5e9f5fc4dbcd",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "1748ac1f-a30a-838d-adb0-70d57b4a0b01",
+        "employer_name": {
+          "state": "known",
+          "value": "JPMC"
+        },
+        "title": {
+          "state": "known",
+          "value": "Senior AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "Job Description\n\nWe are building the next generation of AI and autonomous agents that can reason, plan, act, and learn to solve critical problems in operations at the huge scale of the world’s largest bank.\n\nAs a Product Manager in Corporate and Investment Bank operations team, you will leverage your AI and leadership expertise to set strategy and lead researchers, engineers, and designers building agentic AI pipelines and orchestrations to automate bank operations and workflows.\n\nThe AI team for Corporate and Investment Banking operations is transforming the bank by leveraging the latest advancements in agentic AI and LLMs. This is a high-visibility role, positioned at the intersection of product strategy, AI development, and enterprise-level operational workflows.\n\nJob responsibilities\n\nDevelops a product strategy and product vision that delivers value to customers\n\nManages discovery efforts and market research to uncover customer solutions and integrate them into the product roadmap\n\nOwns, maintains, and develops a product backlog that enables development to support the overall strategic roadmap and value proposition\n\nBuilds the framework and tracks the product's key success metrics such as cost, feature and functionality, risk posture, and reliability\n\nIdentifies how AI can impact top-line business metrics.\n\nTranslates user and business needs into strategy and actionable requirements,\n\nWrites and owns Roadmaps and Product Requirements Documents (PRDs),\n\nLeads a project team of engineers, designers, analysts, and front-office business leads through technical and non-technical decisions all the way to launch.\n\nPresents, drive alignment, and get buy-in from the company leads.\n\nRequired qualifications, capabilities, and skills\n\n5+ years of experience or equivalent expertise in product management or a relevant domain area\n\n2+ years of experience in a company with strong product management culture\n\nAdvanced knowledge of the product development life cycle, design, and data analytics\n\nProven ability to lead product life cycle activities including discovery, ideation, strategic development, requirements definition, and value management\n\nExperience leading tech teams from Idea to alignment and through executionn\n\nFamiliarity with AI model architectures, such as Large Language Models, and methods such as prompting, context engineering, fine-tuning, RAG, MCPs, and agentic frameworks\n\nBachelor’s degree or equivalent practical experience\n\nPreferred qualifications, capabilities, and skills\n\nDemonstrated prior experience working in a highly matrixed, complex organization\n\nAdvanced degree in Computer Science, engineering, or related field.\n\nExperience defining robust evaluation sets and leading teams through quantitative and qualitative evaluations and iterations to achieve reliable, high-quality delivery.\n\nProven track record of delivering and launching successful products at scale.\n\nExperience leading tech transformation for large digital operations.\n\nExperience leading product development in highly complex, large-scale back-end environments\n\nJPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.\n\nWe offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.\n\nWe recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.\n\nJPMorgan Chase & Co. is an Equal Opportunity Employer, including Disability/Veterans\n\nJ.P. Morgan’s Commercial & Investment Bank is a global leader across banking, markets, securities services and payments. Corporations, governments and institutions throughout the world entrust us with their business in more than 100 countries. The Commercial & Investment Bank provides strategic advice, raises capital, manages risk and extends liquidity in markets around the world.\n\nJob Info\nJob Identification\n210800890\nJob Category\nProduct Management\nPosting Date\n11/05/2026\nJob Schedule\nFull time\nLocations\n450 W 33rd St, New York, NY, 10001, US\nBase Pay/Salary\nNew York,NY $133,000.00-$215,000.00"
+        },
+        "work_arrangement": {
+          "state": "derived",
+          "value": "in_person",
+          "evidence": [
+            "detail: "
+          ]
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "postal_code": "10001",
+              "street": "450 W 33rd St",
+              "zip": "10001",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-01T10:58:38.560Z",
+        "curated_at": "2026-11-07T08:58:13.394Z",
+        "job_updated_at": "2026-11-07T09:00:06.490Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 13300000,
+                "max_cents": 21500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "unknown",
+                "source_path": "payload.compensation.ranges[0]",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "372d843f375eb5a09dbc7a8d02ece96e6866456f5420f969b51aea2b1eb111bb",
+            "source": "oracle_hcm",
+            "source_posting_id": "210800890",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800890"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800890"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "New York",
+                "state": "NY",
+                "country": "US",
+                "countryRaw": "United States",
+                "regionCode": "NY",
+                "postalCode": "10001",
+                "streetAddress": "450 W 33rd St",
+                "latitude": 40.75188,
+                "longitude": -73.99693,
+                "remote": false,
+                "zip": "10001"
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 133000,
+                "max": 215000,
+                "currency": "USD",
+                "interval": "year",
+                "ranges": [
+                  {
+                    "min": 133000,
+                    "max": 215000,
+                    "currency": "USD",
+                    "interval": "year"
+                  }
+                ]
+              }
+            },
+            "source_posted_at": "2026-11-05T00:00:00.000Z",
+            "first_seen_at": "2026-11-01T10:58:38.560Z",
+            "last_completed_fetch_at": "2026-11-07T08:59:59.421Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "32a891dd-5ed8-42e9-98d2-3a4cc4ac6db6",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "7882c50e-6bba-81db-9e7b-d8ba6aa3239c",
+        "employer_name": {
+          "state": "known",
+          "value": "Markit North America"
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead AI Product Manager, Private Markets"
+        },
+        "description": {
+          "state": "known",
+          "value": "# **About the Role:**\n\n**Grade Level (for internal use):**\n\n12\n\n**About the Role:**\n\n  \n**The Team:** The Enterprise Solutions business within S&P Global Market Intelligence provides industry-leading data, software, and services that support investment management, enterprise data management, regulatory compliance, and private markets solutions. The Private Markets product team is responsible for products that support the entire investment lifecycle across Private Equity, Venture Capital, Real Estate, Infrastructure, and Private Credit markets. As part of the flagship iLEVEL product organization, you will work with a highly collaborative team of product leaders, technology professionals, and market experts focused on delivering innovative solutions for investment professionals. The team values customer-centricity, innovation, execution excellence, and continuous learning.  \n\n\n**Responsibilities and Impact:**\n\n* We are seeking a Lead Product Manager to drive our MCP & AI Agents Platform initiatives. This leader will own the vision, strategy, and execution for both the MCP connector ecosystem, enabling seamless integration of private markets data and content sources, and the AI Analyst capabilities being developed within our flagship iLEVEL platform.\n* As a Lead Product Manager, you’ll lead zero-to-one product efforts, building and scaling net new product offerings in a high growth, fast moving environment - leveraging the latest and greatest in agents, agentic workflows, and LLMs to build transformative new products that deliver value to clients. This role will require working closely with engineering, design, product, data science, marketing, go-to-market to drive new AI products to success.\n* This is a highly cross-functional and visible role suited for a hands-on builder who thrives at the intersection of AI, customer-centric product development, and financial technology.\n\n  \n\n​​​**Compensation/Benefits Information:**\n\nS&P Global states that the anticipated base salary range for this position is $101,000 to $175,000. Final base salary for this role will be based on the individual's geographic location, experience level, skill set, training, licenses, and certifications. In addition to base compensation, this role is eligible for an annual incentive plan. This role is eligible to receive additional S&P Global benefits. For more information on the benefits we provide to our employees, please click [here](https://spgbenefits.com/benefit-summaries/us).\n\n  \n\n**What We're Looking For:**  \n**Basic Required Qualifications:**\n\n* Experience in FinTech, AI, or other technology-driven environments, with a track record of launching and scaling products.\n* Hands-on AI product builder with experience applying new AI technologies, including LLMs, agents, retrieval systems, and modern AI development tools.\n* Strategic and customer-focused thinker who can develop deep domain expertise, simplify complex problems, and translate insights into impactful product strategies.\n* Strong product operator skilled in agile delivery, product requirements, data-driven decision-making, KPI management, and cross-functional execution.\n\n  \n\n**Additional Preferred Qualifications:**\n\n* Exceptional communicator and collaborator who thrives in fast-paced, ambiguous environments and can align Product, Engineering, Design, and Go-to-Market teams around a shared vision.\n* Experience working in a Private Markets product team.\n\n  \n\n**Right to Work Requirements:**\n\nThis role is limited to persons with indefinite right to work in the United States.  \n\n\n**About S&P Global Market Intelligence**  \n  \nAt S&P Global Market Intelligence, a division of S&P Global we understand the importance of accurate, deep and insightful information. Our team of experts delivers unrivaled insights and leading data and technology solutions, partnering with customers to expand their perspective, operate with confidence, and make decisions with conviction.  \n  \nFor more information, visit [www.spglobal.com/marketintelligence](http://www.spglobal.com/marketintelligence).\n\n**What’s In It For** **You?**\n\n**Our Mission:**\n\nAdvancing Essential Intelligence.\n\n**Our People:**\n\nWe're more than 35,000 strong worldwide—so we're able to understand nuances while having a broad perspective. Our team is driven by curiosity and a shared belief that Essential Intelligence can help build a more prosperous future for us all.From finding new ways to measure sustainability to analyzing energy transition across the supply chain to building workflow solutions that make it easy to tap into insight and apply it. We are changing the way people see things and empowering them to make an impact on the world we live in. We’re committed to a more equitable future and to helping our customers find new, sustainable ways of doing business. Join us and help create the critical insights that truly make a difference.\n\n**Our Values:**\n\n**Integrity, Discovery, Partnership**\n\n  \nThroughout our history, the world's leading organizations have relied on us for the Essential Intelligence they need to make confident decisions about the road ahead. We start with a foundation of integrity in all we do, bring a spirit of discovery to our work, and collaborate in close partnership with each other and our customers to achieve shared goals.  \n  \n**Benefits:**\n\nWe take care of you, so you can take care of business. We care about our people. That’s why we provide everything you—and your career—need to thrive at S&P Global.  \n  \nOur benefits include:\n\n* Health & Wellness: Health care coverage designed for the mind and body.\n    \n* Flexible Downtime: Generous time off helps keep you energized for your time on.\n    \n* Continuous Learning: Access a wealth of resources to grow your career and learn valuable new skills.\n    \n* Invest in Your Future: Secure your financial future through competitive pay, retirement planning, a continuing education program with a company-matched student loan contribution, and financial wellness programs.\n    \n* Family Friendly Perks: It’s not just about you. S&P Global has perks for your partners and little ones, too, with some best-in class benefits for families.\n    \n* Beyond the Basics: From retail discounts to referral incentive awards—small perks can make a big difference.\n    \n\nFor more information on benefits by country visit: [https://spgbenefits.com/benefit-summaries](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspgbenefits.com%2Fbenefit-summaries&data=05%7C02%7Clauren.washington%40spglobal.com%7C2110bb7975e647763da908dc57fae79d%7C8f3e36ea80394b4081a77dc0599e8645%7C1%7C0%7C638481982335774379%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=MLyuUlul44KSiQWXG3isvYhaT7f6JLL5jLpgtgOcHyE%3D&reserved=0)\n\n**Global Hiring and Opportunity at S&P Global:**\n\nAt S&P Global, we are committed to fostering a connected and engaged workplace where all individuals have access to opportunities based on their skills, experience, and contributions. Our hiring practices emphasize fairness, transparency, and merit, ensuring that we attract and retain top talent. By valuing different perspectives and promoting a culture of respect and collaboration, we drive innovation and power global markets.\n\n**Recruitment Fraud Alert:**\n\nIf you receive an email from a spglobalind.com domain or any other regionally based domains, it is a scam and should be reported to [reportfraud@spglobal.com](mailto:reportfraud@spglobal.com). S&P Global never requires any candidate to pay money for job applications, interviews, offer letters, “pre-employment training” or for equipment/delivery of equipment. Stay informed and protect yourself from recruitment fraud by reviewing our guidelines, fraudulent domains, and how to report suspicious activity [here](https://www.spglobal.com/content/dam/spglobal/corporate/en/documents/careers/Corp_0525-Recruitment-Fraud-Alert.pdf).\n\n\\-----------------------------------------------------------\n\n**Equal Opportunity Employer**\n\nS&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law.  Only electronic job submissions will be considered for employment.\n\nIf you need an accommodation during the application process due to a disability, please send an email to: [EEO.Compliance@spglobal.com](mailto:EEO.Compliance@spglobal.com) and your request will be forwarded to the appropriate person.    \n   \n**US Candidates Only:** [Know Your Rights: Workplace discrimination is illegal](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)\n\n\\-----------------------------------------------------------\n\n20 - Professional (EEO-2 Job Categories-United States of America), PDMGDV202.2 - Middle Professional Tier II (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)  \n\nS&P Global enables businesses, governments, and individuals with trusted data, expertise and technology to make decisions with conviction. We are Advancing Essential Intelligence through world-leading benchmarks, data, and insights that customers need in order to plan confidently, act decisively, and thrive in a rapidly changing global landscape.  \n\nFrom helping our customers assess new investments across the capital and commodities markets to navigating the energy expansion, acceleration of artificial intelligence, and evolution of public and private markets, we enable the world’s leading organizations to unlock opportunities, solve challenges, and plan for tomorrow – today.",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "known",
+          "value": "hybrid"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Ny Nyc",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Raleigh",
+              "region": "US-NC",
+              "country": "US",
+              "county_fips": "37183",
+              "msa": {
+                "cbsa_code": "39580",
+                "cbsa_title": "Raleigh-Cary, NC",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "country": "US"
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-19T01:15:05.321Z",
+        "curated_at": "2026-09-26T03:24:08.468Z",
+        "job_updated_at": "2026-11-07T01:47:56.686Z",
+        "normalized": [
+          {
+            "field": "location",
+            "rule_id": "NRM-PLACE"
+          },
+          {
+            "field": "location",
+            "rule_id": "NRM-TOWN"
+          }
+        ],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "262259aaf83464f90ef140b57a50f8797a338881857b617dd38e0bbacfe32b60",
+            "source": "workday",
+            "source_posting_id": "/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Ny Nyc",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "Raleigh, NC"
+                  },
+                  {
+                    "state": "TX",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US - TX - DALLAS 5430 LBJ FREEWAY"
+                  },
+                  {
+                    "state": "VA",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US - VA - CHARLOTTESVILLE 212 7TH STREET"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-11-05T00:00:00.000Z",
+            "first_seen_at": "2026-09-20T20:55:43.059Z",
+            "last_completed_fetch_at": "2026-11-07T00:59:48.272Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          },
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 10100000,
+                "max_cents": 17500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "8e0df1109736cca5e9ce647767f729a1a518614eb34f4a5cacfcadde76c5cc7a",
+            "source": "workday",
+            "source_posting_id": "/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1",
+            "posting_status": "no_longer_listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Principal-Product-Manager--Private-Markets_329647-1"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "US - NY NYC - 55 WATER ST",
+                "country": "US",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Raleigh, NC",
+                    "remote": false,
+                    "raw": "Raleigh, NC"
+                  },
+                  {
+                    "city": "US - TX - DALLAS 5430 LBJ FREEWAY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US - TX - DALLAS 5430 LBJ FREEWAY"
+                  },
+                  {
+                    "city": "US - VA - CHARLOTTESVILLE 212 7TH STREET",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "US - VA - CHARLOTTESVILLE 212 7TH STREET"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 101000,
+                "max": 175000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-08-13T00:00:00.000Z",
+            "first_seen_at": "2026-09-19T01:15:05.321Z",
+            "last_completed_fetch_at": "2026-09-23T20:34:49.954Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "c390f738-330c-4079-b991-ed6a686b24ad",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "912ff729-3a0a-80ba-a102-997fcc95fd84",
+        "employer_name": {
+          "state": "known",
+          "value": "Boston Consulting Group"
+        },
+        "title": {
+          "state": "known",
+          "value": "(Associate/Senior) AI Product Manager/Owner, Salesforce, United States - BCG X"
+        },
+        "description": {
+          "state": "known",
+          "value": "Locations : Boston | Brooklyn | Chicago | Dallas | Los Angeles | Miami | New York | Pittsburgh | San Francisco | Seattle | Manhattan Beach Who We Are Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact. To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive. We Are BCG X We’re a diverse team of more than 3,000 tech experts united by a drive to make a difference. Working across industries and disciplines, we combine our experience and expertise to tackle the biggest challenges faced by society today. We go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. Leveraging BCG’s global network and partnerships with leading organizations, BCG X provides a stable ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions. What You'll Do BCG continues to expand its Marketing, Sales & Pricing practice and is experiencing increasing demand, particularly in the areas of B2B Sales. We are thrilled to expand our breadth and depth of expertise in this space, especially in Sales and Customer Success technology, CRM Sales Cloud & Service Cloud implementation, and familiarity with B2B Sales, Support and Customer Success best practices. We are currently looking for a Product Owner at the Associate/Senior level who is familiar operating with Salesforce Sales Cloud, Service Cloud, Experience Cloud, and/or Revenue Cloud. Ideal candidates will have experience as a product owner delivering solutions in the areas pertaining to B2B Sales including Campaign to Cash, and Sales Enablement, Sales Automation / Customer Success via relevant Sales Technologies (e.g.Salesforce, Dynamics, SalesLoft, etc.), BI, Analytic & Recommendation Technologies (e.g. , Tableau, PowerBI, CRM Analytics, Python), understanding of core B2B Sales Models and Digital Engagement Channels (e.g. Email, eCommerce, Virtual, etc.). Candidates should also have experience engaging with, and driving consensus across, business and IT stakeholders. What You'll Do In this role you will: Be the authority within a multi-disciplinary team to determine the optimal strategy to identify highest value use cases to unlock GTM across Marketing, Sales, and Service Lead roadmap creation, strategy, execution, and optimization for clients around digital transformation with SFDC as a platform Own multi-channel growth strategy based on marketing, sales, pricing, and digital self-service Define, execute, analyze, and optimize sophisticated Salesforce technical use case focused on pilot to scale mapping to quantitative impact Collaborate with X and core leadership to drive execution and implementation of identified use cases and roadmap Be value oriented by defining and validating core KPIs that will be achieved through execution of the SFDC strategy and roadmap such as customer acquisition, retention, share of wallet, win rate, ROI etc. to drive the business Build on BCG’s differentiation by building truly unique capabilities around media, technology, customer journey, and Growth operating models Be agile and iterative in your approach, and relentless in your search for the next unexploited growth opportunity What You'll Bring You should have: 2 - 6 years of professional experience in industry, consulting, or a relevant functional role Experience with Salesforce as well as other GTM tools like Marketo, Eloqua, or similar platforms Expert knowledge of CRM adjacent tools like 3rd party applications, managed packages, and expert in navigating PPT and Excel Proven ability to evaluate business and technical trade-offs (effort vs. value), resolve conflicts, and make critical choices on functionality, user experience, and technical implementation to maximize value and meet business objectives Experience collaborating with cross-functional stakeholders to establish a clear vision and strategy for the CRM modernization project and to collect and prioritize requirements Experience defining business goals, user needs, and market demands to define a product’s direction Experience collaborating with development teams, serving as the primary point of contact between business stakeholders and the technical teams A passion for B2B sales, marketing, service, driving customer adoption, bringing products to market, and scaling digital products and services Understanding of business outcomes and associated KPIs that will be impacted by product features in order to contribute to overall program value case Ability to think strategically and creatively: analyze, synthesize, recommend and take actions Previous sales, marketing, or service delivery experience focused on user acquisition, retention and other growth levers proliferating B2B facing digital products and services Expert communication, presentation, and material preparation skills required Previous experience at a professional consulting company highly desired Please note: any degree programs (including part-time) must be completed before starting at BCG. You must live within a reasonable commuting distance of your home office. As a member of that office, it is expected you will be in the office as directed. This role puts you on an accelerated path of personal and professional growth and development and so, at times, requires extended working hours. Our work often requires travel to client sites. Additional info FOR U.S. APPLICANTS: BCG is an Equal Employment Opportunity employer and is committed to a policy of administering all employment decisions and actions without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. The first-year base compensation for this role is: Associate: $139,500-$155,000 USD Senior: $200,000 USD At BCG, we are committed to offering a comprehensive benefit program that includes everything our employees and their families need to be well and live life to the fullest. We pay the full cost of medical, dental, and vision coverage for employees – and their eligible family members. * That’s zero dollars in premiums taken from employee paychecks. All our plans provide best in class coverage: Zero-dollar ($0) health insurance premiums for BCG employees, spouses, and children Low $10 (USD) copays for trips to the doctor, urgent care visits and prescriptions for generic drugs Dental coverage, including up to $5,000 in orthodontia benefits Vision insurance with coverage for both glasses and contact lenses annually Reimbursement for gym memberships and other fitness activities Fully vested Profit-Sharing Retirement Fund contributions made annually, whether you contribute or not, plus the option for employees to make personal contributions to a 401(k) plan Paid Parental Leave and other family benefits such as elective egg freezing, surrogacy, and adoption reimbursement Generous paid time off including 12 holidays per year, an annual office closure between Christmas and New Years, and 15 vacation days per year (earned at 1.25 days per month) Paid sick time on an as needed basis *Employees, spouses, and children are covered at no cost. Employees share in the cost of domestic partner coverage. #BCGXJob Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws. BCG is an E - Verify Employer. Click here for more information on E-Verify."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Brooklyn",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36047",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Los Angeles",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Miami",
+              "region": "US-FL",
+              "country": "US",
+              "county_fips": "12086",
+              "msa": {
+                "cbsa_code": "33100",
+                "cbsa_title": "Miami-Fort Lauderdale-West Palm Beach, FL",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Pittsburgh",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42003",
+              "msa": {
+                "cbsa_code": "38300",
+                "cbsa_title": "Pittsburgh, PA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Manhattan Beach",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-25T18:01:02.179Z",
+        "curated_at": "2026-09-26T09:48:21.125Z",
+        "job_updated_at": "2026-11-06T10:18:20.846Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 13950000,
+                "max_cents": 15500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "6da8b58b70687e5c1151b40ddac03cd6d9b1e7f0dcbcb44f8a1378c795424b8e",
+            "source": "phenom",
+            "source_posting_id": "59578",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.bcg.com/global/en/job/59578"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318613605?post_onboarding_pid=790318613605&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boston",
+                "state": "Massachusetts",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "MA",
+                "latitude": 42.35843,
+                "longitude": -71.05977,
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Brooklyn",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.6501,
+                    "longitude": -73.94958,
+                    "remote": false,
+                    "raw": "Brooklyn, New York, United States of America"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "Illinois",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 41.85003,
+                    "longitude": -87.65005,
+                    "remote": false,
+                    "raw": "Chicago, Illinois, United States of America"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "Texas",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 32.78306,
+                    "longitude": -96.80667,
+                    "remote": false,
+                    "raw": "Dallas, Texas, United States of America"
+                  },
+                  {
+                    "city": "Los Angeles",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 34.05223,
+                    "longitude": -118.24368,
+                    "remote": false,
+                    "raw": "Los Angeles, California, United States of America"
+                  },
+                  {
+                    "city": "Miami",
+                    "state": "Florida",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 25.77427,
+                    "longitude": -80.19366,
+                    "remote": false,
+                    "raw": "Miami, Florida, United States of America"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.71427,
+                    "longitude": -74.00597,
+                    "remote": false,
+                    "raw": "New York, New York, United States of America"
+                  },
+                  {
+                    "city": "Pittsburgh",
+                    "state": "Pennsylvania",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.44062,
+                    "longitude": -79.99589,
+                    "remote": false,
+                    "raw": "Pittsburgh, Pennsylvania, United States of America"
+                  },
+                  {
+                    "city": "San Francisco",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 37.77493,
+                    "longitude": -122.41942,
+                    "remote": false,
+                    "raw": "San Francisco, California, United States of America"
+                  },
+                  {
+                    "city": "Seattle",
+                    "state": "Washington",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 47.60621,
+                    "longitude": -122.33207,
+                    "remote": false,
+                    "raw": "Seattle, Washington, United States of America"
+                  },
+                  {
+                    "city": "Manhattan Beach",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 33.88474,
+                    "longitude": -118.41091,
+                    "remote": false,
+                    "raw": "Manhattan Beach, California, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 139500,
+                "max": 155000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-09-25T00:00:00.000Z",
+            "first_seen_at": "2026-09-25T18:01:02.179Z",
+            "last_completed_fetch_at": "2026-11-06T10:18:12.667Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "7b0196cb-7918-4b0b-9a99-f7658ad73a3f",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "4a2b4e77-2cff-85b6-9bbb-d5f6267a98d3",
+        "employer_name": {
+          "state": "known",
+          "value": "NAC Voya Services Company"
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "*****Together we fight for everyone’s opportunity for a better financial future.*****\n\nWe will do this together — with customers, partners and colleagues. We will fight for others, not against: We will stand up for and champion everyone’s access to opportunities. The status quo is not good enough … we believe every individual and every community deserves access to financial opportunities. We are determined to support both individuals and communities in reaching a better financial future.  We know that reaching this future depends on our actions today.\n\nLike our Purpose Statement, Voya believes in being bold and committed to action.  We are committed to a work environment where the differences that we are born with — and those we acquire throughout our lives — are understood, valued and intentionally pursued. We believe that our employees own our culture and have a responsibility to foster an environment where we all feel comfortable bringing our whole selves to work. Purposefully bringing our differences together to positively influence our culture, serve our clients and enrich our communities is essential to our vision.\n\n****Are you ready to join a company with a strong purpose and a winning culture? Start your Voyage –**** ****Apply Now****\n\n**Profile Summary:**\n\nThe Lead AI Product Manager is a senior individual contributor responsible for defining and executing AI product strategy for digital and wealth management solutions. This role owns product vision, roadmap, and go-to-market execution for AI-powered experiences that support retirement plan participants, financial advisors, and plan sponsor clients. The position requires strong technical fluency in large language models, agentic systems, AI evaluation, and regulated product development, along with the business judgment to prioritize high-impact opportunities and deliver measurable outcomes.\n\n**Profile Description:**\n\n* Define and lead the AI product strategy and 12–18 month roadmap across participant engagement, advisor enablement, plan administration, and investment-related experiences.\n    \n* Identify, assess, and prioritize AI opportunities using customer research, behavioral data, workflow analysis, and competitive insights.\n    \n* Establish clear success metrics and own business outcomes such as engagement, adoption, operational efficiency, and retirement readiness improvements.\n    \n* Lead discovery with advisors, plan sponsors, administrators, and participants to translate business needs into clear product requirements and technical specifications.\n    \n* Partner closely with engineering teams to evaluate prototypes, guide product trade-offs, and support rapid iteration through launch.\n    \n* Ensure solutions meet compliance, legal, risk, and fiduciary standards within a regulated financial services environment.\n    \n* Drive go-to-market planning, rollout sequencing, stakeholder communication, and adoption measurement for AI-enabled products.\n    \n* Build alignment across senior stakeholders in business, technology, compliance, and investment teams while influencing without direct authority.\n    \n\n**Knowledge & Experience:**\n\n* Bachelor’s degree in Computer Science, Engineering, Finance, Economics, Mathematics, or a related quantitative field required; advanced degree preferred.\n    \n* 8+ years of product management experience, including at least 4 years in AI or machine learning product roles within technology, fintech, or financial services.\n    \n* Proven experience delivering AI-powered products from discovery through launch and measurable adoption.\n    \n* Strong knowledge of LLM-based products, retrieval-augmented generation, agentic workflows, model evaluation frameworks, experimentation methods, and data-informed product development.\n    \n* Ability to write high-quality product requirements and technical specifications for engineering teams.\n    \n* Experience working in regulated environments and partnering with compliance, legal, and risk stakeholders.\n    \n* Strong understanding of retirement, wealth, or financial services products, including fiduciary considerations and participant or advisor workflows.\n    \n* Excellent communication, prioritization, and stakeholder management skills, with the ability to influence senior leaders and cross-functional teams.\n    \n\n****Compensation Pay Disclosure:****\n\nVoya is committed to pay that’s fair and equitable, which means comparable pay for comparable roles and responsibilities.\n\nThe below annual base salary range reflects the expected hiring range(s) for this position in the location(s) listed. In addition to base salary, Voya offers incentive opportunities (i.e., annual cash incentives, sales incentives, and/or long-term incentives) based on the role to reward the achievement of annual performance objectives. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Voya Financial is willing to pay at the time of this posting.\n\nActual compensation offered may vary from the posted salary range based upon the candidate’s geographic location, work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\n$136,560 - $170,700 USD\n\n****Be Well. Stay Well.****\n\nVoya provides the resources that can make a difference in your lives. To us, this means thriving physically, financially, socially and emotionally. Voya benefits are designed to help you do just that. That’s why we offer an array of plans, programs, tools and resources with one goal in mind: To help you and your family be well and stay well.\n\n****What We Offer****\n\n* Health, dental, vision and life insurance plans\n* 401(k) Savings plan – with generous company matching contributions (up to 6%)\n* Voya Retirement Plan – employer paid cash balance retirement plan (4%)\n* Tuition reimbursement up to $5,250/year\n* Paid time off – including 20 days paid time off, nine paid company holidays and a flexible Diversity Celebration Day.\n* Paid volunteer time — 40 hours per calendar year\n\n*Learn more about* [Voya benefits (download PDF)](https://assets.voya.com/m/65c932d9fbfe4634/original/Voya_Benefits_Highlights.pdf)\n\n****Critical Skills****\n\nAt Voya, we have identified the following critical skills which are key to success in our culture:\n\n* ****Customer Focused**:** Passionate drive to delight our customers and offer unique solutions that deliver on their expectations.\n* ****Critical Thinking**:** Thoughtful process of analyzing data and problem solving data to reach a well-reasoned solution.\n* ****Team Mentality**:** Partnering effectively to drive our culture and execute on our common goals.\n* ****Business Acumen**:** Appreciation and understanding of the financial services industry in order to make sound business decisions.\n* ****Learning Agility**:** Openness to new ways of thinking and acquiring new skills to retain a competitive advantage.\n\n*Learn more about [Critical Skills](https://corporate.voya.com/careers/working-voya-financial/critical-skills)*\n\n****Equal Employment Opportunity****\n\n*Voya Financial is an equal-opportunity employer. Voya Financial provides equal opportunity to qualified individuals regardless of race, color, sex, national origin, citizenship status, religion, age, disability, veteran status, creed, marital status, sexual orientation, gender identity, genetic information, or any other status protected by state or local law.*\n\n****Reasonable Accommodations****\n\n*Voya is committed to the inclusion of all qualified individuals. As part of this commitment, Voya will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please reference* *[resources for applicants with disabilities](https://www.voya.com/page/applicants-disabilities).*\n\n[Misuse of Voya's name in fraud schemes](https://www.voya.com/articles/other-helpful-information#employment)\n\n  \n\n### **Voya Financial**, Inc., is a leading retirement, employee benefits and investment management company. Voya’s services and solutions help clear the path to financial confidence and a more fulfilling life for individual, workplace and institutional clients, supporting more than 18 million customer relationships. Certified as a “Great Place to Work” by the Great Place to Work® Institute, Voya fosters a culture that values customer centricity, integrity, accountability, agility and inclusivity. Together with customers and partners, Voya employees fight for everyone's opportunity for a better financial future. For more information visit [https://www.voya.com/](https://www.voya.com/)\n\n  \n\n### Voya’s values serve as our compass, bringing together our culture, performance, brand, vision, strategy and corporate responsibility activities. Our values guide our decision-making and behaviors allowing us to deliver worth to our customers, distribution partners, shareholders and each other.\n\n### With a lens on balance, health & welfare, our work environment offers **flexibility**. The majority of our roles have adopted a hybrid schedule — working some days in the office and some days remotely, providing flexibility for work-life balance and still allowing the benefit of in-person collaboration. Some functions will continue to be 100% on-site and others may be fully remote, depending on business needs.\n\n* ### **We care**\n    \n* ### **We do the right thing**\n    \n* ### **We have customer passion**\n    \n* ### **We have a winning spirit**\n    \n* ### **We are the We**\n    \n\n  \n\n### Certified by the Great Place to Work® Institute as a Great Place to Work® for the 10th consecutive year, Voya is equally committed to conducting business in a way that is socially, environmentally, economically and ethically responsible. Voya’s culture is proudly recognized by multiple organizations. See a [full listing of our awards and recognition](https://www.voya.com/about-us/our-character/awards-and-recognition).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Atlanta",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": "13121",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Work@Home",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-04T14:05:01.468Z",
+        "curated_at": "2026-11-04T15:55:16.437Z",
+        "job_updated_at": "2026-11-04T15:55:16.437Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 13656000,
+                "max_cents": 17070000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "71d4a37e7a594959dbfe757b244d26686b12cc79b2d42e0574fd7d6c734c9967",
+            "source": "workday",
+            "source_posting_id": "/job/Atlanta-GA/Lead-AI-Product-Manager_JR0033040",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Lead-AI-Product-Manager_JR0033040"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Lead-AI-Product-Manager_JR0033040"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Atlanta",
+                "state": "GA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "GA",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Work@Home",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "NY-Work@Home, New York"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 136560,
+                "max": 170700,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-26T00:00:00.000Z",
+            "first_seen_at": "2026-11-04T14:05:01.468Z",
+            "last_completed_fetch_at": "2026-11-07T12:37:28.583Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "29d3e4bf-c2e7-48b7-ae6d-992889edfd44",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "d63561df-d2ab-87d6-9abf-63755b2629f0",
+        "employer_name": {
+          "state": "known",
+          "value": "NAC Voya Services Company"
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "*****Together we fight for everyone’s opportunity for a better financial future.*****\n\nWe will do this together — with customers, partners and colleagues. We will fight for others, not against: We will stand up for and champion everyone’s access to opportunities. The status quo is not good enough … we believe every individual and every community deserves access to financial opportunities. We are determined to support both individuals and communities in reaching a better financial future.  We know that reaching this future depends on our actions today.\n\nLike our Purpose Statement, Voya believes in being bold and committed to action.  We are committed to a work environment where the differences that we are born with — and those we acquire throughout our lives — are understood, valued and intentionally pursued. We believe that our employees own our culture and have a responsibility to foster an environment where we all feel comfortable bringing our whole selves to work. Purposefully bringing our differences together to positively influence our culture, serve our clients and enrich our communities is essential to our vision.\n\n****Are you ready to join a company with a strong purpose and a winning culture? Start your Voyage –**** ****Apply Now****\n\n**Profile Summary:**\n\nThe Lead AI Product Manager is a senior individual contributor responsible for defining and executing AI product strategy for digital and wealth management solutions. This role owns product vision, roadmap, and go-to-market execution for AI-powered experiences that support retirement plan participants, financial advisors, and plan sponsor clients. The position requires strong technical fluency in large language models, agentic systems, AI evaluation, and regulated product development, along with the business judgment to prioritize high-impact opportunities and deliver measurable outcomes.\n\n**Profile Description:**\n\n* Define and lead the AI product strategy and 12–18 month roadmap across participant engagement, advisor enablement, plan administration, and investment-related experiences.\n    \n* Identify, assess, and prioritize AI opportunities using customer research, behavioral data, workflow analysis, and competitive insights.\n    \n* Establish clear success metrics and own business outcomes such as engagement, adoption, operational efficiency, and retirement readiness improvements.\n    \n* Lead discovery with advisors, plan sponsors, administrators, and participants to translate business needs into clear product requirements and technical specifications.\n    \n* Partner closely with engineering teams to evaluate prototypes, guide product trade-offs, and support rapid iteration through launch.\n    \n* Ensure solutions meet compliance, legal, risk, and fiduciary standards within a regulated financial services environment.\n    \n* Drive go-to-market planning, rollout sequencing, stakeholder communication, and adoption measurement for AI-enabled products.\n    \n* Build alignment across senior stakeholders in business, technology, compliance, and investment teams while influencing without direct authority.\n    \n\n**Knowledge & Experience:**\n\n* Bachelor’s degree in Computer Science, Engineering, Finance, Economics, Mathematics, or a related quantitative field required; advanced degree preferred.\n    \n* 8+ years of product management experience, including at least 4 years in AI or machine learning product roles within technology, fintech, or financial services.\n    \n* Proven experience delivering AI-powered products from discovery through launch and measurable adoption.\n    \n* Strong knowledge of LLM-based products, retrieval-augmented generation, agentic workflows, model evaluation frameworks, experimentation methods, and data-informed product development.\n    \n* Ability to write high-quality product requirements and technical specifications for engineering teams.\n    \n* Experience working in regulated environments and partnering with compliance, legal, and risk stakeholders.\n    \n* Strong understanding of retirement, wealth, or financial services products, including fiduciary considerations and participant or advisor workflows.\n    \n* Excellent communication, prioritization, and stakeholder management skills, with the ability to influence senior leaders and cross-functional teams.\n    \n\n****Compensation Pay Disclosure:****\n\nVoya is committed to pay that’s fair and equitable, which means comparable pay for comparable roles and responsibilities.\n\nThe below annual base salary range reflects the expected hiring range(s) for this position in the location(s) listed. In addition to base salary, Voya offers incentive opportunities (i.e., annual cash incentives, sales incentives, and/or long-term incentives) based on the role to reward the achievement of annual performance objectives. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Voya Financial is willing to pay at the time of this posting.\n\nActual compensation offered may vary from the posted salary range based upon the candidate’s geographic location, work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\n$136,560 - $170,700 USD\n\n****Be Well. Stay Well.****\n\nVoya provides the resources that can make a difference in your lives. To us, this means thriving physically, financially, socially and emotionally. Voya benefits are designed to help you do just that. That’s why we offer an array of plans, programs, tools and resources with one goal in mind: To help you and your family be well and stay well.\n\n****What We Offer****\n\n* Health, dental, vision and life insurance plans\n* 401(k) Savings plan – with generous company matching contributions (up to 6%)\n* Voya Retirement Plan – employer paid cash balance retirement plan (4%)\n* Tuition reimbursement up to $5,250/year\n* Paid time off – including 20 days paid time off, nine paid company holidays and a flexible Diversity Celebration Day.\n* Paid volunteer time — 40 hours per calendar year\n\n*Learn more about* [Voya benefits (download PDF)](https://assets.voya.com/m/65c932d9fbfe4634/original/Voya_Benefits_Highlights.pdf)\n\n****Critical Skills****\n\nAt Voya, we have identified the following critical skills which are key to success in our culture:\n\n* ****Customer Focused**:** Passionate drive to delight our customers and offer unique solutions that deliver on their expectations.\n* ****Critical Thinking**:** Thoughtful process of analyzing data and problem solving data to reach a well-reasoned solution.\n* ****Team Mentality**:** Partnering effectively to drive our culture and execute on our common goals.\n* ****Business Acumen**:** Appreciation and understanding of the financial services industry in order to make sound business decisions.\n* ****Learning Agility**:** Openness to new ways of thinking and acquiring new skills to retain a competitive advantage.\n\n*Learn more about [Critical Skills](https://corporate.voya.com/careers/working-voya-financial/critical-skills)*\n\n****Equal Employment Opportunity****\n\n*Voya Financial is an equal-opportunity employer. Voya Financial provides equal opportunity to qualified individuals regardless of race, color, sex, national origin, citizenship status, religion, age, disability, veteran status, creed, marital status, sexual orientation, gender identity, genetic information, or any other status protected by state or local law.*\n\n****Reasonable Accommodations****\n\n*Voya is committed to the inclusion of all qualified individuals. As part of this commitment, Voya will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please reference* *[resources for applicants with disabilities](https://www.voya.com/page/applicants-disabilities).*\n\n[Misuse of Voya's name in fraud schemes](https://www.voya.com/articles/other-helpful-information#employment)\n\n  \n\n### **Voya Financial**, Inc., is a leading retirement, employee benefits and investment management company. Voya’s services and solutions help clear the path to financial confidence and a more fulfilling life for individual, workplace and institutional clients, supporting more than 18 million customer relationships. Certified as a “Great Place to Work” by the Great Place to Work® Institute, Voya fosters a culture that values customer centricity, integrity, accountability, agility and inclusivity. Together with customers and partners, Voya employees fight for everyone's opportunity for a better financial future. For more information visit [https://www.voya.com/](https://www.voya.com/)\n\n  \n\n### Voya’s values serve as our compass, bringing together our culture, performance, brand, vision, strategy and corporate responsibility activities. Our values guide our decision-making and behaviors allowing us to deliver worth to our customers, distribution partners, shareholders and each other.\n\n### With a lens on balance, health & welfare, our work environment offers **flexibility**. The majority of our roles have adopted a hybrid schedule — working some days in the office and some days remotely, providing flexibility for work-life balance and still allowing the benefit of in-person collaboration. Some functions will continue to be 100% on-site and others may be fully remote, depending on business needs.\n\n* ### **We care**\n    \n* ### **We do the right thing**\n    \n* ### **We have customer passion**\n    \n* ### **We have a winning spirit**\n    \n* ### **We are the We**\n    \n\n  \n\n### Certified by the Great Place to Work® Institute as a Great Place to Work® for the 10th consecutive year, Voya is equally committed to conducting business in a way that is socially, environmentally, economically and ethically responsible. Voya’s culture is proudly recognized by multiple organizations. See a [full listing of our awards and recognition](https://www.voya.com/about-us/our-character/awards-and-recognition).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Atlanta",
+              "region": "US-GA",
+              "country": "US",
+              "county_fips": "13121",
+              "msa": {
+                "cbsa_code": "12060",
+                "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Work@Home",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-04T13:39:47.987Z",
+        "curated_at": "2026-11-04T13:40:12.194Z",
+        "job_updated_at": "2026-11-04T13:40:12.194Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 13656000,
+                "max_cents": 17070000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "71d4a37e7a594959dbfe757b244d26686b12cc79b2d42e0574fd7d6c734c9967",
+            "source": "workday",
+            "source_posting_id": "/job/Atlanta-GA/Lead-AI-Product-Manager_JR0033040",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Lead-AI-Product-Manager_JR0033040"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Lead-AI-Product-Manager_JR0033040"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Atlanta",
+                "state": "GA",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "GA",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Work@Home",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "NY-Work@Home, New York"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 136560,
+                "max": 170700,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-10-26T00:00:00.000Z",
+            "first_seen_at": "2026-11-04T13:39:47.987Z",
+            "last_completed_fetch_at": "2026-11-04T13:39:47.888Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "31236a37-4602-49b1-bc23-1dfc145d3fb0",
+        "currentness": "current",
+        "stale": false,
+        "company_id": "11b3fbe8-dae2-84d7-9503-d77eb37b890e",
+        "employer_name": {
+          "state": "known",
+          "value": "Boston Consulting Group"
+        },
+        "title": {
+          "state": "known",
+          "value": "(Associate/Senior) AI Product Manager/Owner, Salesforce, United States - BCG X"
+        },
+        "description": {
+          "state": "known",
+          "value": "Locations : Boston | Brooklyn | Chicago | Dallas | Los Angeles | Miami | New York | Pittsburgh | San Francisco | Seattle | Manhattan Beach Who We Are Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact. To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive. We Are BCG X We’re a diverse team of more than 3,000 tech experts united by a drive to make a difference. Working across industries and disciplines, we combine our experience and expertise to tackle the biggest challenges faced by society today. We go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. Leveraging BCG’s global network and partnerships with leading organizations, BCG X provides a stable ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions. What You'll Do BCG continues to expand its Marketing, Sales & Pricing practice and is experiencing increasing demand, particularly in the areas of B2B Sales. We are thrilled to expand our breadth and depth of expertise in this space, especially in Sales and Customer Success technology, CRM Sales Cloud & Service Cloud implementation, and familiarity with B2B Sales, Support and Customer Success best practices. We are currently looking for a Product Owner at the Associate/Senior level who is familiar operating with Salesforce Sales Cloud, Service Cloud, Experience Cloud, and/or Revenue Cloud. Ideal candidates will have experience as a product owner delivering solutions in the areas pertaining to B2B Sales including Campaign to Cash, and Sales Enablement, Sales Automation / Customer Success via relevant Sales Technologies (e.g.Salesforce, Dynamics, SalesLoft, etc.), BI, Analytic & Recommendation Technologies (e.g. , Tableau, PowerBI, CRM Analytics, Python), understanding of core B2B Sales Models and Digital Engagement Channels (e.g. Email, eCommerce, Virtual, etc.). Candidates should also have experience engaging with, and driving consensus across, business and IT stakeholders. What You'll Do In this role you will: Be the authority within a multi-disciplinary team to determine the optimal strategy to identify highest value use cases to unlock GTM across Marketing, Sales, and Service Lead roadmap creation, strategy, execution, and optimization for clients around digital transformation with SFDC as a platform Own multi-channel growth strategy based on marketing, sales, pricing, and digital self-service Define, execute, analyze, and optimize sophisticated Salesforce technical use case focused on pilot to scale mapping to quantitative impact Collaborate with X and core leadership to drive execution and implementation of identified use cases and roadmap Be value oriented by defining and validating core KPIs that will be achieved through execution of the SFDC strategy and roadmap such as customer acquisition, retention, share of wallet, win rate, ROI etc. to drive the business Build on BCG’s differentiation by building truly unique capabilities around media, technology, customer journey, and Growth operating models Be agile and iterative in your approach, and relentless in your search for the next unexploited growth opportunity What You'll Bring You should have: 2 - 6 years of professional experience in industry, consulting, or a relevant functional role Experience with Salesforce as well as other GTM tools like Marketo, Eloqua, or similar platforms Expert knowledge of CRM adjacent tools like 3rd party applications, managed packages, and expert in navigating PPT and Excel Proven ability to evaluate business and technical trade-offs (effort vs. value), resolve conflicts, and make critical choices on functionality, user experience, and technical implementation to maximize value and meet business objectives Experience collaborating with cross-functional stakeholders to establish a clear vision and strategy for the CRM modernization project and to collect and prioritize requirements Experience defining business goals, user needs, and market demands to define a product’s direction Experience collaborating with development teams, serving as the primary point of contact between business stakeholders and the technical teams A passion for B2B sales, marketing, service, driving customer adoption, bringing products to market, and scaling digital products and services Understanding of business outcomes and associated KPIs that will be impacted by product features in order to contribute to overall program value case Ability to think strategically and creatively: analyze, synthesize, recommend and take actions Previous sales, marketing, or service delivery experience focused on user acquisition, retention and other growth levers proliferating B2B facing digital products and services Expert communication, presentation, and material preparation skills required Previous experience at a professional consulting company highly desired Please note: any degree programs (including part-time) must be completed before starting at BCG. You must live within a reasonable commuting distance of your home office. As a member of that office, it is expected you will be in the office as directed. This role puts you on an accelerated path of personal and professional growth and development and so, at times, requires extended working hours. Our work often requires travel to client sites. Additional info FOR U.S. APPLICANTS: BCG is an Equal Employment Opportunity employer and is committed to a policy of administering all employment decisions and actions without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. The first-year base compensation for this role is: Associate: $139,500-$155,000 USD Senior: $200,000 USD At BCG, we are committed to offering a comprehensive benefit program that includes everything our employees and their families need to be well and live life to the fullest. We pay the full cost of medical, dental, and vision coverage for employees – and their eligible family members. * That’s zero dollars in premiums taken from employee paychecks. All our plans provide best in class coverage: Zero-dollar ($0) health insurance premiums for BCG employees, spouses, and children Low $10 (USD) copays for trips to the doctor, urgent care visits and prescriptions for generic drugs Dental coverage, including up to $5,000 in orthodontia benefits Vision insurance with coverage for both glasses and contact lenses annually Reimbursement for gym memberships and other fitness activities Fully vested Profit-Sharing Retirement Fund contributions made annually, whether you contribute or not, plus the option for employees to make personal contributions to a 401(k) plan Paid Parental Leave and other family benefits such as elective egg freezing, surrogacy, and adoption reimbursement Generous paid time off including 12 holidays per year, an annual office closure between Christmas and New Years, and 15 vacation days per year (earned at 1.25 days per month) Paid sick time on an as needed basis *Employees, spouses, and children are covered at no cost. Employees share in the cost of domestic partner coverage. #BCGXJob Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws. BCG is an E - Verify Employer. Click here for more information on E-Verify."
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Boston",
+              "region": "US-MA",
+              "country": "US",
+              "county_fips": "25025",
+              "msa": {
+                "cbsa_code": "14460",
+                "cbsa_title": "Boston-Cambridge-Newton, MA-NH",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Brooklyn",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36047",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Chicago",
+              "region": "US-IL",
+              "country": "US",
+              "county_fips": "17031",
+              "msa": {
+                "cbsa_code": "16980",
+                "cbsa_title": "Chicago-Naperville-Elgin, IL-IN",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Dallas",
+              "region": "US-TX",
+              "country": "US",
+              "county_fips": "48113",
+              "msa": {
+                "cbsa_code": "19100",
+                "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Los Angeles",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Miami",
+              "region": "US-FL",
+              "country": "US",
+              "county_fips": "12086",
+              "msa": {
+                "cbsa_code": "33100",
+                "cbsa_title": "Miami-Fort Lauderdale-West Palm Beach, FL",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "New York",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": "36061",
+              "msa": {
+                "cbsa_code": "35620",
+                "cbsa_title": "New York-Newark-Jersey City, NY-NJ",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Pittsburgh",
+              "region": "US-PA",
+              "country": "US",
+              "county_fips": "42003",
+              "msa": {
+                "cbsa_code": "38300",
+                "cbsa_title": "Pittsburgh, PA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "San Francisco",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06075",
+              "msa": {
+                "cbsa_code": "41860",
+                "cbsa_title": "San Francisco-Oakland-Fremont, CA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Seattle",
+              "region": "US-WA",
+              "country": "US",
+              "county_fips": "53033",
+              "msa": {
+                "cbsa_code": "42660",
+                "cbsa_title": "Seattle-Tacoma-Bellevue, WA",
+                "type": "metro"
+              }
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Manhattan Beach",
+              "region": "US-CA",
+              "country": "US",
+              "county_fips": "06037",
+              "msa": {
+                "cbsa_code": "31080",
+                "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+                "type": "metro"
+              }
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-11-04T10:29:23.488Z",
+        "curated_at": "2026-11-04T10:30:58.106Z",
+        "job_updated_at": "2026-11-04T10:30:58.106Z",
+        "normalized": [],
+        "postings": [
+          {
+            "money": [
+              {
+                "kind": "range",
+                "min_cents": 13950000,
+                "max_cents": 15500000,
+                "amount_cents": null,
+                "currency": "USD",
+                "period": "year",
+                "source_path": "payload.compensation",
+                "amount_status": {
+                  "min": "ok",
+                  "max": "ok",
+                  "amount": "missing"
+                }
+              }
+            ],
+            "posting_id": "6da8b58b70687e5c1151b40ddac03cd6d9b1e7f0dcbcb44f8a1378c795424b8e",
+            "source": "phenom",
+            "source_posting_id": "59578",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://careers.bcg.com/global/en/job/59578"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318613605?post_onboarding_pid=790318613605&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Boston",
+                "state": "Massachusetts",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "MA",
+                "latitude": 42.35843,
+                "longitude": -71.05977,
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Brooklyn",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.6501,
+                    "longitude": -73.94958,
+                    "remote": false,
+                    "raw": "Brooklyn, New York, United States of America"
+                  },
+                  {
+                    "city": "Chicago",
+                    "state": "Illinois",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 41.85003,
+                    "longitude": -87.65005,
+                    "remote": false,
+                    "raw": "Chicago, Illinois, United States of America"
+                  },
+                  {
+                    "city": "Dallas",
+                    "state": "Texas",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 32.78306,
+                    "longitude": -96.80667,
+                    "remote": false,
+                    "raw": "Dallas, Texas, United States of America"
+                  },
+                  {
+                    "city": "Los Angeles",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 34.05223,
+                    "longitude": -118.24368,
+                    "remote": false,
+                    "raw": "Los Angeles, California, United States of America"
+                  },
+                  {
+                    "city": "Miami",
+                    "state": "Florida",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 25.77427,
+                    "longitude": -80.19366,
+                    "remote": false,
+                    "raw": "Miami, Florida, United States of America"
+                  },
+                  {
+                    "city": "New York",
+                    "state": "New York",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.71427,
+                    "longitude": -74.00597,
+                    "remote": false,
+                    "raw": "New York, New York, United States of America"
+                  },
+                  {
+                    "city": "Pittsburgh",
+                    "state": "Pennsylvania",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 40.44062,
+                    "longitude": -79.99589,
+                    "remote": false,
+                    "raw": "Pittsburgh, Pennsylvania, United States of America"
+                  },
+                  {
+                    "city": "San Francisco",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 37.77493,
+                    "longitude": -122.41942,
+                    "remote": false,
+                    "raw": "San Francisco, California, United States of America"
+                  },
+                  {
+                    "city": "Seattle",
+                    "state": "Washington",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 47.60621,
+                    "longitude": -122.33207,
+                    "remote": false,
+                    "raw": "Seattle, Washington, United States of America"
+                  },
+                  {
+                    "city": "Manhattan Beach",
+                    "state": "California",
+                    "country": "US",
+                    "countryRaw": "United States of America",
+                    "latitude": 33.88474,
+                    "longitude": -118.41091,
+                    "remote": false,
+                    "raw": "Manhattan Beach, California, United States of America"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 139500,
+                "max": 155000,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-09-25T00:00:00.000Z",
+            "first_seen_at": "2026-11-04T10:29:23.488Z",
+            "last_completed_fetch_at": null,
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      },
+      {
+        "job_id": "a42b2253-edea-4708-b9b2-8788e985822e",
+        "currentness": "current",
+        "stale": false,
+        "company_id": null,
+        "employer_name": {
+          "state": "known",
+          "value": "NAC Voya Services Company"
+        },
+        "title": {
+          "state": "known",
+          "value": "Lead AI Product Manager"
+        },
+        "description": {
+          "state": "known",
+          "value": "*****Together we fight for everyone’s opportunity for a better financial future.*****\n\nWe will do this together — with customers, partners and colleagues. We will fight for others, not against: We will stand up for and champion everyone’s access to opportunities. The status quo is not good enough … we believe every individual and every community deserves access to financial opportunities. We are determined to support both individuals and communities in reaching a better financial future.  We know that reaching this future depends on our actions today.\n\nLike our Purpose Statement, Voya believes in being bold and committed to action.  We are committed to a work environment where the differences that we are born with — and those we acquire throughout our lives — are understood, valued and intentionally pursued. We believe that our employees own our culture and have a responsibility to foster an environment where we all feel comfortable bringing our whole selves to work. Purposefully bringing our differences together to positively influence our culture, serve our clients and enrich our communities is essential to our vision.\n\n****Are you ready to join a company with a strong purpose and a winning culture? Start your Voyage –**** ****Apply Now****\n\n# Get to Know the Opportunity:\n\nThe Lead AI Product Manager is a senior individual contributor responsible for defining and executing AI product strategy for digital and wealth management solutions. This role owns product vision, roadmap development, and go-to-market execution for AI-powered experiences that support retirement plan participants, financial advisors, and plan sponsor clients.\n\nThe role requires strong technical fluency in large language models (LLMs), agentic systems, AI evaluation methodologies, and regulated product development. Working across business, technology, compliance, legal, and risk functions, the Lead AI Product Manager identifies high-impact opportunities and delivers AI-enabled solutions that drive measurable customer and business outcomes.\n\n# The Contributions You’ll Make:\n\n* Define and lead AI product strategy and a 12-18 month roadmap across participant engagement, advisor enablement, plan administration, and investment-related experiences.\n* Identify, evaluate, and prioritize AI opportunities through customer research, behavioral insights, workflow analysis, and competitive market intelligence.\n* Establish success metrics and own business outcomes, including engagement, adoption, operational efficiency, and retirement readiness improvements.\n* Lead discovery efforts with financial advisors, plan sponsors, administrators, and participants to translate business needs into product requirements and technical specifications.\n* Partner closely with engineering teams to evaluate prototypes, assess solution approaches, and drive informed product trade-off decisions.\n* Support rapid product iteration and delivery from concept through launch and adoption.\n* Ensure AI-powered solutions comply with legal, regulatory, fiduciary, compliance, and risk management requirements.\n* Drive go-to-market planning, rollout strategies, stakeholder communications, and adoption measurement for AI-enabled products.\n* Build alignment across business, technology, compliance, legal, risk, and investment stakeholders while influencing without direct authority.\n* Advocate for customer-centric product decisions while balancing business objectives, technical feasibility, and regulatory considerations.\n\n# Minimum Knowledge & Experience:\n\n* Bachelor's degree required.\n* 8+ years of product management experience, including at least 4 years supporting AI or machine learning products within technology, fintech, or financial services environments.\n* Proven experience delivering AI-powered products from discovery through launch and measurable adoption.\n* Strong knowledge of LLM-based products, retrieval-augmented generation (RAG), agentic workflows, model evaluation frameworks, experimentation methodologies, and data-driven product development.\n* Demonstrated ability to write clear, comprehensive product requirements and technical specifications for engineering teams.\n* Experience working within regulated environments and partnering with compliance, legal, and risk stakeholders.\n* Strong understanding of retirement, wealth management, or financial services products, including fiduciary considerations and participant or advisor workflows.\n* Excellent communication, prioritization, stakeholder management, and cross-functional leadership skills.\n* Ability to influence senior leaders and guide complex decisions across multiple teams and disciplines.\n\n# Preferred Knowledge & Experience:\n\n* Advanced degree in Computer Science, Engineering, Finance, Economics, Mathematics, or a related quantitative field preferred.\n* Experience supporting AI-powered digital experiences for retirement, wealth management, or advisory services.\n* Deep understanding of advisor, participant, plan sponsor, and plan administration workflows.\n* Experience launching and scaling enterprise AI products in highly regulated environments.\n* Familiarity with responsible AI frameworks, model governance, and AI risk management practices.\n* Experience driving go-to-market strategy and adoption programs for emerging technology products.\n\n****Compensation Pay Disclosure:****\n\nVoya is committed to pay that’s fair and equitable, which means comparable pay for comparable roles and responsibilities.\n\nThe below annual base salary range reflects the expected hiring range(s) for this position in the location(s) listed. In addition to base salary, Voya offers incentive opportunities (i.e., annual cash incentives, sales incentives, and/or long-term incentives) based on the role to reward the achievement of annual performance objectives. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Voya Financial is willing to pay at the time of this posting.\n\nActual compensation offered may vary from the posted salary range based upon the candidate’s geographic location, work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\n$130,970 - $183,680 USD\n\n****Be Well. Stay Well.****\n\nVoya provides the resources that can make a difference in your lives. To us, this means thriving physically, financially, socially and emotionally. Voya benefits are designed to help you do just that. That’s why we offer an array of plans, programs, tools and resources with one goal in mind: To help you and your family be well and stay well.\n\n****What We Offer****\n\n* Health, dental, vision and life insurance plans\n* 401(k) Savings plan – with generous company matching contributions (up to 6%)\n* Voya Retirement Plan – employer paid cash balance retirement plan (4%)\n* Tuition reimbursement up to $5,250/year\n* Paid time off – including 20 days paid time off, nine paid company holidays and a flexible Diversity Celebration Day.\n* Paid volunteer time — 40 hours per calendar year\n\n*Learn more about* [Voya benefits (download PDF)](https://assets.voya.com/m/65c932d9fbfe4634/original/Voya_Benefits_Highlights.pdf)\n\n****Critical Skills****\n\nAt Voya, we have identified the following critical skills which are key to success in our culture:\n\n* ****Customer Focused**:** Passionate drive to delight our customers and offer unique solutions that deliver on their expectations.\n* ****Critical Thinking**:** Thoughtful process of analyzing data and problem solving data to reach a well-reasoned solution.\n* ****Team Mentality**:** Partnering effectively to drive our culture and execute on our common goals.\n* ****Business Acumen**:** Appreciation and understanding of the financial services industry in order to make sound business decisions.\n* ****Learning Agility**:** Openness to new ways of thinking and acquiring new skills to retain a competitive advantage.\n\n*Learn more about [Critical Skills](https://corporate.voya.com/careers/working-voya-financial/critical-skills)*\n\n****Equal Employment Opportunity****\n\n*Voya Financial is an equal-opportunity employer. Voya Financial provides equal opportunity to qualified individuals regardless of race, color, sex, national origin, citizenship status, religion, age, disability, veteran status, creed, marital status, sexual orientation, gender identity, genetic information, or any other status protected by state or local law.*\n\n****Reasonable Accommodations****\n\n*Voya is committed to the inclusion of all qualified individuals. As part of this commitment, Voya will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please reference* *[resources for applicants with disabilities](https://www.voya.com/page/applicants-disabilities).*\n\n[Misuse of Voya's name in fraud schemes](https://www.voya.com/articles/other-helpful-information#employment)\n\n  \n\n### **Voya Financial**, Inc., is a leading retirement, employee benefits and investment management company. Voya’s services and solutions help clear the path to financial confidence and a more fulfilling life for individual, workplace and institutional clients, supporting more than 18 million customer relationships. Certified as a “Great Place to Work” by the Great Place to Work® Institute, Voya fosters a culture that values customer centricity, integrity, accountability, agility and inclusivity. Together with customers and partners, Voya employees fight for everyone's opportunity for a better financial future. For more information visit [https://www.voya.com/](https://www.voya.com/)\n\n  \n\n### Voya’s values serve as our compass, bringing together our culture, performance, brand, vision, strategy and corporate responsibility activities. Our values guide our decision-making and behaviors allowing us to deliver worth to our customers, distribution partners, shareholders and each other.\n\n### With a lens on balance, health & welfare, our work environment offers **flexibility**. The majority of our roles have adopted a hybrid schedule — working some days in the office and some days remotely, providing flexibility for work-life balance and still allowing the benefit of in-person collaboration. Some functions will continue to be 100% on-site and others may be fully remote, depending on business needs.\n\n* ### **We care**\n    \n* ### **We do the right thing**\n    \n* ### **We have customer passion**\n    \n* ### **We have a winning spirit**\n    \n* ### **We are the We**\n    \n\n  \n\n### Certified by the Great Place to Work® Institute as a Great Place to Work® for the 10th consecutive year, Voya is equally committed to conducting business in a way that is socially, environmentally, economically and ethically responsible. Voya’s culture is proudly recognized by multiple organizations. See a [full listing of our awards and recognition](https://www.voya.com/about-us/our-character/awards-and-recognition).",
+          "evidence": [
+            "display formatting derived from source description HTML as Markdown"
+          ]
+        },
+        "work_arrangement": {
+          "state": "source_omitted"
+        },
+        "locations": [
+          {
+            "state": "known",
+            "value": {
+              "city": "Work@Home",
+              "region": "US-CT",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          },
+          {
+            "state": "known",
+            "value": {
+              "city": "Work@Home",
+              "region": "US-NY",
+              "country": "US",
+              "county_fips": null,
+              "msa": null
+            }
+          }
+        ],
+        "job_first_seen_at": "2026-09-21T18:39:55.021Z",
+        "curated_at": "2026-09-24T12:26:50.927Z",
+        "job_updated_at": "2026-10-21T05:46:15.279Z",
+        "normalized": [],
+        "postings": [
+          {
+            "posting_id": "4ed44d46edcfd5fd43d369bfc3ae0aaf1aba963f1740c65fefd2791dec16920d",
+            "source": "workday",
+            "source_posting_id": "/job/CT-WorkHome-Connecticut/Lead-AI-Product-Manager_JR0032839",
+            "posting_status": "listed",
+            "posting_url": {
+              "state": "known",
+              "value": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/CT-WorkHome-Connecticut/Lead-AI-Product-Manager_JR0032839"
+            },
+            "application_url": {
+              "state": "known",
+              "value": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/CT-WorkHome-Connecticut/Lead-AI-Product-Manager_JR0032839"
+            },
+            "location": {
+              "state": "known",
+              "value": {
+                "city": "Work@Home",
+                "state": "CT",
+                "country": "US",
+                "countryRaw": "United States of America",
+                "regionCode": "CT",
+                "remote": false,
+                "alternatives": [
+                  {
+                    "city": "Work@Home",
+                    "state": "NY",
+                    "country": "US",
+                    "remote": false,
+                    "raw": "NY-Work@Home, New York"
+                  }
+                ]
+              }
+            },
+            "pay": {
+              "state": "known",
+              "value": {
+                "min": 130970,
+                "max": 183680,
+                "currency": "USD",
+                "interval": "year"
+              }
+            },
+            "source_posted_at": "2026-07-30T00:00:00.000Z",
+            "first_seen_at": "2026-09-21T18:39:55.021Z",
+            "last_completed_fetch_at": "2026-11-07T12:37:28.583Z",
+            "latest_application_check": null,
+            "attribution": {
+              "required": null,
+              "text": null,
+              "link": null
+            }
+          }
+        ]
+      }
+    ],
+    "next_cursor": null,
+    "total": 71,
+    "total_is_estimate": false,
+    "snapshot_watermark": "2026-11-21T01:51:00.471Z"
+  },
+  "response_usage": {
+    "charged": "12",
+    "remaining": "96411",
+    "request_id": "9b939ea2-185b-4383-9b6a-bfa4224ca8e0"
+  }
+}

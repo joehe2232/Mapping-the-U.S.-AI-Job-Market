@@ -1,0 +1,86 @@
+query_state,query_title,occurrences,jobs
+CA,AI engineer,100,100
+CA,AI product manager,41,41
+CA,AI research scientist,79,79
+CA,business intelligence analyst,36,36
+CA,data analyst,100,100
+CA,data engineer,100,100
+CA,data scientist,100,100
+CA,machine learning engineer,100,100
+CA,machine learning research scientist,11,11
+GA,AI engineer,100,100
+GA,AI product manager,10,10
+GA,business intelligence analyst,9,9
+GA,data analyst,100,100
+GA,data engineer,100,100
+GA,data scientist,100,100
+GA,machine learning engineer,100,100
+IL,AI engineer,100,100
+IL,AI product manager,11,11
+IL,AI research scientist,2,2
+IL,business intelligence analyst,21,21
+IL,data analyst,100,100
+IL,data engineer,100,100
+IL,data scientist,100,100
+IL,machine learning engineer,100,100
+MA,AI engineer,100,100
+MA,AI product manager,16,16
+MA,AI research scientist,9,9
+MA,business intelligence analyst,11,11
+MA,data analyst,100,100
+MA,data engineer,100,100
+MA,data scientist,100,100
+MA,machine learning engineer,100,100
+MA,machine learning research scientist,4,4
+NC,AI engineer,100,100
+NC,AI product manager,33,33
+NC,AI research scientist,2,2
+NC,business intelligence analyst,18,18
+NC,data analyst,100,100
+NC,data engineer,100,100
+NC,data scientist,100,100
+NC,machine learning engineer,100,100
+NY,AI engineer,100,100
+NY,AI product manager,62,62
+NY,AI research scientist,15,15
+NY,business intelligence analyst,13,13
+NY,data analyst,100,100
+NY,data engineer,100,100
+NY,data scientist,100,100
+NY,machine learning engineer,100,100
+NY,machine learning research scientist,25,25
+PA,AI engineer,100,100
+PA,AI product manager,16,16
+PA,AI research scientist,2,2
+PA,business intelligence analyst,16,16
+PA,data analyst,100,100
+PA,data engineer,100,100
+PA,data scientist,100,100
+PA,machine learning engineer,100,100
+PA,machine learning research scientist,2,2
+TX,AI engineer,100,100
+TX,AI product manager,28,28
+TX,AI research scientist,9,9
+TX,business intelligence analyst,29,29
+TX,data analyst,100,100
+TX,data engineer,100,100
+TX,data scientist,100,100
+TX,machine learning engineer,100,100
+VA,AI engineer,100,100
+VA,AI product manager,11,11
+VA,AI research scientist,4,4
+VA,business intelligence analyst,41,41
+VA,data analyst,100,100
+VA,data engineer,100,100
+VA,data scientist,100,100
+VA,machine learning engineer,100,100
+VA,machine learning research scientist,4,4
+WA,AI engineer,100,100
+WA,AI product manager,5,5
+WA,AI research scientist,22,22
+WA,business intelligence analyst,11,11
+WA,data analyst,100,100
+WA,data engineer,100,100
+WA,data scientist,100,100
+WA,machine learning engineer,100,100
+WA,machine learning research scientist,7,7

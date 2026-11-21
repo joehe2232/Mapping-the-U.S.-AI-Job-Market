@@ -1,0 +1,37 @@
+role,title,company,occupation_mapping,job_id,source_file,review_row
+ai product manager,Principal AI Product Manager,Zoom,proxy,4ec9e0cf-6308-4f96-ae2e-9a496c88c552,data/raw/headcount_10states/states/WA/ai_product_manager/page_0001.json,1
+ai product manager,AI Product Manager,Air Apps,proxy,33090655-c0e1-4706-be2d-1e6f3dd51f58,data/raw/headcount_10states/states/CA/ai_product_manager/page_0001.json,2
+ai product manager,"Principal AI Product Manager, Technical","T-Mobile USA, Inc.",proxy,e3fb6fe3-d47a-40e3-9c23-dd5b598a0a5a,data/raw/headcount_10states/states/WA/ai_product_manager/page_0001.json,3
+ai product manager,"Lead AI Product Manager, Private Markets",S&P Global,proxy,023065f0-e842-483a-afc3-e8207dbac0b4,data/raw/headcount_10states/states/VA/ai_product_manager/page_0001.json,4
+ai product manager,Senior AI Product Manager,"CGI Technologies and Solutions, Inc.",proxy,b9085c95-60b7-4b84-9747-664a4dfc2dbe,data/raw/headcount_10states/states/TX/ai_product_manager/page_0001.json,5
+ai product manager,Senior Ai Product Manager,GSK,proxy,dae29894-a51e-4571-bf92-238b80ad32dc,data/raw/headcount_10states/states/PA/ai_product_manager/page_0001.json,6
+ai research scientist,AI / Machine Learning Research Scientist BDVA 1672,"Global InfoTek, Inc.",proxy,1b7b9019-fa65-424f-b39e-a56a18f5845c,data/raw/headcount_10states/states/VA/machine_learning_research_scientist/page_0001.json,1
+ai research scientist,Principal AI Research Scientist (HPE Labs),Hewlett Packard Enterprise,proxy,8227173e-68c6-49cd-944e-8e619b022142,data/raw/headcount_10states/states/TX/ai_research_scientist/page_0001.json,2
+ai research scientist,"Senior Quantum AI Research Scientist, Applied Research",NVIDIA USA,proxy,bebd11c6-3acf-4ad2-bde4-6d861e52ffa5,data/raw/headcount_10states/states/WA/ai_research_scientist/page_0001.json,3
+ai research scientist,"Machine Learning Research Scientist, Evaluations",Scale AI,proxy,2999876a-68a6-4c6a-b38c-d3f82b3ea4d9,data/raw/headcount_10states/states/WA/machine_learning_research_scientist/page_0001.json,4
+ai research scientist,"AI Research Scientist, Robotics - Meta Superintelligence Labs",,proxy,aeac196c-148a-428a-85cd-894ebfe5004c,data/raw/headcount_10states/states/CA/ai_research_scientist/page_0004.json,5
+ai research scientist,Audio AI Research Scientist — Audio Understanding,Bose Corporation,proxy,4462a40a-354a-4eaa-9420-1185dc33e58d,data/raw/headcount_10states/states/MA/ai_research_scientist/page_0001.json,6
+data / bi analyst,Principal Systems Engineer / Sr. Principal Systems Engineer - Data Analyst,Northrop Grumman,proxy,1f83610c-bb3f-4295-9790-b3bde2ee6ba3,data/raw/headcount_10states/states/CA/data_analyst/page_0001.json,1
+data / bi analyst,Research Data Analyst (Part-Time),New York University,proxy,c0956baa-8b48-4283-8b99-b4f68d47e440,data/raw/headcount_10states/states/NY/data_analyst/page_0001.json,2
+data / bi analyst,Data Analyst I - Population Health Science & Policy Research (On Site),Mount Sinai Health Systems,proxy,652449f2-c903-4f2a-a4a2-2e2488ffeca2,data/raw/headcount_10states/states/NY/data_analyst/page_0002.json,3
+data / bi analyst,"Senior Data Analyst, Hardware",ŌURA,proxy,508c0d21-ad0d-4369-9d2e-9e3552a03817,data/raw/headcount_10states/states/NY/data_analyst/page_0003.json,4
+data / bi analyst,Senior Data Analyst - Card,Capital One,proxy,6ad1b46e-e735-4ab2-823e-99b2c01854be,data/raw/headcount_10states/states/IL/data_analyst/page_0001.json,5
+data / bi analyst,Business Intelligence Analyst III,Indeed,proxy,25e03cf4-a6a8-4d08-bae9-8d174b62bff6,data/raw/headcount_10states/states/PA/business_intelligence_analyst/page_0001.json,6
+data engineer,"Associate, Data Engineer",Careers at KKR,proxy,3e12f9ee-2fd5-42b1-b03d-72a0f871113c,data/raw/headcount_10states/states/NY/data_engineer/page_0004.json,1
+data engineer,Data Engineer 5,Capital One,proxy,3f3c40d6-db70-4b59-b557-789a9e6d4252,data/raw/headcount_10states/states/VA/data_engineer/page_0002.json,2
+data engineer,Data Engineer 4,Capital One,proxy,3e5323dc-9ac8-4410-b318-7ec6e85de65c,data/raw/headcount_10states/states/VA/data_engineer/page_0001.json,3
+data engineer,"Prinicipal, Data Engineer",Mercedes-Benz Group AG,proxy,e42c4fb2-e889-41af-9837-709a7631a185,data/raw/headcount_10states/states/GA/data_engineer/page_0001.json,4
+data engineer,Cleared Data Engineer (5786),SMX,proxy,c2a61499-e162-4290-bf88-6821fbec8a7e,data/raw/headcount_10states/states/WA/data_engineer/page_0002.json,5
+data engineer,Big Data Engineer,Cymertek,proxy,395d0830-7886-4c15-b83e-37dd495d625b,data/raw/headcount_10states/states/VA/data_engineer/page_0003.json,6
+data scientist,"Tech Lead Manager, Claude Code Data Scientist",Anthropic,direct,2f5d9804-7dec-4df2-b5cb-29f31f45f500,data/raw/headcount_10states/states/WA/data_scientist/page_0001.json,1
+data scientist,"Data Scientist Lead - Data, Modeling & Analytics",PNC,direct,5d72c9a9-e8eb-41bc-8f98-264f1500e0fa,data/raw/headcount_10states/states/PA/data_scientist/page_0002.json,2
+data scientist,Principal Data Scientist,"Lutron Electronics Co., Inc",direct,86c0ac75-315e-4c38-ac3f-de9771da30a7,data/raw/headcount_10states/states/PA/data_scientist/page_0004.json,3
+data scientist,"Manager, Data Scientist - Alternative Data Strategy",Capital One,direct,c36e42a6-de44-480d-9c9e-560987b92fd8,data/raw/headcount_10states/states/IL/data_scientist/page_0004.json,4
+data scientist,Senior Data Scientist,Schwab,direct,1667aee8-7811-4433-9805-1b892be880d2,data/raw/headcount_10states/states/TX/data_scientist/page_0004.json,5
+data scientist,Data Scientist Level 3,IntelliGenesis,direct,a43bfca6-ccd0-4e43-9cd0-f1d2b5749e26,data/raw/headcount_10states/states/TX/data_scientist/page_0004.json,6
+ml / ai engineer,Machine Learning Engineer 4 - Finance Tech,Capital One,proxy,6af519b0-a03e-4616-adaf-82f78b74e627,data/raw/headcount_10states/states/MA/machine_learning_engineer/page_0003.json,1
+ml / ai engineer,Python AI Engineer - Assistant Vice President,Citi,proxy,15d4954a-2a93-49d2-b452-12fd0e9770f0,data/raw/headcount_10states/states/TX/ai_engineer/page_0002.json,2
+ml / ai engineer,AI Engineer 5,Capital One,proxy,fcc724c4-e117-4fca-a958-03b7bdba54b2,data/raw/headcount_10states/states/VA/ai_engineer/page_0004.json,3
+ml / ai engineer,Applied AI Engineer - Engineering Simulation & Design Exploration,Bentley Systems,proxy,609f6585-aa84-4577-9521-c95857b23bc5,data/raw/headcount_10states/states/PA/ai_engineer/page_0004.json,4
+ml / ai engineer,Senior Machine Learning Engineer,Coinbase,proxy,1f3a0ae3-0980-497b-a83a-142b2e5fdc5f,data/raw/headcount_10states/states/WA/machine_learning_engineer/page_0004.json,5
+ml / ai engineer,Senior Applied AI Engineer - Smart Manufacturing & AI Orchestration,Celestica International LP,proxy,b3f8b631-4de5-4345-bcf9-b4c65bad371b,data/raw/headcount_10states/states/TX/ai_engineer/page_0001.json,6
